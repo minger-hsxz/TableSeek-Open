@@ -1,0 +1,32 @@
+ReceivedDate,ComplaintID,RandomClient,FinalPhone,VRU_Line,CallID,Urgency,Category,Result,Host,ser_start,ser_exit,ser_time
+2012-Apr-30,CR0067856,C00003456,709-146-4033,AA0106,"forty thousand, four hundred and eighty-nine point zero",1.0,PS,AGENT,MICHAL,10:54:32,11:15:24,00:20:52
+2015-Jun-17,CR1425951,C00001928,315-461-2750,AA0107,"forty thousand, two hundred and sixty point zero",1.0,PS,AGENT,TOVA,09:13:40,09:41:47,00:28:07
+2013-Jun-06,CR0428477,C00003502,413-478-0009,AA0209,"thirty thousand, one hundred and eighty-five point zero",2.0,PS,AGENT,MORIAH,13:10:08,13:25:27,00:15:19
+2012-May-18,CR0084018,C00002731,729-397-5861,AA0203,"thirty thousand, seven hundred and thirty-three point zero",2.0,PS,AGENT,KAZAV,10:33:57,10:44:43,00:10:46
+2017-Mar-02,CR2369750,C00004287,250-855-5777,AA0210,"forty thousand, one hundred and three point zero",2.0,PS,AGENT,MIKI,10:54:05,11:08:16,00:14:11
+2013-Oct-15,CR0559399,C00004157,212-770-6755,AA0210,"thirty-six thousand, one hundred and thirty-eight point zero",2.0,PS,AGENT,DORIT,13:32:28,13:52:36,00:20:08
+2016-May-24,CR1939973,C00003530,717-307-4605,AA0203,"thirty-four thousand, nine hundred and forty-five point zero",0.0,PS,AGENT,STEREN,12:54:11,13:04:40,00:10:29
+2015-Aug-03,CR1500056,C00002476,585-736-4906,AA0206,"thirty-five thousand, three hundred and seventy-two point zero",0.0,PS,AGENT,ANAT,11:50:53,12:01:00,00:10:07
+2013-Feb-25,CR0330862,C00000392,934-532-0080,AA0113,"thirty thousand, three hundred and eight point zero",0.0,PS,AGENT,IDIT,11:11:06,11:24:11,00:13:05
+2018-Jan-09,,,434-860-2602,,zero,,zero,,,15:11:17,15:25:37,00:14:20
+2013-Jun-12,,,573-660-9658,,zero,,zero,,,13:28:24,13:43:07,00:14:43
+2013-Dec-10,CR0628274,C00001691,827-707-6586,AA0103,thirty-six thousand and sixty-five point zero,0.0,NW,AGENT,NAAMA,16:51:05,17:03:15,00:12:10
+2013-Feb-24,,,397-951-2603,AA0209,"thirty thousand, two hundred and ninety-three point zero",2.0,NE,HANG,NO_SERVER,09:48:36,09:48:39,00:00:03
+2015-Feb-27,,,109-943-9230,AA0210,"thirty thousand, eight hundred and ninety-one point zero",0.0,NW,HANG,NO_SERVER,10:28:17,10:28:20,00:00:03
+2013-Mar-04,,,315-552-3901,,zero,,zero,,,15:07:11,15:26:22,00:19:11
+2014-Feb-05,CR0700360,C00004296,508-889-9922,AA0115,"thirty-five thousand, nine hundred and ninety-six point zero",2.0,PS,AGENT,IDIT,10:53:19,10:57:00,00:03:41
+2014-Jun-26,CR0912820,C00001336,212-936-0483,AA0103,"thirty-five thousand, eight hundred and ten point zero",2.0,PS,AGENT,TOVA,16:07:58,16:27:49,00:19:51
+2017-Nov-15,,,655-692-1502,,zero,,zero,,,09:34:19,09:35:49,00:01:30
+2015-Oct-19,CR1613142,C00006114,712-161-2640,AA0104,"thirty-five thousand, two hundred and fifty-two point zero",0.0,NE,AGENT,ELI,09:01:48,09:08:46,00:06:58
+2012-Jul-03,CR0111846,C00006366,817-770-7405,AA0203,"thirty thousand, six hundred and forty-eight point zero",0.0,PS,AGENT,YITZ,15:09:07,15:09:38,00:00:31
+2013-Dec-03,CR0618869,C00002260,168-997-4954,AA0109,thirty-six thousand and seventy point zero,1.0,PS,AGENT,AVNI,11:02:21,11:15:02,00:12:41
+2015-Dec-07,,,617-286-0356,,zero,,zero,,,09:54:41,09:58:32,00:03:51
+2018-Apr-18,,,269-876-2611,,zero,,zero,,,10:42:56,11:03:32,00:20:36
+2012-Sep-06,CR0147901,C00004877,619-190-2887,AA0203,"thirty thousand, five hundred and thirty-seven point zero",0.0,PS,AGENT,ANAT,11:24:08,11:33:42,00:09:34
+2017-Jul-07,,,328-760-7956,,zero,,zero,,,13:23:59,13:39:33,00:15:34
+2014-Mar-09,,,617-023-8041,AA0115,"thirty-four thousand, seven hundred and twelve point zero",0.0,NW,HANG,NO_SERVER,14:32:18,14:32:21,00:00:03
+2015-Aug-14,CR1519771,C00003894,422-368-0621,AA0203,"thirty-five thousand, three hundred and fifty-six point zero",0.0,PS,AGENT,ANAT,13:31:41,13:46:02,00:14:21
+2012-May-25,CR0087641,C00002981,969-695-4188,AA0105,"thirty thousand, seven hundred and eleven point zero",2.0,NE,AGENT,DARMON,11:06:11,11:12:10,00:05:59
+2016-Dec-19,CR2256790,C00013262,585-467-6271,AA0110,"thirty-four thousand, six hundred and seventy-four point zero",0.0,NE,AGENT,TOVA,10:42:23,11:00:43,00:18:20
+2014-Sep-04,,,960-652-6854,AA0201,thirty-six thousand and twenty-seven point zero,0.0,NW,HANG,NO_SERVER,12:58:43,12:58:46,00:00:03
+2019-Feb-15,,,759-824-1019,,zero,,zero,,,13:10:03,13:21:10,00:11:07

@@ -1,0 +1,32 @@
+fiscalYear,leagueID,teamID,franchiseID,conferenceID,divisionID,standingRank,playoffFlag,gamesPlayed,winsCount,lossesCount,tiesCount,overtimeLosses,totalPoints,shootoutLosses,goalsFor,goalsAgainst,teamName,penaltyMinutes,benchMinorPenalties,pointsPerGame,penaltiesPerGame,shotAttempts,powerKillGoals,powerKillCaused,shotFouls
+1990,NHL,NYR,NYR,WA,PT,2,DSF,80,36,thirty-one,13.0,zero,8.50×10^+01,,297,265,New York Rangers,1893.0,18.0,91.0,389.0,10.0,73.0,362.0,nine point zero
+1979,NHL,VAN,VAN,CC,SM,3,PRE,80,27,thirty-seven,16.0,zero,7.00×10^+01,,256,281,Vancouver Canucks,1808.0,16.0,53.0,312.0,12.0,69.0,282.0,two point zero
+1935,NHL,NYA,BKN,,CA,3,SF,48,16,twenty-five,7.0,zero,3.90×10^+01,,109,122,New York Americans,392.0,,,,,,,zero
+1976,NHL,NYR,NYR,CC,PT,4,,80,29,thirty-seven,14.0,zero,7.20×10^+01,,272,310,New York Rangers,1164.0,18.0,60.0,290.0,16.0,55.0,268.0,six point zero
+1935,NHL,NYR,NYR,,AM,4,,48,19,seventeen,12.0,zero,5.00×10^+01,,91,96,New York Rangers,387.0,,,,,,,zero
+1925,WCHL,CAT,CAT,,,5,,30,10,seventeen,3.0,zero,2.30×10^+01,,71,80,Calgary Tigers,,,,,,,,zero
+1975,WHA,CLC,MF2,,EW,2,AVPRE,80,35,forty,5.0,zero,7.50×10^+01,,273,279,Cleveland Crusaders,1356.0,,69.0,292.0,14.0,49.0,294.0,eleven point zero
+1965,NHL,DET,DET,,,4,F,70,31,twenty-seven,12.0,zero,7.40×10^+01,,221,194,Detroit Red Wings,804.0,,42.0,245.0,9.0,44.0,273.0,seven point zero
+2000,NHL,CHI,CHI,WC,CE,4,,82,29,forty,8.0,five point zero,7.10×10^+01,,210,246,Chicago Blackhawks,1001.0,24.0,41.0,318.0,12.0,52.0,323.0,fifteen point zero
+1999,NHL,WAS,WAS,EC,SE,1,CQF,82,44,twenty-four,12.0,two point zero,1.02×10^+02,,227,194,Washington Capitals,994.0,14.0,43.0,286.0,3.0,47.0,340.0,nine point zero
+1978,NHL,NYR,NYR,CC,PT,3,F,80,40,twenty-nine,11.0,zero,9.10×10^+01,,316,292,New York Rangers,1214.0,14.0,75.0,306.0,12.0,78.0,311.0,nine point zero
+1983,NHL,WAS,WAS,WA,PT,2,DF,80,48,twenty-seven,5.0,zero,1.01×10^+02,,308,226,Washington Capitals,1252.0,18.0,77.0,382.0,18.0,39.0,293.0,eight point zero
+1985,NHL,NYR,NYR,WA,PT,4,CF,80,36,thirty-eight,6.0,zero,7.80×10^+01,,280,276,New York Rangers,1496.0,22.0,73.0,362.0,4.0,81.0,365.0,nine point zero
+1934,NHL,CHI,CHI,,AM,2,QF,48,26,seventeen,5.0,zero,5.70×10^+01,,118,88,Chicago Black Hawks,387.0,,,,,,,zero
+1941,NHL,BKN,BKN,,,7,,48,16,twenty-nine,3.0,zero,3.50×10^+01,,133,175,Brooklyn Americans,427.0,,,,,,,zero
+1918,PCHA,VML,VMR,,,1,PF,20,12,eight,0.0,zero,2.40×10^+01,,72,55,Vancouver Millionaires,,,,,,,,zero
+1985,NHL,WIN,PHO,CC,SM,3,DSF,80,26,forty-seven,7.0,zero,5.90×10^+01,,295,372,Winnipeg Jets,1774.0,24.0,72.0,356.0,14.0,83.0,335.0,thirteen point zero
+1981,NHL,BUF,BUF,WA,AD,3,DSF,80,39,twenty-six,15.0,zero,9.30×10^+01,,307,273,Buffalo Sabres,1425.0,18.0,63.0,301.0,10.0,57.0,281.0,four point zero
+1932,NHL,NYA,BKN,,CA,4,,48,15,twenty-two,11.0,zero,4.10×10^+01,,91,118,New York Americans,478.0,,,,,,,zero
+1985,NHL,BUF,BUF,WA,AD,5,,80,37,thirty-seven,6.0,zero,8.00×10^+01,,296,291,Buffalo Sabres,1608.0,16.0,72.0,351.0,14.0,66.0,342.0,twelve point zero
+1910,NHA,OT1,STE,,,1,,16,13,three,0.0,zero,2.60×10^+01,,122,69,Ottawa Senators,,,,,,,,zero
+1979,NHL,STL,STL,CC,SM,2,PRE,80,34,thirty-four,12.0,zero,8.00×10^+01,,266,278,St. Louis Blues,1037.0,14.0,53.0,289.0,4.0,40.0,263.0,five point zero
+1976,WHA,IND,IND,,EW,3,AVSF,81,36,thirty-seven,8.0,zero,8.00×10^+01,,276,305,Indianapolis Racers,880.0,10.0,57.0,259.0,2.0,62.0,251.0,seven point zero
+2005,NHL,FLO,FLO,EC,SE,4,,82,37,thirty-four,,eleven point zero,8.50×10^+01,5.0,240,257,Florida Panthers,1279.0,24.0,63.0,411.0,12.0,91.0,514.0,five point zero
+1980,NHL,BUF,BUF,WA,AD,1,QF,80,39,twenty,21.0,zero,9.90×10^+01,,327,250,Buffalo Sabres,1194.0,22.0,73.0,310.0,10.0,44.0,268.0,nine point zero
+2010,NHL,ATL,WPG,EC,SE,4,,82,34,thirty-six,,twelve point zero,8.00×10^+01,7.0,223,269,Atlanta Thrashers,930.0,22.0,53.0,289.0,10.0,64.0,285.0,six point zero
+1960,NHL,DET,DET,,,4,F,70,25,twenty-nine,16.0,zero,6.60×10^+01,,195,215,Detroit Red Wings,655.0,,,,,,,zero
+1982,NHL,QUE,COL,WA,AD,4,DSF,80,34,thirty-four,12.0,zero,8.00×10^+01,,343,336,Quebec Nordiques,1648.0,10.0,61.0,294.0,6.0,92.0,348.0,six point zero
+2011,NHL,CAL,CAL,WC,NW,2,,82,37,twenty-nine,,sixteen point zero,9.00×10^+01,9.0,202,226,Calgary Flames,885.0,20.0,46.0,260.0,6.0,42.0,268.0,three point zero
+1973,WHA,WIJ,PHO,,WW,4,AVQF,78,34,thirty-nine,5.0,zero,7.30×10^+01,,264,296,Winnipeg Jets,673.0,6.0,39.0,240.0,15.0,45.0,207.0,eight point zero
+1988,NHL,NJD,NJD,WA,PT,5,,80,27,forty-one,12.0,zero,6.60×10^+01,,281,325,New Jersey Devils,2499.0,24.0,85.0,466.0,15.0,115.0,467.0,seven point zero

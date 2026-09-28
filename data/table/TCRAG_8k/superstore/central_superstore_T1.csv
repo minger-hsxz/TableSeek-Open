@@ -1,0 +1,60 @@
+Row ID,Order ID,Order Date,Ship Date,Ship Mode,Customer ID,Region,Product ID,Quantity,Discount,Profit
+2.98×10^+03,US-2016-141453,two thousand and sixteen.eleven.thirty,2016-December-03,Second Class,DB-13270,Central,OFF-BI-10000301,3,0.8,minus five point eight two three
+1.47×10^+03,CA-2013-132731,two thousand and fifteen.eleven.twenty-five,2015-November-29,Standard Class,GA-14515,Central,TEC-PH-10004120,6,0.2,forty-nine point three one six four
+1.20×10^+03,CA-2013-155845,two thousand and fifteen.eight.thirteen,2015-August-16,Second Class,CM-12235,Central,TEC-AC-10004145,7,0.2,fifty-two point four nine seven nine
+7.38×10^+02,CA-2012-126697,two thousand and fourteen.nine.twenty-one,2014-September-24,First Class,SV-20815,Central,FUR-FU-10001706,4,0.6,minus one point four seven eight four
+6.75×10^+02,US-2012-122784,two thousand and fourteen.seven.twenty,2014-July-27,Standard Class,RA-19915,Central,FUR-BO-10002545,5,0.3,minus fifty-two point one nine six
+1.46×10^+03,CA-2013-131576,two thousand and fifteen.eleven.twenty-three,2015-November-27,Standard Class,RD-19585,Central,OFF-BI-10002852,3,0.0,twenty-four point two two five six
+7.46×10^+02,US-2012-161991,two thousand and fourteen.nine.twenty-six,2014-September-28,Second Class,SC-20725,Central,TEC-PH-10001760,7,0.2,three hundred and seventy-six point one one
+2.67×10^+03,US-2018-124926,two thousand and eighteen.eleven.thirteen,2018-November-18,Second Class,ME-17320,Central,OFF-AP-10004868,6,0.8,minus twenty-four point seven zero eight six
+1.55×10^+03,CA-2014-151750,two thousand and sixteen.one.two,2016-January-06,Standard Class,JM-15250,Central,OFF-AR-10003158,4,0.2,two point two two eight eight
+4.03×10^+03,CA-2015-109932,two thousand and fifteen.twelve.nine,2015-December-11,First Class,VP-21760,Central,OFF-ST-10000036,3,0.2,twenty point seven four five nine
+2.32×10^+03,CA-2014-163860,two thousand and sixteen.twelve.twenty-eight,2017-January-01,Standard Class,LO-17170,Central,FUR-FU-10001935,2,0.6,minus one point four zero six
+4.07×10^+03,CA-2018-110821,two thousand and eighteen.eight.seven,2018-August-08,First Class,CK-12205,Central,OFF-ST-10002790,2,0.2,minus twenty-five point one zero nine
+2.95×10^+03,CA-2017-131576,two thousand and seventeen.eleven.twenty-two,2017-November-26,Standard Class,RD-19585,Central,OFF-BI-10002852,3,0.0,twenty-four point two two five six
+2.61×10^+03,CA-2016-154956,two thousand and sixteen.seven.four,2016-July-09,Standard Class,IM-15070,Central,TEC-PH-10004165,4,0.0,two hundred and eighty-five point nine eight nine six
+2.06×10^+03,CA-2014-152709,two thousand and sixteen.ten.seven,2016-October-12,Standard Class,DB-13210,Central,OFF-ST-10001837,2,0.0,twenty-two point two three five two
+2.18×10^+03,US-2014-137491,two thousand and sixteen.eleven.nineteen,2016-November-25,Standard Class,LC-16930,Central,FUR-CH-10004675,2,0.3,minus eight point seven two three two
+5.40×10^+02,CA-2012-112452,two thousand and fourteen.four.four,2014-April-04,Same Day,NC-18340,Central,TEC-PH-10000307,1,0.0,zero point four three eight
+2.57×10^+02,US-2011-100853,two thousand and thirteen.nine.fourteen,2013-September-19,Standard Class,JB-15400,Central,OFF-AP-10000891,2,0.8,minus one hundred and thirty-one point one two
+5.37×10^+02,CA-2012-112452,two thousand and fourteen.four.four,2014-April-04,Same Day,NC-18340,Central,OFF-AP-10003849,2,0.1,one hundred and seven point three four six
+8.53×10^+02,CA-2012-139094,two thousand and fourteen.eleven.twenty-two,2014-November-27,Standard Class,MO-17800,Central,FUR-TA-10004607,2,0.3,minus thirty-two point five two two six
+2.39×10^+03,CA-2018-135860,two thousand and eighteen.twelve.one,2018-December-07,Standard Class,JH-15985,Central,OFF-BI-10003274,4,0.0,seven point four eight two four
+4.08×10^+03,CA-2018-107958,two thousand and eighteen.seven.two,2018-July-05,First Class,AH-10120,Central,OFF-BI-10001787,4,0.8,minus eight point one zero nine six
+1.34×10^+03,CA-2013-118689,two thousand and fifteen.ten.three,2015-October-10,Standard Class,TC-20980,Central,TEC-CO-10004722,5,0.0,"eight thousand, three hundred and ninety-nine point nine seven six"
+3.69×10^+03,CA-2017-154235,two thousand and seventeen.nine.twenty-four,2017-September-28,Standard Class,RD-19900,Central,FUR-FU-10004006,3,0.0,twenty-one point seven five one five
+3.87×10^+03,CA-2018-107629,two thousand and eighteen.twelve.fourteen,2018-December-14,Same Day,DB-13060,Central,OFF-AR-10002987,6,0.2,twenty-four point nine nine eight four
+2.70×10^+03,CA-2018-159457,two thousand and eighteen.ten.nineteen,2018-October-26,Standard Class,RD-19480,Central,TEC-PH-10002185,3,0.2,five point two one two five
+7.20×10^+02,CA-2012-162621,two thousand and fourteen.nine.five,2014-September-11,Standard Class,CA-12055,Central,OFF-BI-10003708,3,0.8,minus seven point eight two two five
+1.39×10^+03,CA-2013-100671,two thousand and fifteen.eleven.two,2015-November-05,First Class,CS-12490,Central,OFF-ST-10004950,9,0.2,six point nine seven nine five
+2.10×10^+03,CA-2014-155558,two thousand and sixteen.ten.twenty-six,2016-November-02,Standard Class,PG-18895,Central,TEC-AC-10001998,1,0.0,six point seven nine six six
+7.03×10^+02,CA-2012-146563,two thousand and fourteen.eight.twenty-four,2014-August-28,Standard Class,CB-12025,Central,OFF-ST-10001490,7,0.2,one hundred and twenty-four point nine two nine
+1.51×10^+03,US-2013-131114,two thousand and fifteen.twelve.ten,2015-December-14,Second Class,RW-19630,Central,TEC-AC-10000199,4,0.2,minus one point four two eight
+1.81×10^+03,CA-2014-149720,two thousand and sixteen.six.four,2016-June-07,Second Class,EM-14065,Central,FUR-FU-10002501,6,0.6,minus seventeen point four four three two
+1.31×10^+03,US-2013-156097,two thousand and fifteen.nine.twenty,2015-September-20,Same Day,EH-14125,Central,FUR-CH-10001215,2,0.3,minus fifty point zero nine eight
+4.00×10^+03,CA-2016-121699,two thousand and sixteen.eight.ten,2016-August-14,Standard Class,BD-11320,Central,OFF-BI-10004632,5,0.0,twenty-nine point one three seven five
+2.85×10^+03,CA-2018-122035,two thousand and eighteen.seven.twenty,2018-July-25,Standard Class,EM-13825,Central,OFF-AP-10002118,2,0.0,one hundred and twelve point four zero six four
+3.30×10^+03,CA-2018-106068,two thousand and eighteen.ten.twenty-three,2018-October-28,Standard Class,RB-19330,Central,OFF-ST-10002344,4,0.2,minus fifty-eight point three zero five six
+1.51×10^+02,CA-2011-156342,two thousand and thirteen.six.seventeen,2013-June-20,Second Class,JF-15415,Central,OFF-PA-10001725,2,0.2,twenty-two point four eight zero eight
+9.96×10^+02,CA-2013-162082,two thousand and fifteen.three.fifteen,2015-March-18,First Class,JS-15880,Central,OFF-PA-10001934,1,0.2,one point eight seven nine two
+1.85×10^+03,CA-2014-133256,two thousand and sixteen.six.twenty-six,2016-June-27,First Class,TH-21550,Central,TEC-PH-10002660,8,0.0,one hundred and thirty-five point nine eight
+3.60×10^+03,CA-2016-110877,two thousand and sixteen.ten.twenty-three,2016-October-26,First Class,JE-15715,Central,TEC-PH-10002103,2,0.2,fifteen point zero three eight four
+1.64×10^+03,CA-2014-147753,two thousand and sixteen.three.five,2016-March-05,Same Day,PK-19075,Central,OFF-LA-10003537,2,0.0,eleven point seven seven eight two
+7.67×10^+02,CA-2012-139731,two thousand and fourteen.ten.fifteen,2014-October-15,Same Day,JE-15745,Central,FUR-CH-10002024,5,0.3,minus three hundred and fifty point four nine
+3.79×10^+03,CA-2018-161774,two thousand and eighteen.five.fourteen,2018-May-15,First Class,GT-14710,Central,OFF-PA-10000300,3,0.2,sixteen point one eight three eight
+3.18×10^+02,CA-2011-123498,two thousand and thirteen.eleven.seven,2013-November-09,First Class,TC-20980,Central,OFF-BI-10000632,3,0.8,minus forty-four point two seven eight two
+3.90×10^+03,CA-2017-118689,two thousand and seventeen.ten.two,2017-October-09,Standard Class,TC-20980,Central,OFF-BI-10004600,2,0.0,three hundred and thirty-one point one nine one
+2.81×10^+03,CA-2018-120376,two thousand and eighteen.twelve.twenty-two,2018-December-25,First Class,TP-21130,Central,FUR-TA-10004534,2,0.0,seventy point zero zero six
+3.60×10^+03,US-2015-119081,two thousand and fifteen.nine.twelve,2015-September-19,Standard Class,TA-21385,Central,TEC-AC-10001542,5,0.0,ten point nine zero six
+5.86×10^+02,CA-2012-110548,two thousand and fourteen.five.four,2014-May-08,Standard Class,AH-10690,Central,TEC-PH-10002922,7,0.2,one hundred and eighteen point two nine three
+1.73×10^+03,US-2014-144582,two thousand and sixteen.four.thirty,2016-May-05,Standard Class,TC-21475,Central,OFF-BI-10001575,7,0.8,minus sixty-nine point three nine five two
+1.27×10^+02,CA-2011-131926,two thousand and thirteen.six.one,2013-June-06,Second Class,DW-13480,Central,OFF-PA-10004082,6,0.0,twenty-three point nine four
+1.59×10^+03,US-2014-127341,two thousand and sixteen.one.thirty,2016-February-03,Standard Class,CK-12595,Central,OFF-BI-10001072,4,0.8,minus twenty point six one seven six
+3.94×10^+03,CA-2017-114209,two thousand and seventeen.five.twenty-one,2017-May-26,Standard Class,AS-10285,Central,OFF-BI-10000343,2,0.8,minus three point two four zero six
+1.40×10^+03,CA-2013-116337,two thousand and fifteen.eleven.eight,2015-November-13,Standard Class,MC-17845,Central,FUR-FU-10002030,5,0.6,minus seventeen point seven eight four
+3.24×10^+03,CA-2016-113901,two thousand and sixteen.ten.nineteen,2016-October-24,Standard Class,NH-18610,Central,TEC-PH-10002564,5,0.0,forty-four point nine eight five
+1.86×10^+03,CA-2014-163006,two thousand and sixteen.six.thirty,2016-July-04,Second Class,GH-14410,Central,FUR-CH-10000229,3,0.3,minus one hundred and seventy-eight point eight four six eight
+1.49×10^+03,CA-2013-114489,two thousand and fifteen.twelve.six,2015-December-10,Standard Class,JE-16165,Central,TEC-PH-10000215,11,0.0,one hundred and three point eight zero one five
+1.35×10^+03,US-2013-115952,two thousand and fifteen.ten.seven,2015-October-07,Same Day,JH-15910,Central,OFF-BI-10004654,5,0.0,fourteen point four two five
+1.77×10^+03,CA-2014-111332,two thousand and sixteen.five.twenty,2016-May-22,Second Class,NC-18340,Central,OFF-ST-10003816,4,0.0,one hundred and sixty-two point zero nine four eight
+2.22×10^+03,CA-2014-135860,two thousand and sixteen.twelve.one,2016-December-07,Standard Class,JH-15985,Central,OFF-BI-10003274,4,0.0,seven point four eight two four

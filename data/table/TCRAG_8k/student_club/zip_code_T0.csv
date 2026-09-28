@@ -1,0 +1,132 @@
+zip_code,type,city,county,state,short_state
+91508,PO Box,Burbank,Los Angeles County,California,CA
+54136,Standard,Kimberly,Outagamie County,Wisconsin,WI
+68623,Standard,Belgrade,Nance County,Nebraska,NE
+70458,Standard,Slidell,St. Tammany Parish,Louisiana,LA
+25836,PO Box,Eccles,Raleigh County,West Virginia,WV
+20625,PO Box,Cobb Island,Charles County,Maryland,MD
+84742,PO Box,Kanarraville,Iron County,Utah,UT
+68651,Standard,Osceola,Polk County,Nebraska,NE
+37362,Standard,Old Fort,Polk County,Tennessee,TN
+56232,Standard,Dawson,Lac qui Parle County,Minnesota,MN
+40007,Standard,Bethlehem,Henry County,Kentucky,KY
+59255,Standard,Poplar,Richland County,Montana,MT
+52356,Standard,Wellman,Washington County,Iowa,IA
+85377,PO Box,Carefree,Maricopa County,Arizona,AZ
+75102,Standard,Barry,Navarro County,Texas,TX
+50585,Standard,Sioux Rapids,Buena Vista County,Iowa,IA
+59733,Standard,Gold Creek,Powell County,Montana,MT
+95151,PO Box,San Jose,Santa Clara County,California,CA
+1588,Standard,Whitinsville,Worcester County,Massachusetts,MA
+42343,Standard,Fordsville,Ohio County,Kentucky,KY
+57634,Standard,Keldron,Corson County,South Dakota,SD
+31995,PO Box,Fort Benning,Chattahoochee County,Georgia,GA
+82322,PO Box,Bairoil,Sweetwater County,Wyoming,WY
+43068,Standard,Reynoldsburg,Franklin County,Ohio,OH
+68136,Standard,Omaha,Sarpy County,Nebraska,NE
+69339,Standard,Crawford,Dawes County,Nebraska,NE
+72354,Standard,Lepanto,Poinsett County,Arkansas,AR
+76483,Standard,Throckmorton,Throckmorton County,Texas,TX
+98035,PO Box,Kent,King County,Washington,WA
+1059,PO Box,North Amherst,Hampshire County,Massachusetts,MA
+98815,Standard,Cashmere,Chelan County,Washington,WA
+24984,Standard,Waiteville,Monroe County,West Virginia,WV
+99009,Standard,Elk,Spokane County,Washington,WA
+66428,Standard,Goff,Nemaha County,Kansas,KS
+17401,Standard,York,York County,Pennsylvania,PA
+91337,PO Box,Reseda,Los Angeles County,California,CA
+66748,Standard,Humboldt,Allen County,Kansas,KS
+16638,Standard,Entriken,Huntingdon County,Pennsylvania,PA
+60606,Standard,Chicago,Cook County,Illinois,IL
+35463,Standard,Fosters,Tuscaloosa County,Alabama,AL
+47270,Standard,Paris Crossing,Jennings County,Indiana,IN
+26349,PO Box,Galloway,Barbour County,West Virginia,WV
+76841,Standard,Fort Mc Kavett,Menard County,Texas,TX
+3770,Standard,Meriden,Sullivan County,New Hampshire,NH
+87197,PO Box,Albuquerque,Bernalillo County,New Mexico,NM
+42027,Standard,Boaz,Graves County,Kentucky,KY
+66039,Standard,Kincaid,Anderson County,Kansas,KS
+14757,Standard,Mayville,Chautauqua County,New York,NY
+61028,Standard,Elizabeth,Jo Daviess County,Illinois,IL
+79369,PO Box,Spade,Lamb County,Texas,TX
+93793,PO Box,Fresno,Fresno County,California,CA
+94923,Standard,Bodega Bay,Sonoma County,California,CA
+95073,Standard,Soquel,Santa Cruz County,California,CA
+33032,Standard,Homestead,Miami-Dade County,Florida,FL
+13832,Standard,Plymouth,Chenango County,New York,NY
+2283,Standard,Boston,Suffolk County,Massachusetts,MA
+54432,PO Box,Galloway,Marathon County,Wisconsin,WI
+26203,Standard,Erbacon,Webster County,West Virginia,WV
+90624,PO Box,Buena Park,Orange County,California,CA
+26582,Standard,Mannington,Marion County,West Virginia,WV
+24416,Standard,Buena Vista,Buena Vista city,Virginia,VA
+51543,Standard,Kimballton,Audubon County,Iowa,IA
+94306,Standard,Palo Alto,Santa Clara County,California,CA
+18459,PO Box,South Canaan,Wayne County,Pennsylvania,PA
+75355,PO Box,Dallas,Dallas County,Texas,TX
+63347,Standard,Foley,Lincoln County,Missouri,MO
+15129,Standard,South Park,Allegheny County,Pennsylvania,PA
+71841,Standard,Gillham,Sevier County,Arkansas,AR
+31831,Standard,Waverly Hall,Harris County,Georgia,GA
+53585,Standard,Sharon,Walworth County,Wisconsin,WI
+16541,Standard,Erie,Erie County,Pennsylvania,PA
+24522,Standard,Appomattox,Appomattox County,Virginia,VA
+24641,Standard,Richlands,Tazewell County,Virginia,VA
+95041,PO Box,Mount Hermon,Santa Cruz County,California,CA
+55318,Standard,Chaska,Carver County,Minnesota,MN
+5763,Standard,Pittsford,Rutland County,Vermont,VT
+78291,PO Box,San Antonio,Bexar County,Texas,TX
+32536,Standard,Crestview,Okaloosa County,Florida,FL
+67114,Standard,Newton,Harvey County,Kansas,KS
+5362,Standard,Williamsville,Windham County,Vermont,VT
+38874,PO Box,Toccopola,Pontotoc County,Mississippi,MS
+90060,PO Box,Los Angeles,Los Angeles County,California,CA
+98072,Standard,Woodinville,King County,Washington,WA
+50566,Standard,Moorland,Webster County,Iowa,IA
+38948,Standard,Oakland,Yalobusha County,Mississippi,MS
+63956,Standard,Patterson,Wayne County,Missouri,MO
+25866,PO Box,Lochgelly,Fayette County,West Virginia,WV
+57110,Standard,Sioux Falls,Minnehaha County,South Dakota,SD
+30358,PO Box,Atlanta,Fulton County,Georgia,GA
+1082,Standard,Ware,Hampshire County,Massachusetts,MA
+20879,Standard,Gaithersburg,Montgomery County,Maryland,MD
+89316,Standard,Eureka,Eureka County,Nevada,NV
+94523,Standard,Pleasant Hill,Contra Costa County,California,CA
+48221,Standard,Detroit,Wayne County,Michigan,MI
+41751,Standard,Jeff,Perry County,Kentucky,KY
+6123,PO Box,Hartford,Hartford County,Connecticut,CT
+74860,Standard,Paden,Okfuskee County,Oklahoma,OK
+20059,Unique,Washington,District of Columbia,District of Columbia,DC
+67444,Standard,Geneseo,Rice County,Kansas,KS
+80503,Standard,Longmont,Boulder County,Colorado,CO
+92620,Standard,Irvine,Orange County,California,CA
+85228,Standard,Coolidge,Pinal County,Arizona,AZ
+37321,Standard,Dayton,Rhea County,Tennessee,TN
+7652,Standard,Paramus,Bergen County,New Jersey,NJ
+71901,Standard,Hot Springs National Park,Garland County,Arkansas,AR
+18428,Standard,Hawley,Pike County,Pennsylvania,PA
+14085,Standard,Lake View,Erie County,New York,NY
+93220,PO Box,Edison,Kern County,California,CA
+95430,PO Box,Duncans Mills,Sonoma County,California,CA
+71753,Standard,Magnolia,Columbia County,Arkansas,AR
+58565,Standard,Riverdale,McLean County,North Dakota,ND
+4260,Standard,New Gloucester,Cumberland County,Maine,ME
+56084,PO Box,Searles,Brown County,Minnesota,MN
+52739,Standard,Conesville,Muscatine County,Iowa,IA
+72121,Standard,Pangburn,White County,Arkansas,AR
+17076,Standard,Oakland Mills,Juniata County,Pennsylvania,PA
+12503,Standard,Ancramdale,Columbia County,New York,NY
+57661,PO Box,Whitehorse,Dewey County,South Dakota,SD
+30113,Standard,Buchanan,Haralson County,Georgia,GA
+24061,Unique,Blacksburg,Montgomery County,Virginia,VA
+11377,Standard,Woodside,Queens County,New York,NY
+43072,Standard,Saint Paris,Champaign County,Ohio,OH
+76882,Standard,Talpa,Coleman County,Texas,TX
+24854,PO Box,Kopperston,Wyoming County,West Virginia,WV
+41313,PO Box,Bethany,Wolfe County,Kentucky,KY
+62517,Standard,Bulpitt,Christian County,Illinois,IL
+17699,Unique,Lancaster,Lancaster County,Pennsylvania,PA
+6439,PO Box,Hadlyme,New London County,Connecticut,CT
+57261,Standard,Roslyn,Day County,South Dakota,SD
+75415,Standard,Ben Franklin,Delta County,Texas,TX
+54568,Standard,Woodruff,Vilas County,Wisconsin,WI

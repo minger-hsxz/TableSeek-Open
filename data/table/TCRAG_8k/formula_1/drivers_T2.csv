@@ -1,0 +1,85 @@
+driverId,driverRef,seqNum,alphaCode,givenName,familyName,birthDate,citizenState,linkURL
+199,reutemann,,,Carlos,Reutemann,MCMXLII-IV-XII,Argentine,http://en.wikipedia.org/wiki/Carlos_Reutemann
+686,reg_parnell,,,Reg,Parnell,MCMXI-VII-II,British,http://en.wikipedia.org/wiki/Reg_Parnell
+544,drogo,,,Piero,Drogo,MCMXXVI-VIII-VIII,Italian,http://en.wikipedia.org/wiki/Piero_Drogo
+518,darter,,,Duane,Carter,MCMXIII-V-V,American,http://en.wikipedia.org/wiki/Duane_Carter
+685,riseley_prichard,,,John,Riseley-Prichard,MCMXXIV-I-XVII,British,http://en.wikipedia.org/wiki/John_Riseley-Prichard
+424,bussinello,,,Roberto,Bussinello,MCMXXVII-X-IV,Italian,http://en.wikipedia.org/wiki/Roberto_Bussinello
+351,moser,,,Silvio,Moser,MCMXLI-IV-XXIV,Swiss,http://en.wikipedia.org/wiki/Silvio_Moser
+207,mario_andretti,,,Mario,Andretti,MCMXL-II-XXVIII,American,http://en.wikipedia.org/wiki/Mario_Andretti
+495,ken_miles,,,Ken,Miles,MCMXVIII-XI-I,British,http://en.wikipedia.org/wiki/Ken_Miles
+178,jones,,,Alan,Jones,MCMXLVI-XI-II,Australian,http://en.wikipedia.org/wiki/Alan_Jones_(Formula_1)
+343,brack,,,Bill,Brack,MCMXXXV-XII-XXVI,Canadian,http://en.wikipedia.org/wiki/Bill_Brack
+481,henry_taylor,,,Henry,Taylor,MCMXXXII-XII-XVI,British,http://en.wikipedia.org/wiki/Henry_Taylor_(racing_driver)
+12,piquet_jr,,PIQ,Nelson,Piquet Jr.,MCMLXXXV-VII-XXV,Brazilian,"http://en.wikipedia.org/wiki/Nelson_Piquet,_Jr."
+336,mcrae,,,Graham,McRae,MCMXL-III-V,New Zealander,http://en.wikipedia.org/wiki/Graham_McRae
+584,kessler,,,Bruce,Kessler,MCMXXXVI-III-XXIII,American,http://en.wikipedia.org/wiki/Bruce_Kessler
+468,penske,,,Roger,Penske,MCMXXXVII-II-XX,American,http://en.wikipedia.org/wiki/Roger_Penske
+367,westbury,,,Peter,Westbury,MCMXXXVIII-V-XXVI,British,http://en.wikipedia.org/wiki/Peter_Westbury
+617,macdowel,,,Mike,MacDowel,MCMXXXII-IX-XIII,British,http://en.wikipedia.org/wiki/Mike_MacDowel
+464,shelly,,,Tony,Shelly,MCMXXXVII-II-II,New Zealander,http://en.wikipedia.org/wiki/Tony_Shelly
+602,la_caze,,,Robert,La Caze,MCMXVII-II-XXVI,French,http://en.wikipedia.org/wiki/Robert_La_Caze
+486,fairman,,,Jack,Fairman,MCMXIII-III-XV,British,http://en.wikipedia.org/wiki/Jack_Fairman
+346,siffert,,,Jo,Siffert,MCMXXXVI-VII-VII,Swiss,http://en.wikipedia.org/wiki/Jo_Siffert
+71,damon_hill,,,Damon,Hill,MCMLX-IX-XVII,British,http://en.wikipedia.org/wiki/Damon_Hill
+197,jarier,,,Jean-Pierre,Jarier,MCMXLVI-VII-X,French,http://en.wikipedia.org/wiki/Jean-Pierre_Jarier
+353,lovely,,,Pete,Lovely,MCMXXVI-IV-XI,American,http://en.wikipedia.org/wiki/Pete_Lovely
+75,nakano,,,Shinji,Nakano,MCMLXXI-IV-I,Japanese,http://en.wikipedia.org/wiki/Shinji_Nakano
+344,posey,,,Sam,Posey,MCMXLIV-V-XXVI,American,http://en.wikipedia.org/wiki/Sam_Posey
+562,turner,,,Jack,Turner,MCMXX-II-XII,American,http://en.wikipedia.org/wiki/Jack_Turner_(driver)
+756,pietsch,,,Paul,Pietsch,MCMXI-VI-XX,German,http://en.wikipedia.org/wiki/Paul_Pietsch
+334,pretorius,,,Jackie,Pretorius,MCMXXXIV-XI-XXII,South African,http://en.wikipedia.org/wiki/Jackie_Pretorius
+651,macklin,,,Lance,Macklin,MCMXIX-IX-II,British,http://en.wikipedia.org/wiki/Lance_Macklin
+499,bonomi,,,Roberto,Bonomi,MCMXIX-IX-XXX,Argentine,http://en.wikipedia.org/wiki/Roberto_Bonomi
+389,ligier,,,Guy,Ligier,MCMXXX-VII-XII,French,http://en.wikipedia.org/wiki/Guy_Ligier
+45,pantano,,,Giorgio,Pantano,MCMLXXIX-II-IV,Italian,http://en.wikipedia.org/wiki/Giorgio_Pantano
+41,zonta,,ZON,Ricardo,Zonta,MCMLXXVI-III-XXIII,Brazilian,http://en.wikipedia.org/wiki/Ricardo_Zonta
+226,south,,,Stephen,South,MCMLII-II-XIX,British,http://en.wikipedia.org/wiki/Stephen_South
+695,galvez,,,Oscar,Gálvez,MCMXIII-VIII-XVII,Argentine,http://en.wikipedia.org/wiki/%C3%93scar_Alfredo_G%C3%A1lvez
+244,colombo,,,Alberto,Colombo,MCMXLVI-II-XXIII,Italian,http://en.wikipedia.org/wiki/Alberto_Colombo
+597,connor,,,Pat,O'Connor,MCMXXVIII-X-IX,American,http://en.wikipedia.org/wiki/Pat_O%27Connor_(auto_racer)
+132,amati,,,Giovanna,Amati,MCMLIX-VII-XX,Italian,http://en.wikipedia.org/wiki/Giovanna_Amati
+317,wisell,,,Reine,Wisell,MCMXLI-IX-XXX,Swedish,http://en.wikipedia.org/wiki/Reine_Wisell
+284,pesenti_rossi,,,Alessandro,Pesenti-Rossi,MCMXLII-VIII-XXXI,Italian,http://en.wikipedia.org/wiki/Alessandro_Pesenti-Rossi
+408,maggs,,,Tony,Maggs,MCMXXXVII-II-IX,South African,http://en.wikipedia.org/wiki/Tony_Maggs
+34,ide,,IDE,Yuji,Ide,MCMLXXV-I-XXI,Japanese,http://en.wikipedia.org/wiki/Yuji_Ide
+236,gaillard,,,Patrick,Gaillard,MCMLII-II-XII,French,http://en.wikipedia.org/wiki/Patrick_Gaillard
+472,harris,,,Mike,Harris,MCMXXXIX-V-XXV,South African,http://en.wikipedia.org/wiki/Mike_Harris_(race_car_driver)
+74,tuero,,,Esteban,Tuero,MCMLXXVIII-IV-XXII,Argentine,http://en.wikipedia.org/wiki/Esteban_Tuero
+696,john_barber,,,John,Barber,MCMXXIX-VII-XXII,British,http://en.wikipedia.org/wiki/John_Barber_(racing_driver)
+492,boffa,,,Menato,Boffa,MCMXXX-I-IV,Italian,http://en.wikipedia.org/wiki/Menato_Boffa
+189,gartner,,,Jo,Gartner,MCMLIV-I-XXIV,Austrian,http://en.wikipedia.org/wiki/Jo_Gartner
+32,klien,,KLI,Christian,Klien,MCMLXXXIII-II-VII,Austrian,http://en.wikipedia.org/wiki/Christian_Klien
+794,chitwood,,,Joie,Chitwood,MCMXII-IV-XIV,American,http://en.wikipedia.org/wiki/Joie_Chitwood
+800,pagani,,,Nello,Pagani,MCMXI-X-XI,Italian,http://en.wikipedia.org/wiki/Nello_Pagani
+283,wilds,,,Mike,Wilds,MCMXLVI-I-VII,British,http://en.wikipedia.org/wiki/Mike_Wilds
+724,ulmen,,,Toni,Ulmen,MCMVI-I-XXV,German,http://en.wikipedia.org/wiki/Toni_Ulmen
+62,yoong,,,Alex,Yoong,MCMLXXVI-VII-XX,Malaysian,http://en.wikipedia.org/wiki/Alex_Yoong
+186,acheson,,,Kenny,Acheson,MCMLVII-XI-XXVII,British,http://en.wikipedia.org/wiki/Kenny_Acheson
+294,brise,,,Tony,Brise,MCMLII-III-XXVIII,British,http://en.wikipedia.org/wiki/Tony_Brise
+168,schlesser,,,Jean-Louis,Schlesser,MCMXLVIII-IX-XII,French,http://en.wikipedia.org/wiki/Jean-Louis_Schlesser
+501,schell,,,Harry,Schell,MCMXXI-VI-XXIX,American,http://en.wikipedia.org/wiki/Harry_Schell
+760,dusio,,,Piero,Dusio,MDCCCXCIX-X-XIII,Italian,http://en.wikipedia.org/wiki/Piero_Dusio
+293,charlton,,,Dave,Charlton,MCMXXXVI-X-XXVII,South African,http://en.wikipedia.org/wiki/Dave_Charlton
+300,nicholson,,,John,Nicholson,MCMXLI-X-VI,New Zealander,http://en.wikipedia.org/wiki/John_Nicholson_(racing_driver)
+262,oliver,,,Jackie,Oliver,MCMXLII-VIII-XIV,British,http://en.wikipedia.org/wiki/Jackie_Oliver
+583,gerini,,,Gerino,Gerini,MCMXXVIII-VIII-X,Italian,http://en.wikipedia.org/wiki/Gerino_Gerini_(racing_driver)
+21,fisichella,,FIS,Giancarlo,Fisichella,MCMLXXIII-I-XIV,Italian,http://en.wikipedia.org/wiki/Giancarlo_Fisichella
+738,gaze,,,Tony,Gaze,MCMXX-II-III,Australian,http://en.wikipedia.org/wiki/Tony_Gaze
+240,ongais,,,Danny,Ongais,MCMXLII-V-XXI,American,http://en.wikipedia.org/wiki/Danny_Ongais
+144,hattori,,,Naoki,Hattori,MCMLXVI-VI-XIII,Japanese,http://en.wikipedia.org/wiki/Naoki_Hattori
+116,lagorce,,,Franck,Lagorce,MCMLXVIII-IX-I,French,http://en.wikipedia.org/wiki/Franck_Lagorce
+708,duncan_hamilton,,,Duncan,Hamilton,MCMXX-IV-XXX,British,http://en.wikipedia.org/wiki/Duncan_Hamilton_(racing_driver)
+54,burti,,,Luciano,Burti,MCMLXXV-III-V,Brazilian,http://en.wikipedia.org/wiki/Luciano_Burti
+455,seidel,,,Wolfgang,Seidel,MCMXXVI-VII-IV,German,http://en.wikipedia.org/wiki/Wolfgang_Seidel
+173,angelis,,,Elio,de Angelis,MCMLVIII-III-XXVI,Italian,http://en.wikipedia.org/wiki/Elio_de_Angelis
+574,constantine,,,George,Constantine,MCMXVIII-II-XXII,American,http://en.wikipedia.org/wiki/George_Constantine
+431,barth,,,Edgar,Barth,MCMXVII-I-XXVI,German,http://en.wikipedia.org/wiki/Edgar_Barth
+786,fagioli,,,Luigi,Fagioli,MDCCCXCVIII-VI-IX,Italian,http://en.wikipedia.org/wiki/Luigi_Fagioli
+566,shelby,,,Carroll,Shelby,MCMXXIII-I-XI,American,http://en.wikipedia.org/wiki/Carroll_Shelby
+523,templeman,,,Shorty,Templeman,MCMXIX-VIII-XII,American,http://en.wikipedia.org/wiki/Shorty_Templeman
+398,vic_wilson,,,Vic,Wilson,MCMXXXI-IV-XIV,British,http://en.wikipedia.org/wiki/Vic_Wilson_(motor_racing_driver)
+749,aston,,,Bill,Aston,MCM-III-XXIX,British,http://en.wikipedia.org/wiki/Bill_Aston
+467,prinoth,,,Ernesto,Prinoth,MCMXXIII-IV-XV,Italian,http://en.wikipedia.org/wiki/Ernesto_Prinoth
+505,bristow,,,Chris,Bristow,MCMXXXVII-XII-II,British,http://en.wikipedia.org/wiki/Chris_Bristow
+307,ganley,,,Howden,Ganley,MCMXLI-XII-XXIV,New Zealander,http://en.wikipedia.org/wiki/Howden_Ganley

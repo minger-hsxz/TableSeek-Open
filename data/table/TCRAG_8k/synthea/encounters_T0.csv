@@ -1,0 +1,68 @@
+ID,DATE,PATIENT,CODE,DESCRIPTION,REASONCODE,REASONDESCRIPTION
+8d359f5b-003a-428b-988d-a2a4bb366c21,MMX-XI-VII,2f1986fa-6469-4a67-b9cc-aba8ee4171ed,185345009,Encounter for symptom,195662009.0,Acute viral pharyngitis (disorder)
+8efcf63d-f744-4139-b2f2-fa0443a49c75,MMIX-XI-XVI,401fdd9e-2e9c-444b-a219-d1cc9fb271ae,185345009,Encounter for symptom,444814009.0,Viral sinusitis (disorder)
+58728dc3-daec-455d-8b7f-f524347f4d65,MMIX-XI-XXIX,8b0ae083-a89e-4bc8-99fe-4572da689e83,170258001,Outpatient Encounter,,
+efd7cf9f-eec7-47b3-92b5-bd19a7128762,MMVIII-VIII-VI,462abede-dc9a-4928-a120-0449155d6ada,185349003,Outpatient Encounter,,
+4bbc0374-5477-4b21-9ef6-8e6a569a0743,MMXIII-I-X,01290832-65db-488f-9d67-50e3a6d468ea,185345009,Encounter for symptom,36971009.0,Sinusitis (disorder)
+86da8949-68af-4b8d-b8cf-d16def302ce0,MMXVI-III-XX,047ce05d-06a9-4d55-9b36-7aa5ddfbd7ac,185345009,Encounter for symptom,65363002.0,Otitis media
+141f8d21-8922-42f3-8bd3-e0145c3fb98b,MMXV-III-XVI,d5878502-b66a-4bab-933a-d0eb217469bb,185345009,Encounter for symptom,446096008.0,Perennial allergic rhinitis
+55f74bf5-4733-4d24-b6cc-c98a01ff07f2,MMX-VI-XXII,b8d06309-71da-4e17-896d-4f05833dc51b,185349003,Outpatient Encounter,,
+543a2402-d536-4795-9bb7-ef94f0a89b85,MMXI-X-XVI,94f98532-269c-4a9f-8a34-186d80a16a8e,210098006,Domiciliary or rest home patient evaluation and management,,
+32a4ae5b-e72a-4f22-8709-87d2772c286b,MMXV-VIII-VII,e05b7410-ca77-4589-966b-7b8b47aedcca,371883000,Outpatient procedure,,
+de5c2643-5fae-41d2-a2d2-a6e2fcc8152c,MMXII-I-XXII,90a81394-ba79-47d9-821b-59bce3bec742,424619006,Prenatal visit,72892002.0,Normal pregnancy
+732cc0c4-f03e-4f53-88bb-8b16317c3edd,MMX-VII-XIX,698fa175-b284-4694-a6aa-49f199436917,170258001,Outpatient Encounter,,
+75e9aab6-3630-4545-97cd-2b1c30a077f1,MCMLXXXIX-VIII-V,90a093c1-d39b-4a90-8986-b346d6f5f02e,308646001,Death Certification,,
+9a5fae68-bc77-42c2-9f89-a44542623764,MMX-VIII-XXXI,95bcb1ae-5e9b-4e0d-bb1c-e163761667c2,424619006,Prenatal visit,72892002.0,Normal pregnancy
+8dd9574b-74bc-4702-bc94-19703c831fa5,MMXV-X-XIX,2c28b276-d622-4117-ba37-6ab59ddf59e5,170258001,Outpatient Encounter,,
+de485ef8-c22f-4fc1-b85b-24e5880c78e1,MMXVI-XI-XXIX,95bcb1ae-5e9b-4e0d-bb1c-e163761667c2,424619006,Prenatal visit,72892002.0,Normal pregnancy
+f7fa4ef7-ba2b-4334-9158-336c863f5ac2,MMXIV-III-III,a41a08a6-54c7-4d35-bf5d-1031c0bffb8e,308335008,Patient encounter procedure,,
+83fdb5f3-b766-4cef-bb50-ed9fabffee9e,MMXIII-X-XX,9b277cdd-68e2-4d81-9a29-363c33ac81c1,185349003,Outpatient Encounter,,
+c414cba5-04d7-400f-9800-3790bc61b43e,MMXIV-I-V,f82f53ac-b262-4625-ab96-1aee63e83af0,371883000,Outpatient procedure,,
+a03f712b-6695-4046-8eed-81a5accc92a6,MMXVI-X-XXXI,05905f03-642b-48f9-9261-0f798b2055ae,170258001,Outpatient Encounter,,
+b4dde58f-9052-4763-bf34-85e59bf2d0dd,MMXVI-VI-XXVI,522662e9-a5ad-4bb6-ac30-5c0f3c882d8e,170258001,Outpatient Encounter,,
+b1121495-49f3-4dc5-b067-8ff556c043d1,MMXI-VI-XVI,7883e669-8f80-4051-83d3-4ef064534b9a,185349003,Outpatient Encounter,,
+d441fb66-670b-4b8d-b0a2-b4ccfba3d573,MMXVII-II-XV,0ed686b8-877a-430b-a1a6-5d0be2d6bebc,185349003,Outpatient Encounter,,
+33dc599b-eea4-4e6e-922f-c79677fc822a,MMXIV-II-VIII,34d518ce-e2e0-4175-8107-ce0c4e3ac48d,185345009,Encounter for symptom,195662009.0,Acute viral pharyngitis (disorder)
+399775db-0b79-44d0-ac6d-c03e7c4a1b7f,MMXVI-VI-V,0b763e21-2a8f-4f04-86d2-f7e8f9cebb21,185349003,Outpatient Encounter,,
+578af94a-74ba-4093-8b4e-d104e8513b44,MMVIII-III-VIII,e4258a68-52ac-4c2e-8d8b-d723b59bf86d,185349003,Outpatient Encounter,,
+f193a4da-da08-4f7c-9866-11071c792a37,MMXI-VIII-XXV,00341a88-1cc1-4b39-b0f9-05b0531991a0,185345009,Encounter for symptom,75498004.0,Acute bacterial sinusitis (disorder)
+b852c96e-ed58-47d4-8e4d-f7b7d6f65a62,MMXIII-IX-XXV,12c4cc41-1d07-4a7f-9a1e-9092bd1a1794,170258001,Outpatient Encounter,,
+65a34730-77f5-408c-ab40-92de7eb49831,MMXI-VII-XIV,9fb519d6-fd96-4dc2-8444-803c6677c7e3,185345009,Encounter for symptom,36971009.0,Sinusitis (disorder)
+a9783461-4264-4afa-b20a-71b27d952416,MMXII-V-XIX,cc74c757-dfb4-4c16-a442-1b73b87d419d,185349003,Outpatient Encounter,,
+d003924e-c8c2-43d8-b12a-f40218b8481b,MMXII-X-VIII,ce5f7896-1630-439f-888c-204f220a77ff,308335008,Patient encounter procedure,,
+77873511-057e-4b02-9883-aaa2c2ddea09,MMXII-IV-XIII,6e8b250f-3ce4-442c-96d7-08786c74a966,170258001,Outpatient Encounter,,
+7c29abc0-61f6-47b2-8e36-f24efde1eb0e,MMIX-VIII-XXVII,44e4a771-6f44-4ab4-98a9-03936e514b45,266707007,Drug addiction therapy,,
+7b800b3a-f29d-4563-bb8f-90e5b18a6d14,MMXV-IV-XXII,069e0012-5607-4e51-8eb8-4fb27a3fe136,424619006,Prenatal visit,72892002.0,Normal pregnancy
+c6068ab0-a997-4407-bb19-c23a77d2c196,MMVI-IX-XXIV,4742e8e9-ac0b-4eeb-919a-f368d11f37d1,308646001,Death Certification,,
+7ea744d4-7a2a-486d-9533-fc530abd46cc,MMX-VIII-III,15c152a3-9da5-4287-a502-979a6dbb72ff,185345009,Encounter for symptom,195662009.0,Acute viral pharyngitis (disorder)
+de985d08-d5ac-4c26-b564-33f8609e27af,MMXVI-XI-XXVII,9b8cf115-9285-42c1-95aa-d030ebb03e09,185349003,Outpatient Encounter,,
+4d8a1b1e-dd75-4631-8bd1-a7be39dcc4fd,MMXIV-VIII-VIII,1d4a1257-366d-47c8-94f0-3f1d3be0845a,424441002,Prenatal initial visit,72892002.0,Normal pregnancy
+0753e599-de63-4dce-b2ba-b7f397d1dc7f,MMXV-IV-XX,dfd22f38-6436-42c3-ad9a-bd1ed48d7bd0,185345009,Encounter for symptom,10509002.0,Acute bronchitis (disorder)
+9c09e7ad-03a9-4ef7-8bc5-c20e1544be6a,MMXII-IV-XIV,1debf5a0-f786-4c78-8e4d-b48a565360c1,185349003,Outpatient Encounter,,
+85f7c5e5-bd2d-4301-9e8e-1ee17141c677,MMXII-III-VI,b7cba796-4b08-420a-97b2-10a0eff96afb,424619006,Prenatal visit,72892002.0,Normal pregnancy
+12b9886c-2870-4150-87bd-5985464429c1,MMXI-VI-XIX,7fa0746d-95e1-4ddb-9c1c-71a28da86572,424619006,Prenatal visit,72892002.0,Normal pregnancy
+d31ce177-d75f-493f-ac29-1aaa49882f5e,MMXI-XII-XXVIII,a6152b3e-ecfb-43b3-b021-147a89129ef6,185349003,Outpatient Encounter,,
+2ed72192-06ce-41a1-ad38-703d2ba4f3f4,MMXVII-IX-XIV,acf49f99-211c-4c87-8294-0035272a8646,185349003,Outpatient Encounter,,
+591e3ab4-12f4-4e5b-8411-797e54ac45cf,MMXI-VI-VI,9d8ade43-212f-4e76-b0d4-e1c3725bd5d6,185345009,Encounter for symptom,233678006.0,Childhood asthma
+7ef61d29-0d7d-45c1-9f96-d6d7e49bbd94,MMXV-I-XXIII,f0b80fe3-dd51-49aa-81d4-de2c6f8fe1cf,424619006,Prenatal visit,72892002.0,Normal pregnancy
+810f8327-2b98-418c-bc48-b1cdfb71b6da,MCMLXXV-III-XXIX,1a48531c-1a2f-42e7-aef9-ca3e17acaee2,308646001,Death Certification,,
+4eb64775-8f98-49a7-8088-db695fcc810c,MMXI-IX-XX,00b7297c-9997-455d-b581-f1bd677f5012,170258001,Outpatient Encounter,,
+8d730763-094d-4a5e-899a-9c147d4190a4,MMXV-XII-XIII,af9cd97a-f11a-469a-8781-84e88ac83774,185345009,Encounter for symptom,36971009.0,Sinusitis (disorder)
+f12f9c6e-4b5d-4fed-a2e4-d724eb0ce672,MMIX-IX-I,49bb8d33-d013-46dd-b72a-de0d207f98c5,698314001,Consultation for treatment,,
+64d9f4d9-4510-4934-8646-7933192eea7f,MMXIII-V-XVII,3cc67187-9070-49de-8779-6829a198dbbc,185349003,Encounter for 'check-up',,
+7b749a05-01db-412f-9793-50a7f54f24c4,MMXII-XII-I,2c030c14-1cf3-46f5-9957-303b001689ae,185349003,Outpatient Encounter,,
+fd58bdb7-091c-4350-8158-a3ec1119eb01,MMVIII-VIII-XXX,dd65ebe4-36fa-4c1b-85d9-1e54bee79917,185349003,Outpatient Encounter,,
+c2ae28f7-753e-4341-8c7d-4a7f6d97b8a7,MMVIII-III-IV,85b06f9d-ea2e-4419-9672-071361693fb5,185349003,Outpatient Encounter,,
+4794e420-ad84-42d5-8484-0e2292f7bd02,MMXIV-VI-IX,684887d3-1080-4b73-bef9-e78595722f01,308335008,Patient encounter procedure,,
+bdfa6d81-8a2f-4005-9427-91906eddad8e,MMXI-IV-XXX,62ce4159-e345-4c71-b9c4-2537987078a1,266707007,Drug addiction therapy,,
+2ea231b6-ff2e-493a-b684-d55e5aceca44,MMIV-VI-XVI,8cc2dca6-3ebc-4aad-a49d-7ad1425cf604,308646001,Death Certification,,
+861c9782-da3a-420f-a59d-0bfdd00f89fb,MMXVI-VI-V,90864f0d-7c27-4b7c-b7f6-15bfa16bee80,698314001,Consultation for treatment,,
+a4e8a369-0339-47f2-a488-7e30a63ec9f5,MMX-I-XVI,86082f75-6af5-4df0-a8f7-effd9bd68a58,424619006,Prenatal visit,72892002.0,Normal pregnancy
+31c1cad9-5f23-479e-939c-83925dab746a,MMIX-XI-XXII,5898e0a8-96df-4e4e-b166-1ba0f0023e85,308335008,Patient encounter procedure,,
+f66ecad3-907d-4473-9b43-479883c1835a,MMXV-IX-VI,48074b70-4db4-4ab0-b9e8-361bd2ba6216,185349003,Outpatient Encounter,,
+52cb2825-8ee6-4e75-b5b7-9cb4fd3bf5b5,MMIX-XII-XXX,f436e3f6-b2ef-4352-aef9-1b1563412b77,371883000,Outpatient procedure,,
+458d09ff-93cd-431b-bc08-0ec7479ab245,MMXIV-VIII-XXII,963d850c-2a18-445a-921c-0e04bb5b5a4e,170258001,Outpatient Encounter,,
+e8e2ce4b-6d40-4e2f-8c3e-912612f567e8,MMX-VII-XXIX,31069b16-3fdc-488f-90a2-ff72dcc380c9,424619006,Prenatal visit,72892002.0,Normal pregnancy
+0173394a-caed-4f08-98b7-be4c0a662a89,MMX-IV-XX,23373822-718a-428f-aa11-e65d10947576,371883000,Outpatient procedure,,
+4d02c471-6628-4f41-9a0e-cd884eb6b782,MMXIII-II-XVII,a075ced7-f55f-48f2-927f-6fcb4f97e634,170258001,Outpatient Encounter,,
+ab38d81a-a6e5-4497-9c7f-a50688a87037,MMX-I-XII,0f9a8638-107d-40c9-8ea1-563827417a22,170258001,Outpatient Encounter,,

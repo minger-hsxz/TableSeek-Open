@@ -1,0 +1,37 @@
+id,team_fifa_api_id,team_api_id,date,buildUpPlaySpeed,buildUpPlaySpeedClass,buildUpPlayDribbling,buildUpPlayDribblingClass,buildUpPlayPassing,buildUpPlayPassingClass,buildUpPlayPositioningClass,chanceCreationPassing,chanceCreationPassingClass,chanceCreationCrossing,chanceCreationCrossingClass,chanceCreationShooting,chanceCreationShootingClass,chanceCreationPositioningClass,defencePressure,defencePressureClass,defenceAggression,defenceAggressionClass,defenceTeamWidth,defenceTeamWidthClass,defenceDefenderLineClass
+1321,462,10281,two thousand and eleven.two.twenty-two 00:00:00,54,Balanced,,Little,55,Mixed,Organised,44,Normal,60,Normal,62,Normal,Organised,43,Medium,52,Press,59,Normal,Cover
+837,69,9829,two thousand and eleven.two.twenty-two 00:00:00,65,Balanced,,Little,50,Mixed,Organised,65,Normal,35,Normal,50,Normal,Organised,35,Medium,55,Press,50,Normal,Cover
+414,111271,4087,two thousand and fourteen.nine.nineteen 00:00:00,61,Balanced,51.0,Normal,44,Mixed,Organised,52,Normal,61,Normal,48,Normal,Organised,47,Medium,56,Press,50,Normal,Cover
+523,111429,8020,two thousand and ten.two.twenty-two 00:00:00,30,Slow,,Little,50,Mixed,Organised,45,Normal,35,Normal,70,Lots,Organised,60,Medium,70,Double,55,Normal,Cover
+1036,480,8370,two thousand and fifteen.nine.ten 00:00:00,29,Slow,52.0,Normal,44,Mixed,Organised,44,Normal,44,Normal,47,Normal,Organised,54,Medium,52,Press,63,Normal,Cover
+615,620,8066,two thousand and twelve.two.twenty-two 00:00:00,61,Balanced,,Little,59,Mixed,Organised,48,Normal,52,Normal,54,Normal,Organised,40,Medium,40,Press,46,Normal,Cover
+219,23,9788,two thousand and thirteen.nine.twenty 00:00:00,76,Fast,,Little,40,Mixed,Organised,66,Normal,48,Normal,30,Little,Free Form,33,Deep,53,Press,41,Normal,Cover
+1032,480,8370,two thousand and eleven.two.twenty-two 00:00:00,53,Balanced,,Little,55,Mixed,Organised,44,Normal,56,Normal,61,Normal,Organised,58,Medium,52,Press,68,Wide,Cover
+1289,294,10242,two thousand and twelve.two.twenty-two 00:00:00,49,Balanced,,Little,51,Mixed,Organised,52,Normal,49,Normal,49,Normal,Organised,43,Medium,42,Press,52,Normal,Cover
+887,100737,9809,two thousand and eleven.two.twenty-two 00:00:00,50,Balanced,,Little,65,Mixed,Organised,35,Normal,50,Normal,50,Normal,Organised,45,Medium,41,Press,35,Normal,Offside Trap
+577,100879,10278,two thousand and twelve.two.twenty-two 00:00:00,53,Balanced,,Little,54,Mixed,Organised,60,Normal,58,Normal,60,Normal,Organised,50,Medium,52,Press,58,Normal,Cover
+1251,106,8472,two thousand and twelve.two.twenty-two 00:00:00,67,Fast,,Little,62,Mixed,Organised,44,Normal,72,Lots,59,Normal,Organised,47,Medium,53,Press,60,Normal,Cover
+1191,670,9986,two thousand and fourteen.nine.nineteen 00:00:00,60,Balanced,47.0,Normal,53,Mixed,Organised,48,Normal,50,Normal,48,Normal,Organised,42,Medium,48,Press,49,Normal,Cover
+568,80,9860,two thousand and fourteen.nine.nineteen 00:00:00,55,Balanced,51.0,Normal,62,Mixed,Organised,55,Normal,61,Normal,60,Normal,Organised,49,Medium,52,Press,57,Normal,Cover
+1108,52,8686,two thousand and fourteen.nine.nineteen 00:00:00,67,Fast,48.0,Normal,38,Mixed,Organised,73,Risky,64,Normal,56,Normal,Free Form,36,Medium,57,Press,34,Normal,Cover
+853,83,9927,two thousand and ten.two.twenty-two 00:00:00,70,Fast,,Little,70,Long,Organised,70,Risky,70,Lots,65,Normal,Organised,60,Medium,70,Double,70,Wide,Cover
+169,88,8658,two thousand and twelve.two.twenty-two 00:00:00,51,Balanced,,Little,55,Mixed,Organised,41,Normal,62,Normal,56,Normal,Organised,42,Medium,48,Press,54,Normal,Cover
+1102,1902,9803,two thousand and fourteen.nine.nineteen 00:00:00,43,Balanced,46.0,Normal,44,Mixed,Organised,59,Normal,45,Normal,42,Normal,Organised,39,Medium,37,Press,42,Normal,Cover
+1119,1819,9853,two thousand and ten.two.twenty-two 00:00:00,65,Balanced,,Little,65,Mixed,Organised,55,Normal,60,Normal,60,Normal,Organised,30,Deep,30,Contain,30,Narrow,Offside Trap
+68,159,9912,two thousand and fourteen.nine.nineteen 00:00:00,62,Balanced,49.0,Normal,55,Mixed,Organised,56,Normal,51,Normal,52,Normal,Organised,36,Medium,54,Press,48,Normal,Cover
+1042,1793,9798,two thousand and fifteen.nine.ten 00:00:00,44,Balanced,36.0,Normal,64,Mixed,Organised,62,Normal,65,Normal,42,Normal,Organised,51,Medium,47,Press,52,Normal,Cover
+454,246,10235,two thousand and twelve.two.twenty-two 00:00:00,38,Balanced,,Little,34,Mixed,Organised,60,Normal,44,Normal,50,Normal,Organised,43,Medium,43,Press,54,Normal,Cover
+670,472,8306,two thousand and fourteen.nine.nineteen 00:00:00,48,Balanced,55.0,Normal,44,Mixed,Organised,53,Normal,42,Normal,53,Normal,Organised,53,Medium,39,Press,57,Normal,Cover
+1173,111092,8025,two thousand and fourteen.nine.nineteen 00:00:00,47,Balanced,53.0,Normal,34,Mixed,Organised,38,Normal,36,Normal,68,Lots,Organised,37,Medium,37,Press,39,Normal,Cover
+193,189,9857,two thousand and eleven.two.twenty-two 00:00:00,65,Balanced,,Little,35,Mixed,Organised,35,Normal,35,Normal,50,Normal,Organised,30,Deep,50,Press,50,Normal,Cover
+124,241,8634,two thousand and fifteen.nine.ten 00:00:00,36,Balanced,35.0,Normal,51,Mixed,Free Form,36,Normal,49,Normal,56,Normal,Free Form,61,Medium,65,Press,65,Normal,Cover
+416,1971,10218,two thousand and eleven.two.twenty-two 00:00:00,73,Fast,,Little,59,Mixed,Organised,77,Risky,33,Little,52,Normal,Organised,25,Deep,47,Press,33,Narrow,Cover
+278,110364,8530,two thousand and eleven.two.twenty-two 00:00:00,65,Balanced,,Little,35,Mixed,Free Form,50,Normal,65,Normal,63,Normal,Organised,35,Medium,55,Press,50,Normal,Offside Trap
+434,236,9773,two thousand and eleven.two.twenty-two 00:00:00,50,Balanced,,Little,50,Mixed,Organised,50,Normal,65,Normal,65,Normal,Free Form,55,Medium,43,Press,65,Normal,Cover
+1170,111092,8025,two thousand and eleven.two.twenty-two 00:00:00,47,Balanced,,Little,55,Mixed,Organised,45,Normal,48,Normal,54,Normal,Organised,48,Medium,47,Press,51,Normal,Cover
+185,1898,8613,two thousand and fifteen.nine.ten 00:00:00,47,Balanced,56.0,Normal,50,Mixed,Organised,37,Normal,38,Normal,53,Normal,Organised,32,Deep,62,Press,54,Normal,Cover
+555,184,8429,two thousand and ten.two.twenty-two 00:00:00,70,Fast,,Little,70,Long,Organised,70,Risky,70,Lots,60,Normal,Organised,60,Medium,65,Press,70,Wide,Cover
+1188,670,9986,two thousand and ten.two.twenty-two 00:00:00,40,Balanced,,Little,50,Mixed,Organised,45,Normal,43,Normal,60,Normal,Organised,70,High,70,Double,70,Wide,Cover
+77,2,10252,two thousand and ten.two.twenty-two 00:00:00,70,Fast,,Little,59,Mixed,Organised,65,Normal,70,Lots,50,Normal,Free Form,30,Deep,70,Double,30,Narrow,Cover
+906,1792,9850,two thousand and eleven.two.twenty-two 00:00:00,49,Balanced,,Little,52,Mixed,Organised,48,Normal,64,Normal,66,Normal,Organised,34,Medium,54,Press,48,Normal,Cover
+1024,456,8696,two thousand and fifteen.nine.ten 00:00:00,48,Balanced,52.0,Normal,47,Mixed,Organised,53,Normal,53,Normal,53,Normal,Organised,51,Medium,47,Press,53,Normal,Cover

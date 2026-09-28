@@ -1,0 +1,38 @@
+station_nbr,date,tmax,tmin,tavg,depart,dewpoint,wetbulb,heat,cool,sunrise,sunset,codesum,snowfall,preciptotal,stnpressure,sealevel,resultspeed,resultdir,avgspeed
+14,two thousand and fourteen.six.ten,81.0,63.0,seventy-two point zero,-3.0,59.0,6.40×10^+01,0.0,7.0,05:15:00,19:44:00, ,0.0,zero point zero,28.46,twenty-nine point eight,11.1,33.0,11.6
+8,two thousand and fourteen.four.twelve,83.0,66.0,seventy-five point zero,,66.0,6.80×10^+01,0.0,10.0,,, ,,zero point zero,29.58,zero,10.8,16.0,10.8
+10,two thousand and twelve.twelve.eleven,78.0,65.0,seventy-two point zero,,64.0,6.70×10^+01,0.0,7.0,07:13:00,17:27:00,BR,,zero point zero,29.9,twenty-nine point nine five,2.3,19.0,5.8
+5,two thousand and thirteen.eleven.eight,,,zero,,25.0,,,,06:26:00,16:30:00, ,,zero,,twenty-nine point nine five,13.6,29.0,
+18,two thousand and fourteen.two.fourteen,72.0,44.0,fifty-eight point zero,7.0,31.0,4.40×10^+01,7.0,0.0,07:12:00,18:11:00, ,0.0,zero point zero,29.4,twenty-nine point nine,3.8,33.0,10.2
+16,two thousand and fourteen.three.twenty-seven,45.0,20.0,thirty-three point zero,,3.0,2.40×10^+01,32.0,0.0,,, ,,zero point zero,30.08,thirty point two two,8.0,27.0,11.0
+19,two thousand and thirteen.five.six,66.0,46.0,fifty-six point zero,4.0,38.0,4.70×10^+01,9.0,0.0,04:39:00,18:57:00, ,0.0,zero point zero,29.29,thirty point zero five,4.4,3.0,5.0
+19,two thousand and thirteen.twelve.twenty-one,34.0,27.0,thirty-one point zero,7.0,28.0,3.00×10^+01,34.0,0.0,07:19:00,16:20:00,DZ SN FG+ FZFG BR,0.05,zero point zero five,29.05,twenty-nine point eight three,8.1,2.0,10.3
+17,two thousand and fourteen.seven.ten,78.0,66.0,seventy-two point zero,,68.0,6.90×10^+01,0.0,7.0,,,TSRA RA BR VCTS,0.0,one point four one,29.33,thirty point zero three,3.9,12.0,6.2
+2,two thousand and thirteen.nine.twenty-eight,70.0,51.0,sixty-one point zero,5.0,49.0,5.40×10^+01,4.0,0.0,05:41:00,17:35:00, ,0.0,zero point zero,29.2,thirty point three,3.2,3.0,4.5
+9,two thousand and fourteen.two.twenty-eight,14.0,-8.0,three point zero,,-3.0,,62.0,0.0,,,SN HZ,,zero point zero five,29.25,thirty point zero five,3.0,18.0,10.6
+2,two thousand and twelve.six.fifteen,72.0,56.0,sixty-four point zero,-1.0,46.0,5.50×10^+01,1.0,0.0,04:11:00,19:25:00, ,0.0,zero point zero,29.21,thirty point three one,5.1,5.0,6.5
+13,two thousand and twelve.eleven.seven,74.0,36.0,fifty-five point zero,,20.0,3.90×10^+01,10.0,0.0,,, ,,zero point zero,24.23,twenty-nine point nine six,2.4,15.0,5.0
+1,two thousand and twelve.eight.eighteen,77.0,63.0,seventy point zero,,61.0,6.50×10^+01,0.0,5.0,,,RA,,zero point zero five,29.7,twenty-nine point eight seven,1.3,23.0,2.9
+20,two thousand and twelve.five.eleven,78.0,62.0,seventy point zero,,62.0,6.40×10^+01,0.0,5.0,,,RA BR,0.0,zero point eight,29.18,twenty-nine point eight six,2.5,10.0,5.9
+20,two thousand and fourteen.ten.one,94.0,74.0,eighty-four point zero,,67.0,7.30×10^+01,0.0,19.0,,, ,0.0,zero point zero,29.06,twenty-nine point seven five,8.8,16.0,9.0
+16,two thousand and fourteen.six.four,60.0,53.0,fifty-seven point zero,,53.0,5.50×10^+01,8.0,0.0,,,RA BR,,zero point zero four,29.73,twenty-nine point eight three,3.8,11.0,4.5
+15,two thousand and twelve.nine.six,77.0,64.0,seventy-one point zero,8.0,65.0,6.60×10^+01,0.0,6.0,05:15:00,18:13:00,RA BR,0.0,zero point zero seven,29.49,twenty-nine point eight six,1.0,18.0,1.9
+19,two thousand and thirteen.twelve.thirty,,,zero,,-6.0,2.00×10^+00,,,07:22:00,16:26:00,SN,,zero,,thirty point two five,8.4,29.0,
+14,two thousand and twelve.three.twenty-seven,79.0,58.0,sixty-nine point zero,15.0,55.0,6.00×10^+01,0.0,4.0,06:24:00,18:47:00, ,0.0,zero point zero,28.56,twenty-nine point nine two,14.4,18.0,14.8
+6,two thousand and twelve.six.twenty-one,95.0,70.0,eighty-three point zero,1.0,67.0,7.20×10^+01,0.0,18.0,05:30:00,19:35:00, ,0.0,zero point zero,29.44,twenty-nine point nine four,3.3,8.0,4.2
+6,two thousand and thirteen.one.twenty-two,73.0,37.0,fifty-five point zero,6.0,44.0,4.90×10^+01,10.0,0.0,07:26:00,17:59:00, ,0.0,zero point zero,29.72,thirty point two four,3.3,19.0,5.5
+4,two thousand and twelve.nine.thirty,79.0,64.0,seventy-two point zero,-4.0,63.0,6.60×10^+01,0.0,7.0,06:24:00,18:19:00, ,0.0,zero point zero five,29.13,twenty-nine point eight two,7.5,34.0,7.8
+7,two thousand and fourteen.three.twenty-six,56.0,42.0,forty-nine point zero,,34.0,4.10×10^+01,16.0,0.0,,,RA BR,0.0,zero point two one,28.51,twenty-nine point nine five,24.3,16.0,24.6
+7,two thousand and twelve.five.twenty-six,89.0,74.0,eighty-two point zero,,66.0,7.10×10^+01,0.0,17.0,,, ,0.0,zero point zero,28.53,twenty-nine point eight five,20.0,17.0,20.5
+20,two thousand and thirteen.one.seventeen,60.0,36.0,forty-eight point zero,,28.0,3.90×10^+01,17.0,0.0,,, ,0.0,zero point zero,29.68,thirty point three nine,6.6,32.0,7.4
+7,two thousand and thirteen.ten.thirty,77.0,66.0,seventy-two point zero,,64.0,6.70×10^+01,0.0,7.0,,,RA BR,0.0,zero point zero five,28.43,twenty-nine point eight,18.4,18.0,18.6
+3,two thousand and thirteen.four.thirteen,72.0,46.0,fifty-nine point zero,-1.0,44.0,5.10×10^+01,6.0,0.0,05:53:00,18:55:00,RA,0.0,zero point two one,29.13,twenty-nine point eight eight,10.3,16.0,11.5
+12,two thousand and twelve.four.twenty-eight,89.0,60.0,seventy-five point zero,,62.0,6.70×10^+01,0.0,10.0,,,BR,0.0,zero point zero,30.04,thirty point zero nine,4.0,14.0,5.1
+12,two thousand and fourteen.five.twenty-nine,87.0,70.0,seventy-nine point zero,,71.0,7.30×10^+01,0.0,14.0,,,TS RA VCTS,0.0,zero point zero five,29.98,thirty point zero three,2.7,14.0,3.5
+5,two thousand and fourteen.ten.two,,,zero,,51.0,,,,05:42:00,17:25:00, ,,zero,,thirty point one six,11.5,3.0,
+19,two thousand and twelve.six.fifteen,86.0,57.0,seventy-two point zero,5.0,52.0,6.10×10^+01,0.0,7.0,04:12:00,19:32:00, ,0.0,zero point zero,29.3,thirty point zero five,8.0,16.0,10.2
+11,two thousand and fourteen.ten.thirty,81.0,59.0,seventy point zero,4.0,63.0,6.50×10^+01,0.0,5.0,06:40:00,17:41:00,TS BR,0.0,zero point zero,29.91,twenty-nine point nine four,1.6,36.0,3.4
+16,two thousand and twelve.seven.seventeen,95.0,68.0,eighty-two point zero,,66.0,7.20×10^+01,0.0,17.0,,,BR,,zero point zero,29.6,twenty-nine point six nine,7.7,24.0,8.2
+11,two thousand and fourteen.five.twenty-four,92.0,69.0,eighty-one point zero,6.0,69.0,7.20×10^+01,0.0,16.0,05:28:00,19:19:00,BR,0.0,zero point zero,29.99,thirty point zero four,1.8,4.0,5.5
+16,two thousand and fourteen.two.twelve,26.0,-3.0,twelve point zero,,0.0,1.10×10^+01,53.0,0.0,,, ,,zero point zero five,30.36,thirty point four eight,1.6,30.0,3.7
+3,two thousand and thirteen.two.five,69.0,29.0,forty-nine point zero,10.0,32.0,4.10×10^+01,16.0,0.0,07:21:00,17:54:00, ,0.0,zero point zero,29.28,twenty-nine point nine nine,1.1,35.0,3.2

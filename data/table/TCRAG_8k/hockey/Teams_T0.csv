@@ -1,0 +1,33 @@
+year,lgID,tmID,franchID,confID,divID,rank,playoff,G,W,L,T,OTL,Pts,SoW,SoL,GF,GA,name,PIM,BenchMinor_div10,PPG,PPC,SHA,PKG,PKC_sub1,SHF
+1934,NHL,NYA,BKN,,CA,4,,forty-eight,12,2.70×10^+01,9.0,,thirty-three,,,100,142,New York Americans,250.0,,,,,,,
+2001,NHL,PHI,PHI,EC,AT,1,CQF,eighty-two,42,2.70×10^+01,10.0,3.0,ninety-seven,,,234,192,Philadelphia Flyers,1242.0,1.6,3.90×10^+01,299.0,10.0,40.0,292.0,8.0
+2007,NHL,MTL,MTL,EC,NE,1,CSF,eighty-two,47,2.50×10^+01,,10.0,one hundred and four,5.0,6.00×10^+00,262,222,Montreal Canadiens,1090.0,1.8,9.00×10^+01,374.0,3.0,60.0,341.0,8.0
+2010,NHL,FLO,FLO,EC,SE,5,,eighty-two,30,4.00×10^+01,,12.0,seventy-two,4.0,7.00×10^+00,195,229,Florida Panthers,716.0,2.2,3.50×10^+01,267.0,5.0,41.0,266.0,4.0
+1915,PCHA,SEA,SEA,,,3,,eighteen,9,9.00×10^+00,0.0,,eighteen,,,68,67,Seattle Metropolitans,,,,,,,,
+1981,NHL,HAR,CAR,WA,AD,5,,eighty,21,4.10×10^+01,18.0,,sixty,,,264,351,Hartford Whalers,1493.0,0.8,6.80×10^+01,292.0,7.0,78.0,282.0,6.0
+1964,NHL,NYR,NYR,,,5,,seventy,20,3.80×10^+01,12.0,,fifty-two,,,179,246,New York Rangers,760.0,,5.50×10^+01,321.0,9.0,43.0,266.0,7.0
+2002,NHL,OTT,OTT,EC,NE,1,CF,eighty-two,52,2.10×10^+01,8.0,1.0,one hundred and thirteen,,,263,182,Ottawa Senators,1135.0,2.2,8.30×10^+01,391.0,8.0,50.0,331.0,4.0
+2011,NHL,DET,DET,WC,CE,3,CQF,eighty-two,48,2.80×10^+01,,6.0,one hundred and two,9.0,3.00×10^+00,248,203,Detroit Red Wings,699.0,2.4,4.80×10^+01,298.0,11.0,50.0,273.0,2.0
+2011,NHL,AND,ANA,WC,PC,5,,eighty-two,34,3.60×10^+01,,12.0,eighty,3.0,7.00×10^+00,204,231,Anaheim Ducks,980.0,1.8,4.50×10^+01,271.0,5.0,51.0,282.0,4.0
+1918,PCHA,VA2,VIC,,,3,,twenty,7,1.30×10^+01,0.0,,fourteen,,,44,81,Victoria Aristocrats,,,,,,,,
+1973,WHA,HOU,HOU,,WW,1,AVC,seventy-eight,48,2.50×10^+01,5.0,,one hundred and one,,,318,219,Houston Aeros,1038.0,0.4,6.40×10^+01,223.0,3.0,47.0,287.0,17.0
+1974,WHA,WIJ,PHO,,CW,3,,seventy-eight,38,3.50×10^+01,5.0,,eighty-one,,,322,293,Winnipeg Jets,869.0,,7.40×10^+01,362.0,16.0,37.0,220.0,11.0
+1943,NHL,NYR,NYR,,,6,,fifty,6,3.90×10^+01,5.0,,seventeen,,,162,310,New York Rangers,253.0,,,,,,,
+1988,NHL,NYI,NYI,WA,PT,6,,eighty,28,4.70×10^+01,5.0,,sixty-one,,,265,325,New York Islanders,1822.0,1.8,8.50×10^+01,378.0,7.0,103.0,389.0,4.0
+1957,NHL,TOR,TOR,,,6,,seventy,21,3.80×10^+01,11.0,,fifty-three,,,192,226,Toronto Maple Leafs,861.0,,,,,,,
+1989,NHL,STL,STL,CC,NO,2,DF,eighty,37,3.40×10^+01,9.0,,eighty-three,,,295,279,St. Louis Blues,1809.0,1.2,7.90×10^+01,351.0,12.0,67.0,350.0,9.0
+1953,NHL,CHI,CHI,,,6,,seventy,12,5.10×10^+01,7.0,,thirty-one,,,133,242,Chicago Black Hawks,787.0,,,,,,,
+1928,NHL,NYA,BKN,,CA,2,QF,forty-four,19,1.30×10^+01,12.0,,fifty,,,53,53,New York Americans,486.0,,,,,,,
+1915,PCHA,PO1,PO1,,,1,F,eighteen,13,5.00×10^+00,0.0,,twenty-six,,,71,50,Portland Rosebuds,,,,,,,,
+1976,NHL,LAK,LAK,WA,NO,2,QF,eighty,34,3.10×10^+01,15.0,,eighty-three,,,271,241,Los Angeles Kings,1186.0,1.4,6.80×10^+01,253.0,5.0,52.0,283.0,6.0
+1976,NHL,CHI,CHI,CC,SM,3,PRE,eighty,26,4.30×10^+01,11.0,,sixty-three,,,240,298,Chicago Black Hawks,1104.0,1.8,5.90×10^+01,267.0,9.0,62.0,281.0,4.0
+2006,NHL,STL,STL,WC,CE,3,,eighty-two,34,3.50×10^+01,,13.0,eighty-one,6.0,6.00×10^+00,214,254,St. Louis Blues,1223.0,2.0,4.60×10^+01,381.0,10.0,83.0,413.0,7.0
+1998,NHL,STL,STL,WC,CE,2,CSF,eighty-two,37,3.20×10^+01,13.0,,eighty-seven,,,237,209,St. Louis Blues,1308.0,0.6,6.10×10^+01,301.0,4.0,47.0,386.0,7.0
+1965,NHL,DET,DET,,,4,F,seventy,31,2.70×10^+01,12.0,,seventy-four,,,221,194,Detroit Red Wings,804.0,,4.20×10^+01,245.0,9.0,44.0,272.0,7.0
+2010,NHL,LAK,LAK,WC,PC,4,CQF,eighty-two,46,3.00×10^+01,,6.0,ninety-eight,10.0,2.00×10^+00,219,198,Los Angeles Kings,962.0,2.4,4.70×10^+01,292.0,6.0,40.0,275.0,4.0
+2000,NHL,NJD,NJD,EC,AT,1,F,eighty-two,48,1.90×10^+01,12.0,3.0,one hundred and eleven,,,295,195,New Jersey Devils,1235.0,1.8,7.10×10^+01,310.0,6.0,49.0,319.0,9.0
+1921,WCHL,SMJ,SAS,,,4,,twenty-four,5,1.90×10^+01,0.0,,ten,,,67,137,Saskatoon/Moose Jaw Sheiks,,,,,,,,
+1970,NHL,NYR,NYR,,ED,2,SF,seventy-eight,49,1.80×10^+01,11.0,,one hundred and nine,,,259,177,New York Rangers,952.0,0.8,6.00×10^+01,234.0,3.0,41.0,252.0,5.0
+1956,NHL,BOS,BOS,,,3,F,seventy,34,2.40×10^+01,12.0,,eighty,,,195,174,Boston Bruins,978.0,,,,,,,
+1945,NHL,NYR,NYR,,,6,,fifty,13,2.80×10^+01,9.0,,thirty-five,,,144,191,New York Rangers,285.0,,,,,,,
+1971,NHL,CLF,CLE,,WD,6,,seventy-eight,21,3.90×10^+01,18.0,,sixty,,,216,288,California Golden Seals,1007.0,0.6,4.40×10^+01,278.0,6.0,55.0,258.0,5.0

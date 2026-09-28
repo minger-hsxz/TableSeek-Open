@@ -1,0 +1,129 @@
+award_id,year,league_id,player_id,points_won,votes_first
+MVP,1967,NL,floodcu01,24.0,0.0
+MVP,1955,NL,roberro01,159.0,1.0
+MVP,1964,NL,schulba01,1.0,0.0
+MVP,1992,NL,mcgrifr01,100.0,0.0
+MVP,1942,AL,wrighta01,6.0,0.0
+MVP,1953,AL,woodlge01,3.0,0.0
+Rookie of the Year,2009,NL,mccutan01,25.0,2.0
+MVP,1988,NL,myersra01,3.0,0.0
+MVP,1991,AL,aguilri01,11.0,0.0
+Cy Young,2003,NL,priorma01,60.0,2.0
+MVP,2000,NL,aloumo01,2.0,0.0
+Cy Young,1990,NL,martira02,70.0,1.0
+MVP,2013,NL,puigya01,10.0,0.0
+MVP,1987,AL,seitzke01,5.0,0.0
+MVP,1973,NL,maddoga01,3.0,0.0
+MVP,1958,NL,thomafr03,143.0,2.0
+MVP,1944,NL,coopemo01,63.0,0.0
+Cy Young,1996,AL,fernaal01,1.0,0.0
+MVP,2010,NL,zimmery01,18.0,0.0
+Rookie of the Year,1991,AL,guzmaju01,68.0,1.0
+MVP,1958,NL,anderha02,5.0,0.0
+MVP,2005,NL,gilesma01,4.0,0.0
+MVP,1960,AL,foxne01,11.0,0.0
+MVP,1924,AL,jacobba01,11.0,
+MVP,1942,NL,medwijo01,20.0,0.0
+MVP,1947,NL,pafkoan01,1.0,0.0
+MVP,1937,AL,lewisbu01,7.0,0.0
+MVP,1995,AL,ramirma02,30.0,0.0
+MVP,2015,NL,rizzoan01,162.0,0.0
+MVP,1948,NL,brancra01,8.0,0.0
+MVP,1942,AL,borowha01,8.0,0.0
+MVP,1941,AL,heathje01,37.0,0.0
+MVP,2003,AL,foulkke01,20.0,0.0
+MVP,2012,NL,bournmi01,12.0,0.0
+Cy Young,1996,NL,neaglde01,2.0,0.0
+MVP,1945,NL,masiph01,2.0,0.0
+MVP,1957,NL,musiast01,230.0,5.0
+Cy Young,1979,NL,tekulke01,14.0,1.0
+MVP,1968,AL,campabe01,39.0,0.0
+Rookie of the Year,1980,NL,durhale01,1.0,0.0
+MVP,1970,AL,whitero01,25.0,0.0
+Cy Young,2009,AL,verlaju01,14.0,1.0
+MVP,2012,AL,jonesad01,120.0,0.0
+MVP,1975,NL,bowala01,3.0,0.0
+MVP,1973,NL,brocklo01,65.0,0.0
+MVP,1946,NL,muellra01,3.0,0.0
+Cy Young,1994,AL,keyji01,96.0,10.0
+MVP,1951,NL,roberro01,27.0,0.0
+MVP,1972,AL,hunteca01,57.0,0.0
+Rookie of the Year,1983,NL,deleojo01,3.0,0.0
+MVP,1958,NL,furilca01,1.0,0.0
+MVP,2014,AL,pujolal01,5.0,0.0
+MVP,2005,NL,ensbemo01,160.0,0.0
+Rookie of the Year,1998,AL,ordonma01,1.0,0.0
+MVP,1914,NL,jamesbi02,33.0,
+MVP,2012,NL,hillaa01,6.0,0.0
+Cy Young,2009,AL,hernafe02,80.0,2.0
+MVP,1945,AL,johnsbo01,6.0,0.0
+MVP,1932,NL,deandi01,4.0,0.0
+MVP,2014,NL,morneju01,2.0,0.0
+Cy Young,1987,AL,clemero02,124.0,21.0
+Cy Young,2011,AL,roberda08,1.0,0.0
+MVP,1933,NL,luquedo01,1.0,0.0
+MVP,1970,NL,rosepe01,54.0,0.0
+MVP,1985,NL,brookhu01,11.0,0.0
+MVP,1993,AL,molitpa01,209.0,0.0
+MVP,1947,AL,cullero01,3.0,0.0
+Rookie of the Year,1948,ML,beardge01,8.0,8.0
+MVP,1934,AL,knickbi01,2.0,0.0
+MVP,1925,NL,aldrivi01,1.0,0.0
+MVP,1941,AL,hayesfr01,3.0,0.0
+MVP,1990,NL,martira02,9.0,0.0
+Rookie of the Year,1998,AL,ponsosi01,1.0,0.0
+MVP,1970,AL,tovarce01,16.0,0.0
+MVP,2002,AL,hunteto01,132.0,0.0
+MVP,1956,AL,bollifr01,3.0,0.0
+MVP,2013,NL,martiru01,1.0,0.0
+Rookie of the Year,1988,NL,jordari02,2.0,0.0
+MVP,2013,AL,perezsa02,1.0,0.0
+MVP,1981,NL,suttebr01,59.0,0.0
+MVP,1947,NL,lowrepe01,2.0,0.0
+MVP,1944,NL,sewelri01,49.0,0.0
+MVP,1968,AL,stanlmi01,2.0,0.0
+MVP,1995,NL,coninje01,1.0,0.0
+MVP,1995,NL,biggicr01,58.0,0.0
+MVP,1940,AL,radclri01,55.0,0.0
+MVP,1957,AL,heldwo01,4.0,0.0
+MVP,2003,NL,priorma01,44.0,0.0
+MVP,1945,AL,ferrida01,148.0,2.0
+Cy Young,2009,NL,wainwad01,90.0,12.0
+MVP,1939,AL,greenha01,12.0,0.0
+MVP,1978,NL,niekrph01,8.0,0.0
+MVP,1928,NL,bottoji01,76.0,
+MVP,1936,AL,gehrich01,39.0,
+MVP,1965,NL,gilliji01,3.0,0.0
+MVP,1924,AL,schanwa01,7.0,0.0
+MVP,1970,AL,powelbo01,234.0,11.0
+MVP,1927,NL,wanerpa01,72.0,
+MVP,1987,NL,guerrpe01,12.0,0.0
+MVP,1944,NL,coopewa01,72.0,1.0
+Cy Young,1975,NL,montejo01,2.0,0.0
+Cy Young,1997,AL,pettian01,9.0,0.0
+MVP,1944,AL,hemslro01,4.0,0.0
+MVP,1962,AL,cashno01,3.0,0.0
+MVP,1985,AL,mooredo01,96.0,0.0
+MVP,1950,NL,seminan01,25.0,0.0
+MVP,1966,NL,malonji01,3.0,0.0
+MVP,1990,AL,welchbo01,54.0,0.0
+MVP,1926,AL,gehrilo01,7.0,0.0
+MVP,1959,AL,tuttlbi01,5.0,0.0
+MVP,1926,NL,carlsha01,16.0,
+MVP,1947,NL,brancra01,40.0,0.0
+MVP,1992,AL,listapa01,8.0,0.0
+MVP,1999,NL,bellja01,31.0,0.0
+MVP,1958,AL,triangu01,27.0,0.0
+MVP,1914,AL,walketi01,9.0,
+MVP,1973,AL,ryanno01,20.0,0.0
+MVP,1953,AL,kuennha01,23.0,0.0
+MVP,1956,AL,willite01,70.0,0.0
+MVP,1973,NL,harrebu01,2.0,0.0
+MVP,1996,NL,hundlto01,7.0,0.0
+MVP,1960,NL,boyerke01,80.0,0.0
+MVP,1948,NL,cavarph01,6.0,0.0
+Rookie of the Year,1995,AL,pettian01,16.0,1.0
+MVP,1973,NL,singlke01,52.0,0.0
+MVP,2007,NL,leeca01,7.0,0.0
+MVP,1974,AL,bandosa01,143.0,3.0
+MVP,1969,AL,brinked01,7.0,0.0

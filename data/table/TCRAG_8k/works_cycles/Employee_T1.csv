@@ -1,0 +1,41 @@
+BusinessEntityID,NationalIDNumber,LoginID,OrganizationNode,OrganizationLevel,JobTitle,BirthDate,MaritalStatus,Gender,HireDate,SalariedFlag,VacationHours,CurrentFlag,rowguid,ModifiedDate
+57,10708100,adventure-works\frank1,/3/1/4/2/,4.00×10^+00,Production Technician - WC50,24/July/1971,S,M,23/February/2009,0,1.00×10^+01,1,B395CD84-77BA-4D3C-A49D-D9E8D6CF100B,Jun.30.2014 00:00:00.0
+117,599942664,adventure-works\chad0,/3/1/11/9/,4.00×10^+00,Production Technician - WC50,04/August/1990,M,M,18/February/2009,0,9.90×10^+01,1,83A32D4C-4725-478F-9997-91739BB957BA,Jun.30.2014 00:00:00.0
+255,466142721,adventure-works\gordon0,/4/3/1/5/,4.00×10^+00,Buyer,29/November/1966,M,M,11/January/2010,0,5.20×10^+01,1,2CB2D5C3-C437-49B1-9FFD-FAA096F6126F,Jun.30.2014 00:00:00.0
+68,537092325,adventure-works\charles0,/3/1/5/6/,4.00×10^+00,Production Technician - WC60,02/September/1971,S,M,03/December/2009,0,2.70×10^+01,1,CDC11292-DF74-4FB0-8676-5B2AA4687142,Jun.30.2014 00:00:00.0
+232,646304055,adventure-works\pat0,/3/4/1/4/,4.00×10^+00,Janitor,03/December/1970,S,M,27/January/2010,0,8.90×10^+01,1,49238447-30EE-4009-993F-0B6C756AB436,Jun.30.2014 00:00:00.0
+4,112457891,adventure-works\rob0,/1/1/1/,3.00×10^+00,Senior Tool Designer,23/December/1974,S,M,05/December/2007,0,4.80×10^+01,1,59747955-87B8-443F-8ED4-F8AD3AFDF3A9,Jun.30.2014 00:00:00.0
+191,399658727,adventure-works\lionel0,/3/1/20/5/,4.00×10^+00,Production Technician - WC45,14/March/1988,S,M,26/February/2009,0,7.80×10^+01,1,231B1798-F67B-45C1-9688-265180F93D28,Jun.30.2014 00:00:00.0
+130,578953538,adventure-works\rob1,/3/1/13/3/,4.00×10^+00,Production Technician - WC40,04/August/1973,S,M,13/February/2009,0,7.10×10^+01,1,54FDA597-6822-42B4-B128-63ECA03071F2,Jun.30.2014 00:00:00.0
+76,227319668,adventure-works\carol0,/3/1/6/5/,4.00×10^+00,Production Technician - WC30,17/October/1988,M,F,12/February/2009,0,4.50×10^+01,1,8D0182A3-5B59-4EEA-9B3C-C7F05DA9A2CE,Jun.30.2014 00:00:00.0
+95,674171828,adventure-works\jim0,/3/1/9/2/,4.00×10^+00,Production Technician - WC50,08/September/1986,M,M,19/December/2008,0,1.00×10^+00,1,6175876E-8FCC-4917-BE06-FC358515E6DF,Jun.30.2014 00:00:00.0
+65,8066363,adventure-works\randy0,/3/1/5/3/,4.00×10^+00,Production Technician - WC60,28/April/1970,M,M,23/February/2010,0,2.90×10^+01,1,9A08108D-E039-4862-8F93-55F18017AD72,Jun.30.2014 00:00:00.0
+5,695256908,adventure-works\gail0,/1/1/2/,3.00×10^+00,Design Engineer,27/September/1952,M,F,06/January/2008,1,5.00×10^+00,1,EC84AE09-F9B8-4A15-B4A9-6CCBAB919B08,Jun.30.2014 00:00:00.0
+185,621932914,adventure-works\stefen0,/3/1/19/5/,4.00×10^+00,Production Technician - WC20,21/December/1975,S,M,28/February/2009,0,1.90×10^+01,1,B9EEBF9F-F694-4BC2-98EC-9B4FB0379EDF,Jun.30.2014 00:00:00.0
+205,332349500,adventure-works\lori0,/3/1/22/,3.00×10^+00,Production Supervisor - WC45,18/July/1980,S,F,26/February/2009,0,7.60×10^+01,1,23D436FC-08F7-4988-8B4D-490AA4E8B7E7,Jun.30.2014 00:00:00.0
+196,370487086,adventure-works\shammi0,/3/1/21/4/,4.00×10^+00,Production Technician - WC40,04/October/1980,M,M,24/December/2008,0,5.30×10^+01,1,9BEF0C94-7969-4905-9A42-CE469C754800,Jun.30.2014 00:00:00.0
+153,568596888,adventure-works\hanying0,/3/1/16/1/,4.00×10^+00,Production Technician - WC20,16/October/1974,S,M,16/December/2008,0,1.50×10^+01,1,618B71BC-6E8C-492D-8862-B9EFB7A4E06A,Jun.30.2014 00:00:00.0
+74,420023788,adventure-works\bjorn0,/3/1/6/3/,4.00×10^+00,Production Technician - WC30,06/November/1989,S,M,07/January/2009,0,4.30×10^+01,1,A942E1E0-2D5E-4858-97C0-947020E96860,Jun.30.2014 00:00:00.0
+81,413787783,adventure-works\mihail0,/3/1/7/3/,4.00×10^+00,Production Technician - WC40,09/March/1971,S,M,29/December/2009,0,6.40×10^+01,1,03A9BA14-0D5B-4671-B851-2C1721EFBF01,Jun.30.2014 00:00:00.0
+189,187369436,adventure-works\janeth0,/3/1/20/3/,4.00×10^+00,Production Technician - WC45,24/July/1972,S,F,15/January/2009,0,8.10×10^+01,1,8261B8CB-BC3F-4BCE-B364-86035D870263,Jun.30.2014 00:00:00.0
+6,998320692,adventure-works\jossef0,/1/1/3/,3.00×10^+00,Design Engineer,11/March/1959,M,M,24/January/2008,1,6.00×10^+00,1,E39056F1-9CD5-478D-8945-14ACA7FBDCDD,Jun.30.2014 00:00:00.0
+222,685233686,adventure-works\ascott0,/3/3/,2.00×10^+00,Master Scheduler,17/September/1968,S,M,12/December/2008,0,4.40×10^+01,1,13909262-4136-492F-BCA3-0B0E3773B03E,Dec.26.2014 09:17:08.0
+48,690627818,adventure-works\ruth0,/3/1/3/1/,4.00×10^+00,Production Technician - WC10,04/June/1956,M,F,06/January/2008,0,8.30×10^+01,1,3E3B6905-209E-442E-B8A8-9A0980241C6A,Jun.30.2014 00:00:00.0
+22,95958330,adventure-works\sariya0,/2/6/,2.00×10^+00,Marketing Specialist,21/May/1987,S,M,12/December/2008,0,4.50×10^+01,1,AF21F1B7-0691-48AD-B325-B8F2D7B2268A,Jun.30.2014 00:00:00.0
+139,113393530,adventure-works\hung-fu0,/3/1/14/5/,4.00×10^+00,Production Technician - WC20,23/October/1971,S,M,06/January/2010,0,0.00×10^+00,1,065D8D5F-9504-4FFE-98DC-E69677F19F15,Jun.30.2014 00:00:00.0
+276,191644724,adventure-works\linda3,/6/1/2/,3.00×10^+00,Sales Representative,27/February/1980,M,F,31/May/2011,1,2.70×10^+01,1,4509F387-D73A-43DC-A502-B1C27AA1DC9E,Jun.30.2014 00:00:00.0
+87,7201901,adventure-works\cristian0,/3/1/8/,3.00×10^+00,Production Supervisor - WC10,11/April/1984,M,M,22/December/2008,0,6.70×10^+01,1,5BE16416-8570-417D-9E54-047DB468B5E9,Jun.30.2014 00:00:00.0
+279,716374314,adventure-works\tsvi0,/6/1/5/,3.00×10^+00,Sales Representative,18/January/1974,M,M,31/May/2011,1,2.90×10^+01,1,BB510FCE-0105-4306-B591-6450D9EBF401,Jun.30.2014 00:00:00.0
+136,701156975,adventure-works\sylvester0,/3/1/14/2/,4.00×10^+00,Production Technician - WC20,12/November/1970,M,M,11/December/2009,0,4.00×10^+00,1,D9C43D08-3882-4E5C-BDF0-F6BD7004CD04,Jun.30.2014 00:00:00.0
+118,222400012,adventure-works\don0,/3/1/11/10/,4.00×10^+00,Production Technician - WC50,13/June/1971,M,M,13/February/2009,0,8.80×10^+01,1,E720053D-922E-4C91-B81A-A1CA4EF8BB0E,Jun.30.2014 00:00:00.0
+49,912265825,adventure-works\barry0,/3/1/3/2/,4.00×10^+00,Production Technician - WC10,26/March/1956,S,M,07/January/2008,0,8.80×10^+01,1,756A60AE-378F-43D8-9F93-1E821D1EAF52,Jun.30.2014 00:00:00.0
+166,60114406,adventure-works\jack0,/3/1/18/,3.00×10^+00,Production Supervisor - WC30,22/June/1983,S,M,21/February/2009,0,6.80×10^+01,1,69A47230-70EE-48FD-AC15-C39F3712FF14,Jun.30.2014 00:00:00.0
+34,754372876,adventure-works\suchitra0,/3/1/1/7/,4.00×10^+00,Production Technician - WC60,10/June/1987,M,F,16/February/2009,0,1.50×10^+01,1,6ADBD932-0DA5-4F5C-AF67-8E3A53630896,Jun.30.2014 00:00:00.0
+9,658797903,adventure-works\gigi0,/1/1/4/2/,4.00×10^+00,Research and Development Engineer,21/January/1979,M,F,16/January/2009,1,6.30×10^+01,1,50B6CDC6-7570-47EF-9570-48A64B5F2ECF,Jun.30.2014 00:00:00.0
+285,481044938,adventure-works\syed0,/6/2/,2.00×10^+00,Pacific Sales Manager,11/January/1975,M,M,14/March/2013,1,2.00×10^+01,1,86F292DB-B73C-429D-9912-800994D809FB,Jun.30.2014 00:00:00.0
+248,480951955,adventure-works\mike0,/4/2/7/,3.00×10^+00,Accountant,01/July/1979,S,M,08/March/2009,1,5.90×10^+01,1,AC35337D-7C75-4DEE-BB11-6564F257FE18,Jun.30.2014 00:00:00.0
+55,233069302,adventure-works\taylor0,/3/1/4/,3.00×10^+00,Production Supervisor - WC50,01/April/1956,M,M,08/February/2008,0,7.90×10^+01,1,28F7EF89-2793-4989-B67D-25046543C1E3,Jun.30.2014 00:00:00.0
+258,785853949,adventure-works\erin0,/4/3/1/8/,4.00×10^+00,Buyer,04/January/1971,S,F,31/January/2010,0,5.30×10^+01,1,B60712A9-50A5-4296-B892-69C4701834B0,Jun.30.2014 00:00:00.0
+19,52541318,adventure-works\mary2,/2/3/,2.00×10^+00,Marketing Assistant,29/January/1978,S,F,14/February/2011,0,4.30×10^+01,1,1F6DA901-C7F7-48A8-8EEF-D81868D72B52,Jun.30.2014 00:00:00.0
+184,305522471,adventure-works\john2,/3/1/19/4/,4.00×10^+00,Production Technician - WC20,05/April/1986,M,M,09/February/2009,0,1.80×10^+01,1,BAB69951-28AD-4BCA-B5AC-032746D0CC6F,Jun.30.2014 00:00:00.0
+155,212801092,adventure-works\fadi0,/3/1/16/3/,4.00×10^+00,Production Technician - WC20,15/February/1989,S,M,04/January/2009,0,1.60×10^+01,1,9923376F-26D0-4845-9D99-CC3D696CAEB8,Jun.30.2014 00:00:00.0

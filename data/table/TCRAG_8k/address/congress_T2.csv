@@ -1,0 +1,75 @@
+cognress_rep_id,first_name,last_name,CID,party,state,abbreviation,House,District_div10,land_area
+NC-S2,Hagan,Kay R,N00034349,Democrat,North Carolina,NC,Senate,,48718.0
+OH-10,Turner,Michael R,N00001148,Republican,Ohio,OH,House of Repsentatives,1.0,1129.76
+TX-20,Castro,Joaquin,N00031958,Democrat,Texas,TX,House of Repsentatives,2.0,199.68
+NJ-7,Lance,Leonard,N00032546,Republican,New Jersey,NJ,House of Repsentatives,0.7,970.19
+AL-5,Brooks,Mo,N00009888,Republican,Alabama,AL,House of Repsentatives,0.5,3677.31
+CA-17,Honda,Mike,N00006692,Democrat,California,CA,House of Repsentatives,1.7,184.85
+MN-4,McCollum,Betty,N00027522,Democrat,Minnesota,MN,House of Repsentatives,0.4,332.49
+IA-S2,Harkin,Tom,N00007833,Democrat,Iowa,IA,Senate,,55875.0
+TX-28,Cuellar,Henry,N00000751,Democrat,Texas,TX,House of Repsentatives,2.8,9378.53
+TX-13,Thornberry,Mac,N00013823,Republican,Texas,TX,House of Repsentatives,1.3,38349.24
+GA-S1,Chambliss,Saxby,N00030622,Republican,Georgia,GA,Senate,,57919.0
+GA-3,Westmoreland,Lynn A,N00031593,Republican,Georgia,GA,House of Repsentatives,0.3,3838.27
+PA-14,Doyle,Mike,N00031134,Democrat,Pennsylvania,PA,House of Repsentatives,1.4,209.29
+NY-20,Tonko,Paul,N00009918,Democrat,New York,NY,House of Repsentatives,2.0,1231.28
+WA-9,Smith,Adam,N00033510,Democrat,Washington,WA,House of Repsentatives,0.9,183.43
+NJ-2,LoBiondo,Frank,N00008028,Republican,New Jersey,NJ,House of Repsentatives,0.2,2092.43
+NE-S1,Fischer,Deb,N00027509,Republican,Nebraska,NE,Senate,,76878.0
+NJ-10,Payne,Donald M Jr,N00027894,Democrat,New Jersey,NJ,House of Repsentatives,1.0,75.92
+NY-13,Rangel,Charles B,N00009759,Democrat,New York,NY,House of Repsentatives,1.3,10.25
+IL-11,Foster,Bill,N00030752,Democrat,Illinois,IL,House of Repsentatives,1.1,280.95
+CA-22,Nunes,Devin,N00027035,Republican,California,CA,House of Repsentatives,2.2,1165.12
+FL-8,Posey,Bill,N00026341,Republican,Florida,FL,House of Repsentatives,0.8,1752.06
+NC-3,Jones,Walter B Jr,N00007479,Republican,North Carolina,NC,House of Repsentatives,0.3,7810.08
+MA-5,Clark,Katherine,N00026686,Democrat,Massachusetts,MA,House of Repsentatives,0.5,265.08
+GA-9,Collins,Doug,N00033054,Republican,Georgia,GA,House of Repsentatives,0.9,5210.81
+CA-33,Waxman,Henry,N00030245,Democrat,California,CA,House of Repsentatives,3.3,288.58
+NE-S2,Johanns,Mike,N00030191,Republican,Nebraska,NE,Senate,,76878.0
+OK-2,Mullin,Markwayne,N00003389,Republican,Oklahoma,OK,House of Repsentatives,0.2,20995.35
+TX-21,Smith,Lamar,N00002260,Republican,Texas,TX,House of Repsentatives,2.1,5920.89
+OH-9,Kaptur,Marcy,N00000270,Democrat,Ohio,OH,House of Repsentatives,0.9,464.65
+MO-2,Wagner,Ann L,N00031104,Republican,Missouri,MO,House of Repsentatives,0.2,465.76
+VA-4,Forbes,Randy,N00005285,Republican,Virginia,VA,House of Repsentatives,0.4,4310.34
+FL-21,Deutch,Ted,N00001285,Democrat,Florida,FL,House of Repsentatives,2.1,260.97
+GA-7,Woodall,Rob,N00026171,Republican,Georgia,GA,House of Repsentatives,0.7,392.61
+CT-2,Courtney,Joe,N00032019,Democrat,Connecticut,CT,House of Repsentatives,0.2,1987.68
+LA-S1,Landrieu,Mary L,N00031204,Democrat,Louisiana,LA,Senate,,43566.0
+LA-5,McAllister,Vance,N00031128,Republican,Louisiana,LA,House of Repsentatives,0.5,14452.88
+TN-9,Cohen,Steve,N00026043,Democrat,Tennessee,TN,House of Repsentatives,0.9,483.39
+IN-2,Walorski,Jackie,N00030815,Republican,Indiana,IN,House of Repsentatives,0.2,3958.58
+TX-33,Veasey,Marc,N00030581,Democrat,Texas,TX,House of Repsentatives,3.3,211.94
+LA-4,Fleming,John,N00025025,Republican,Louisiana,LA,House of Repsentatives,0.4,12435.1
+TN-4,Desjarlais,Scott,N00021207,Republican,Tennessee,TN,House of Repsentatives,0.4,5984.84
+OR-3,Blumenauer,Earl,N00009829,Democrat,Oregon,OR,House of Repsentatives,0.3,1074.46
+NJ-9,Pascrell,Bill Jr,N00002299,Democrat,New Jersey,NJ,House of Repsentatives,0.9,95.34
+NV-2,Amodei,Mark,N00013345,Republican,Nevada,NV,House of Repsentatives,0.2,55829.71
+OH-3,Beatty,Joyce,N00029788,Democrat,Ohio,OH,House of Repsentatives,0.3,228.0
+CA-13,Lee,Barbara,N00033532,Democrat,California,CA,House of Repsentatives,1.3,96.79
+CA-43,Waters,Maxine,N00027503,Democrat,California,CA,House of Repsentatives,4.3,72.03
+AZ-7,Pastor,Ed,N00005656,Democrat,Arizona,AZ,House of Repsentatives,0.7,205.12
+IL-16,Kinzinger,Adam,N00028257,Republican,Illinois,IL,House of Repsentatives,1.6,7917.49
+WY-S2,Enzi,Mike,N00030670,Republican,Wyoming,WY,Senate,,97105.0
+FL-9,Grayson,Alan,N00029891,Democrat,Florida,FL,House of Repsentatives,0.9,1707.49
+NY-24,Maffei,Dan,N00030875,Democrat,New York,NY,House of Repsentatives,2.4,2388.56
+AZ-3,Grijalva,Raul M,N00006236,Democrat,Arizona,AZ,House of Repsentatives,0.3,15688.79
+FL-13,Jolly,David,N00034224,Republican,Florida,FL,House of Repsentatives,1.3,186.03
+MS-S2,Wicker,Roger,N00007419,Republican,Mississippi,MS,Senate,,46914.0
+CA-41,Takano,Mark,N00012508,Democrat,California,CA,House of Repsentatives,4.1,316.54
+FL-16,Buchanan,Vernon,N00005601,Republican,Florida,FL,House of Repsentatives,1.6,875.33
+OH-S1,Brown,Sherrod,N00009659,Democrat,Ohio,OH,Senate,,40953.0
+OR-2,Walden,Greg,N00006882,Republican,Oregon,OR,House of Repsentatives,0.2,69442.78
+AR-4,Cotton,Tom,N00029901,Republican,Arkansas,AR,House of Repsentatives,0.4,22338.08
+MA-9,Keating,Bill,N00005870,Democrat,Massachusetts,MA,House of Repsentatives,0.9,1214.74
+FL-7,Mica,John L,N00031820,Republican,Florida,FL,House of Repsentatives,0.7,513.58
+TX-23,Gallego,Pete,N00012672,Democrat,Texas,TX,House of Repsentatives,2.3,58059.18
+PA-7,Meehan,Patrick,N00002793,Republican,Pennsylvania,PA,House of Repsentatives,0.7,862.56
+GA-4,Johnson,Hank,N00009604,Democrat,Georgia,GA,House of Repsentatives,0.4,496.6
+MN-S1,Franken,Al,N00027605,Democrat,Minnesota,MN,Senate,,79617.0
+FL-15,Ross,Dennis,N00004614,Republican,Florida,FL,House of Repsentatives,1.5,818.51
+TX-11,Conaway,Mike,N00000781,Republican,Texas,TX,House of Repsentatives,1.1,27832.17
+ME-S2,King,Angus,N00033932,Independent,Maine,ME,Senate,,30865.0
+MI-12,Dingell,John D,N00030197,Democrat,Michigan,MI,House of Repsentatives,1.2,403.21
+OK-4,Cole,Tom,N00026460,Republican,Oklahoma,OK,House of Repsentatives,0.4,9777.28
+TX-4,Hall,Ralph,N00033591,Republican,Texas,TX,House of Repsentatives,0.4,10122.99
+OH-11,Fudge,Marcia L,N00000078,Democrat,Ohio,OH,House of Repsentatives,1.1,244.46

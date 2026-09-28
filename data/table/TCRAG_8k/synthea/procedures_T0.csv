@@ -1,0 +1,65 @@
+DATE,PATIENT,ENCOUNTER,CODE,DESCRIPTION,REASONCODE,REASONDESCRIPTION
+two thousand and sixteen.three.eight,32342351-2ce8-4fd3-a721-fbcd033cd3a9,3a5a2f7b-772d-4d46-9b53-442546047975,73761001,Colonoscopy,,
+two thousand and eight.five.ten,1362b7f7-27de-49c0-b4e2-66cbcf86d1c7,4b24ddaa-ff08-42a2-a34c-e6270521c956,76601001,Intramuscular injection,,
+two thousand and ten.two.twenty-one,6177c112-7ed3-4f7f-973c-f463014a7727,9bba8a9c-74eb-4111-a39e-413488b13ab8,428191000124101,Documentation of current medications,,
+two thousand and thirteen.one.twelve,9ed4362a-ec81-4bbb-a63e-eb5c4669e24d,d0b1e81b-da93-48f1-8152-1c451e570da9,428191000124101,Documentation of current medications,,
+two thousand and sixteen.seven.thirty,86082f75-6af5-4df0-a8f7-effd9bd68a58,1d1e0c66-24a7-4984-99eb-1ca6b5c5833c,76601001,Intramuscular injection,,
+two thousand and fourteen.eight.eight,1d4a1257-366d-47c8-94f0-3f1d3be0845a,4d8a1b1e-dd75-4631-8bd1-a7be39dcc4fd,252160004,Standard pregnancy test,7.29×10^+07,Normal pregnancy
+two thousand and eight.five.twenty-three,95bb9d1a-99a3-4442-bf55-e5aa3db08122,dc13f482-ae2d-424d-99a6-0262d6945b11,76601001,Intramuscular injection,,
+two thousand and eleven.eight.thirty-one,0129dfc5-e04a-4771-9116-aee1739b25f9,0c1dac74-e921-497c-95be-ca85e8c320a7,428191000124101,Documentation of current medications,,
+two thousand and seventeen.five.twenty-one,c7c72b89-0345-43c7-bd8b-1800e2adae66,98455367-0272-4631-9c44-0f0f3611c49a,180256009,Subcutaneous immunotherapy,,
+two thousand and fourteen.six.sixteen,2ff59946-e6d0-492e-8704-a98296eedd4c,ae4cfe09-7370-493f-962d-a0aa413fd4fd,180256009,Subcutaneous immunotherapy,,
+two thousand and twelve.ten.one,b51b9b64-e3c7-4201-a83e-9994173e2e55,bacb8a9c-9e4b-4397-a929-8fa911eb85c8,15081005,Pulmonary rehabilitation (regime/therapy),1.85×10^+08,Chronic obstructive bronchitis (disorder)
+two thousand and ten.six.twenty-six,5823c3f5-d043-494e-a62f-86ec909e51bb,0ddd72c5-881f-4970-a7f9-041a5b8621d5,73761001,Colonoscopy,,
+two thousand and eleven.six.eleven,bbbe2391-f249-4114-a510-3088189a1f8e,41985e83-6788-495c-9935-429264acbfc8,180256009,Subcutaneous immunotherapy,,
+two thousand and nine.ten.thirty,23373822-718a-428f-aa11-e65d10947576,212d88de-3bcc-485b-8f6c-faf52231ab6a,180256009,Subcutaneous immunotherapy,,
+two thousand and sixteen.eight.thirteen,b1943aad-500b-4b22-8da8-b4d9c667c763,3625665c-96a8-4bf6-9e85-ca5eb02290cd,428191000124101,Documentation of current medications,,
+two thousand and thirteen.seven.twenty-one,2ff59946-e6d0-492e-8704-a98296eedd4c,caa54b15-7327-4b40-811c-a40369742fa6,180256009,Subcutaneous immunotherapy,,
+two thousand and twelve.four.five,32a468b4-b226-4a44-86bd-9d3d8c3dfcaa,c632272c-04c0-4740-9119-1f3717ef1404,428191000124101,Documentation of current medications,,
+two thousand and sixteen.eight.twenty-three,ea120e37-582a-4ccf-99ce-a09b8fd6ef5f,0ba1b521-a7cb-440c-9e5d-ffbf1e10431c,428191000124101,Documentation of current medications,,
+two thousand and sixteen.two.two,0ed686b8-877a-430b-a1a6-5d0be2d6bebc,66c06426-4449-4cf0-ad5f-49296275da40,428191000124101,Documentation of current medications,,
+two thousand and thirteen.twelve.four,00b7297c-9997-455d-b581-f1bd677f5012,12087534-078b-4894-95ad-dfc49c85e1dd,428191000124101,Documentation of current medications,,
+two thousand and fifteen.ten.thirty,305cc84e-43f3-4f53-a066-645c117652f5,e5a3ee50-6918-452a-8bee-c8824532ce36,703423002,Combined chemotherapy and radiation therapy (procedure),6.78×10^+13,Primary small cell malignant neoplasm of lung  TNM stage 4 (disorder)
+two thousand and sixteen.two.eighteen,2ea22141-9eb1-486a-ab9e-dae30e4f9178,f0388a6a-1523-400f-9d4a-8136876e72ea,428191000124101,Documentation of current medications,,
+two thousand and seventeen.eight.twenty-nine,ae30d2dd-b070-461b-9882-4fdc85d8fb5e,5791c00a-02be-4b5e-aeaf-695af23a4c0b,23426006,Measurement of respiratory function (procedure),1.05×10^+07,Acute bronchitis (disorder)
+two thousand and fourteen.seven.six,6716d80d-5348-4e94-bc0a-ec5891b11db1,80c24706-3812-459a-9740-8587bb6abad8,428191000124101,Documentation of current medications,,
+two thousand and ten.eight.twenty-nine,b350b118-f30d-4a9d-a006-56be45a4da13,3a4d59d8-0f05-4b91-b996-cd2ff601c439,46706006,Replacement of contraceptive intrauterine device,,
+two thousand and fifteen.five.fourteen,88ecf281-1ea6-48f3-9003-d11544ddb342,e8458c77-4a62-48d7-9bd0-aca0c4540c6e,76601001,Intramuscular injection,,
+two thousand and twelve.six.twenty-four,8ed58c42-7231-402a-8d9c-78d8012dfd0f,253683ab-396b-4a3f-9f6e-ef6c2f1d0925,252160004,Standard pregnancy test,7.29×10^+07,Normal pregnancy
+two thousand and sixteen.seven.one,f0b80fe3-dd51-49aa-81d4-de2c6f8fe1cf,627357c8-6808-4d58-90c6-dad9e9dcd720,76601001,Intramuscular injection,,
+two thousand and seventeen.two.fifteen,689e4bef-f975-4d6a-82db-6b82ec46ac49,ce091d66-98c2-4596-8153-98a1c781b660,428191000124101,Documentation of current medications,,
+two thousand and fourteen.seven.one,5cfe1319-59ff-4cd4-998f-e3243509301e,409feb59-c57e-4fda-9cd4-f19ffaa64c5b,76601001,Intramuscular injection,,
+two thousand and fourteen.four.twenty-six,fb8233e5-bb4d-420b-ba06-7fd51be685bb,4895f46f-dccd-44f1-b4a9-33504f00948f,269911007,Sputum examination (procedure),1.05×10^+07,Acute bronchitis (disorder)
+two thousand and thirteen.six.three,fab682c5-4295-4d15-80eb-ce34b148d81f,628a7b1f-4c15-4a40-a70e-71dd91d61603,428191000124101,Documentation of current medications,,
+two thousand and fifteen.one.six,3a1adda3-22c2-4f90-a798-ab9414305017,73a08bad-c144-4b84-802f-1df62b7b2a4d,428191000124101,Documentation of current medications,,
+two thousand and twelve.twelve.five,4035b14d-0f16-46e1-af7e-d01b0d2f464f,766c95f2-d499-437a-ba2c-03e05a83f2e3,252160004,Standard pregnancy test,7.29×10^+07,Normal pregnancy
+two thousand and thirteen.eight.fifteen,045e2f8e-5bbd-4776-9a84-43ba02cea3ba,b64bfbeb-98d9-4360-b9f0-210486fa7afa,274031008,Rectal polypectomy,7.13×10^+08,Recurrent rectal polyp
+two thousand and fourteen.three.twenty-nine,aea0aaf7-1292-4011-9448-771d7a84daaf,390faa7a-0c3b-4bca-bd62-d5689a7c6f4f,428191000124101,Documentation of current medications,,
+two thousand and twelve.six.five,bbbe2391-f249-4114-a510-3088189a1f8e,0e4d05c9-13bb-4f50-9196-abe1038ea5a8,180256009,Subcutaneous immunotherapy,,
+two thousand and nine.one.seventeen,f436e3f6-b2ef-4352-aef9-1b1563412b77,e38b8bc5-608c-4ba5-ad6a-a7e62e217be6,180256009,Subcutaneous immunotherapy,,
+two thousand and fifteen.eleven.eight,ef8342d3-26e9-4d5d-a472-946ebec965bd,d3f5e89b-e729-4fe3-8a91-ad18ee9c7ad9,252160004,Standard pregnancy test,7.29×10^+07,Normal pregnancy
+two thousand and twelve.four.nine,698c6e47-70e4-4086-8de2-89de2655967b,26d94032-80f1-4d65-9310-1694aa7f3836,127783003,Spirometry (procedure),1.85×10^+08,Chronic obstructive bronchitis (disorder)
+two thousand and ten.nine.thirty,31069b16-3fdc-488f-90a2-ff72dcc380c9,81c0fe2f-05bc-405e-9708-5c52c7e24ccb,237001001,Augmentation of labor,7.29×10^+07,Normal pregnancy
+two thousand and eleven.nine.fifteen,00630ce3-e8eb-4ed4-889b-2c0ac257cbf4,3a81ad3a-5c35-49ce-acb4-4be60787696a,228557008,Cognitive and behavioral therapy,1.92×10^+08,Child attention deficit disorder
+two thousand and nine.twelve.nine,15b536d8-47ea-4429-86bb-804266646fe1,82fb3524-b616-4817-9197-29b9ca3d1688,76601001,Intramuscular injection,,
+two thousand and eight.twelve.eleven,6da01ff4-9dfc-4da9-b9f9-75a4086685c3,dfbef388-f219-4ebd-8be7-2c0713ab03f0,274031008,Rectal polypectomy,6.85×10^+07,Polyp of colon
+two thousand and sixteen.twelve.three,047ce05d-06a9-4d55-9b36-7aa5ddfbd7ac,b90ede45-c818-42f4-a832-d1a1cdb035dd,428191000124101,Documentation of current medications,,
+two thousand and seventeen.eight.twenty-nine,5cfe1319-59ff-4cd4-998f-e3243509301e,e0d034df-9b3f-4ecc-9ae2-6d6a2e78786a,76601001,Intramuscular injection,,
+two thousand and nine.one.eighteen,283d2ef9-5877-44dd-ac62-2cc4c9e13ae0,9fcb6e3f-5746-4686-a7be-e66975152ba6,428191000124101,Documentation of current medications,,
+two thousand and eleven.nine.sixteen,c4eb8448-28a2-4acd-be5b-a402242bc06e,be5208c4-5288-463f-b247-c215c549eebb,76601001,Intramuscular injection,,
+two thousand and eight.eight.twenty-nine,95bb9d1a-99a3-4442-bf55-e5aa3db08122,c1579374-e40f-4369-859a-7021d48d2eda,76601001,Intramuscular injection,,
+two thousand and sixteen.three.twenty-five,8ae46e28-0129-4224-9579-632a7de6c263,d286d289-eaa0-4c9e-ae4b-0b1b5df82077,428191000124101,Documentation of current medications,,
+two thousand and nine.two.twenty-five,b507a6c9-5534-40ab-9a31-f0a6feba1700,3655131f-babe-4415-b421-4abe6cb50544,428191000124101,Documentation of current medications,,
+two thousand and thirteen.ten.twenty-six,6ac90f2a-8898-4154-ad79-f590b3bf70bc,3104135c-8679-4cce-a244-476b610b9df6,428191000124101,Documentation of current medications,,
+two thousand and sixteen.seven.fourteen,13cda82a-3cfe-4ad7-9c04-5b324f148340,d9c5d2a8-46f9-4d97-98b6-a7a78d6dd180,311791003,Information gathering (procedure),,
+two thousand and nine.five.thirteen,e9e0d59d-38fd-471f-b132-20deaa51ac35,d39db890-16c2-4eec-bd64-bb9ef984514e,23426006,Measurement of respiratory function (procedure),1.05×10^+07,Acute bronchitis (disorder)
+two thousand and nine.five.twenty-two,12300941-b493-4209-a752-86144f883b6c,1d49fa74-3da1-430a-b5fb-bc376f2c4f03,395142003,Allergy screening test,,
+two thousand and seventeen.six.twenty-eight,642303e7-86bf-4ba7-ba84-391752520b59,3c358439-b62b-414d-b311-f5dbf786f4b9,228557008,Cognitive and behavioral therapy,1.92×10^+08,Child attention deficit disorder
+two thousand and thirteen.twelve.eleven,b2a3b4de-2403-4919-a31f-0558c8442ea0,450e7341-4525-4d87-bbd0-d5f9f05ff04a,428191000124101,Documentation of current medications,,
+two thousand and thirteen.three.five,698c6e47-70e4-4086-8de2-89de2655967b,1ff1d810-81b4-4d7d-8bfa-f2faf1272aeb,15081005,Pulmonary rehabilitation (regime/therapy),1.85×10^+08,Chronic obstructive bronchitis (disorder)
+two thousand and eleven.nine.ten,3f16df24-c47f-4b37-a735-e32d5a4c5839,dd3ff048-96e9-4d4d-bb02-b1a5746f8690,428191000124101,Documentation of current medications,,
+two thousand and ten.seven.ten,e497677a-79d0-43ee-994e-a365ee8c497a,7c906abb-b4c4-4db5-86b8-98d2f7dfffb8,180256009,Subcutaneous immunotherapy,,
+two thousand and ten.ten.six,bc6fbe62-116e-424f-943c-bae29fa9f319,f270a426-6cce-4c6e-bf59-ede4310e547b,23426006,Measurement of respiratory function (procedure),1.05×10^+07,Acute bronchitis (disorder)
+two thousand and seventeen.six.five,2ad29b71-144b-4c02-9b6b-644a6c8c09bb,92535a45-17d9-47fa-a9b2-875390b139c4,395142003,Allergy screening test,,
+two thousand and sixteen.two.twenty-one,25abea9d-7908-4cad-87c4-fe44c72e9c77,b56b82f6-d071-4f5d-94d4-5bb809c78dcb,180256009,Subcutaneous immunotherapy,,
+two thousand and eleven.seven.four,7b732e38-1ec5-4083-b195-3fad5240a358,6fcbeb3e-4c31-4d03-b34d-5d04b6585132,76601001,Intramuscular injection,,

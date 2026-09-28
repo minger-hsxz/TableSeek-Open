@@ -1,0 +1,58 @@
+uid,elapsed_time,start_date,start_station_name,start_station_id,end_date,end_station_name,end_station_id,cycle_key,membership_tier,postal_zone(k)
+9.09×10^+05,719,8/28/2015 8:19,South Van Ness at Market,66,8/28/2015 8:31,Beale at Market,56,569,Subscriber,94.117
+9.01×10^+05,289,8/21/2015 19:13,Post at Kearny,47,8/21/2015 19:17,5th at Howard,57,33,Subscriber,94.107
+9.13×10^+05,466,8/31/2015 19:58,Market at 4th,76,8/31/2015 20:06,San Francisco Caltrain 2 (330 Townsend),69,450,Subscriber,94.107
+9.02×10^+05,917,8/24/2015 7:33,Redwood City Caltrain Station,22,8/24/2015 7:48,Stanford in Redwood City,25,689,Subscriber,94.115
+9.07×10^+05,603,8/26/2015 17:13,Temporary Transbay Terminal (Howard at Beale),55,8/26/2015 17:23,San Francisco Caltrain (Townsend at 4th),70,405,Subscriber,95.11
+9.08×10^+05,126,8/27/2015 11:01,2nd at Folsom,62,8/27/2015 11:03,Howard at 2nd,63,338,Subscriber,94.11
+9.05×10^+05,2082,8/25/2015 15:10,Grant Avenue at Columbus Avenue,73,8/25/2015 15:45,San Francisco Caltrain (Townsend at 4th),70,29,Customer,20.002
+9.01×10^+05,557,8/21/2015 17:41,San Jose Diridon Caltrain Station,2,8/21/2015 17:50,Paseo de San Antonio,7,20,Subscriber,95.113
+9.09×10^+05,922,8/28/2015 7:51,San Francisco Caltrain (Townsend at 4th),70,8/28/2015 8:06,Davis at Jackson,42,407,Subscriber,94.04
+9.10×10^+05,672,8/28/2015 9:13,Townsend at 7th,65,8/28/2015 9:24,Powell Street BART,39,390,Subscriber,94.107
+9.05×10^+05,777,8/25/2015 18:09,Market at Sansome,77,8/25/2015 18:22,San Francisco Caltrain 2 (330 Townsend),69,623,Subscriber,94.303
+9.03×10^+05,714,8/24/2015 15:53,Beale at Market,56,8/24/2015 16:05,San Francisco Caltrain (Townsend at 4th),70,507,Subscriber,95.136
+9.01×10^+05,188,8/21/2015 19:24,Castro Street and El Camino Real,32,8/21/2015 19:28,Mountain View City Hall,27,28,Subscriber,2.78
+9.13×10^+05,421,8/31/2015 17:06,Market at 4th,76,8/31/2015 17:13,San Francisco Caltrain (Townsend at 4th),70,292,Subscriber,94.403
+9.06×10^+05,416,8/26/2015 13:08,Ryland Park,84,8/26/2015 13:15,Santa Clara County Civic Center,80,155,Subscriber,95.112
+9.12×10^+05,681,8/31/2015 8:42,2nd at Townsend,61,8/31/2015 8:54,Broadway St at Battery St,82,378,Subscriber,94.107
+9.03×10^+05,161,8/24/2015 19:23,Paseo de San Antonio,7,8/24/2015 19:25,San Salvador at 1st,8,98,Subscriber,95.113
+9.04×10^+05,633,8/25/2015 12:15,Beale at Market,56,8/25/2015 12:25,Golden Gate at Polk,59,212,Subscriber,94.109
+9.02×10^+05,465,8/24/2015 7:26,Mountain View Caltrain Station,28,8/24/2015 7:33,Mountain View City Hall,27,94,Subscriber,93.95
+9.03×10^+05,546,8/24/2015 19:49,Embarcadero at Bryant,54,8/24/2015 19:58,Embarcadero at Vallejo,48,575,Subscriber,94.105
+9.04×10^+05,771,8/25/2015 12:12,Townsend at 7th,65,8/25/2015 12:25,Embarcadero at Folsom,51,137,Subscriber,94.105
+9.01×10^+05,262,8/21/2015 17:12,Market at 10th,67,8/21/2015 17:17,Powell Street BART,39,193,Subscriber,94.103
+9.02×10^+05,560,8/24/2015 8:07,5th at Howard,57,8/24/2015 8:17,Steuart at Market,74,379,Subscriber,94.107
+9.01×10^+05,1298,8/22/2015 11:22,Harry Bridges Plaza (Ferry Building),50,8/22/2015 11:44,Spear at Folsom,49,238,Customer,94.105
+9.10×10^+05,647,8/28/2015 17:26,Market at Sansome,77,8/28/2015 17:36,Market at 10th,67,275,Subscriber,94.102
+9.04×10^+05,887,8/25/2015 8:25,Steuart at Market,74,8/25/2015 8:40,Townsend at 7th,65,608,Subscriber,94.568
+9.08×10^+05,835,8/27/2015 15:23,2nd at Townsend,61,8/27/2015 15:37,Embarcadero at Sansome,60,546,Customer,94.123
+9.09×10^+05,417,8/27/2015 18:17,Yerba Buena Center of the Arts (3rd @ Howard),68,8/27/2015 18:24,San Francisco Caltrain 2 (330 Townsend),69,67,Subscriber,94.158
+9.11×10^+05,634,8/30/2015 9:17,San Francisco Caltrain 2 (330 Townsend),69,8/30/2015 9:28,Embarcadero at Folsom,51,67,Subscriber,94.107
+9.11×10^+05,1228,8/29/2015 12:51,Grant Avenue at Columbus Avenue,73,8/29/2015 13:11,2nd at Townsend,61,335,Subscriber,94.133
+9.08×10^+05,1070,8/27/2015 15:35,2nd at Townsend,61,8/27/2015 15:53,Civic Center BART (7th at Market),72,448,Customer,60.622
+9.07×10^+05,889,8/26/2015 17:21,San Francisco Caltrain 2 (330 Townsend),69,8/26/2015 17:36,Embarcadero at Sansome,60,505,Subscriber,94.109
+9.06×10^+05,68,8/26/2015 8:41,2nd at South Park,64,8/26/2015 8:42,2nd at Townsend,61,300,Subscriber,94.107
+9.06×10^+05,533,8/26/2015 9:58,San Francisco Caltrain (Townsend at 4th),70,8/26/2015 10:07,Spear at Folsom,49,282,Subscriber,94.061
+9.09×10^+05,211,8/27/2015 19:14,Townsend at 7th,65,8/27/2015 19:18,San Francisco Caltrain 2 (330 Townsend),69,585,Subscriber,94.103
+9.07×10^+05,440,8/27/2015 6:34,Temporary Transbay Terminal (Howard at Beale),55,8/27/2015 6:42,Broadway St at Battery St,82,431,Subscriber,94.61
+9.01×10^+05,735,8/22/2015 17:16,Grant Avenue at Columbus Avenue,73,8/22/2015 17:28,Powell at Post (Union Square),71,530,Customer,94.71
+9.11×10^+05,686,8/30/2015 13:46,Grant Avenue at Columbus Avenue,73,8/30/2015 13:58,Embarcadero at Folsom,51,528,Subscriber,94.105
+9.07×10^+05,288,8/26/2015 18:37,San Jose Diridon Caltrain Station,2,8/26/2015 18:42,Santa Clara at Almaden,4,231,Subscriber,95.11
+9.10×10^+05,539,8/28/2015 14:53,Temporary Transbay Terminal (Howard at Beale),55,8/28/2015 15:02,San Francisco Caltrain 2 (330 Townsend),69,579,Subscriber,94.404
+9.11×10^+05,1238,8/29/2015 17:34,Commercial at Montgomery,45,8/29/2015 17:55,Market at 4th,76,69,Subscriber,94.107
+9.08×10^+05,826,8/27/2015 14:43,Townsend at 7th,65,8/27/2015 14:57,Harry Bridges Plaza (Ferry Building),50,404,Subscriber,94.501
+9.03×10^+05,564,8/24/2015 12:22,San Francisco Caltrain (Townsend at 4th),70,8/24/2015 12:32,Post at Kearny,47,274,Subscriber,94.111
+9.11×10^+05,3708,8/29/2015 17:56,Embarcadero at Folsom,51,8/29/2015 18:57,Embarcadero at Sansome,60,377,Customer,96.151
+9.04×10^+05,354,8/24/2015 22:41,2nd at Townsend,61,8/24/2015 22:47,Spear at Folsom,49,603,Subscriber,94.102
+9.06×10^+05,267,8/26/2015 9:04,San Francisco Caltrain 2 (330 Townsend),69,8/26/2015 9:08,Townsend at 7th,65,420,Subscriber,94.401
+9.08×10^+05,521,8/27/2015 8:56,Harry Bridges Plaza (Ferry Building),50,8/27/2015 9:05,Yerba Buena Center of the Arts (3rd @ Howard),68,489,Subscriber,94.901
+9.03×10^+05,786,8/24/2015 18:36,2nd at Townsend,61,8/24/2015 18:49,Mechanics Plaza (Market at Battery),75,513,Subscriber,94.609
+9.12×10^+05,914,8/31/2015 8:56,San Francisco Caltrain 2 (330 Townsend),69,8/31/2015 9:11,Market at Sansome,77,619,Subscriber,94.087
+9.13×10^+05,915,8/31/2015 16:47,Mechanics Plaza (Market at Battery),75,8/31/2015 17:03,San Francisco Caltrain 2 (330 Townsend),69,549,Subscriber,94.301
+9.04×10^+05,418,8/25/2015 6:21,Harry Bridges Plaza (Ferry Building),50,8/25/2015 6:28,2nd at Folsom,62,191,Subscriber,94.901
+9.12×10^+05,1116,8/30/2015 17:49,Clay at Battery,41,8/30/2015 18:08,Embarcadero at Sansome,60,589,Customer,0.001
+9.01×10^+05,4239,8/22/2015 12:47,Harry Bridges Plaza (Ferry Building),50,8/22/2015 13:58,Grant Avenue at Columbus Avenue,73,514,Customer,10.011
+9.05×10^+05,550,8/25/2015 17:09,Temporary Transbay Terminal (Howard at Beale),55,8/25/2015 17:19,San Francisco Caltrain 2 (330 Townsend),69,191,Subscriber,94.025
+9.10×10^+05,876,8/28/2015 17:49,Market at Sansome,77,8/28/2015 18:03,San Francisco Caltrain 2 (330 Townsend),69,604,Subscriber,95.134
+9.03×10^+05,397,8/24/2015 19:08,Commercial at Montgomery,45,8/24/2015 19:15,Embarcadero at Sansome,60,652,Subscriber,94.133
+9.08×10^+05,271,8/27/2015 9:00,Powell at Post (Union Square),71,8/27/2015 9:04,Yerba Buena Center of the Arts (3rd @ Howard),68,328,Subscriber,94.123

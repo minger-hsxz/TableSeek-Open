@@ -1,0 +1,29 @@
+playerID,useFirst,firstName,middleName,lastName,nameGiven,fullGivenName,nameSuffix,nameNick,pos,firstseason,lastseason,height,weight,college,collegeOther,birthDate,birthCity,birthState,birthCountry,highSchool,hsCity,hsState,hsCountry,race
+mitchmu01,Murray,Murray,C.,Mitchell,zero,,,,C,0.0,0.0,78.0,0.0,Sam Houston State,,1923-03-19,,,,Huntsville,Huntsville,TX,USA,W
+collini01,Nick,Nicholas,John,Collison,zero,,,Nick,F,0.0,0.0,81.0,255.0,Kansas,,1980-10-26,Orange City,IA,USA,Iowa Falls,Iowa Falls,IA,USA,W
+barreer01,Ernie,Ernie,Drew,Barrett,zero,,,Black Jack,G-F,0.0,0.0,75.0,180.0,Kansas State,,1929-08-27,Pratt,KS,USA,Wellington,Wellington,KS,USA,W
+patrimy01,Myles,Myles,,Patrick,zero,,,,F,0.0,0.0,80.0,220.0,Auburn,,1954-11-19,Macon,GA,USA,Southwest,Macon,GA,USA,B
+higgico01,Cory,Courdon,,Higgins,zero,,,Cory,G,0.0,0.0,77.0,180.0,Colorado,,1989-06-14,Danville,CA,USA,Monte Vista / IMG Pendleton School,Danville / Bradenton,CA / FL,USA,B
+hendeto01,Tom,Thomas,Edward,Henderson,zero,,,Tom,G,0.0,0.0,75.0,190.0,Hawaii,San Jacinto JC,1952-01-26,Newberry,SC,USA,DeWitt Clinton,Bronx,NY,USA,B
+barneji02,Jim,James,Franklin,Barnett,zero,,,Jim,G-F,0.0,0.0,76.0,170.0,Oregon,,1944-07-07,Greenville,SC,USA,Ramona,Riverside,CA,USA,W
+brownsh01,Shannon,Shannon,,Brown,zero,,,,G,0.0,0.0,76.0,205.0,Michigan State,,1985-11-29,Maywood,IL,USA,Proviso East,Maywood,IL,USA,B
+brogaji01,Jim,James,Riley,Brogan,zero,,,Jim,G,0.0,0.0,76.0,185.0,West Virginia Wesleyan,,1958-02-24,Ardmore,PA,USA,Lower Merion,Ardmore,PA,USA,W
+lieboba01,Barry,Barry,,Liebowitz,zero,,,,G,0.0,0.0,74.0,180.0,LIU,,1945-09-10,New York,NY,USA,DeWitt Clinton,Bronx,NY,USA,W
+meyerwa01,zero,Ward,,Meyers,zero,,,,C,0.0,0.0,73.0,185.0,none,,0000-00-00,,,,,,,zero,W
+maybele01,Lee,Orva,Lee,Mayberry,zero,,Jr.,Lee,G,0.0,0.0,73.0,172.0,Arkansas,,1970-06-12,Tulsa,OK,USA,Rogers,Tulsa,OK,USA,B
+peplomi01,Mike,Michael,Walter,Peplowski,zero,,,Mike,C,0.0,0.0,82.0,270.0,Michigan State,,1970-10-15,Detroit,MI,USA,De La Salle,Warren,MI,USA,W
+joneswa01,Wah Wah,Wallace,Clayton,Jones,zero,,,Wah Wah,F,0.0,0.0,76.0,205.0,Kentucky,,1926-07-14,Harlan,KY,USA,Harlan,Harlan,KY,USA,W
+mullich01,Chris,Christopher,Paul,Mullin,zero,,,Chris,F-G,0.0,0.0,78.0,200.0,St. John's (NY),,1963-07-30,New York,NY,USA,Power Memorial / Xaverian,New York / Brooklyn,NY,USA,W
+roberwy01,zero,Wyman,J.,Roberts,zero,,,,F,0.0,0.0,71.0,160.0,none,,1915-09-27,,,,Waterloo,Waterloo,OH,USA,W
+hinriki01,Kirk,Kirk,James,Hinrich,zero,,,,G,0.0,0.0,75.0,190.0,Kansas,,1981-01-02,Sioux City,IA,USA,Sioux City West,Sioux City,IA,USA,W
+stanced01,Ed,Edmund,A.,Stanczak,zero,,,"Ed, Moose, Stan",F,0.0,0.0,73.0,185.0,none,,1921-08-15,,,,Central,Fort Wayne,IN,USA,W
+stutzst01,Stan,Stanley,J.,Stutz,zero,Stanley J. Modzelewski,,Stan,G-F,0.0,0.0,70.0,170.0,Rhode Island,,1920-04-14,Worcester,MA,USA,Worcester Classical,Worcester,MA,USA,W
+hickspa01,zero,Paul,,Hicks,zero,,,,G,0.0,0.0,75.0,195.0,Eastern Kentucky,,0000-00-00,,,,,,,zero,W
+turnehe01,Herschel,Herschell,C.,Turner,zero,,,H.T.,G,0.0,0.0,74.0,195.0,Nebraska,,1938-03-29,,,,Shortridge,Indianapolis,IN,USA,B
+boozebo01,Bob,Robert,Lewis,Boozer,zero,,,"Bob, Bullet Bob, Big Bob, Coot",F,0.0,0.0,80.0,215.0,Kansas State,,1937-04-26,Omaha,NE,USA,Omaha Tech,Omaha,NE,USA,B
+fitchbi01,Bill,Bill,,Fitch,zero,,,,,0.0,0.0,74.0,205.0,Coe College,,1934-05-19,,,,,,,zero,
+mcguial01,Al,Alfred,James,McGuire,zero,,,Al,G-F,0.0,0.0,74.0,180.0,St. John's (NY),,1928-09-07,New York,NY,USA,St. John's Prep,Brooklyn,NY,USA,W
+seminji01,Jim,James,J.,Seminoff,zero,,,Jim,G-F,0.0,0.0,74.0,190.0,USC,,1922-09-01,Los Angeles,CA,USA,Roosevelt,Los Angeles,CA,USA,W
+aingeda01,Danny,Daniel,Ray,Ainge,zero,,,Danny,G-F,0.0,0.0,76.0,175.0,Brigham Young,,1959-03-17,Eugene,OR,USA,North Eugene,North Eugene,OR,USA,W
+nelsodo01,Don,Donald,Arvid,Nelson,zero,,,"Don, Nellie",F,0.0,0.0,78.0,210.0,Iowa,,1940-05-15,Muskegon,MI,USA,Rock Island,Rock Island,IL,USA,W
+johnssp01,zero,Charles,,Johnson,zero,,,Splinter,F-C,0.0,0.0,75.0,190.0,Purdue,,0000-00-00,,,,Frankfort,Frankfort,IN,USA,W

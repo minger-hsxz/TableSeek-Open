@@ -1,0 +1,61 @@
+ID,Examination Date,aCL IgG,aCL IgM,ANA,ANA Pattern,aCL IgA,Diagnosis,KCT,RVVT,LAC,Symptoms,Thrombosis
+4894240.0,MCMXCVII-I-XX,0.0,1.3,4.0,P,0,SLE,-,-,-,CNS lupus,2
+5651610.0,MCMXCVII-V-XXX,1.4,1.9,4096.0,P,5,SLE,zero,zero,-,zero,0
+5433850.0,MCMXCVI-VIII-XII,1.2,5.4,64.0,S,16,"APS, SLE",+,+,+,AMI,1
+1403830.0,MCMXCVI-III-XVIII,0.8,13.8,0.0,zero,0,,zero,zero,,zero,0
+5307310.0,MCMXCV-IV-XI,0.0,2.1,4.0,zero,0,RA,zero,zero,,zero,0
+5603380.0,MCMXCVII-II-X,0.0,0.0,16.0,P,0,RA,zero,zero,,zero,0
+5397060.0,MCMXCV-XII-VII,8.3,5.4,256.0,"P,S",2,"SLE, IP",-,-,-,zero,0
+5641100.0,MCMXCVII-V-XXI,0.0,2.3,16.0,S,0,,zero,zero,,zero,0
+2863400.0,MCMXCVII-VIII-VII,1.1,0.9,,zero,0,,zero,zero,-,zero,0
+5657720.0,MCMXCVIII-II-XIII,1.1,1.1,16.0,P,1,SLE,zero,zero,,zero,0
+5064810.0,MCMXCIV-IV-IV,3.6,1.1,1024.0,S,4,SLE,-,-,-,zero,0
+1807000.0,MCMXCVI-I-IX,1.0,10.7,1024.0,S,9,SLE,-,-,-,thrombosis of lower extremities,1
+2724080.0,MCMXCVII-V-XII,1.3,7.9,256.0,S,0,"SLE, endocarditis",-,-,-,zero,0
+5572340.0,MCMXCVI-XI-XVIII,0.0,0.8,4.0,P,0,,zero,zero,,zero,0
+5489490.0,MCMXCVI-V-XX,0.7,0.0,0.0,zero,5,RA,zero,zero,,zero,0
+2098730.0,MCMXCVI-V-XIV,0.8,3.6,64.0,P.S,50,"SLE, depression",zero,zero,,zero,0
+,MCMXCVI-IV-III,0.5,1.3,,zero,0,,zero,zero,,zero,0
+4590100.0,MCMXCV-III-XV,2.1,2.1,4096.0,"S,N",3,"SLE, abortion",-,-,-,zero,0
+3691060.0,MCMXCVI-XII-V,1.5,6.5,1024.0,P,2,SLE,zero,zero,,zero,0
+5685700.0,MCMXCVII-VIII-XI,2.3,9.0,64.0,"P,S",9,"SLE, SjS susp",zero,zero,-,zero,0
+3930290.0,MCMXCVIII-I-XIII,1.6,4.9,256.0,S,0,SLE,+,-,+,zero,0
+4769310.0,MCMXCV-VIII-XXI,6.6,5.7,16.0,S,0,SLE,zero,zero,,zero,0
+5507840.0,MCMXCVI-VI-XXV,0.6,0.0,0.0,zero,3,,zero,zero,,zero,0
+5446560.0,MCMXCVI-VII-II,0.0,2.9,16.0,S,25,,zero,zero,,zero,0
+5572680.0,MCMXCVI-XI-XVIII,0.0,0.5,16.0,"P,S",0,,zero,zero,,zero,0
+,MCMXCVI-III-XIV,0.6,0.0,,zero,0,,zero,zero,,zero,0
+5775810.0,MCMXCVIII-III-XXIV,0.0,0.9,16.0,P,0,,zero,zero,,zero,0
+3891720.0,MCMXCV-III-XIII,3.1,2.9,16.0,P,2,RA,zero,zero,,zero,0
+5341910.0,MCMXCV-VI-XXVII,1.1,0.0,0.0,zero,0,,zero,zero,,zero,0
+3147100.0,MCMXCV-VI-XXII,0.0,0.0,0.0,zero,0,,zero,zero,,zero,0
+3298490.0,MCMXCVII-X-VI,0.0,0.0,0.0,zero,0,,zero,zero,,zero,0
+4916420.0,MCMXCV-III-XXIII,3.1,3.0,16.0,P,21,,zero,zero,,zero,0
+5601880.0,MCMXCVII-II-III,1.5,1.8,64.0,P,3,"SLE, CNS",zero,zero,+,zero,0
+5496280.0,MCMXCVI-VI-III,0.0,1.7,16.0,S,0,RA,zero,zero,,zero,0
+5746530.0,MCMXCVIII-I-XII,0.0,1.7,0.0,zero,0,uveitis,zero,zero,,zero,0
+3419510.0,MCMXCVII-VII-XXIX,28.5,2.0,256.0,P,7,,zero,zero,,zero,0
+5510320.0,MCMXCVI-VII-I,0.0,2.7,256.0,S,0,SLE,zero,zero,,zero,0
+5456750.0,MCMXCVI-III-XV,1.0,3.2,4.0,S,16,SjS,zero,zero,,zero,0
+,MCMXCVI-XII-XX,0.8,1.7,64.0,"P,S",2,,zero,zero,,zero,0
+5469520.0,MCMXCVI-IV-IV,0.6,0.0,0.0,zero,6,PM,zero,zero,,zero,0
+5346540.0,MCMXCV-VII-VI,0.0,1.4,0.0,zero,0,,-,-,-,zero,0
+5562290.0,MCMXCVI-X-XXIII,0.9,1.9,0.0,zero,6,,zero,zero,-,zero,0
+3389210.0,MCMXCVI-IX-XXX,0.0,4.1,64.0,P,0,,zero,zero,,zero,0
+5490600.0,MCMXCVII-VI-XXIII,0.7,1.8,16.0,S,0,arthralgia,zero,zero,,zero,0
+5249830.0,MCMXCVII-X-XIII,0.0,2.9,4.0,P,0,anemia,zero,zero,,zero,0
+5440540.0,MCMXCVI-II-V,0.9,5.2,0.0,zero,4,SjS,zero,zero,,zero,0
+4302590.0,MCMXCV-VIII-XXI,1.1,5.5,4096.0,S,0,MCTD,+,+,+,brain infarction,1
+5394020.0,MCMXCVI-XI-XXII,0.0,2.0,16.0,P,0,SjS,zero,zero,,zero,0
+4738750.0,MCMXCVII-II-XVII,2.4,2.0,1024.0,S,3,"SjS, multiple thrombosis",-,-,-,multiple thrombosis,1
+5694890.0,MCMXCVII-VIII-XXIX,1.3,1.7,256.0,"P,S",3,,zero,zero,-,zero,0
+3058780.0,MCMXCVIII-I-XX,0.0,2.8,16.0,S,0,"SLE, OMI",-,-,-,MI,1
+5303770.0,MCMXCV-IV-III,0.0,1.7,4.0,zero,2,,zero,zero,,zero,0
+2969100.0,MCMXCVII-X-XIV,2.1,10.2,4.0,P,3,SLE susp,zero,zero,,zero,0
+5494860.0,MCMXCVI-V-XXXI,0.0,2.3,4.0,P,6,PSS,zero,zero,,zero,0
+5693510.0,MCMXCVII-VIII-XXVI,0.9,0.0,256.0,"S,P",0,RA,zero,zero,,zero,0
+5290320.0,MCMXCV-VII-XXIV,0.0,0.6,,zero,0,,zero,zero,,zero,0
+5203620.0,MCMXCV-VII-XI,0.0,1.5,4.0,zero,0,,zero,zero,,zero,0
+5416400.0,MCMXCVIII-II-XVI,0.0,1.3,16.0,N,0,Normal,zero,zero,,zero,0
+5306300.0,MCMXCV-IV-X,0.0,1.4,4.0,zero,0,"RA, SjS ,Crohn",zero,zero,,zero,0
+3541220.0,MCMXCI-XI-XIV,977.5,6.3,256.0,S,120,SLE,+,+,+,abortion,1

@@ -1,0 +1,48 @@
+bizID,name,address,city,zipCode,lat,lng,contactNo,fiscalCode,corpCert,appDate,owner_name,owner_address,owner_city,proprietorState
+75853,Fog Baby Cafe,3516 Balboa St,SF.,94121.0,zero,,14155751050.0,H24,4.83×10^+05,2013-08-21,"Fernando Fonseca, Shireen Knopoff",2550 Sloat Blv #6,S.F.,CA
+70292,The Underground Smoke & Gift Shop,875 B O'Farrell St,SF,94109.0,zero,,14155646642.0,H03,4.72×10^+05,,Reda Mahfouz & Adnan S. Ramahi,875 B O'Farrell St.,San Francisco,CA
+81261,Repose Coffee Bar and Gallery,262 Divisadero St,SF,94117.0,zero,,,H24,1.01×10^+06,2014-12-01,Repose Coffee Bar and Gallery,655 Montgomery St. Ste 1440,San Francisco,CA
+65066,Lers Ros Thai Noodle,307 Hayes St,zero,94102.0,thirty-seven point seven seven seven,-1.22×10^+02,,H25,4.62×10^+05,2011-01-11,Lers Ros & Red / Narupon Silargorn,730 Larkin Street,San Francisco,CA
+83951,People's Cafe,1419 Haight St,SF,94117.0,zero,,14155558842.0,H25,1.01×10^+06,2015-07-09,Yiu Kwan Wong,1965 48th Ave.,SF,CA
+62888,Poquito,2368 03rd St,S.F.,94107.0,thirty-seven point seven five nine six,-1.22×10^+02,,H25,4.52×10^+05,2010-04-26,"Tacos N' Tequila, LLC",2368 3rd Street,Sf,CA
+82656,The Pin Up,772 Folsom St,SF,94107.0,zero,,,H25,1.01×10^+06,2015-03-31,"And Another One, LLC",245 Kearny St.,SF,CA
+13226,CALIFORNIA WINE MERCHANT,2113 CHESTNUT ST,SF,94123.0,thirty-seven point eight zero zero five,-1.22×10^+02,,H07,4.26×10^+05,2004-04-23,CALIFORNIA WINE MERCHANT INC,2113 CHESTNUT ST,SAN FRANCISCO,CA
+82078,Parc 55 San Francisco a Hilton Hotel,55 Cyril Magnin St 2nd Floor,zero,94102.0,zero,,,H26,1.01×10^+06,2015-02-12,"P55 Hotel Owner, LLC","7930 Jones Branch Drive, Suite 1100",McLean,VA
+10184,Encore Karaoke Lounge,"1550 California St, 2nd Floor",San Francisco,94109.0,thirty-seven point seven nine zero seven,-1.22×10^+02,,H86,3.88×10^+05,2005-05-10,Encore Karaoke Lounge LLC,"1550 California St, 2nd Floor",San Francisco,CA
+79568,Plin,280 Valencia St,SF,94103.0,zero,,14155682016.0,H26,4.89×10^+05,2014-07-14,Plin License LLC,108 Fafael Dr.,San Rafael,CA
+45,CHARLIE'S DELI CAFE,3202 FOLSOM St,S.F.,94110.0,thirty-seven point seven four seven one,-1.22×10^+02,,H24,3.40×10^+05,2001-10-10,"HARB, CHARLES AND KRISTIN",1150 SANCHEZ,S.F.,CA
+70823,Toma,3318 Steiner St,san francisco,94123.0,thirty-seven point eight,-1.22×10^+02,,H24,4.74×10^+05,2012-11-02,"Toma Toda, LLC",337 Lisbon Street,San Francisco,CA
+78911,Samovar Tea Mission LLC,411 Valencia St,SF,94103.0,zero,,14155624700.0,H25,4.89×10^+05,2014-05-15,Samovar Tea Mission LLC,411 Valencia,SF,CA
+83603,Dragon Papa,752 Grant Ave,zero,94108.0,zero,,,H28,1.01×10^+06,2015-06-05,Kin N. Tam,752 Grant Avenue,San Francisco,CA
+85609,Yo Soy Cafe Guatemalteco,4794 Mission St,zero,94112.0,zero,,14155309215.0,H25,1.02×10^+06,2015-11-06,Joshua Benjamin Deleon Hernandez,1605 Birshwood Ct,San Francisco,CA
+83643,Burma Love,211 Valencia St,zero,94103.0,zero,,14155535800.0,H26,1.01×10^+06,2015-06-09,Mya Myanmar INC,991 Mission St,San Francisco,CA
+62778,Turk Street Shell,800 TURK St,SF,94102.0,thirty-seven point seven eight one eight,-1.22×10^+02,,H03,4.48×10^+05,2010-04-15,"Au Energy, LLC",41805 Albrae Street,Fremont,CA
+67385,"Wycen Foods, Inc.",832 Stockton St,zero,94108.0,thirty-seven point seven nine three seven,-1.22×10^+02,,H07,3.01×10^+05,2011-09-19,"Wycen Food, Inc. / Arthur Leong, Pres., Nancy Leong, Sec., Cynthia Wong, VP",560 Estabrook Street,San Leandro,CA
+62060,Cozy Cable Car Cafe,519 Powell St,San Francisco,94108.0,thirty-seven point seven eight nine five,-1.22×10^+02,14155983097.0,H24,4.39×10^+05,2010-01-19,"AH Hospitality Group, Inc.",3036 Fleetwood Dr.,San Bruno,CA
+7182,Travel Traders #706,55 CYRIL MAGNIN St,SAN FRANCISCO,94102.0,thirty-seven point seven eight four six,-1.22×10^+02,,H03,2.10×10^+05,2005-08-19,Travel Traders Hotel Store Inc,55 Cyril Magnin St,San Francisco,CA
+84340,Bon Appetit Management Co,685 Market St 4th Floor,SF,94105.0,zero,,,H24,1.68×10^+05,2015-07-28,Bon Appetit Management Co,100 Hamilton Ave #400,Palo Alto,CA
+4327,AUNT CHARLES,133 TURK St,SAN FRANCISCO,94102.0,thirty-seven point seven eight three one,-1.22×10^+02,,H86,1.65×10^+05,,WILLIAM J. ERKELENS,133 TURK STREET,SAN FRANCISCO,CA
+22671,Chiotras Grocery,858 RHODE ISLAND St,S.F.,94107.0,thirty-seven point seven five eight nine,-1.22×10^+02,,H07,4.01×10^+05,2006-06-19,"Bullard, Elizabeth",858 Rhode Island St.,SF,CA
+77492,Los Compadres Catering (Lic #5E50688),350 02nd St,zero,94107.0,zero,,,H79,3.94×10^+05,,Rafael Vizcaino,116 Grand Ave.,SSF,CA
+67357,Umami Burger SF,2184 Union St,zero,94123.0,thirty-seven point seven nine seven two,-1.22×10^+02,,H25,4.61×10^+05,2011-07-19,UMAMI BURGER SF LLC,"5900 Wilshire Blvd, 30th Floor",LOS ANGELES,CA
+854,Firenze By Night,1421 Stockton St,San Francisco,94133.0,thirty-seven point seven nine eight nine,-1.22×10^+02,,H24,2.02×10^+05,,Giusti Corp,1421 Stockton St,San Francisco,CA
+67330,San Tung Restaurant LLC,1031 Irving St,SF,94122.0,thirty-seven point seven six three nine,-1.22×10^+02,,H26,4.68×10^+05,2011-09-16,San Tun Restaurant LLC,1031 Irving St.,SF,CA
+3392,FAMILY BILLIARDS,2807 GEARY Blvd,SAN FRANCISCO,94118.0,thirty-seven point seven eight two one,-1.22×10^+02,,H26,1.61×10^+05,1991-12-18,DELBERT WONG JR.,2807 GEARY BL,SAN FRANCISCO,CA
+86224,El Rancho Grande at Haight,1654 Haight St,SF,94117.0,zero,,14155721757.0,H26,1.02×10^+06,2016-01-12,Food Prints Inc,2401 Olympic Dr.,SSF,CA
+68999,Samy's Liquor,2847 24th St,S.F.,94110.0,zero,,,H03,4.69×10^+05,2012-04-23,"Shaibi, Shaya M.",3044 24th St.,SF,CA
+80044,Starbucks Coffee #22432,564 Market St,zero,94104.0,zero,,,H25,9.12×10^+05,2014-08-19,Starbucks Corporation,2401 Utah S.,Seattle,WA
+68644,Central Kitchen & Salumeria,782 Florida,SF,94110.0,thirty-seven point seven five nine four,-1.22×10^+02,,H26,4.50×10^+05,2012-03-05,Ne Timeas Restaurant Group,2403 Harrison St.,SF,CA
+3864,3rd Street Grill,695 03rd St,S.F.,94107.0,thirty-seven point seven seven nine one,-1.22×10^+02,,H29,3.87×10^+05,2005-05-03,"Gordon, Victoria L. & Rochin, Luis F.",1635 11th Avenue,SF,CA
+85319,Curry Up Now #5,Approved Locations,San Francisco,,zero,,,H79,4.44×10^+05,2015-09-30,Akuranvyka USA Inc,"400 Oyster Point Blvd, Suite 534",South San Francisco,CA
+25167,Glaze Donuts,4499 Mission St A,S.F.,94112.0,thirty-seven point seven two six four,-1.22×10^+02,14155331144.0,H24,4.01×10^+05,2006-07-25,"Chea, Pheng",4499A Mission Street,SF,CA
+4959,THAT'S IT MARKET,2699 Mission St,SF,94110.0,thirty-seven point seven five four,-1.22×10^+02,14155289833.0,H28,3.03×10^+05,,"KARAJAH, KAMEL",2699 MISSION,SF,CA
+77706,Tout Sweet Patisserie,1 Ferry Building  #50,zero,94111.0,zero,,14155828688.0,H34,4.67×10^+05,2014-01-31,"Tout Sweet Pastry Company, Inc.",1750 D Cesar Chavez Street,San Francisco,CA
+1741,Osha Thai Noodle Cafe,696 Geary St,San Francisco,94102.0,thirty-seven point seven eight six six,-1.22×10^+02,,H25,3.53×10^+05,,OSHA THAI INC.,696 GEARY ST.,SAN FRANCISCO,CA
+84727,Herbst Theater Lower Lounge,401 Van Ness Ave,SF,94102.0,zero,,,H86,4.16×10^+05,2015-08-24,RA Center LLC,"1150 South Olive St., #TG25",Los Angeles,CA
+6472,RELIABLE DRUG,801 IRVING St,SF,94122.0,thirty-seven point seven six four,-1.22×10^+02,14155668800.0,H01,7.26×10^+03,2003-10-23,Hudson Development Inc.,801 Irving Street,SF,CA
+38580,Punjab Restaurant,2838 24th St,S.F.,94110.0,thirty-seven point seven five two nine,-1.22×10^+02,,H26,3.05×10^+05,2008-07-15,"Kerri Garban, Leona Fong & Evelyn Fong",2838 24th Street,Sf,CA
+85506,Ladle & Leaf,2 Koret Way,SF,94143.0,zero,,14155861585.0,H24,3.59×10^+05,2015-10-28,San Francisco Soup Company,451 6th Street,San Francisco,CA
+7617,LITTLE VILLAGE MARKET,1450 SUNNYDALE Ave,S.F.,94134.0,thirty-seven point seven one one nine,-1.22×10^+02,,H07,1.36×10^+05,1982-06-10,SUNNY KIM,1450 SUNNYDALE AVE,SAN FRANCISCO,CA
+6845,David's Food Store,612 Kearny St,San Francisco,94108.0,thirty-seven point seven nine three eight,-1.22×10^+02,,H03,3.47×10^+05,,David Cheng Huang,612 Kearny St,San Francisco,CA
+57774,"Queen's Louisiana Po-Boy Cafe, LLC",3030 San Bruno Ave,San Francisco,94134.0,thirty-seven point seven two three six,-1.22×10^+02,,H25,4.30×10^+05,2009-01-06,"Queen's Louisiana Po-Boy Café, LLC   Danielle Reese",3030 San Bruno Ave,San Francisco,CA
+86140,Clare's #1142,3251 20th Ave Space 204,SF,94132.0,zero,,14155564597.0,H03,9.10×10^+05,2015-12-29,Claire's Boutiques Inc,3 SW 129th Avenue Suite 400,Pembroke Pines,FL

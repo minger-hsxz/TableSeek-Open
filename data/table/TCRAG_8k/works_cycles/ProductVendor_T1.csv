@@ -1,0 +1,57 @@
+ProductID,BusinessEntityID,AverageLeadTime,StandardPrice,LastReceiptCost,LastReceiptDate,MinOrderQty,MaxOrderQty,OnOrderQty,UnitMeasureCode,ModifiedDate
+454,1540,17,39.41,forty-one point three eight zero five,two thousand and eleven.eight.nineteen 00:00:00.0,1,5,zero,CTN,two thousand and eleven.eight.nineteen 00:00:00.0
+475,1582,18,37.26,thirty-nine point one two three,two thousand and eleven.eight.twenty-one 00:00:00.0,1,5,zero,CAN,two thousand and eleven.eight.twenty-one 00:00:00.0
+869,1676,25,25.45,twenty-six point one eight,two thousand and fourteen.five.twenty-two 00:00:00.0,1000,7500,two thousand point zero,EA,two thousand and fifteen.eight.twelve 12:20:28.0
+448,1656,16,37.41,thirty-nine point two eight zero five,two thousand and eleven.eight.twenty-eight 00:00:00.0,1,5,zero,CTN,two thousand and eleven.eight.twenty-eight 00:00:00.0
+525,1600,15,2.21,two point three two zero five,two thousand and eleven.eight.twenty-six 00:00:00.0,100,1000,zero,EA,two thousand and eleven.eight.twenty-six 00:00:00.0
+428,1666,16,41.41,forty-three point four eight zero five,two thousand and eleven.eight.three 00:00:00.0,1,5,zero,CTN,two thousand and eleven.eight.three 00:00:00.0
+528,1618,16,36.34,thirty-eight point one five seven,two thousand and eleven.eight.twenty-eight 00:00:00.0,1,5,zero,CTN,two thousand and eleven.eight.twenty-eight 00:00:00.0
+445,1540,17,39.33,forty-one point two nine six five,two thousand and eleven.eight.twelve 00:00:00.0,1,5,zero,CTN,two thousand and eleven.eight.twelve 00:00:00.0
+441,1540,17,37.26,thirty-nine point one two three,two thousand and eleven.eight.six 00:00:00.0,1,5,zero,CTN,two thousand and eleven.eight.six 00:00:00.0
+465,1582,18,47.33,forty-nine point six nine six five,two thousand and eleven.eight.twenty-seven 00:00:00.0,1,5,zero,CAN,two thousand and eleven.eight.twenty-seven 00:00:00.0
+535,1508,15,3.32,three point four eight six,two thousand and eleven.eight.twenty-six 00:00:00.0,100,1000,zero,EA,two thousand and eleven.eight.twenty-six 00:00:00.0
+478,1568,15,10.56,eleven point zero eight eight,two thousand and eleven.eight.twenty-six 00:00:00.0,100,1000,zero,EA,two thousand and eleven.eight.twenty-six 00:00:00.0
+715,1636,45,37.8,thirty-eight point four nine,two thousand and thirteen.twelve.three 00:00:00.0,100,1000,one hundred point zero,EA,two thousand and fifteen.eight.twelve 12:20:28.0
+948,1576,19,78.89,eighty-two point eight three four five,two thousand and eleven.eight.twenty-nine 00:00:00.0,100,1000,zero,EA,two thousand and eleven.eight.twenty-nine 00:00:00.0
+496,1692,17,46.58,forty-eight point nine zero nine,two thousand and eleven.eight.twenty-five 00:00:00.0,20,100,zero,GAL,two thousand and eleven.eight.twenty-five 00:00:00.0
+938,1680,16,29.99,thirty-one point four eight nine five,two thousand and eleven.eight.twenty-seven 00:00:00.0,100,1000,zero,EA,two thousand and eleven.eight.twenty-seven 00:00:00.0
+915,1672,15,28.99,thirty point four three nine five,two thousand and eleven.eight.twenty-six 00:00:00.0,100,1000,three hundred point zero,EA,two thousand and eleven.eight.twenty-six 00:00:00.0
+440,1656,16,47.48,forty-nine point eight five four,two thousand and eleven.eight.seventeen 00:00:00.0,1,5,zero,CTN,two thousand and eleven.eight.seventeen 00:00:00.0
+923,1652,19,5.89,six point one eight four five,two thousand and eleven.eight.twenty-nine 00:00:00.0,100,1000,zero,EA,two thousand and eleven.eight.twenty-nine 00:00:00.0
+444,1656,16,41.41,forty-three point four eight zero five,two thousand and eleven.eight.twenty-two 00:00:00.0,1,5,zero,CTN,two thousand and eleven.eight.twenty-two 00:00:00.0
+913,1696,17,38.99,forty point nine three nine five,two thousand and eleven.eight.twenty-five 00:00:00.0,100,1000,zero,EA,two thousand and eleven.eight.twenty-five 00:00:00.0
+317,1678,17,25.77,twenty-seven point zero five eight five,two thousand and eleven.eight.twenty-five 00:00:00.0,100,1000,zero,EA,two thousand and eleven.eight.twenty-five 00:00:00.0
+912,1696,17,28.99,thirty point four three nine five,two thousand and eleven.eight.twenty 00:00:00.0,100,1000,zero,EA,two thousand and eleven.eight.twenty 00:00:00.0
+934,1652,19,35.83,thirty-seven point six two one five,two thousand and eleven.eight.twenty-nine 00:00:00.0,100,1000,zero,EA,two thousand and eleven.eight.twenty-nine 00:00:00.0
+322,1602,17,24.21,twenty-five point four two zero five,two thousand and eleven.eight.twenty-five 00:00:00.0,20,100,zero,DZ,two thousand and eleven.eight.twenty-five 00:00:00.0
+346,1622,19,45.28,forty-seven point five four four,two thousand and eleven.eight.twenty-eight 00:00:00.0,1,5,zero,CTN,two thousand and eleven.eight.twenty-eight 00:00:00.0
+397,1536,15,45.28,forty-seven point five four four,two thousand and eleven.eight.seven 00:00:00.0,1,5,zero,CTN,two thousand and eleven.eight.seven 00:00:00.0
+348,1622,19,39.21,forty-one point one seven zero five,two thousand and eleven.eight.twenty-eight 00:00:00.0,1,5,zero,CTN,two thousand and eleven.eight.twenty-eight 00:00:00.0
+356,1516,18,3.43,three point six zero one five,two thousand and eleven.eight.twenty-seven 00:00:00.0,20,100,zero,PAK,two thousand and eleven.eight.twenty-seven 00:00:00.0
+352,1694,15,1.4,one point four seven,two thousand and eleven.eight.twenty-six 00:00:00.0,100,1000,zero,EA,two thousand and eleven.eight.twenty-six 00:00:00.0
+417,1686,19,41.31,forty-three point three seven five five,two thousand and eleven.eight.seventeen 00:00:00.0,1,5,zero,CAN,two thousand and eleven.eight.seventeen 00:00:00.0
+343,1598,15,41.28,forty-three point three four four,two thousand and eleven.eight.twenty-six 00:00:00.0,1,5,zero,CTN,two thousand and eleven.eight.twenty-six 00:00:00.0
+426,1666,16,41.41,forty-three point four eight zero five,two thousand and eleven.eight.twenty-seven 00:00:00.0,1,5,zero,CTN,two thousand and eleven.eight.twenty-seven 00:00:00.0
+383,1562,16,39.28,forty-one point two four four,two thousand and eleven.eight.twenty-eight 00:00:00.0,1,5,zero,CTN,two thousand and eleven.eight.twenty-eight 00:00:00.0
+371,1496,17,37.41,thirty-nine point two eight zero five,two thousand and eleven.eight.eighteen 00:00:00.0,1,5,zero,CS,two thousand and eleven.eight.eighteen 00:00:00.0
+712,1636,45,6.55,six point nine two,two thousand and fourteen.six.thirteen 00:00:00.0,100,1000,six hundred and thirty point zero,EA,two thousand and fifteen.eight.twelve 12:20:28.0
+868,1676,25,25.45,twenty-six point one eight,two thousand and fourteen.five.twenty-two 00:00:00.0,1000,7500,two thousand point zero,EA,two thousand and fifteen.eight.twelve 12:20:28.0
+459,1540,17,37.41,thirty-nine point two eight zero five,two thousand and eleven.eight.nineteen 00:00:00.0,1,5,zero,CTN,two thousand and eleven.eight.nineteen 00:00:00.0
+390,1562,16,39.21,forty-one point one seven zero five,two thousand and eleven.eight.four 00:00:00.0,1,5,zero,CTN,two thousand and eleven.eight.four 00:00:00.0
+467,1582,18,41.26,forty-three point three two three,two thousand and eleven.eight.eight 00:00:00.0,1,5,zero,CAN,two thousand and eleven.eight.eight 00:00:00.0
+463,1582,18,45.26,forty-seven point five two three,two thousand and eleven.eight.twenty-seven 00:00:00.0,1,5,zero,CAN,two thousand and eleven.eight.twenty-seven 00:00:00.0
+429,1666,16,39.41,forty-one point three eight zero five,two thousand and eleven.eight.three 00:00:00.0,1,5,zero,CTN,two thousand and eleven.eight.three 00:00:00.0
+852,1594,60,32.35,thirty point nine four,two thousand and fourteen.five.fourteen 00:00:00.0,500,8000,seven hundred and fifty point zero,EA,two thousand and fifteen.eight.twelve 12:20:28.0
+714,1636,45,37.8,thirty-eight point four nine,two thousand and thirteen.twelve.three 00:00:00.0,100,1000,three hundred and fifty point zero,EA,two thousand and fifteen.eight.twelve 12:20:28.0
+447,1540,17,45.41,forty-seven point six eight zero five,two thousand and eleven.eight.twelve 00:00:00.0,1,5,zero,CTN,two thousand and eleven.eight.twelve 00:00:00.0
+471,1582,18,43.33,forty-five point four nine six five,two thousand and eleven.eight.fourteen 00:00:00.0,1,5,zero,CAN,two thousand and eleven.eight.fourteen 00:00:00.0
+491,1592,16,18.99,nineteen point nine three nine five,two thousand and eleven.eight.twenty-seven 00:00:00.0,1,5,zero,CAN,two thousand and eleven.eight.twenty-seven 00:00:00.0
+469,1582,18,41.26,forty-three point three two three,two thousand and eleven.eight.fourteen 00:00:00.0,1,5,zero,CAN,two thousand and eleven.eight.fourteen 00:00:00.0
+375,1562,16,41.21,forty-three point two seven zero five,two thousand and eleven.eight.ten 00:00:00.0,1,5,zero,CTN,two thousand and eleven.eight.ten 00:00:00.0
+857,1594,60,37.5,thirty-seven point one,two thousand and fourteen.five.fourteen 00:00:00.0,500,5000,one thousand point zero,EA,two thousand and fifteen.eight.twelve 12:20:28.0
+322,1514,19,27.33,twenty-eight point six nine six five,two thousand and eleven.eight.twenty-four 00:00:00.0,20,100,zero,DZ,two thousand and eleven.eight.twenty-four 00:00:00.0
+913,1570,15,38.99,forty point nine three nine five,two thousand and eleven.eight.twenty-seven 00:00:00.0,100,1000,three hundred point zero,EA,two thousand and eleven.eight.twenty-seven 00:00:00.0
+492,1692,17,47.87,fifty point two six three five,two thousand and eleven.eight.nineteen 00:00:00.0,20,100,sixty point zero,GAL,two thousand and eleven.eight.nineteen 00:00:00.0
+379,1562,16,37.21,thirty-nine point zero seven zero five,two thousand and eleven.eight.seventeen 00:00:00.0,1,5,zero,CTN,two thousand and eleven.eight.seventeen 00:00:00.0
+863,1676,25,15.5,fifteen point six seven,two thousand and fourteen.five.twenty-two 00:00:00.0,500,5000,nine hundred point zero,EA,two thousand and fifteen.eight.twelve 12:20:28.0
+352,1544,15,1.1,one point one five five,two thousand and eleven.eight.twenty-six 00:00:00.0,100,1000,three hundred point zero,EA,two thousand and eleven.eight.twenty-six 00:00:00.0

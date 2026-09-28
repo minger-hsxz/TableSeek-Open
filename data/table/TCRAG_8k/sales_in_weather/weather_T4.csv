@@ -1,0 +1,41 @@
+station_nbr,date,tmax,tmin_div100,tavg,depart,dewpoint,wetbulb,heat_div100,cool_div100,sunrise,sunset,codesum,snowfall,preciptotal,stnpressure,sealevel,resultspeed,resultdir,avgspeed
+13,two thousand and fourteen.three.thirteen,60.0,0.23,42.0,,12.0,32.0,0.23,0.0,,, ,,0.0,24.16,29.95,3.4,28.0,7.0
+5,two thousand and thirteen.two.four,,,,,,,,,06:55:00,17:02:00, ,,,,,,,
+16,two thousand and thirteen.seven.twenty-one,79.0,0.67,73.0,,63.0,67.0,0.0,0.08,,,BR,,0.0,29.8,29.92,4.2,12.0,5.6
+3,two thousand and fourteen.three.two,23.0,0.07,15.0,-32.0,8.0,13.0,0.5,0.0,06:53:00,18:18:00,TS FZDZ SN BR BLSN,2.4,0.34,29.61,30.33,17.6,36.0,18.1
+20,two thousand and twelve.two.seventeen,64.0,0.47,56.0,,44.0,49.0,0.09,0.0,,,RA,0.0,0.03,29.34,30.07,,,6.2
+11,two thousand and fourteen.four.twelve,81.0,0.55,68.0,2.0,57.0,61.0,0.0,0.03,06:03:00,18:52:00, ,0.0,0.0,30.15,30.19,3.9,11.0,4.5
+18,two thousand and thirteen.seven.sixteen,91.0,0.73,82.0,-5.0,70.0,73.0,0.0,0.17,05:31:00,19:36:00,TS TSRA RA BR,0.0,0.68,29.62,30.11,6.5,11.0,6.9
+12,two thousand and thirteen.six.sixteen,87.0,0.71,79.0,,69.0,73.0,0.0,0.14,,, ,0.0,0.0,30.06,30.1,5.8,12.0,6.1
+6,two thousand and thirteen.twelve.twenty,74.0,0.64,69.0,19.0,64.0,66.0,0.0,0.04,07:22:00,17:34:00,DZ,0.0,0.05,29.22,29.76,10.1,17.0,10.3
+10,two thousand and fourteen.nine.twenty-four,77.0,0.68,73.0,,63.0,66.0,0.0,0.08,06:16:00,18:21:00, ,,0.0,30.08,30.12,14.0,36.0,14.4
+3,two thousand and fourteen.six.seventeen,90.0,0.77,84.0,6.0,72.0,76.0,0.0,0.19,05:06:00,19:43:00, ,0.0,0.0,29.15,29.85,18.3,17.0,18.4
+6,two thousand and twelve.nine.ten,93.0,0.52,73.0,-6.0,49.0,60.0,0.0,0.08,06:12:00,18:44:00, ,0.0,0.0,29.52,30.03,1.5,12.0,3.7
+10,two thousand and twelve.nine.sixteen,87.0,0.76,82.0,,72.0,75.0,0.0,0.17,06:12:00,18:31:00, ,,0.03,30.03,30.05,5.1,11.0,5.8
+7,two thousand and fourteen.three.thirty,79.0,0.5,65.0,,31.0,48.0,0.0,0.0,,, ,0.0,0.0,28.57,29.97,22.9,18.0,23.3
+17,two thousand and fourteen.two.eighteen,76.0,0.28,52.0,,29.0,42.0,0.13,0.0,,, ,0.0,0.0,29.24,29.93,4.6,20.0,5.8
+18,two thousand and twelve.nine.eighteen,84.0,0.63,74.0,-4.0,52.0,61.0,0.0,0.09,06:13:00,18:31:00, ,0.0,0.0,29.51,30.01,6.8,1.0,7.6
+10,two thousand and thirteen.one.twelve,80.0,0.6,70.0,,60.0,63.0,0.0,0.05,07:24:00,17:46:00,FG+ MIFG BR,,0.05,30.14,30.16,2.5,14.0,3.1
+4,two thousand and twelve.three.one,72.0,0.53,63.0,5.0,60.0,62.0,0.02,0.0,06:57:00,18:29:00,BR,0.0,0.0,29.11,29.82,0.7,18.0,2.1
+11,two thousand and thirteen.four.twenty-seven,80.0,0.58,69.0,0.0,59.0,63.0,0.0,0.04,05:47:00,19:01:00, ,0.0,0.0,30.19,30.22,7.1,7.0,7.6
+2,two thousand and thirteen.nine.four,75.0,0.56,66.0,2.0,54.0,59.0,0.0,0.01,05:16:00,18:17:00, ,0.0,0.0,28.82,29.91,10.3,27.0,10.5
+13,two thousand and fourteen.ten.eight,72.0,0.47,60.0,,38.0,48.0,0.05,0.0,,, ,,0.0,24.26,29.94,2.1,19.0,4.7
+20,two thousand and fourteen.nine.one,98.0,0.78,88.0,,69.0,75.0,0.0,0.23,,, ,0.0,0.0,29.17,29.86,12.0,16.0,11.8
+12,two thousand and thirteen.six.seventeen,90.0,0.77,84.0,,73.0,76.0,0.0,0.19,,,RA,0.0,0.53,29.99,30.03,3.7,16.0,4.7
+17,two thousand and thirteen.eight.two,96.0,0.74,85.0,,74.0,77.0,0.0,0.2,,, ,0.0,0.0,29.21,29.88,6.8,18.0,7.5
+16,two thousand and twelve.five.two,52.0,0.45,49.0,,44.0,46.0,0.16,0.0,,,RA BR,,0.02,30.07,30.19,4.5,5.0,5.0
+19,two thousand and thirteen.ten.twenty,52.0,0.35,44.0,-6.0,40.0,43.0,0.21,0.0,06:11:00,17:02:00,RA,0.0,0.01,29.05,29.8,4.3,21.0,6.3
+7,two thousand and twelve.two.twenty-four,53.0,0.33,43.0,,24.0,35.0,0.22,0.0,,, ,0.0,0.0,28.85,30.2,6.1,31.0,8.3
+7,two thousand and fourteen.six.fourteen,89.0,0.72,81.0,,67.0,71.0,0.0,0.16,,, ,0.0,0.0,28.38,29.75,20.8,17.0,21.2
+20,two thousand and fourteen.nine.twenty-two,89.0,0.68,79.0,,54.0,64.0,0.0,0.14,,, ,0.0,0.05,29.42,30.11,9.2,6.0,9.5
+14,two thousand and twelve.twelve.twenty-seven,35.0,0.2,28.0,-9.0,23.0,26.0,0.37,0.0,07:38:00,17:25:00,BR,0.0,0.0,28.54,29.98,9.5,17.0,9.8
+3,two thousand and thirteen.eleven.twenty-five,36.0,0.31,34.0,-12.0,23.0,30.0,0.31,0.0,07:10:00,17:11:00,DZ FZRA,0.0,0.05,29.52,30.29,2.3,18.0,5.2
+20,two thousand and twelve.eight.thirteen,105.0,0.77,91.0,,57.0,70.0,0.0,0.26,,, ,0.0,0.0,29.22,29.91,3.1,6.0,5.8
+20,two thousand and fourteen.four.twenty-eight,83.0,0.66,75.0,,38.0,56.0,0.0,0.1,,,HZ,0.0,0.0,28.9,,3.3,32.0,8.7
+14,two thousand and twelve.eleven.two,84.0,0.49,67.0,12.0,48.0,56.0,0.0,0.02,06:53:00,17:35:00, ,0.0,0.0,28.51,29.87,9.5,21.0,12.9
+6,two thousand and fourteen.nine.six,97.0,0.7,84.0,3.0,70.0,74.0,0.0,0.19,06:10:00,18:49:00,TSRA,0.0,0.04,29.49,29.99,1.3,11.0,4.1
+2,two thousand and twelve.twelve.three,54.0,0.4,47.0,14.0,41.0,44.0,0.18,0.0,06:58:00,16:16:00,BR,0.0,0.0,29.02,30.16,6.9,28.0,8.4
+19,two thousand and fourteen.nine.five,82.0,0.63,73.0,6.0,63.0,67.0,0.0,0.08,05:20:00,18:21:00,RA,0.0,0.05,29.23,29.95,8.7,28.0,11.7
+19,two thousand and thirteen.one.five,36.0,0.18,27.0,6.0,24.0,27.0,0.38,0.0,07:23:00,16:31:00,DZ SN BR HZ,0.1,0.05,29.26,30.08,9.3,22.0,9.6
+3,two thousand and thirteen.nine.twenty-four,83.0,0.62,73.0,2.0,57.0,63.0,0.0,0.08,06:13:00,18:19:00, ,0.0,0.0,29.15,29.85,6.7,28.0,9.6
+11,two thousand and fourteen.three.twenty-one,75.0,0.51,63.0,0.0,46.0,54.0,0.02,0.0,06:30:00,18:39:00, ,0.0,0.0,30.05,30.09,4.6,8.0,5.4

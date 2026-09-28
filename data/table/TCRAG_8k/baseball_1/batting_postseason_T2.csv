@@ -1,0 +1,38 @@
+fiscal_year,cycle,athlete_key,squad_key,conference_key,g,at_bats,runs_scored,hits_total,doubles_hit,triples_hit,home_runs,runs_batted_in,stolen_bases,caught_stealing,walks_earned,strikeouts,intentional_walks,hit_by_pitch,sacrifice_hits,sacrifice_flys,grounded_into_double_play
+"one thousand, nine hundred and ninety-three",NLCS,bellira01,ATL,NL,II,1,1,0.00×10^+00,0,0,0,N,0,0.0,0,1,0.00×10^+00,0.00×10^+00,1.0,0.0,0.0
+two thousand and two,ALDS1,gilbe01,ANA,AL,II,5,1,4.00×10^+00,0,0,0,I,0,0.0,0,0,0.00×10^+00,0.00×10^+00,0.0,0.0,0.0
+"one thousand, nine hundred and sixty-nine",ALCS,hallto01,MIN,AL,I,0,0,0.00×10^+00,0,0,0,N,0,0.0,0,0,0.00×10^+00,0.00×10^+00,0.0,0.0,0.0
+"one thousand, nine hundred and fifty-three",WS,loesbi01,BRO,NL,I,3,0,2.00×10^+00,0,0,0,N,0,0.0,0,0,0.00×10^+00,0.00×10^+00,1.0,0.0,0.0
+"one thousand, nine hundred and eighteen",WS,wortmch01,CHN,NL,I,1,0,0.00×10^+00,0,0,0,N,0,0.0,0,0,0.00×10^+00,0.00×10^+00,0.0,0.0,0.0
+"one thousand, nine hundred and eighty-two",NLCS,garbege01,ATL,NL,II,1,0,0.00×10^+00,0,0,0,N,0,0.0,0,0,0.00×10^+00,0.00×10^+00,0.0,0.0,0.0
+"one thousand, nine hundred and eighty-two",ALCS,gantnji01,ML4,AL,V,16,1,3.00×10^+00,0,0,0,II,0,0.0,1,1,0.00×10^+00,0.00×10^+00,0.0,0.0,0.0
+"one thousand, nine hundred and seventy",ALCS,halldi01,BAL,AL,I,2,1,1.00×10^+00,0,0,0,N,0,0.0,0,1,0.00×10^+00,0.00×10^+00,0.0,0.0,0.0
+two thousand,NLCS,abbotku01,NYN,NL,II,3,0,0.00×10^+00,0,0,0,N,0,0.0,0,2,0.00×10^+00,0.00×10^+00,0.0,0.0,0.0
+"one thousand, nine hundred and eighty-five",NLCS,hershor01,LAN,NL,II,7,1,2.00×10^+00,0,0,0,I,0,0.0,0,2,0.00×10^+00,0.00×10^+00,0.0,0.0,0.0
+"one thousand, nine hundred and seventy-one",WS,bufordo01,BAL,AL,VI,23,3,6.00×10^+00,1,0,2,IV,0,0.0,3,3,0.00×10^+00,0.00×10^+00,0.0,0.0,0.0
+"one thousand, nine hundred and seventy-two",WS,hamilda01,OAK,AL,II,0,0,0.00×10^+00,0,0,0,N,0,0.0,0,0,0.00×10^+00,0.00×10^+00,0.0,0.0,0.0
+"one thousand, nine hundred and seventy-nine",NLCS,tomlida01,CIN,NL,III,0,0,0.00×10^+00,0,0,0,N,0,0.0,0,0,0.00×10^+00,0.00×10^+00,0.0,0.0,0.0
+"one thousand, nine hundred and seventy-two",ALCS,frymawo01,DET,AL,II,3,0,0.00×10^+00,0,0,0,N,0,0.0,0,0,0.00×10^+00,0.00×10^+00,0.0,0.0,0.0
+two thousand and one,NLDS2,schilcu01,ARI,NL,II,5,0,0.00×10^+00,0,0,0,N,0,0.0,0,2,0.00×10^+00,0.00×10^+00,2.0,0.0,0.0
+two thousand and three,NLCS,remlimi01,CHN,NL,V,0,0,0.00×10^+00,0,0,0,N,0,0.0,0,0,0.00×10^+00,0.00×10^+00,0.0,0.0,0.0
+"one thousand, nine hundred and ninety",WS,rijojo01,CIN,NL,I,3,0,1.00×10^+00,0,0,0,N,0,0.0,0,0,0.00×10^+00,0.00×10^+00,0.0,0.0,0.0
+"one thousand, nine hundred and eighty-one",WS,saxst01,LAN,NL,II,1,0,0.00×10^+00,0,0,0,N,0,0.0,0,0,0.00×10^+00,0.00×10^+00,0.0,0.0,0.0
+"one thousand, nine hundred and eighty-one",NWDIV,sambijo01,HOU,NL,II,0,0,0.00×10^+00,0,0,0,N,0,0.0,0,0,0.00×10^+00,0.00×10^+00,0.0,0.0,0.0
+"one thousand, eight hundred and eighty-seven",WS,sutclsy01,DTN,NL,IV,11,1,1.00×10^+00,0,0,0,N,1,,1,1,0.00×10^+00,,,,
+two thousand and twelve,NLWC,robinsh01,SLN,NL,I,1,0,0.00×10^+00,0,0,0,N,0,0.0,0,0,,,,,
+"one thousand, nine hundred and seventy-nine",NLCS,madlobi01,PIT,NL,III,12,1,3.00×10^+00,0,0,1,II,2,0.0,2,0,1.00×10^+00,0.00×10^+00,0.0,0.0,1.0
+"one thousand, nine hundred and forty-four",WS,kreevmi01,SLA,AL,VI,26,0,6.00×10^+00,3,0,0,N,0,0.0,0,5,0.00×10^+00,0.00×10^+00,0.0,0.0,0.0
+"one thousand, nine hundred and eighty-four",WS,gwynnto01,SDN,NL,V,19,1,5.00×10^+00,0,0,0,N,1,2.0,3,2,0.00×10^+00,0.00×10^+00,0.0,0.0,0.0
+"one thousand, nine hundred and eighty-eight",WS,honeyri01,OAK,AL,I,0,0,0.00×10^+00,0,0,0,N,0,0.0,0,0,0.00×10^+00,0.00×10^+00,0.0,0.0,0.0
+"one thousand, nine hundred and twelve",WS,doylela01,NY1,NL,VIII,33,5,8.00×10^+00,0,0,1,II,2,0.0,3,2,1.00×10^+00,0.00×10^+00,0.0,0.0,0.0
+two thousand and nine,ALCS,hairsje02,NYA,AL,II,2,1,1.00×10^+00,0,0,0,N,0,0.0,0,1,0.00×10^+00,0.00×10^+00,0.0,0.0,0.0
+two thousand,NLDS1,polanpl01,SLN,NL,III,10,1,3.00×10^+00,0,0,0,III,1,0.0,1,0,1.00×10^+00,0.00×10^+00,0.0,0.0,0.0
+two thousand and twelve,WS,ariasjo01,SFN,NL,IV,0,0,0.00×10^+00,0,0,0,N,0,0.0,0,0,,,,,
+"one thousand, nine hundred and seventy",ALCS,cuellmi01,BAL,AL,I,2,1,1.00×10^+00,0,0,1,IV,0,0.0,0,1,0.00×10^+00,0.00×10^+00,0.0,0.0,0.0
+two thousand and twelve,NLDS1,carpech01,SLN,NL,I,3,0,2.00×10^+00,1,0,0,N,0,0.0,0,1,,,,,
+two thousand and seven,NLDS2,matsuka01,COL,NL,III,12,2,5.00×10^+00,1,2,1,VI,0,0.0,2,2,1.00×10^+00,0.00×10^+00,0.0,0.0,0.0
+"one thousand, nine hundred and ninety-six",ALDS2,newsowa01,TEX,AL,II,1,0,0.00×10^+00,0,0,0,N,0,0.0,1,0,0.00×10^+00,0.00×10^+00,0.0,0.0,0.0
+"one thousand, nine hundred and ninety-two",WS,reardje01,ATL,NL,I,0,0,0.00×10^+00,0,0,0,N,0,0.0,0,0,0.00×10^+00,0.00×10^+00,0.0,0.0,0.0
+"one thousand, nine hundred and ninety-nine",ALDS1,stanlmi02,BOS,AL,V,20,4,1.00×10^+01,2,1,0,II,0,0.0,2,3,0.00×10^+00,0.00×10^+00,0.0,0.0,2.0
+"one thousand, nine hundred and eighty-three",ALCS,ayalabe01,BAL,AL,I,0,0,0.00×10^+00,0,0,0,I,0,0.0,0,0,0.00×10^+00,0.00×10^+00,0.0,1.0,0.0
+"one thousand, nine hundred and ninety-five",NLDS1,lemkema01,ATL,NL,IV,19,3,4.00×10^+00,1,0,0,I,0,0.0,1,3,0.00×10^+00,0.00×10^+00,0.0,0.0,0.0

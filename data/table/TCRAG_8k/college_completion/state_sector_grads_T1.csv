@@ -1,0 +1,60 @@
+stateid,state,state_abbr,control,level,year,gender,race,cohort,grad_100,grad_150,grad_100_rate,grad_150_rate,grad_cohort_ct
+47,Tennessee,TN,Private for-profit,2-year,2003,F,A,2y all,zero,5.00×10^+00,,one hundred point zero,9
+30,Montana,MT,Private not-for-profit,4-year,2011,F,W,4y other,zero,2.00×10^+00,,forty point zero,4
+17,Illinois,IL,Private for-profit,2-year,2012,F,X,2y all,zero,9.10×10^+02,,fifty-nine point nine,11
+0,United States,US,Private not-for-profit,4-year,2005,B,Ai,4y other,zero,1.13×10^+02,,thirty point seven,315
+48,Texas,TX,Private not-for-profit,4-year,2004,B,X,4y other,zero,5.20×10^+01,,fifty-four point seven,5
+19,Iowa,IA,Private not-for-profit,4-year,2005,F,B,4y bach,twenty-four point zero,3.10×10^+01,36.9,forty-seven point seven,28
+40,Oklahoma,OK,Public,2-year,2004,M,W,2y all,zero,4.80×10^+02,,nineteen point one,12
+46,South Dakota,SD,Private for-profit,4-year,2013,F,W,4y bach,two point zero,4.00×10^+00,7.1,fourteen point three,4
+18,Indiana,IN,Private not-for-profit,4-year,2009,F,Ai,4y bach,nine point zero,1.30×10^+01,37.5,fifty-four point two,31
+20,Kansas,KS,Public,2-year,2007,M,X,2y all,zero,1.53×10^+03,,twenty-nine point nine,25
+48,Texas,TX,Public,4-year,2004,F,W,4y bach,"four thousand, four hundred and thirty-eight point zero",8.38×10^+03,30.4,fifty-seven point four,30
+8,Colorado,CO,Private for-profit,4-year,2007,M,H,4y bach,eighteen point zero,1.90×10^+01,34.0,thirty-five point eight,13
+46,South Dakota,SD,Private not-for-profit,2-year,2004,B,B,2y all,zero,0.00×10^+00,,zero,1
+13,Georgia,GA,Private for-profit,2-year,2009,B,A,2y all,zero,2.30×10^+01,,fifty-seven point five,9
+40,Oklahoma,OK,Private not-for-profit,4-year,2005,F,B,4y other,zero,1.00×10^+00,,eleven point one,4
+0,United States,US,Public,4-year,2013,B,H,4y other,zero,4.75×10^+03,,twenty-eight point six,632
+15,Hawaii,HI,Private for-profit,4-year,2007,B,A,4y bach,one point zero,3.00×10^+00,4.8,fourteen point three,2
+0,United States,US,Private for-profit,4-year,2004,F,B,4y bach,two hundred and forty-six point zero,3.14×10^+02,14.0,seventeen point nine,124
+31,Nebraska,NE,Public,4-year,2008,M,B,4y bach,ten point zero,2.60×10^+01,9.8,twenty-five point five,6
+48,Texas,TX,Private not-for-profit,4-year,2005,M,B,4y bach,ninety point zero,2.08×10^+02,11.1,twenty-five point six,38
+21,Kentucky,KY,Public,4-year,2008,F,B,4y bach,one hundred and thirty-three point zero,2.92×10^+02,17.9,thirty-nine point four,8
+45,South Carolina,SC,Private not-for-profit,4-year,2013,M,X,4y bach,eight hundred and thirty-four point zero,1.20×10^+03,29.8,forty-two point seven,20
+31,Nebraska,NE,Private for-profit,4-year,2007,B,Ai,4y bach,zero point zero,0.00×10^+00,,zero,1
+36,New York,NY,Public,4-year,2010,F,W,4y bach,"four thousand, six hundred point zero",6.37×10^+03,46.8,sixty-four point eight,39
+32,Nevada,NV,Public,4-year,2008,F,B,4y bach,twenty-four point zero,6.60×10^+01,13.9,thirty-eight point two,4
+1,Alabama,AL,Private for-profit,4-year,2010,F,H,4y bach,zero point zero,0.00×10^+00,,zero,6
+6,California,CA,Public,2-year,2008,M,W,2y all,zero,5.78×10^+03,,twenty-four point five,110
+24,Maryland,MD,Private not-for-profit,4-year,2012,B,B,4y other,zero,1.00×10^+00,,twenty-five point zero,16
+46,South Dakota,SD,Public,4-year,2004,M,A,4y bach,two point zero,3.00×10^+00,22.2,thirty-three point three,7
+23,Maine,ME,Private not-for-profit,4-year,2010,F,H,4y other,zero,0.00×10^+00,,zero,4
+5,Arkansas,AR,Public,4-year,2012,M,X,4y other,zero,9.10×10^+01,,twenty-two point seven,10
+0,United States,US,Private not-for-profit,4-year,2006,M,Ai,4y bach,two hundred and fifty-four point zero,3.84×10^+02,33.5,fifty point six,1086
+18,Indiana,IN,Private for-profit,2-year,2007,B,A,2y all,zero,5.00×10^+00,,sixty-two point five,10
+13,Georgia,GA,Private not-for-profit,2-year,2012,F,X,2y all,zero,6.30×10^+01,,forty-two point zero,2
+17,Illinois,IL,Public,4-year,2002,B,Ai,4y other,zero,0.00×10^+00,,zero point zero,2
+41,Oregon,OR,Private not-for-profit,4-year,2002,M,X,4y bach,six hundred and fifty-nine point zero,8.54×10^+02,46.3,sixty point zero,17
+36,New York,NY,Private not-for-profit,4-year,2008,B,B,4y other,zero,2.31×10^+02,,twenty-five point eight,28
+29,Missouri,MO,Private for-profit,2-year,2013,F,B,2y all,zero,6.50×10^+02,,seventy point seven,19
+15,Hawaii,HI,Private for-profit,4-year,2007,F,Ai,4y bach,zero point zero,0.00×10^+00,0.0,zero point zero,2
+40,Oklahoma,OK,Public,2-year,2002,M,A,2y all,zero,5.00×10^+00,,seven point two,12
+41,Oregon,OR,Private not-for-profit,4-year,2003,M,W,4y bach,five hundred and twenty-seven point zero,6.67×10^+02,50.6,sixty-four point one,17
+23,Maine,ME,Private not-for-profit,4-year,2011,F,H,4y other,zero,0.00×10^+00,,zero,11
+9,Connecticut,CT,Private not-for-profit,4-year,2010,B,W,4y other,zero,2.15×10^+02,,seventy-seven point one,4
+13,Georgia,GA,Private for-profit,4-year,2002,F,W,4y other,zero,9.00×10^+01,,fifty-eight point four,5
+46,South Dakota,SD,Private for-profit,4-year,2010,F,B,4y bach,zero point zero,0.00×10^+00,,zero,4
+48,Texas,TX,Private not-for-profit,4-year,2002,M,X,4y bach,two thousand and forty-six point zero,3.46×10^+03,32.6,fifty-five point one,38
+32,Nevada,NV,Private for-profit,4-year,2002,F,A,4y other,zero,1.50×10^+01,,seventy-eight point nine,3
+1,Alabama,AL,Public,2-year,2010,B,B,2y all,zero,6.97×10^+02,,seventeen point five,26
+29,Missouri,MO,Public,4-year,2011,F,W,4y other,zero,2.40×10^+01,,forty point zero,13
+1,Alabama,AL,Private not-for-profit,4-year,2005,B,H,4y bach,eight point zero,9.00×10^+00,38.1,forty-two point nine,14
+53,Washington,WA,Public,2-year,2007,F,B,2y all,zero,2.30×10^+01,,thirteen point three,27
+47,Tennessee,TN,Private for-profit,2-year,2003,B,W,2y all,zero,1.10×10^+03,,sixty-four point three,9
+2,Alaska,AK,Private not-for-profit,4-year,2006,M,H,4y bach,zero point zero,0.00×10^+00,0.0,zero point zero,1
+16,Idaho,ID,Private not-for-profit,4-year,2004,B,A,4y bach,one point zero,2.00×10^+00,16.7,thirty-three point three,3
+45,South Carolina,SC,Public,4-year,2010,B,A,4y bach,ninety-eight point zero,1.61×10^+02,36.6,sixty point one,12
+35,New Mexico,NM,Public,2-year,2013,B,A,2y all,zero,2.90×10^+01,,twenty-three point four,19
+36,New York,NY,Private for-profit,4-year,2010,M,A,4y other,zero,1.90×10^+01,,thirty-one point seven,15
+9,Connecticut,CT,Private not-for-profit,4-year,2013,M,W,4y bach,"one thousand, seven hundred and seventy-seven point zero",1.99×10^+03,65.5,seventy-three point four,15
+48,Texas,TX,Private for-profit,2-year,2002,B,X,2y all,zero,2.72×10^+03,,seventy-seven point zero,14

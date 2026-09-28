@@ -1,0 +1,40 @@
+ID_Player,surname,given_name,conf_group,id_league,matches_played,total_minutes,score_total,o_rebounds,d_rebounds,rebounds,aid_total,pilfer,barricades,ball_losses,personal_violations,fg_attempted,fg_made,ft_attempted,ft_made,three_attempted,three_made
+beardbu01,Beard,Butch,East,NBA,1,7,3.0,,,1.0,0.0,,,,,4.0,one point zero,1.00×10^+00,1.0,,
+goodrga01,Goodrich,Gail,West,NBA,1,14,4.0,,,1.0,2.0,,,,,7.0,two point zero,0.00×10^+00,0.0,,
+cowenda01,Cowens,Dave,East,NBA,1,32,14.0,,,20.0,1.0,,,,,12.0,five point zero,5.00×10^+00,4.0,,
+kingbe01,King,Bernard,East,NBA,1,22,18.0,,,3.0,4.0,,,,,13.0,eight point zero,5.00×10^+00,2.0,,
+piercpa01,Pierce,Paul,East,NBA,1,18,8.0,0.0,2.0,2.0,3.0,4.0,0.0,2.0,1.0,11.0,four point zero,0.00×10^+00,0.0,5.0,0.0
+cummite01,Cummings,Terry,East,NBA,1,16,17.0,,,7.0,0.0,,,,,17.0,seven point zero,4.00×10^+00,3.0,,
+abdulka01,Abdul-Jabbar,Kareem,West,NBA,1,28,11.0,,,8.0,3.0,,,,,12.0,five point zero,2.00×10^+00,1.0,,
+pettibo01,Pettit,Bob,West,NBA,1,32,29.0,,,9.0,0.0,,,,,22.0,thirteen point zero,7.00×10^+00,3.0,,
+birdla01,Bird,Larry,East,NBA,1,29,14.0,,,13.0,7.0,,,,,14.0,seven point zero,0.00×10^+00,0.0,,
+mariosh01,Marion,Shawn,West,NBA,1,22,18.0,5.0,3.0,8.0,4.0,2.0,0.0,2.0,0.0,15.0,nine point zero,0.00×10^+00,0.0,1.0,0.0
+birdla01,Bird,Larry,East,NBA,1,99,,,,,,,,,,,zero,,,,
+dumarjo01,Dumars,Joe,East,NBA,1,17,5.0,,,2.0,4.0,,,,,8.0,two point zero,0.00×10^+00,0.0,,1.0
+hamilri01,Hamilton,Richard,East,NBA,1,13,6.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,1.0,7.0,three point zero,0.00×10^+00,0.0,0.0,0.0
+mournal01,Mourning,Alonzo,East,NBA,1,19,10.0,,,8.0,1.0,,,,,9.0,four point zero,3.00×10^+00,2.0,,
+anthoca01,Anthony,Carmelo,West,NBA,1,29,27.0,4.0,6.0,10.0,2.0,0.0,0.0,2.0,0.0,22.0,thirteen point zero,1.00×10^+00,0.0,4.0,1.0
+pippesc01,Pippen,Scottie,East,NBA,1,31,29.0,,,11.0,2.0,,,,,15.0,nine point zero,1.00×10^+01,6.0,,
+smithph01,Smith,Phil,West,NBA,1,12,7.0,,,1.0,0.0,,,,,7.0,three point zero,4.00×10^+00,1.0,,
+jonesed01,Jones,Eddie,West,NBA,1,25,15.0,7.0,4.0,11.0,1.0,2.0,0.0,0.0,1.0,19.0,seven point zero,2.00×10^+00,1.0,7.0,0.0
+theusre01,Theus,Reggie,East,NBA,1,8,0.0,,,1.0,1.0,,,,,5.0,zero point zero,0.00×10^+00,0.0,,
+havlijo01,Havlicek,John,East,NBA,1,31,14.0,,,7.0,2.0,,,,,14.0,six point zero,2.00×10^+00,2.0,,
+havlijo01,Havlicek,John,East,NBA,1,24,15.0,,,3.0,5.0,,,,,13.0,five point zero,5.00×10^+00,5.0,,
+kenonla01,Kenon,Larry,East,ABA,1,22,18.0,1.0,5.0,6.0,0.0,0.0,0.0,3.0,1.0,12.0,eight point zero,3.00×10^+00,2.0,0.0,0.0
+sampsra01,Sampson,Ralph,West,NBA,1,16,9.0,,,5.0,0.0,,,,,7.0,four point zero,2.00×10^+00,1.0,,
+naullwi01,Naulls,Willie,East,NBA,1,26,13.0,,,10.0,0.0,,,,,19.0,five point zero,4.00×10^+00,3.0,,
+stockjo01,Stockton,John,West,NBA,1,31,9.0,,,6.0,15.0,,,,,6.0,three point zero,2.00×10^+00,2.0,,1.0
+johnsgu01,Johnson,Gus,East,NBA,1,16,7.0,,,4.0,1.0,,,,,9.0,three point zero,2.00×10^+00,1.0,,
+hayesel01,Hayes,Elvin,West,NBA,1,11,4.0,,,2.0,0.0,,,,,6.0,one point zero,2.00×10^+00,2.0,,
+onealje01,O'Neal,Jermaine,East,NBA,1,28,16.0,2.0,7.0,9.0,2.0,1.0,0.0,2.0,0.0,13.0,seven point zero,4.00×10^+00,2.0,0.0,0.0
+arenagi01,Arenas,Gilbert,East,NBA,1,20,8.0,0.0,1.0,1.0,4.0,1.0,0.0,2.0,0.0,8.0,three point zero,0.00×10^+00,0.0,7.0,2.0
+divacvl01,Divac,Vlade,West,NBA,1,9,8.0,1.0,2.0,3.0,1.0,2.0,0.0,1.0,0.0,6.0,four point zero,0.00×10^+00,0.0,1.0,0.0
+golato01,Gola,Tom,East,NBA,1,99,,,,,,,,,,,zero,,,,
+jonesri01,Jones,Rich,West,ABA,1,14,0.0,0.0,4.0,4.0,1.0,0.0,0.0,3.0,1.0,8.0,zero point zero,0.00×10^+00,0.0,0.0,0.0
+hardati01,Hardaway,Tim,West,NBA,1,21,16.0,,,6.0,4.0,,,,,9.0,three point zero,1.20×10^+01,9.0,,1.0
+robbire01,Robbins,Red,West,ABA,1,21,19.0,3.0,2.0,5.0,1.0,,,1.0,2.0,14.0,eight point zero,4.00×10^+00,3.0,0.0,0.0
+olajuha01,Olajuwon,Hakeem,West,NBA,1,14,4.0,,,3.0,0.0,,,,,8.0,two point zero,0.00×10^+00,0.0,,
+duncati01,Duncan,Tim,West,NBA,1,15,4.0,0.0,5.0,5.0,4.0,0.0,1.0,1.0,1.0,3.0,two point zero,0.00×10^+00,0.0,0.0,0.0
+gervige01,Gervin,George,Allstars,ABA,1,16,8.0,,,6.0,1.0,,,,1.0,13.0,three point zero,2.00×10^+00,1.0,2.0,1.0
+mullich01,Mullin,Chris,West,NBA,1,24,13.0,,,2.0,2.0,,,,,8.0,four point zero,4.00×10^+00,4.0,,
+abdulka01,Abdul-Jabbar,Kareem,East,NBA,1,18,10.0,,,11.0,4.0,,,,,8.0,four point zero,2.00×10^+00,2.0,,

@@ -1,0 +1,72 @@
+trans_id,account_id,date,type,operation,amount,balance,k_symbol,bank,account
+3498842,8316,"one thousand, nine hundred and ninety-seven.nine.thirty",PRIJEM,,285,79238,UROK,,
+3561707,943,"one thousand, nine hundred and ninety-four.eleven.thirty",PRIJEM,,93,22628,UROK,,
+352328,1197,"one thousand, nine hundred and ninety-six.five.ten",VYDAJ,PREVOD NA UCET,2582,29894,SIPO,ST,79359864.0
+3586927,1714,"one thousand, nine hundred and ninety-six.ten.thirty-one",PRIJEM,,85,20239,UROK,,
+634537,2167,"one thousand, nine hundred and ninety-five.one.thirty",VYDAJ,VYBER,6500,40563,,,
+242227,829,"one thousand, nine hundred and ninety-six.eleven.eleven",PRIJEM,PREVOD Z UCTU,3181,3981,,EF,99745600.0
+1036810,3546,"one thousand, nine hundred and ninety-eight.ten.twenty-six",VYDAJ,VYBER,19000,62956,,,
+3637579,3239,"one thousand, nine hundred and ninety-eight.five.thirty-one",PRIJEM,,120,30522,UROK,,
+897207,3056,"one thousand, nine hundred and ninety-seven.twelve.eight",VYDAJ,VYBER,560,22008,,,
+1339325,4576,"one thousand, nine hundred and ninety-four.eight.ten",PRIJEM,VKLAD,18910,48846,,,
+984477,3357,"one thousand, nine hundred and ninety-eight.nine.thirty",VYDAJ,VYBER,2480,38714,,,
+893946,3047,"one thousand, nine hundred and ninety-seven.two.twenty-six",VYDAJ,VYBER,300,20333,,,
+2370219,7815,"one thousand, nine hundred and ninety-seven.three.sixteen",VYDAJ,VYBER,3600,57513,,,
+130243,437,"one thousand, nine hundred and ninety-six.three.thirteen",VYDAJ,PREVOD NA UCET,2248,79321,SIPO,CD,83092337.0
+3634208,3137,"one thousand, nine hundred and ninety-seven.one.thirty-one",PRIJEM,,69,28428,UROK,,
+195896,664,"one thousand, nine hundred and ninety-eight.four.seven",PRIJEM,PREVOD Z UCTU,6559,24579,DUCHOD,KL,24625432.0
+132926,445,"one thousand, nine hundred and ninety-six.twelve.thirty-one",VYDAJ,VYBER,30,50509,SLUZBY,,
+171574,575,"one thousand, nine hundred and ninety-seven.four.eight",VYDAJ,PREVOD NA UCET,5329,15142, ,GH,62339043.0
+3456231,9051,"one thousand, nine hundred and ninety-eight.ten.thirty-one",VYDAJ,VYBER,0,1547,SANKC. UROK,,
+191967,651,"one thousand, nine hundred and ninety-eight.six.thirty",VYDAJ,VYBER,15,89537,SLUZBY,,
+601800,2050,"one thousand, nine hundred and ninety-eight.eleven.six",PRIJEM,VKLAD,16411,72113,,,
+3521381,10440,"one thousand, nine hundred and ninety-six.one.thirty-one",PRIJEM,,89,24126,UROK,,
+47665,160,"one thousand, nine hundred and ninety-seven.ten.fourteen",VYDAJ,PREVOD NA UCET,5552,71448, ,ST,8854127.0
+200346,680,"one thousand, nine hundred and ninety-eight.five.fourteen",VYDAJ,VYBER,12000,38157,,,
+604567,2058,"one thousand, nine hundred and ninety-eight.four.nine",VYDAJ,PREVOD NA UCET,131,18392, ,ST,17455786.0
+790373,2695,"one thousand, nine hundred and ninety-four.twelve.seven",VYDAJ,PREVOD NA UCET,3923,53408,SIPO,ST,45832115.0
+238537,815,"one thousand, nine hundred and ninety-six.four.five",VYDAJ,VYBER,1410,17671,,,
+3534608,121,"one thousand, nine hundred and ninety-eight.one.thirty-one",PRIJEM,,99,23956,UROK,,
+341766,1160,"one thousand, nine hundred and ninety-seven.two.eight",PRIJEM,PREVOD Z UCTU,28420,60674,,YZ,84825235.0
+2106935,7133,"one thousand, nine hundred and ninety-eight.six.three",VYDAJ,VYBER,900,15771,,,0.0
+631234,2155,"one thousand, nine hundred and ninety-five.six.five",VYDAJ,PREVOD NA UCET,735,21332,SIPO,IJ,66442948.0
+300259,1022,"one thousand, nine hundred and ninety-five.four.twenty-eight",VYDAJ,VYBER,22500,53260,,,
+350918,1192,"one thousand, nine hundred and ninety-eight.two.eleven",PRIJEM,VKLAD,11611,56019,,,
+3619599,2694,"one thousand, nine hundred and ninety-seven.ten.thirty-one",PRIJEM,,250,59610,UROK,,
+738798,2523,"one thousand, nine hundred and ninety-seven.five.twelve",VYDAJ,VYBER,900,13796,,,
+746985,2548,"one thousand, nine hundred and ninety-seven.ten.twenty-seven",VYDAJ,VYBER,7800,41963,,,
+394456,1341,"one thousand, nine hundred and ninety-six.one.eleven",PRIJEM,PREVOD Z UCTU,3147,7394,,WX,62861180.0
+3447172,1715,"one thousand, nine hundred and ninety-seven.one.thirty-one",PRIJEM,,267,10403,UROK,,
+492190,1678,"one thousand, nine hundred and ninety-three.six.twenty-two",VYDAJ,VYBER,25400,50907,,,
+641818,2190,"one thousand, nine hundred and ninety-eight.six.twenty-four",VYDAJ,VYBER,23900,51138,,,
+1890975,6400,"one thousand, nine hundred and ninety-seven.ten.fourteen",VYDAJ,PREVOD NA UCET,7320,49503,SIPO,OP,10098511.0
+1050106,3592,"one thousand, nine hundred and ninety-five.six.thirty",VYDAJ,VYBER,15,16366,SLUZBY,,
+561687,1911,"one thousand, nine hundred and ninety-four.nine.eleven",PRIJEM,VKLAD,16284,17384,,,
+506915,1731,"one thousand, nine hundred and ninety-three.seven.fourteen",VYDAJ,PREVOD NA UCET,2631,14638,SIPO,QR,29816907.0
+279697,957,"one thousand, nine hundred and ninety-six.two.twenty",PRIJEM,VKLAD,600,17899,,,
+53036,176,"one thousand, nine hundred and ninety-six.eleven.ten",PRIJEM,VKLAD,10709,61196,,,
+1288864,4408,"one thousand, nine hundred and ninety-six.three.nineteen",VYBER,VYBER,19648,35875,,,
+683382,2332,"one thousand, nine hundred and ninety-seven.ten.nineteen",PRIJEM,VKLAD,2500,49814,,,
+1157050,3960,"one thousand, nine hundred and ninety-three.eleven.five",PRIJEM,PREVOD Z UCTU,4807,28129,DUCHOD,OP,33740347.0
+3458772,11123,"one thousand, nine hundred and ninety-eight.eleven.thirty",PRIJEM,,11,2969,UROK,,
+3559973,896,"one thousand, nine hundred and ninety-eight.ten.thirty-one",PRIJEM,,170,43733,UROK,,
+50581,169,"one thousand, nine hundred and ninety-six.three.seven",VYDAJ,VYBER,1200,31525,,,
+3414615,11333,"one thousand, nine hundred and ninety-eight.one.sixteen",VYDAJ,VYBER,18900,81914,,,
+2944232,9750,"one thousand, nine hundred and ninety-seven.two.four",PRIJEM,VKLAD,12499,46858,,,
+773236,2639,"one thousand, nine hundred and ninety-four.three.thirty-one",VYDAJ,VYBER,15,38682,SLUZBY,,
+241103,823,"one thousand, nine hundred and ninety-eight.eight.five",VYDAJ,PREVOD NA UCET,612,20603,POJISTNE,AB,51397413.0
+1191296,4079,"one thousand, nine hundred and ninety-five.one.eleven",VYDAJ,PREVOD NA UCET,5009,15848,SIPO,AB,19063937.0
+156001,522,"one thousand, nine hundred and ninety-seven.three.six",PRIJEM,VKLAD,10816,30707,,,
+1575916,5357,"one thousand, nine hundred and ninety-eight.ten.thirty-one",VYDAJ,VYBER,15,78327,SLUZBY,,
+79467,266,"one thousand, nine hundred and ninety-six.one.four",VYDAJ,VYBER,15000,31054,,,
+1083610,3701,"one thousand, nine hundred and ninety-six.seven.six",PRIJEM,PREVOD Z UCTU,6192,30802,DUCHOD,MN,65036064.0
+932591,3181,"one thousand, nine hundred and ninety-six.one.twenty-one",VYDAJ,VYBER,6100,55362,,,
+138471,463,"one thousand, nine hundred and ninety-six.three.thirty-one",VYDAJ,VYBER,15,62972,SLUZBY,,
+898109,3061,"one thousand, nine hundred and ninety-eight.eleven.ten",PRIJEM,PREVOD Z UCTU,2967,23109,,KL,32453257.0
+791037,2697,"one thousand, nine hundred and ninety-eight.eleven.fourteen",VYDAJ,PREVOD NA UCET,3142,77284, ,GH,34090870.0
+3574312,1331,"one thousand, nine hundred and ninety-eight.three.thirty-one",PRIJEM,,69,19022,UROK,,
+841744,2865,"one thousand, nine hundred and ninety-seven.twelve.ten",VYDAJ,PREVOD NA UCET,8,33660, ,OP,5581480.0
+302878,1031,"one thousand, nine hundred and ninety-seven.twelve.twelve",VYDAJ,PREVOD NA UCET,51,72243,POJISTNE,OP,61673647.0
+184406,626,"one thousand, nine hundred and ninety-five.twelve.one",VYDAJ,VYBER,1600,37609,,,
+1099180,3755,"one thousand, nine hundred and ninety-six.twelve.twenty-one",PRIJEM,VKLAD,44336,103448,,,
+56128,187,"one thousand, nine hundred and ninety-seven.six.thirty",VYDAJ,VYBER,15,18474,SLUZBY,,

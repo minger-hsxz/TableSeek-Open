@@ -1,0 +1,60 @@
+stateid,state,state_abbr,adminControl,tierLevel,fiscalYear,sexCategory,ethnicity,entryCohort,grad_cohort,gradHundred,gradOneFifty,gradHundredRate,gradOneFiftyRate_div10,grad_cohort_ct
+13,Georgia,GA,Private not-for-profit,2-year,2005,F,W,2y all,45,,17,,3.78,2
+5,Arkansas,AR,Private not-for-profit,4-year,2004,M,Ai,4y bach,13,1.0,5,7.7,3.85,10
+6,California,CA,Private not-for-profit,4-year,2008,F,H,4y bach,1774,1094.0,1269,61.7,7.15,71
+32,Nevada,NV,Public,4-year,2011,F,Ai,4y other,17,,1,,0.5900000000000001,6
+41,Oregon,OR,Public,4-year,2011,B,W,4y bach,7076,2106.0,3867,29.8,5.46,7
+48,Texas,TX,Private not-for-profit,4-year,2004,F,X,4y bach,8949,3875.0,5436,43.3,6.07,38
+37,North Carolina,NC,Private not-for-profit,4-year,2013,B,B,4y bach,3579,995.0,1438,27.8,4.0200000000000005,43
+6,California,CA,Private not-for-profit,4-year,2002,F,W,4y bach,5726,3390.0,3962,59.2,6.92,68
+17,Illinois,IL,Private not-for-profit,4-year,2006,F,H,4y other,432,,146,,3.38,10
+13,Georgia,GA,Public,4-year,2010,F,B,4y bach,3262,596.0,1446,18.3,4.43,20
+42,Pennsylvania,PA,Private for-profit,2-year,2003,B,Ai,2y all,16,,8,,5.0,51
+23,Maine,ME,Private for-profit,2-year,2006,F,Ai,2y all,0,,0,,,2
+9,Connecticut,CT,Private not-for-profit,2-year,2006,M,Ai,2y all,0,,0,,,1
+21,Kentucky,KY,Private not-for-profit,4-year,2009,M,A,4y bach,15,4.0,5,26.7,3.3299999999999996,21
+22,Louisiana,LA,Private for-profit,4-year,2004,M,A,4y other,0,,0,,,3
+45,South Carolina,SC,Private not-for-profit,2-year,2007,B,B,2y all,207,,54,,2.6100000000000003,2
+24,Maryland,MD,Public,4-year,2010,M,W,4y other,0,,0,,,1
+45,South Carolina,SC,Private for-profit,4-year,2002,M,W,4y other,39,,18,,4.62,2
+26,Michigan,MI,Public,2-year,2013,B,B,2y all,3833,,299,,0.78,30
+39,Ohio,OH,Private not-for-profit,4-year,2010,F,B,4y other,7,,2,,2.8600000000000003,16
+38,North Dakota,ND,Private not-for-profit,4-year,2005,B,H,4y bach,6,3.0,4,50.0,6.67,4
+30,Montana,MT,Public,2-year,2005,B,Ai,2y all,214,,49,,2.29,12
+2,Alaska,AK,Public,4-year,2008,F,H,4y other,5,,0,,0.0,3
+47,Tennessee,TN,Public,4-year,2011,M,H,4y other,1,,0,,0.0,9
+48,Texas,TX,Public,2-year,2013,F,B,2y all,5121,,448,,0.8699999999999999,63
+45,South Carolina,SC,Private not-for-profit,4-year,2005,B,Ai,4y other,0,,0,,,3
+50,Vermont,VT,Private for-profit,4-year,2011,F,Ai,4y other,0,,0,,,1
+45,South Carolina,SC,Private for-profit,2-year,2012,M,X,2y all,131,,85,,6.49,5
+24,Maryland,MD,Private not-for-profit,4-year,2009,F,A,4y bach,176,144.0,153,81.8,8.690000000000001,17
+32,Nevada,NV,Private for-profit,4-year,2010,M,Ai,4y bach,2,0.0,0,0.0,0.0,6
+29,Missouri,MO,Public,2-year,2009,M,X,2y all,5879,,1223,,2.08,20
+11,District of Columbia,DC,Private not-for-profit,4-year,2010,M,B,4y bach,526,181.0,313,34.4,5.95,8
+37,North Carolina,NC,Public,4-year,2006,M,Ai,4y bach,120,27.0,52,22.5,4.33,16
+39,Ohio,OH,Public,4-year,2007,B,Ai,4y other,24,,7,,2.92,25
+42,Pennsylvania,PA,Public,4-year,2007,M,H,4y other,16,,6,,3.75,30
+38,North Dakota,ND,Public,2-year,2013,F,B,2y all,12,,1,,0.8300000000000001,5
+54,West Virginia,WV,Private for-profit,2-year,2006,B,W,2y all,940,,587,,6.24,7
+50,Vermont,VT,Public,2-year,2009,M,X,2y all,78,,8,,1.03,1
+13,Georgia,GA,Private for-profit,4-year,2011,F,A,4y other,7,,1,,1.4300000000000002,15
+50,Vermont,VT,Private not-for-profit,2-year,2002,M,A,2y all,0,,0,,,1
+35,New Mexico,NM,Public,4-year,2002,F,W,4y other,18,,8,,4.4399999999999995,3
+27,Minnesota,MN,Private not-for-profit,4-year,2004,M,X,4y other,380,,207,,5.45,9
+39,Ohio,OH,Private not-for-profit,2-year,2013,B,Ai,2y all,1,,0,,0.0,3
+29,Missouri,MO,Private not-for-profit,4-year,2008,F,B,4y other,10,,2,,2.0,10
+4,Arizona,AZ,Public,4-year,2007,B,W,4y other,1,,1,,10.0,1
+31,Nebraska,NE,Private for-profit,4-year,2008,B,Ai,4y other,3,,0,,0.0,4
+37,North Carolina,NC,Private for-profit,4-year,2005,F,Ai,4y other,0,,0,,,3
+4,Arizona,AZ,Public,4-year,2002,B,X,4y other,4,,4,,10.0,1
+16,Idaho,ID,Private not-for-profit,4-year,2010,F,Ai,4y bach,8,2.0,2,25.0,2.5,5
+9,Connecticut,CT,Public,4-year,2011,F,B,4y bach,306,96.0,169,31.4,5.5200000000000005,5
+41,Oregon,OR,Public,2-year,2006,B,B,2y all,143,,8,,0.5599999999999999,17
+9,Connecticut,CT,Public,2-year,2003,M,W,2y all,1040,,114,,1.1,12
+0,United States,US,Private for-profit,4-year,2010,F,W,4y other,14963,,7238,,4.84,343
+40,Oklahoma,OK,Public,4-year,2012,B,W,4y bach,9237,2422.0,4634,26.2,5.0200000000000005,15
+18,Indiana,IN,Public,2-year,2012,M,A,2y all,41,,3,,0.73,1
+49,Utah,UT,Public,4-year,2008,F,H,4y bach,135,23.0,55,17.0,4.07,6
+6,California,CA,Private for-profit,4-year,2003,B,A,4y other,692,,463,,6.69,26
+53,Washington,WA,Public,2-year,2012,M,A,2y all,243,,53,,2.18,25
+25,Massachusetts,MA,Private not-for-profit,4-year,2005,M,W,4y other,471,,216,,4.59,20

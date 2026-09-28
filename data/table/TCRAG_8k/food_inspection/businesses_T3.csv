@@ -1,0 +1,47 @@
+corpID,entityName,locationAddr,municipality,zipCode,latCoord,longCoord,contactNo,fiscalCode,corpCert,appDate,holderName,holderAddr,holderCity,holderState,holderZip
+5150,Kentucky Fried Chicken,200 Duboce St,SF,94103,3.78×10^+01,-122.425,1.42×10^+10,H29,60562,,Harman Gardin Inc.,200 Duboce,SF,CA,94103
+6332,S.F. G. HOSPITAL GIFT SHOP,1001 POTRERO Ave,S.F.,94110,3.78×10^+01,-122.407,,H01,384396,1989-07-07,KYO MIN AHN & Y.K. AHN,390 MELROSE AVE.,S.F.,CA,94127
+69048,AT&T PARK - 1ST BASE CARVERY,24 Willie Mays Plaza,,94107,,,,H36,303652,2012-04-10,"Volume Services America, Inc.",201 East Broad Street,Spartanburg,South Carolina,29306
+5096,POPEYES-GENEVA & MISSION,890 Geneva Ave,SF,94112,3.77×10^+01,-122.441,1.42×10^+10,H29,322513,,"Yummi Enterprises, Inc.",P.O. Box 2398,Brisbane,CA,94005
+4686,RICE GARDEN,1515 SLOAT Blvd,SF,94132,3.77×10^+01,-122.49,,H28,948761,,RICE GARDEN INC.,1515 SLOAT (INSIDE LUCKY),SF,CA,94132
+88490,Culinary Eye Inc,425 Barneveld Ave,San Francisco,94124,,,1.42×10^+10,H74,1029359,2016-07-18,Culinary Eye Inc,425 Barneveld Ave.,San Francisco,Ca,94124
+77054,Henry's Hunan North Restaurant,1398 Grant Ave,,94133,,,,H25,484946,2013-12-05,"WJH Enterprises, Inc.",2432 Balboa Street,San Francisco,CA,94121
+83664,The Barrel Room/Wine Bar,415 Sansome St Suite C,,94111,,,,H86,459426,2015-06-11,"Goddard Trubnick, LLC",1486 Campus Drive,Berkeley,CA,94708
+64540,Leo's Hot Dogs,2301 Mission St,S.F.,CA,3.78×10^+01,-122.419,1.42×10^+10,H78,421849,2010-10-19,Cesar Ascarrunz,91 Miguel St.,SF,CA,94131
+39888,Henry's Hunan Restaurant,1708 CHURCH St,S.F.,94131,3.77×10^+01,-122.427,,H25,433692,2008-11-05,"Eddy & Jeff Hunan, Inc.",1708 Church St.,SF,CA,94131
+83708,Oh La La Cake Creations,579 Columbus Ave,,94133,,,,H74,1014315,2015-06-17,Izabel LLC,"637 Powell Street, Unit 102",San Francisco,CA,94108
+81606,Jo Jo's Cafe,1537 Ocean Ave,SF,94112,,,1.42×10^+10,H25,1007572,2015-01-09,Jo Jo's Café Inc,1537 Ocean Ave.,SF,CA,94112
+60345,Showdogs,1020 Market St,San Francisco,94102,3.78×10^+01,-122.411,,H24,440368,2009-07-01,Showdogs LLC   David P Addington,1020 Market St,San Francisco,CA,94102
+33348,Shotwells,3349 20th St,San Francisco,94110,3.78×10^+01,-122.416,,H86,403992,2007-02-21,Inner Mission LLC   Thomas C Madonna,3349-20th St,San Francisco,CA,94110
+38564,Chili Lemon Garlic,518 Bryant St,San Francisco,94107,3.78×10^+01,-122.396,,H24,449644,2008-07-15,"Chili Lemon Garlic, LLC",518 Bryant St.,Sf,CA,94107
+86777,Smitten Ice Cream,2268 Chestnut St,,94123,,,1.42×10^+10,H24,1008290,2016-03-03,Smitten Ventures Inc.,"1459 18th St, P.M.B # 312",San Francisco,CA,94107
+6768,PING'S MEAT MARKET,0239 BALBOA St,SF,94118,3.78×10^+01,-122.461,,H07,113867,1983-10-24,"LEONG, CHI Ping",239 Balboa St.,SF,CA,94118
+78076,Space 550,550 Barneveld Ave,,94124,,,,H86,484678,2014-03-11,Duc Luu,550 Barneveld Ave,San Francisco,CA,94124
+37456,Cafe Golo,1602 LOMBARD St,SAN FRANCISCO,94123,3.78×10^+01,-122.428,,H24,439562,2008-03-21,John Akins,1602 Lombard St.,SF,CA,94123
+74328,AT&T PARK - MARGARITA CART (P 10),24 Willie Mays Plaza,,94107,,,,H36,303652,2013-04-24,"Volume Services, Inc./Centerplate",1 Independence Point,Greenville,SC,29615
+82670,Lazeez,3915 24th St,,94114,,,1.42×10^+10,H24,1012520,2015-03-30,Zaid Foods INC,1136Pebblewood Way,San Mateo,CA,94403
+81255,Stanford Court Hotel,905 California St,,94108,,,,H26,1005997,2014-11-26,"Pine & Powell Partners, LLC","1999 Avenue of the Stars, #2850",Los Angeles,CA,90067
+78061,Espresso Bar,2299 Market St  A,SF,94114,,,1.42×10^+10,H24,1008170,2014-03-11,Espresso Bar LLC,2443 Fillmore St,SF,CA,94115
+65350,Cordova Market,301 ROLPH St,S.F.,94112,3.77×10^+01,-122.436,,H07,477701,2011-02-23,301 ROLPH STREET CORPORATION,65 LELAND AVE,SAN FRANCISCO,CA,94134
+4800,NEW COLLEGE HILL MARKET,3798 MISSION St,S.F.,94110,3.77×10^+01,-122.424,,H28,384652,2005-01-31,Lana & Rawan Corporation,1 Wessix Ct,Daly City,CA,94015
+68269,Walgreens #1126,1979 MISSION St,SF,94103,,,1.42×10^+10,H83,30032,2011-12-15,Walgreen Co,PO Box 901,Deerfield,IL,60015
+76360,Greenlid,331 Cortland Ave,SF,94110,,,,H07,482938,2013-10-02,Andrea Talley,1090 43rd Street,Emeryville,CA,94608
+75450,Trocadero Club,701 Geary St,San Francisco,94109,,,,H86,476500,2013-07-19,Alcyone LLC,127 Stevenson St,San Francisco,CA,94105
+60380,Whole Foods Market,3950 24TH St,SF,94114,3.78×10^+01,-122.431,,H08,955047,2009-07-07,"Whole Foods Market CA, Inc.",P.O. Box 684786,Austin,TX,78768
+67865,Foundation Cafe & Bakery,335 Kearny St,,94102,3.78×10^+01,-122.419,,H24,464582,2011-11-07,"Felucca, LLC / Melissa Louise L. Sobrepena",24 San Benito Way,San Francisco,CA,94127
+63874,Blackthorn,834 IRVING St,SAN FRANCISCO,94122,3.78×10^+01,-122.467,,H86,460680,2010-07-31,Native Group Corporation,834 Irving St.,SF,CA,94122
+83955,Moo-Dee,1386 9th Ave,SF,94122,,,1.42×10^+10,H25,1015478,2015-07-09,Nandsai Corporation,2460 Bess Ave.,Livermore,CA,94550
+81250,Stanford Court Hotel,905 California St,,94108,,,,H26,1005997,2014-11-26,"Pine & Powell Partners, LLC","1999 Avenue of the Stars, #2850",Los Angeles,CA,90067
+79625,Power Trading Co.,1524 Ocean Ave,SF,94112,,,1.42×10^+10,H07,402224,2014-02-26,Yat Ming Yiu,1524 Ocean Ave.,SF,CA,94112
+76960,Jayhoon Fedaiy,1035 Geary Blvd,SF,94109,,,,H25,483862,2013-11-22,Jayhoon Fedaiy,1035 Geary Blvd.,SF,CA,94109
+27817,Hodo Soy Beanery,1 Ferry Building #50,San Francisco,94111,,,,H34,402423,2006-09-01,"Hodo, Inc.",2923 Adeline Street,Oakland,CA,94608
+3980,"STUD BAR, THE",399 09th St,S.F.,94103,3.78×10^+01,-122.41,,H86,86011,1987-04-27,"HEAVENLY HEIDE, INC.",442 ARKANSAS STREET,S.F.,CA,94107
+87762,New Village Cafe,1426 Polk St,,94109,,,,H24,1034640,2016-05-20,Edward Coughlin,"965 Sutter Street, #123",San Francisco,CA,94109
+3329,Lori's Diner,900 North Point St #J101,San Francisco,94109,3.78×10^+01,-122.423,,H26,945623,,Lori's Diner International Inc,900 North Point St #J101,San Francisco,CA,94109
+83834,Silk Road,3251 20th Ave  6525,,94132,,,1.42×10^+10,H24,481895,2015-07-06,AKG Trade Inc,55 Chumasero Dr #1H,San Francisco,CA,94132
+74426,Virgil's Sea Room,3152 Mission St,,94110,,,,H86,477121,2013-05-01,"Triple Digits, Inc.",3152 Mission St.,SF,CA,94110
+80269,Mitsu Teahouse,22 Peace Plaza  440,SF,94115,,,1.42×10^+10,H24,489723,2014-09-03,TeaMee LLC,225 Coronado Ave Apt 301,Daly City,CA,94015
+65137,Martita Restaurant,5276 Mission St,SF,94112,3.77×10^+01,-122.442,,H24,455423,2011-01-26,Carlos Boteo and Marta Boteo,5276 Mission St.,SF,CA,94112
+67182,"Asana, Inc.",1550 Bryant St Suite 150,SF,94103,3.78×10^+01,-122.411,,H33,448031,2011-08-29,Asana Inc,"1550 Bryant St., Ste 100",SF,CA,94103
+85796,"DJ Sushi, Inc.",450 Broadway St,,94133,,,,H25,1020424,2015-11-23,"DJ Sushi, Inc.",1445 Mason Street,San Francisco,CA,94133
+484,Columbus Cafe,562 Green St,San Francisco,94133,3.78×10^+01,-122.408,,H25,392433,2005-10-03,"J Gus, Inc",562 Green St,San Francisco,CA,94133

@@ -1,0 +1,4 @@
+playerID,useFirst,firstName,middleName,lastName,nameGiven,fullGivenName,nameSuffix,nameNick,pos,firstseason,lastseason,height,weight,college,collegeOther,birthDate,birthCity,birthState,birthCountry,highSchool,hsCity,hsState,hsCountry,deathDate,race
+stanced01,Ed,Edmund,A.,Stanczak,,,,"Ed, Moose, Stan",F,0.0,0.00×10^+00,73.0,185.0,none,,1921-Aug-15,zero,,,Central,Fort Wayne,IN,USA,MMIV-V-XXX,W
+boozebo01,Bob,Robert,Lewis,Boozer,,,,"Bob, Bullet Bob, Big Bob, Coot",F,0.0,0.00×10^+00,80.0,215.0,Kansas State,,1937-Apr-26,Omaha,NE,USA,Omaha Tech,Omaha,NE,USA,MMXII-V-XIX,B
+seminji01,Jim,James,J.,Seminoff,,,,Jim,G-F,0.0,0.00×10^+00,74.0,190.0,USC,,1922-Sep-01,Los Angeles,CA,USA,Roosevelt,Los Angeles,CA,USA,MMI-VI-XII,W

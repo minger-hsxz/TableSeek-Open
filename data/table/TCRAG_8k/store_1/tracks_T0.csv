@@ -1,0 +1,84 @@
+primary_key,entity_name,album_ref,media_type_ref,genre_ref,composer_name,duration_ms,file_size_bytes,price_per_unit
+3151,Seu Balancê,248,one,seven,Paulinho Rezende/Toninho Geraes,2.19×10^+05,7.31×10^+06,0.99
+316,Linha Do Equador,28,one,seven,,2.45×10^+05,8.12×10^+06,0.99
+2179,Save You,180,one,one,Eddie Vedder/Jeff Ament/Matt Cameron/Mike McCready/Stone Gossard,2.30×10^+05,7.61×10^+06,0.99
+2773,Padre Cícero,223,one,seven,,1.40×10^+05,4.58×10^+06,0.99
+431,The Invisible Man,36,one,one,Queen,2.39×10^+05,7.92×10^+06,0.99
+2139,Wrathchild,177,one,one,Steve Harris,1.70×10^+05,5.50×10^+06,0.99
+2818,Senhor Delegado/Eu Não Aguento,225,one,four,Antonio Lopes,1.57×10^+05,5.28×10^+06,0.99
+1668,Stairway To Heaven,138,one,one,Robert Plant,6.57×10^+05,2.14×10^+07,0.99
+507,Lindo Lago Do Amor,41,one,seven,Gonzaga Jr.,2.50×10^+05,8.35×10^+06,0.99
+1223,Hallowed Be Thy Name,95,one,three,Steve Harris,4.72×10^+05,7.55×10^+06,0.99
+1147,It's So Easy,90,two,one,,2.03×10^+05,3.39×10^+06,0.99
+1193,Gypsy,93,one,two,Kevin Robinson,3.31×10^+05,1.11×10^+07,0.99
+3405,Canon and Gigue in D Major: I. Canon,274,two,twenty-four,Johann Pachelbel,2.72×10^+05,4.44×10^+06,0.99
+3235,The Magnificent Warriors,253,three,twenty,,2.92×10^+06,5.70×10^+08,1.99
+193,Realword,19,one,three,Roy Z,2.38×10^+05,7.80×10^+06,0.99
+3250,Pilot,254,three,nineteen,,2.48×10^+06,4.93×10^+08,1.99
+1794,Everything I Need,147,one,one,,2.16×10^+05,7.11×10^+06,0.99
+863,Um Amor Puro,69,one,seven,,3.28×10^+05,1.07×10^+07,0.99
+3242,The Man With Nine Lives,253,three,twenty,,2.96×10^+06,5.78×10^+08,1.99
+2286,Get Up,188,one,four,Bill Berry-Peter Buck-Mike Mills-Michael Stipe,1.60×10^+05,5.26×10^+06,0.99
+1601,No Quarter,129,one,one,John Paul Jones,4.20×10^+05,1.37×10^+07,0.99
+2831,Taking a Break from All Your Worries,227,three,eighteen,,2.62×10^+06,4.93×10^+08,1.99
+1792,Overkill,147,one,one,,2.25×10^+05,7.41×10^+06,0.99
+2164,F*Ckin' Up,178,one,one,Neil Young,3.78×10^+05,1.24×10^+07,0.99
+2568,Black Light Syndrome,208,one,one,"Terry Bozzio, Steve Stevens, Tony Levin",5.26×10^+05,1.73×10^+07,0.99
+71,Falando De Amor,8,one,two,,2.20×10^+05,7.12×10^+06,0.99
+1174,Civil War,92,one,three,Duff McKagan/Slash/W. Axl Rose,4.61×10^+05,1.50×10^+07,0.99
+403,Bumbo Da Mangueira,34,one,seven,Vários,2.70×10^+05,9.07×10^+06,0.99
+1455,Just Another Story,118,one,fifteen,Toby Smith,5.30×10^+05,1.76×10^+07,0.99
+722,Meu Mundo Fica Completo (Com Você),56,one,seven,,2.48×10^+05,8.32×10^+06,0.99
+811,Lady Double Dealer,65,one,one,D.Coverdale/R.Blackmore/Ritchie Blackmore,2.01×10^+05,6.55×10^+06,0.99
+1488,Remember,120,one,one,Jimi Hendrix,1.68×10^+05,5.51×10^+06,0.99
+1727,Brumário,142,one,seven,,2.16×10^+05,7.24×10^+06,0.99
+1558,Ram It Down,125,one,three,,2.92×10^+05,9.55×10^+06,0.99
+2004,In Bloom,164,one,one,Kurt Cobain,2.55×10^+05,8.33×10^+06,0.99
+3329,Na Ladeira,259,one,fifteen,,2.22×10^+05,8.87×10^+06,0.99
+2294,I Remember California,188,one,four,Bill Berry-Peter Buck-Mike Mills-Michael Stipe,3.04×10^+05,9.95×10^+06,0.99
+753,You Keep On Moving,58,one,one,Coverdale/Hughes,3.19×10^+05,1.04×10^+07,0.99
+2726,Transmission,220,one,four,The Tea Party,3.17×10^+05,1.04×10^+07,0.99
+1500,Satch Boogie,121,two,one,,1.94×10^+05,3.30×10^+06,0.99
+388,À Vontade (Live Mix),33,one,seven,Bombom/Ed Motta,1.81×10^+05,5.97×10^+06,0.99
+135,Super Terrorizer,14,one,three,,3.19×10^+05,1.05×10^+07,0.99
+1269,02 - Sanctuary,100,one,six,David Murray/Paul Di'Anno/Steve Harris,1.96×10^+05,4.71×10^+06,0.99
+1539,Equinocio,124,one,sixteen,João Suplicy,2.69×10^+05,8.87×10^+06,0.99
+2948,Grace,233,one,one,"Adam Clayton, Bono, Larry Mullen, The Edge",3.31×10^+05,1.09×10^+07,0.99
+2992,I Still Haven't Found What I'm Looking for,237,one,one,"Bono/Clayton, Adam/Mullen Jr., Larry/The Edge",3.54×10^+05,1.15×10^+07,0.99
+27,Dude (Looks Like A Lady),5,one,one,"Steven Tyler, Joe Perry, Desmond Child",2.65×10^+05,8.68×10^+06,0.99
+1468,Rollover D.J.,119,one,four,C. Cester/N. Cester,1.97×10^+05,6.41×10^+06,0.99
+680,Green River,54,one,one,J. C. Fogerty,1.54×10^+05,5.11×10^+06,0.99
+2345,O Dia Em Que A Terra Parou,192,one,one,,2.62×10^+05,8.59×10^+06,0.99
+33,The Other Side,5,one,one,"Steven Tyler, Jim Vallance",2.44×10^+05,7.98×10^+06,0.99
+1002,Another Round,80,one,one,"Dave Grohl, Taylor Hawkins, Nate Mendel, Chris Shiflett/FOO FIGHTERS",2.66×10^+05,8.75×10^+06,0.99
+1616,Going To California,131,one,one,"Jimmy Page, Robert Plant",2.16×10^+05,7.07×10^+06,0.99
+2710,The Bazaar,219,one,four,The Tea Party,2.22×10^+05,7.25×10^+06,0.99
+464,As We Sleep,38,one,two,,3.17×10^+05,1.04×10^+07,0.99
+1335,Where Eagles Dare,106,one,three,Steve Harris,3.70×10^+05,5.91×10^+06,0.99
+1724,Hyperconectividade,143,one,seven,,1.81×10^+05,5.95×10^+06,0.99
+52,Man In The Box,7,one,one,"Jerry Cantrell, Layne Staley",2.87×10^+05,9.31×10^+06,0.99
+2481,Waiting,201,one,four,Billy Corgan,2.28×10^+05,7.63×10^+06,0.99
+451,Strutter,37,one,one,"Paul Stanley, Gene Simmons",1.92×10^+05,6.32×10^+06,0.99
+1207,The Reincarnation of Benjamin Breeg,94,two,one,,4.42×10^+05,7.37×10^+06,0.99
+2465,Tão Seu,200,one,one,Samuel Rosa,2.44×10^+05,8.13×10^+06,0.99
+3337,"Past, Present, and Future",261,three,twenty-one,,2.49×10^+06,4.91×10^+08,1.99
+1908,New Rhumba,157,one,two,A. Jamal,2.77×10^+05,8.98×10^+06,0.99
+2551,Wet My Bed,206,one,one,R. DeLeo/Weiland,9.69×10^+04,3.20×10^+06,0.99
+2861,"Lost (Pilot, Part 2)",230,three,nineteen,,2.44×10^+06,2.05×10^+08,1.99
+606,Summertime,48,one,two,Miles Davis,2.00×10^+05,6.46×10^+06,0.99
+1458,Light Years,118,one,fifteen,Toby Smith,3.55×10^+05,1.18×10^+07,0.99
+2397,Easily,195,one,one,Red Hot Chili Peppers,2.31×10^+05,7.50×10^+06,0.99
+1953,The Hammer,160,one,three,Clarke/Kilmister/Taylor,1.68×10^+05,5.54×10^+06,0.99
+1841,The House Jack Built,151,one,three,"James Hetfield, Lars Ulrich, Kirk Hammett",3.99×10^+05,1.30×10^+07,0.99
+756,Child In Time,59,one,one,"Blackmore, Gillan, Glover, Lord, Paice",6.20×10^+05,2.02×10^+07,0.99
+3288,Rock You Like a Hurricane,257,two,one,,2.56×10^+05,4.30×10^+06,0.99
+3493,"Metopes, Op. 29: Calypso",337,two,twenty-four,Karol Szymanowski,3.34×10^+05,5.55×10^+06,0.99
+2950,Spanish Eyes,234,one,one,U2,1.97×10^+05,6.39×10^+06,0.99
+3397,Jewel of the Summertime,271,two,twenty-three,,2.33×10^+05,3.81×10^+06,0.99
+3444,Romeo et Juliette: No. 11 - Danse des Chevaliers,310,two,twenty-four,,2.75×10^+05,4.52×10^+06,0.99
+2471,Poconé,200,one,one,Samuel Rosa,3.18×10^+05,1.08×10^+07,0.99
+2769,Não Quero Dinheiro,223,one,seven,,1.53×10^+05,5.03×10^+06,0.99
+2792,A Melhor Forma,224,one,four,Titãs,1.92×10^+05,6.35×10^+06,0.99
+3408,"Aria Mit 30 Veränderungen, BWV 988 ""Goldberg Variations"": Aria",277,two,twenty-four,Johann Sebastian Bach,1.20×10^+05,2.08×10^+06,0.99
+3365,Say Hello 2 Heaven,269,two,twenty-three,,3.84×10^+05,6.48×10^+06,0.99
+3038,Breakfast In Bed,241,one,eight,,1.96×10^+05,6.51×10^+06,0.99

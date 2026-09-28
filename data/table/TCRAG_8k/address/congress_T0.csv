@@ -1,0 +1,74 @@
+rep_cognress_id,given_name,surname,customer_id,political_party,province,abbr,legislative_house,electoral_district,acreage
+MD-1,Harris,Andy,N00009975,Republican,Maryland,MD,House of Repsentatives,1.0,"three thousand, nine hundred and seventy-seven point zero six"
+CA-49,Issa,Darrell,N00027464,Republican,California,CA,House of Repsentatives,49.0,five hundred and fifty-three point zero eight
+WA-S2,Murray,Patty,N00032416,Democrat,Washington,WA,Senate,,"sixty-six thousand, five hundred and eighty-two point zero"
+CO-2,Polis,Jared,N00000133,Democrat,Colorado,CO,House of Repsentatives,2.0,"seven thousand, five hundred and thirty-five point three four"
+TX-28,Cuellar,Henry,N00000751,Democrat,Texas,TX,House of Repsentatives,28.0,"nine thousand, three hundred and seventy-eight point five three"
+CA-52,Peters,Scott,N00007099,Democrat,California,CA,House of Repsentatives,52.0,two hundred and sixty-seven point zero
+NC-6,Coble,Howard,N00003950,Republican,North Carolina,NC,House of Repsentatives,6.0,"three thousand, six hundred and seventy-four point five five"
+PA-9,Shuster,Bill,N00013846,Republican,Pennsylvania,PA,House of Repsentatives,9.0,"five thousand, seven hundred and thirty point zero nine"
+NY-11,Grimm,Michael,N00025237,Republican,New York,NY,House of Repsentatives,11.0,sixty-five point eight three
+OH-8,Boehner,John,N00013855,Republican,Ohio,OH,House of Repsentatives,8.0,"two thousand, four hundred and fifty point four nine"
+AL-4,Aderholt,Robert B,N00035451,Republican,Alabama,AL,House of Repsentatives,4.0,"eight thousand, eight hundred and eighty-eight point seven seven"
+FL-20,Hastings,Alcee L,N00004029,Democrat,Florida,FL,House of Repsentatives,20.0,"two thousand, four hundred and twenty-seven point four two"
+PA-18,Murphy,Tim,N00024770,Republican,Pennsylvania,PA,House of Repsentatives,18.0,two thousand and seventy-two point seven nine
+CA-50,Hunter,Duncan D,N00001619,Republican,California,CA,House of Repsentatives,50.0,"two thousand, seven hundred and eighty-seven point three five"
+MO-4,Hartzler,Vicky,N00033630,Republican,Missouri,MO,House of Repsentatives,4.0,"fourteen thousand, four hundred and one point three eight"
+IN-S2,Donnelly,Joe,N00027523,Democrat,Indiana,IN,Senate,,"thirty-five thousand, eight hundred and seventy point zero"
+VA-10,Wolf,Frank,N00007151,Republican,Virginia,VA,House of Repsentatives,10.0,"one thousand, three hundred and seventy-two point two four"
+DC,Norton,Eleanor Holmes,N00002408,Democrat,District of Columbia,DC,House of Repsentatives,,sixty-eight point three four
+WI-5,Sensenbrenner,Jim,N00027751,Republican,Wisconsin,WI,House of Repsentatives,5.0,"one thousand, eight hundred and ninety point seven five"
+CA-32,Napolitano,Grace,N00033390,Democrat,California,CA,House of Repsentatives,32.0,one hundred and twenty-four point two three
+OH-13,Ryan,Tim,N00027459,Democrat,Ohio,OH,House of Repsentatives,13.0,eight hundred and ninety-four point three
+IN-1,Visclosky,Pete,N00009573,Democrat,Indiana,IN,House of Repsentatives,1.0,"one thousand, one hundred and fifty-seven point zero two"
+NC-7,McIntyre,Mike,N00033274,Democrat,North Carolina,NC,House of Repsentatives,7.0,"six thousand, one hundred and sixty-one point seven seven"
+IL-11,Foster,Bill,N00030752,Democrat,Illinois,IL,House of Repsentatives,11.0,two hundred and eighty point nine five
+TX-4,Hall,Ralph,N00033591,Republican,Texas,TX,House of Repsentatives,4.0,"ten thousand, one hundred and twenty-two point nine nine"
+AK-S2,Murkowski,Lisa,N00033101,Republican,Alaska,AK,Senate,,"five hundred and seventy thousand, six hundred and forty-one point zero"
+IL-7,Davis,Danny K,N00026586,Democrat,Illinois,IL,House of Repsentatives,7.0,sixty-two point five two
+NY-25,Slaughter,Louise M,N00012233,Democrat,New York,NY,House of Repsentatives,25.0,five hundred and ten point one nine
+AL-S1,Sessions,Jeff,N00004724,Republican,Alabama,AL,Senate,,"fifty thousand, seven hundred and fifty point zero"
+NH-1,Shea-Porter,Carol,N00029444,Democrat,New Hampshire,NH,House of Repsentatives,1.0,"two thousand, four hundred and sixty-three point six five"
+OH-11,Fudge,Marcia L,N00000078,Democrat,Ohio,OH,House of Repsentatives,11.0,two hundred and forty-four point four six
+IL-3,Lipinski,Daniel,N00031513,Democrat,Illinois,IL,House of Repsentatives,3.0,two hundred and thirty-seven point one eight
+MI-11,Bentivolio,Kerry,N00006806,Republican,Michigan,MI,House of Repsentatives,11.0,four hundred and nineteen point two six
+TX-23,Gallego,Pete,N00012672,Democrat,Texas,TX,House of Repsentatives,23.0,fifty-eight thousand and fifty-nine point one eight
+NY-18,Maloney,Sean Patrick,N00033987,Democrat,New York,NY,House of Repsentatives,18.0,"one thousand, three hundred and fifty-three point four two"
+WI-3,Kind,Ron,N00025280,Democrat,Wisconsin,WI,House of Repsentatives,3.0,"eleven thousand, one hundred and eleven point seven nine"
+PA-5,Thompson,Glenn,N00026914,Republican,Pennsylvania,PA,House of Repsentatives,5.0,"ten thousand, seven hundred and eleven point two one"
+CA-48,Rohrabacher,Dana,N00008086,Republican,California,CA,House of Repsentatives,48.0,one hundred and forty-five point four seven
+KS-1,Huelskamp,Tim,N00026166,Republican,Kansas,KS,House of Repsentatives,1.0,"fifty-two thousand, five hundred and forty-two point five"
+MN-S2,Klobuchar,Amy,N00003288,Democrat,Minnesota,MN,Senate,,"seventy-nine thousand, six hundred and seventeen point zero"
+NJ-4,Smith,Chris,N00003522,Republican,New Jersey,NJ,House of Repsentatives,4.0,six hundred and ninety-one point eight eight
+UT-2,Stewart,Chris,N00031127,Republican,Utah,UT,House of Repsentatives,2.0,"thirty-nine thousand, nine hundred and eighty-seven point nine five"
+GA-2,Bishop,Sanford,N00009738,Democrat,Georgia,GA,House of Repsentatives,2.0,"nine thousand, six hundred and twenty-six point two three"
+TX-17,Flores,Bill,N00034639,Republican,Texas,TX,House of Repsentatives,17.0,"seven thousand, six hundred and fifty-one point one six"
+IL-17,Bustos,Cheri,N00006023,Democrat,Illinois,IL,House of Repsentatives,17.0,"six thousand, nine hundred and thirty-three point zero eight"
+CA-6,Matsui,Doris,N00028986,Democrat,California,CA,House of Repsentatives,6.0,one hundred and seventy-five point zero four
+NY-5,Meeks,Gregory W,N00000898,Democrat,New York,NY,House of Repsentatives,5.0,nine hundred and ninety-one point three
+OR-3,Blumenauer,Earl,N00009829,Democrat,Oregon,OR,House of Repsentatives,3.0,one thousand and seventy-four point four six
+WV-2,Capito,Shelley Moore,N00031988,Republican,West Virginia,WV,House of Repsentatives,2.0,eight thousand and seventeen point three one
+CA-1,LaMalfa,Doug,N00036013,Republican,California,CA,House of Repsentatives,1.0,twenty-eight thousand and eighty-nine point four seven
+MD-7,Cummings,Elijah E,N00009154,Democrat,Maryland,MD,House of Repsentatives,7.0,four hundred and eighty-eight point zero three
+WA-10,Heck,Dennis,N00004719,Democrat,Washington,WA,House of Repsentatives,10.0,eight hundred and twenty-six point six seven
+VA-3,Scott,Bobby,N00009668,Democrat,Virginia,VA,House of Repsentatives,3.0,nine hundred and forty-seven point one
+AL-7,Sewell,Terri A,N00027493,Democrat,Alabama,AL,House of Repsentatives,7.0,"ten thousand, one hundred and fifty-six point one three"
+WI-7,Duffy,Sean P,N00004357,Republican,Wisconsin,WI,House of Repsentatives,7.0,twenty-three thousand and thirty-seven point two six
+NJ-8,Sires,Albio,N00033177,Democrat,New Jersey,NJ,House of Repsentatives,8.0,fifty-four point six nine
+DE-S2,Coons,Chris,N00001813,Democrat,Delaware,DE,Senate,,"one thousand, nine hundred and fifty-five point zero"
+TN-9,Cohen,Steve,N00026043,Democrat,Tennessee,TN,House of Repsentatives,9.0,four hundred and eighty-three point three nine
+OH-10,Turner,Michael R,N00001148,Republican,Ohio,OH,House of Repsentatives,10.0,"one thousand, one hundred and twenty-nine point seven six"
+IA-4,King,Steven A,N00013799,Republican,Iowa,IA,House of Repsentatives,4.0,"twenty-two thousand, seven hundred and fifty-six point seven five"
+MI-2,Huizenga,Bill,N00004207,Republican,Michigan,MI,House of Repsentatives,2.0,"three thousand, two hundred and eighty-one point one nine"
+NJ-10,Payne,Donald M Jr,N00027894,Democrat,New Jersey,NJ,House of Repsentatives,10.0,seventy-five point nine two
+CA-51,Vargas,Juan,N00034128,Democrat,California,CA,House of Repsentatives,51.0,"four thousand, seven hundred and ninety-one point six one"
+WV-S1,Manchin,Joe,N00007724,Democrat,West Virginia,WV,Senate,,twenty-four thousand and eighty-seven point zero
+CA-46,Sanchez,Loretta,N00007232,Democrat,California,CA,House of Repsentatives,46.0,seventy-one point seven two
+TX-S2,Cruz,Ted,N00003467,Republican,Texas,TX,Senate,,"two hundred and sixty-one thousand, nine hundred and fourteen point zero"
+TX-2,Poe,Ted,N00003682,Republican,Texas,TX,House of Repsentatives,2.0,three hundred and eight point seven five
+NY-S2,Schumer,Charles E,N00007021,Democrat,New York,NY,Senate,,"forty-seven thousand, two hundred and twenty-four point zero"
+MO-3,Luetkemeyer,Blaine,N00033030,Republican,Missouri,MO,House of Repsentatives,3.0,"six thousand, eight hundred and fifty-one point five four"
+FL-S1,Nelson,Bill,N00003062,Democrat,Florida,FL,Senate,,"fifty-three thousand, nine hundred and ninety-seven point zero"
+CA-53,Davis,Susan,N00003675,Democrat,California,CA,House of Repsentatives,53.0,one hundred and thirty-five point four three
+GA-S2,Isakson,Johnny,N00024790,Republican,Georgia,GA,Senate,,"fifty-seven thousand, nine hundred and nineteen point zero"
+NV-2,Amodei,Mark,N00013345,Republican,Nevada,NV,House of Repsentatives,2.0,"fifty-five thousand, eight hundred and twenty-nine point seven one"

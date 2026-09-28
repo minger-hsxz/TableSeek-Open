@@ -1,0 +1,29 @@
+pid,firstFlag,firstName,middleName,lastName,nameGiven,fullGivenName,suffixName,nickName,position,seasonStart,seasonEnd,stature,mass_mul100,almaMater,otherCollege,birthDate,birthCity,birthState,birthCountry,highSchool,hsCity,hsState,hsCountry,ethnicity
+aingeda01,Danny,Daniel,Ray,Ainge,zero,,,Danny,G-F,0.0,0.00×10^+00,7.60×10^+01,17500.0,Brigham Young,,MCMLIX-III-XVII,Eugene,OR,USA,North Eugene,North Eugene,OR,USA,W
+meyerwa01,,Ward,,Meyers,zero,,,,C,0.0,0.00×10^+00,7.30×10^+01,18500.0,none,,0000-00-00,,,,zero,,,zero,W
+hickspa01,,Paul,,Hicks,zero,,,,G,0.0,0.00×10^+00,7.50×10^+01,19500.0,Eastern Kentucky,,0000-00-00,,,,zero,,,zero,W
+hendeto01,Tom,Thomas,Edward,Henderson,zero,,,Tom,G,0.0,0.00×10^+00,7.50×10^+01,19000.0,Hawaii,San Jacinto JC,MCMLII-I-XXVI,Newberry,SC,USA,DeWitt Clinton,Bronx,NY,USA,B
+mullich01,Chris,Christopher,Paul,Mullin,zero,,,Chris,F-G,0.0,0.00×10^+00,7.80×10^+01,20000.0,St. John's (NY),,MCMLXIII-VII-XXX,New York,NY,USA,Power Memorial / Xaverian,New York / Brooklyn,NY,USA,W
+higgico01,Cory,Courdon,,Higgins,zero,,,Cory,G,0.0,0.00×10^+00,7.70×10^+01,18000.0,Colorado,,MCMLXXXIX-VI-XIV,Danville,CA,USA,Monte Vista / IMG Pendleton School,Danville / Bradenton,CA / FL,USA,B
+boozebo01,Bob,Robert,Lewis,Boozer,zero,,,"Bob, Bullet Bob, Big Bob, Coot",F,0.0,0.00×10^+00,8.00×10^+01,21500.0,Kansas State,,MCMXXXVII-IV-XXVI,Omaha,NE,USA,Omaha Tech,Omaha,NE,USA,B
+barneji02,Jim,James,Franklin,Barnett,zero,,,Jim,G-F,0.0,0.00×10^+00,7.60×10^+01,17000.0,Oregon,,MCMXLIV-VII-VII,Greenville,SC,USA,Ramona,Riverside,CA,USA,W
+joneswa01,Wah Wah,Wallace,Clayton,Jones,zero,,,Wah Wah,F,0.0,0.00×10^+00,7.60×10^+01,20500.0,Kentucky,,MCMXXVI-VII-XIV,Harlan,KY,USA,Harlan,Harlan,KY,USA,W
+peplomi01,Mike,Michael,Walter,Peplowski,zero,,,Mike,C,0.0,0.00×10^+00,8.20×10^+01,27000.0,Michigan State,,MCMLXX-X-XV,Detroit,MI,USA,De La Salle,Warren,MI,USA,W
+seminji01,Jim,James,J.,Seminoff,zero,,,Jim,G-F,0.0,0.00×10^+00,7.40×10^+01,19000.0,USC,,MCMXXII-IX-I,Los Angeles,CA,USA,Roosevelt,Los Angeles,CA,USA,W
+mitchmu01,Murray,Murray,C.,Mitchell,zero,,,,C,0.0,0.00×10^+00,7.80×10^+01,0.0,Sam Houston State,,MCMXXIII-III-XIX,,,,Huntsville,Huntsville,TX,USA,W
+johnssp01,,Charles,,Johnson,zero,,,Splinter,F-C,0.0,0.00×10^+00,7.50×10^+01,19000.0,Purdue,,0000-00-00,,,,Frankfort,Frankfort,IN,USA,W
+stutzst01,Stan,Stanley,J.,Stutz,zero,Stanley J. Modzelewski,,Stan,G-F,0.0,0.00×10^+00,7.00×10^+01,17000.0,Rhode Island,,MCMXX-IV-XIV,Worcester,MA,USA,Worcester Classical,Worcester,MA,USA,W
+fitchbi01,Bill,Bill,,Fitch,zero,,,,,0.0,0.00×10^+00,7.40×10^+01,20500.0,Coe College,,MCMXXXIV-V-XIX,,,,zero,,,zero,
+brownsh01,Shannon,Shannon,,Brown,zero,,,,G,0.0,0.00×10^+00,7.60×10^+01,20500.0,Michigan State,,MCMLXXXV-XI-XXIX,Maywood,IL,USA,Proviso East,Maywood,IL,USA,B
+maybele01,Lee,Orva,Lee,Mayberry,zero,,Jr.,Lee,G,0.0,0.00×10^+00,7.30×10^+01,17200.0,Arkansas,,MCMLXX-VI-XII,Tulsa,OK,USA,Rogers,Tulsa,OK,USA,B
+turnehe01,Herschel,Herschell,C.,Turner,zero,,,H.T.,G,0.0,0.00×10^+00,7.40×10^+01,19500.0,Nebraska,,MCMXXXVIII-III-XXIX,,,,Shortridge,Indianapolis,IN,USA,B
+patrimy01,Myles,Myles,,Patrick,zero,,,,F,0.0,0.00×10^+00,8.00×10^+01,22000.0,Auburn,,MCMLIV-XI-XIX,Macon,GA,USA,Southwest,Macon,GA,USA,B
+lieboba01,Barry,Barry,,Liebowitz,zero,,,,G,0.0,0.00×10^+00,7.40×10^+01,18000.0,LIU,,MCMXLV-IX-X,New York,NY,USA,DeWitt Clinton,Bronx,NY,USA,W
+hinriki01,Kirk,Kirk,James,Hinrich,zero,,,,G,0.0,0.00×10^+00,7.50×10^+01,19000.0,Kansas,,MCMLXXXI-I-II,Sioux City,IA,USA,Sioux City West,Sioux City,IA,USA,W
+brogaji01,Jim,James,Riley,Brogan,zero,,,Jim,G,0.0,0.00×10^+00,7.60×10^+01,18500.0,West Virginia Wesleyan,,MCMLVIII-II-XXIV,Ardmore,PA,USA,Lower Merion,Ardmore,PA,USA,W
+mcguial01,Al,Alfred,James,McGuire,zero,,,Al,G-F,0.0,0.00×10^+00,7.40×10^+01,18000.0,St. John's (NY),,MCMXXVIII-IX-VII,New York,NY,USA,St. John's Prep,Brooklyn,NY,USA,W
+stanced01,Ed,Edmund,A.,Stanczak,zero,,,"Ed, Moose, Stan",F,0.0,0.00×10^+00,7.30×10^+01,18500.0,none,,MCMXXI-VIII-XV,,,,Central,Fort Wayne,IN,USA,W
+barreer01,Ernie,Ernie,Drew,Barrett,zero,,,Black Jack,G-F,0.0,0.00×10^+00,7.50×10^+01,18000.0,Kansas State,,MCMXXIX-VIII-XXVII,Pratt,KS,USA,Wellington,Wellington,KS,USA,W
+collini01,Nick,Nicholas,John,Collison,zero,,,Nick,F,0.0,0.00×10^+00,8.10×10^+01,25500.0,Kansas,,MCMLXXX-X-XXVI,Orange City,IA,USA,Iowa Falls,Iowa Falls,IA,USA,W
+nelsodo01,Don,Donald,Arvid,Nelson,zero,,,"Don, Nellie",F,0.0,0.00×10^+00,7.80×10^+01,21000.0,Iowa,,MCMXL-V-XV,Muskegon,MI,USA,Rock Island,Rock Island,IL,USA,W
+roberwy01,,Wyman,J.,Roberts,zero,,,,F,0.0,0.00×10^+00,7.10×10^+01,16000.0,none,,MCMXV-IX-XXVII,,,,Waterloo,Waterloo,OH,USA,W

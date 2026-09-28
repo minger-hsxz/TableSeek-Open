@@ -1,0 +1,78 @@
+cognress_rep_id,first_name,last_name,CID,party,state,abbreviation,House,District,land_area
+ID-S2,Risch,James E,N00004961,Republican,Idaho,ID,Senate,zero,82751.0
+CA-26,Brownley,Julia,N00025292,Democrat,California,CA,House of Repsentatives,twenty-six point zero,939.12
+AL-3,Rogers,Mike D,N00030980,Republican,Alabama,AL,House of Repsentatives,three point zero,7543.86
+IL-4,Gutierrez,Luis V,N00003209,Democrat,Illinois,IL,House of Repsentatives,four point zero,52.45
+CA-35,McLeod,Gloria,N00027626,Democrat,California,CA,House of Repsentatives,thirty-five point zero,168.88
+NC-11,Meadows,Mark,N00001024,Republican,North Carolina,NC,House of Repsentatives,eleven point zero,6838.24
+HI-2,Gabbard,Tulsi,N00030957,Democrat,Hawaii,HI,House of Repsentatives,two point zero,6213.4
+NH-2,Kuster,Ann,N00029077,Democrat,New Hampshire,NH,House of Repsentatives,two point zero,6489.0
+KY-2,Guthrie,Brett,N00030490,Republican,Kentucky,KY,House of Repsentatives,two point zero,7177.44
+CA-53,Davis,Susan,N00003675,Democrat,California,CA,House of Repsentatives,fifty-three point zero,135.43
+OH-16,Renacci,Jim,N00009753,Republican,Ohio,OH,House of Repsentatives,sixteen point zero,1205.34
+WY-S2,Enzi,Mike,N00030670,Republican,Wyoming,WY,Senate,zero,97105.0
+TN-2,Duncan,John J Jr,N00036154,Republican,Tennessee,TN,House of Repsentatives,two point zero,2320.68
+IL-7,Davis,Danny K,N00026586,Democrat,Illinois,IL,House of Repsentatives,seven point zero,62.52
+GU,Bordallo,Madeleine Z,N00034746,Democrat,Guam,GU,House of Repsentatives,zero,212.0
+CA-9,McNerney,Jerry,N00031227,Democrat,California,CA,House of Repsentatives,nine point zero,1245.28
+MA-9,Keating,Bill,N00005870,Democrat,Massachusetts,MA,House of Repsentatives,nine point zero,1214.74
+TN-4,Desjarlais,Scott,N00021207,Republican,Tennessee,TN,House of Repsentatives,four point zero,5984.84
+NY-14,Crowley,Joseph,N00004403,Democrat,New York,NY,House of Repsentatives,fourteen point zero,28.29
+TX-29,Green,Gene,N00029277,Democrat,Texas,TX,House of Repsentatives,twenty-nine point zero,187.07
+CA-20,Farr,Sam,N00013873,Democrat,California,CA,House of Repsentatives,twenty point zero,4874.22
+TX-33,Veasey,Marc,N00030581,Democrat,Texas,TX,House of Repsentatives,thirty-three point zero,211.94
+OH-8,Boehner,John,N00013855,Republican,Ohio,OH,House of Repsentatives,eight point zero,2450.49
+IL-8,Duckworth,Tammy,N00027860,Democrat,Illinois,IL,House of Repsentatives,eight point zero,205.52
+OH-7,Gibbs,Bob,N00034277,Republican,Ohio,OH,House of Repsentatives,seven point zero,3864.76
+WA-4,Hastings,Doc,N00002858,Republican,Washington,WA,House of Repsentatives,four point zero,19250.22
+NY-11,Grimm,Michael,N00025237,Republican,New York,NY,House of Repsentatives,eleven point zero,65.83
+TX-36,Stockman,Steve,N00026160,Republican,Texas,TX,House of Repsentatives,thirty-six point zero,7125.83
+TX-S2,Cruz,Ted,N00003467,Republican,Texas,TX,Senate,zero,261914.0
+OH-14,Joyce,David P,N00031777,Republican,Ohio,OH,House of Repsentatives,fourteen point zero,1953.14
+TX-3,Johnson,Sam,N00034416,Republican,Texas,TX,House of Repsentatives,three point zero,480.88
+MD-S1,Cardin,Ben,N00029574,Democrat,Maryland,MD,Senate,zero,9775.0
+LA-4,Fleming,John,N00025025,Republican,Louisiana,LA,House of Repsentatives,four point zero,12435.1
+IL-10,Schneider,Brad,N00033217,Democrat,Illinois,IL,House of Repsentatives,ten point zero,299.78
+FL-8,Posey,Bill,N00026341,Republican,Florida,FL,House of Repsentatives,eight point zero,1752.06
+AZ-S2,McCain,John,N00030071,Republican,Arizona,AZ,Senate,zero,113642.0
+OH-9,Kaptur,Marcy,N00000270,Democrat,Ohio,OH,House of Repsentatives,nine point zero,464.65
+PA-S1,Casey,Bob,N00027467,Democrat,Pennsylvania,PA,Senate,zero,44820.0
+CT-3,DeLauro,Rosa L,N00035278,Democrat,Connecticut,CT,House of Repsentatives,three point zero,470.34
+PA-5,Thompson,Glenn,N00026914,Republican,Pennsylvania,PA,House of Repsentatives,five point zero,10711.21
+TX-8,Brady,Kevin,N00033540,Republican,Texas,TX,House of Repsentatives,eight point zero,6053.76
+MD-8,Van Hollen,Chris,N00030788,Democrat,Maryland,MD,House of Repsentatives,eight point zero,859.85
+CA-18,Eshoo,Anna,N00035267,Democrat,California,CA,House of Repsentatives,eighteen point zero,696.12
+IL-15,Shimkus,John,N00031672,Republican,Illinois,IL,House of Repsentatives,fifteen point zero,14695.67
+NV-2,Amodei,Mark,N00013345,Republican,Nevada,NV,House of Repsentatives,two point zero,55829.71
+PA-13,Schwartz,Allyson,N00007390,Democrat,Pennsylvania,PA,House of Repsentatives,thirteen point zero,155.18
+VA-7,Brat,Dave,N00030184,Republican,Virginia,VA,House of Repsentatives,seven point zero,2776.39
+OH-3,Beatty,Joyce,N00029788,Democrat,Ohio,OH,House of Repsentatives,three point zero,228.0
+FL-15,Ross,Dennis,N00004614,Republican,Florida,FL,House of Repsentatives,fifteen point zero,818.51
+OH-4,Jordan,Jim,N00026710,Republican,Ohio,OH,House of Repsentatives,four point zero,4664.87
+CO-7,Perlmutter,Ed,N00002685,Democrat,Colorado,CO,House of Repsentatives,seven point zero,342.11
+NC-12,Adams,Alma,N00031696,Democrat,North Carolina,NC,House of Repsentatives,twelve point zero,549.66
+WA-2,Larsen,Rick,N00031253,Democrat,Washington,WA,House of Repsentatives,two point zero,1015.02
+CA-34,Becerra,Xavier,N00031559,Democrat,California,CA,House of Repsentatives,thirty-four point zero,47.66
+SC-6,Clyburn,James E,N00031412,Democrat,South Carolina,SC,House of Repsentatives,six point zero,8062.93
+MA-2,McGovern,James P,N00025284,Democrat,Massachusetts,MA,House of Repsentatives,two point zero,1628.0
+CT-4,Himes,Jim,N00035854,Democrat,Connecticut,CT,House of Repsentatives,four point zero,460.73
+FL-14,Castor,Kathy,N00003328,Democrat,Florida,FL,House of Repsentatives,fourteen point zero,265.4
+VT-S2,Sanders,Bernie,N00024809,Independent,Vermont,VT,Senate,zero,9249.0
+NY-22,Hanna,Richard,N00002656,Republican,New York,NY,House of Repsentatives,twenty-two point zero,5077.45
+NC-7,McIntyre,Mike,N00033274,Democrat,North Carolina,NC,House of Repsentatives,seven point zero,6161.77
+WI-4,Moore,Gwen,N00006446,Democrat,Wisconsin,WI,House of Repsentatives,four point zero,128.35
+NV-4,Horsford,Steven,N00005818,Democrat,Nevada,NV,House of Repsentatives,four point zero,50997.97
+IN-8,Bucshon,Larry,N00001746,Republican,Indiana,IN,House of Repsentatives,eight point zero,7255.39
+TN-6,Black,Diane,N00000153,Republican,Tennessee,TN,House of Repsentatives,six point zero,6474.21
+TX-11,Conaway,Mike,N00000781,Republican,Texas,TX,House of Repsentatives,eleven point zero,27832.17
+ID-S1,Crapo,Mike,N00006897,Republican,Idaho,ID,Senate,zero,82751.0
+NJ-4,Smith,Chris,N00003522,Republican,New Jersey,NJ,House of Repsentatives,four point zero,691.88
+ME-S1,Collins,Susan M,N00004118,Republican,Maine,ME,Senate,zero,30865.0
+IA-S1,Grassley,Chuck,N00001311,Republican,Iowa,IA,Senate,zero,55875.0
+CA-33,Waxman,Henry,N00030245,Democrat,California,CA,House of Repsentatives,thirty-three point zero,288.58
+LA-S2,Vitter,David,N00029649,Republican,Louisiana,LA,Senate,zero,43566.0
+IA-3,Latham,Tom,N00026631,Republican,Iowa,IA,House of Repsentatives,three point zero,8789.62
+TX-23,Gallego,Pete,N00012672,Democrat,Texas,TX,House of Repsentatives,twenty-three point zero,58059.18
+CA-38,Sanchez,Linda,N00009771,Democrat,California,CA,House of Repsentatives,thirty-eight point zero,101.46
+CA-23,McCarthy,Kevin,N00002713,Republican,California,CA,House of Repsentatives,twenty-three point zero,9898.0
+NY-6,Meng,Grace,N00005395,Democrat,New York,NY,House of Repsentatives,six point zero,29.78

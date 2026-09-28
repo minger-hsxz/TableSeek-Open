@@ -1,0 +1,51 @@
+BeginTime,EndTime,SubjectID,VisitSession,CODE(k),DESCRIPTION,REASONCODE,REASONDESCRIPTION
+MCMLXXVI-IV-XI,,3adee4d3-583d-4909-bcfc-acd338ef1af8,3f495598-3d00-4237-ae2a-3f15c5eb5ad1,834.101,Penicillin V Potassium 500 MG,43878008.0,Streptococcal sore throat (disorder)
+MMXIII-IV-XXVI,2013-05-03,3bda8038-e158-4b07-ab06-42ec8a6a34f7,5ed4deac-268b-4300-a7be-b44282a1c5a9,568.53,Nitrofurantoin 5 MG/ML [Furadantin],38822007.0,Cystitis
+MMXI-III-III,2012-03-03,3d39598c-82fd-43c0-8daf-56cd09346ca0,bd24f6e4-73b0-4144-b64b-4a155eca42cc,757.594,Jolivette 28 Day Pack,,zero
+MMXII-VII-IX,2012-07-23,7392154b-0c0e-4527-9053-cd12c6d2bfe5,f9bd9d70-3b1d-4dfc-82e2-e73adc8e56e8,313.782,Acetaminophen 325 MG Oral Tablet,,zero
+MMXIII-IV-XVII,2013-04-29,4b406089-cb7b-46d7-accc-edb55dc0f792,9b292667-08c2-43be-9310-53b15cb28e79,608.68,Acetaminophen 160 MG,10509002.0,Acute bronchitis (disorder)
+MMXII-X-XXVI,2012-11-10,9195dc4a-37c9-47f0-b0f3-1e6aad398de3,14ed7cd6-5cda-4ce8-89a3-e6cade557ae8,198.405,Ibuprofen 100 MG Oral Tablet,,zero
+MMI-XII-I,,bd928f76-b217-4b78-b4dd-00a3fca98825,c351a82f-d6d4-4395-a668-71831ad0deaf,904.42,Alendronic acid 10 MG [Fosamax],,zero
+MMX-II-IV,2010-02-04,c99a09d2-696f-4be4-8f00-6e8ad49756f7,531fa038-506d-4c60-a6d4-b7f470182b87,259.255,Atorvastatin 80 MG Oral Tablet,22298006.0,Myocardial Infarction
+MMXII-III-VIII,2013-03-08,292804cc-8e4d-4437-8be1-4e309df5d8f6,059b071d-2d07-4ef0-877c-82f3ef59eb7e,748.879,Levora 0.15/30 28 Day Pack,,zero
+MMVIII-VII-XXVIII,2008-07-28,e3c8d2c8-570d-4c69-a81e-bd88d6c6b0ca,dd5f792d-e0be-4eeb-ba00-4bcd340919fa,583.214,PACLitaxel 100 MG Injection,423121009.0,Non-small cell carcinoma of lung  TNM stage 4 (disorder)
+MMIX-VI-VI,2009-06-19,7ccc59eb-31b1-4d6a-a5eb-b3367d0a18ec,26fd527c-16c6-4e28-86c0-6808db65e6b3,608.68,Acetaminophen 160 MG,10509002.0,Acute bronchitis (disorder)
+MCMLXXXVIII-V-X,,3c4a09c8-e358-4a95-a142-db6cba840b40,50e9aab2-5281-4264-adbc-a2f56226a863,564.666,Nitroglycerin 0.4 MG/ACTUAT [Nitrolingual],22298006.0,Myocardial Infarction
+MCMLXXV-V-XIV,,baa2a6e5-4cf2-41b0-89eb-63ed56a84441,160545a2-6044-4c54-a058-e8918623abc5,849.727,Naproxen sodium 220 MG [Aleve],201834006.0,Localized  primary osteoarthritis of the hand
+MMVI-II-IX,,476f31fb-e840-49ee-897a-6fd77b9621a5,ec30d6aa-bd85-4c7c-a554-1224eaeb7cdb,309.362,Clopidogrel 75 MG Oral Tablet,53741008.0,Coronary Heart Disease
+MMXVII-VIII-XX,2017-09-04,d4841577-f9ac-4cc8-ad03-f80131552fc9,d87bf40c-adec-4350-8298-bdbe63b0eecd,310.965,Ibuprofen 200 MG Oral Tablet,,zero
+MMXII-VIII-XXX,,a49e9083-ea9e-4741-888f-f3061bceea4a,7fe6b5cd-3418-4a2f-b2cf-ba169e91987c,602.735,Galantamine 4 MG [Razadyne],26929004.0,Alzheimer's disease (disorder)
+MCMLXXXVII-XI-XXVIII,,260e1f37-18b0-4f2b-9a2c-78645485bf1e,ca529c06-b9f6-41a1-9255-6a31f45429b7,727.316,0.3 ML EPINEPHrine 0.5 MG/ML Auto-Injector,,zero
+MMIX-V-XIX,2009-05-19,8a4c76ce-1710-4632-ac34-7eaedcba5595,94cb0aa0-aa5f-4136-81cd-1cd5d027fc36,583.214,PACLitaxel 100 MG Injection,422968005.0,Non-small cell carcinoma of lung  TNM stage 3 (disorder)
+MMXIII-IX-XVIII,2013-10-07,4f1ae462-ab7d-4abb-b016-3da559de7014,20705776-17f9-4b42-b095-fc62724604a5,608.68,Acetaminophen 160 MG,10509002.0,Acute bronchitis (disorder)
+MMXII-VI-XIX,2012-07-08,a94327b7-a1ca-468c-8202-4fbf165f629c,948b6aa3-a1b4-4574-ab50-74dbf8f7b5f3,1020.137,Dextromethorphan Hydrobromide 1 MG/ML,10509002.0,Acute bronchitis (disorder)
+MMXII-II-XXVIII,2012-03-22,6c2fcf0b-63a5-4d82-a3fb-86197d57702c,bc98db04-733b-42d9-a3e8-3a486f38da78,824.184, Amoxicillin 250 MG / Clavulanate 125 MG [Augmentin],444814009.0,Viral sinusitis (disorder)
+MMIX-III-VII,,c2cc147d-a113-4d82-8f82-4c43318d3c32,4fbdd445-d44e-4e99-8336-2001e0769417,312.961,Simvastatin 20 MG Oral Tablet,53741008.0,Coronary Heart Disease
+MMXII-III-XXIII,,3a9052f4-2585-485b-a7c5-c6bb129f870f,6323d3f1-1bf9-41c7-a7fd-37f10cec459f,896.188,Fluticasone propionate 0.25 MG/ACTUAT / salmeterol 0.05 MG/ACTUAT [Advair],185086009.0,Chronic obstructive bronchitis (disorder)
+MCMXCIV-IV-XIII,,27d3c718-96df-465f-b0de-227b958a3b67,73bdd17d-a781-4241-a602-b372eacfa926,860.975,24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet,44054006.0,Diabetes
+MMIX-VIII-XVII,2009-08-31,6345c9e0-4924-4af4-a6ad-516a17f75239,a835a392-9e85-45b1-8814-ae21eb16218b,198.405,Ibuprofen 100 MG Oral Tablet,,zero
+MCMLXXXVI-IV-XXIII,,d538bb58-f5ce-4609-83cf-bfc495616eda,2aaf7afd-43fe-46f2-b58a-39ccce2ac3f4,834.06,Penicillin V Potassium 250 MG,43878008.0,Streptococcal sore throat (disorder)
+MMVII-X-XXIX,2008-10-29,95bb9d1a-99a3-4442-bf55-e5aa3db08122,e57cc4f4-5975-4b8a-ab62-e66a0d27c9e9,757.594,Jolivette 28 Day Pack,,zero
+MMXVI-VIII-XV,2016-08-29,2e89f65a-82c8-497a-9f4c-eca080b8ae1d,2bb8f606-b825-404f-bf27-f04749bd9c11,282.464,Acetaminophen 160 MG Oral Tablet,,zero
+MCMLXVIII-IX-XXVII,,0207a4c4-4d49-47bf-93c6-4133376784a2,b70b95bd-5d4d-47fe-87a1-775172fb5564,849.727,Naproxen sodium 220 MG [Aleve],239872002.0,Osteoarthritis of hip
+MMVI-I-XVI,,e97af14a-6c00-4570-bd91-b2b5850a45ab,ba7ed523-ed55-4141-aca6-6dae46cd1321,1803.932,Leucovorin 100 MG Injection,363406005.0,Malignant tumor of colon
+MMXII-VIII-XIV,2013-08-14,3ec0fd23-4d17-4ead-a3c4-eac056df6b1c,0e5a1a28-3c15-4006-96c5-707b622ba38e,831.533,Errin 28 Day Pack,,zero
+MMXII-IX-XXIII,2012-10-30,700f9f8b-f5a8-4ae2-8f7e-84a565b85da8,d5ed6252-2d40-4afb-9d85-3d7feff0328a,861.467,Meperidine Hydrochloride 50 MG Oral Tablet,,zero
+MMXVII-IV-XVIII,,edd56e80-f5e3-48d4-a9b6-d69e42e945ca,3836e372-2e25-43d1-813e-94e8985c7940,757.594,Jolivette 28 Day Pack,,zero
+MMI-III-II,,31410948-38be-4990-be5e-a47ab44f33a1,2bde1679-1291-40e7-90ec-b03ce8177f59,849.727,Naproxen sodium 220 MG [Aleve],239872002.0,Osteoarthritis of hip
+MCMXCIX-I-XXXI,,17cb551b-b45a-48eb-a097-6421b8bc0fb4,449a7931-8d61-4875-b1e6-7bc78aa72237,1803.932,Leucovorin 100 MG Injection,363406005.0,Malignant tumor of colon
+MMXIV-VII-II,2014-09-13,f240109d-2e92-4a24-88ad-e1878d114e08,2722b263-bdbc-475a-bc0a-26fc1f5d6f3e,824.184, Amoxicillin 250 MG / Clavulanate 125 MG [Augmentin],36971009.0,Sinusitis (disorder)
+MCMXCIV-V-XXIII,,2e1644ee-f7ca-4700-9b8a-ceb5bfb3efd2,bc30ebb6-cf59-4ab2-a1ce-d947e117762a,564.666,Nitroglycerin 0.4 MG/ACTUAT [Nitrolingual],53741008.0,Coronary Heart Disease
+MMXIV-X-XXIII,2014-11-10,522662e9-a5ad-4bb6-ac30-5c0f3c882d8e,d519ecdc-e03d-429e-b22f-57cdf3f60db1,824.184, Amoxicillin 250 MG / Clavulanate 125 MG [Augmentin],444814009.0,Viral sinusitis (disorder)
+MCMLXXXV-XI-XXII,,1933ea02-4a01-412a-b1bc-cc51f1d3bcfc,e8a7029b-87ec-4529-8272-80b39a2a2026,1803.932,Leucovorin 100 MG Injection,363406005.0,Malignant tumor of colon
+MMXIV-VII-XXVIII,2014-08-11,b8b461a4-998b-498f-9d7a-a5592c64c4cb,6b3c38bd-3317-41f7-aa21-d2a4b0c60d05,198.405,Ibuprofen 100 MG Oral Tablet,,zero
+MMVII-II-XIX,2008-02-19,283d2ef9-5877-44dd-ac62-2cc4c9e13ae0,d6b0741f-dc90-4669-a2bd-79e9fa851b93,1359.133,Estrostep Fe 28 Day Pack,,zero
+MCMXXXV-XI-XXII,,8510e7af-519a-4690-b5a4-095eaa5dd55a,7e53bfff-04d0-4497-907d-20b16990a6d4,745.679,200 ACTUAT Albuterol 0.09 MG/ACTUAT Metered Dose Inhaler,233678006.0,Childhood asthma
+MCMXXXIV-XII-III,,cc74c757-dfb4-4c16-a442-1b73b87d419d,8735d1c1-aa7c-439e-9030-7be5dcdba083,834.06,Penicillin V Potassium 250 MG,43878008.0,Streptococcal sore throat (disorder)
+MCMXLIX-V-VII,,95db5d3f-5acb-497e-9052-45082aed2dd4,e0658e4e-f2e1-46d4-bb5d-445151396fa2,563.026,Diazepam [Valium],,zero
+MCMLXXXVII-XI-XI,,260e1f37-18b0-4f2b-9a2c-78645485bf1e,ca529c06-b9f6-41a1-9255-6a31f45429b7,106.258,Hydrocortisone 10 MG/ML Topical Cream,40275004.0,Contact dermatitis
+MCMLXXIX-VI-XI,,3c4a09c8-e358-4a95-a142-db6cba840b40,50e9aab2-5281-4264-adbc-a2f56226a863,1049.221,Acetaminophen 325 MG / oxyCODONE Hydrochloride 5 MG Oral Tablet,,zero
+MMXII-I-XV,2012-02-03,fa1e7bd9-93a9-4f27-8e39-0a81e2d318dd,cea330bb-bf24-48f9-b1dc-26192011d2e3,1020.137,Dextromethorphan Hydrobromide 1 MG/ML,10509002.0,Acute bronchitis (disorder)
+MCMXCIX-IV-VI,,938abac6-9c9a-4ba3-86af-d6edb132533b,d830f1db-1906-4722-844e-d06c7c91576b,563.026,Diazepam [Valium],,zero
+MCMLXXXIV-I-XVIII,,6c15024d-7659-4605-83ff-32538ff17b21,0425cbf1-8567-4b78-bd68-d4acb875d3a5,1803.932,Leucovorin 100 MG Injection,109838007.0,Overlapping malignant neoplasm of colon
+MM-XII-XII,,b3cdb0d6-1840-4ec9-87f0-1f62bde53ea1,cfb2f956-d8d7-4dec-9441-e47b8e70d569,998.582,Donepezil hydrochloride 23 MG [Aricept],26929004.0,Alzheimer's disease (disorder)

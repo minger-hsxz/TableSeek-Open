@@ -1,0 +1,108 @@
+ship_id,cust_id,weight,truck_id,driver_id,city_id,ship_date
+1923,"four thousand, eight hundred and sixty-nine",2.025K,12,28,443,MMXVII-XII-VII
+1448,"two thousand, six hundred and thirty-four",15.435K,5,23,559,MMXVII-I-XVIII
+1635,nine hundred and eighty-nine,2.088K,12,26,582,MMXVII-V-XXV
+1750,"four thousand, three hundred and forty-seven",6.165K,7,29,527,MMXVII-VIII-XII
+1280,"two thousand, four hundred and eighty-three",6.255K,4,27,606,MMXVI-IX-XXVIII
+1720,"one thousand, five hundred and ninety-one",2.925K,1,20,418,MMXVII-VII-XXII
+1298,nine hundred and thirty-one,1.269k,10,26,373,MMXVI-X-X
+1576,"one thousand, five hundred and ninety-two",13.806k,1,23,267,MMXVII-IV-XVI
+1039,"one thousand, three hundred and ninety-one",14.859K,4,23,481,MMXVI-IV-IV
+1464,"three thousand, six hundred and twenty-two",6.264K,9,26,556,MMXVII-I-XXIX
+1235,"one thousand, four hundred and ninety-two",2.421K,7,22,518,MMXVI-VIII-XXVII
+1887,four hundred and ninety-three,8.064K,12,26,145,MMXVII-XI-XIII
+1915,"four thousand, three hundred and forty-seven",2.187k,4,28,622,MMXVII-XII-I
+1044,"two thousand, three hundred and eighty-eight",5.445K,9,21,501,MMXVI-IV-IX
+1650,"three thousand, eight hundred and seventy-six",3.717K,3,28,559,MMXVII-VI-V
+1316,"two thousand, one hundred and eighty-one",5.733k,4,27,355,MMXVI-X-XX
+1168,eight hundred and ninety-six,6.39K,1,27,631,MMXVI-VII-XIV
+1814,"four thousand, eight hundred and sixty-nine",7.614k,11,24,318,MMXVII-IX-XXV
+1908,"four thousand, one hundred and fifty-four",9.225K,9,23,228,MMXVII-XI-XXVII
+1477,four hundred and ninety-three,6.372K,10,22,426,MMXVII-II-VIII
+1785,six hundred,2.097K,6,23,333,MMXVII-IX-VI
+1913,"two thousand, seven hundred and ninety-nine",3.843k,2,21,237,MMXVII-XI-XXX
+1165,"three thousand, four hundred and thirty",1.98K,10,22,276,MMXVI-VII-XII
+1532,three hundred and eighty-one,6.993k,5,30,383,MMXVII-III-XVIII
+1605,three thousand and twenty-three,4.671K,6,21,486,MMXVII-V-V
+1622,"one thousand, seven hundred and twenty-four",12.438k,11,21,421,MMXVII-V-XVI
+1575,"four thousand, three hundred and forty-seven",13.266K,12,20,191,MMXVII-IV-XVI
+1792,six hundred,11.502K,1,27,523,MMXVII-IX-X
+1762,"three thousand, six hundred and twenty-two",8.478K,7,21,526,MMXVII-VIII-XX
+1897,"one thousand, seven hundred and seventy-five",4.257k,10,20,411,MMXVII-XI-XX
+1878,"two thousand, nine hundred and six",14.787K,3,20,690,MMXVII-XI-VII
+1107,"three thousand, seven hundred and twenty-two",17.064K,12,26,473,MMXVI-VI-II
+1260,"two thousand, one hundred and eighty-one",7.668k,8,23,330,MMXVI-IX-XII
+1602,nine hundred and eighty-nine,17.019K,3,20,333,MMXVII-V-III
+1265,"two thousand, five hundred and forty-six",3.096k,1,22,440,MMXVI-IX-XVIII
+1660,one thousand and ninety-two,7.506K,1,22,686,MMXVII-VI-XI
+1423,"two thousand, five hundred and ninety-three",6.894k,4,27,664,MMXVII-I-I
+1290,"one thousand, eight hundred and forty-nine",5.58K,2,20,124,MMXVI-X-V
+1261,"two thousand, six hundred and twenty-five",2.025K,9,26,498,MMXVI-IX-XIII
+1949,three hundred and eighty-one,6.957K,2,20,606,MMXVII-XII-XXII
+1595,"one thousand, seven hundred and sixty-nine",3.51K,8,22,121,MMXVII-IV-XXVIII
+1582,"three thousand, three hundred and fifty-four",12.699K,7,27,202,MMXVII-IV-XX
+1618,"one thousand, five hundred and ninety-one",12.753K,7,29,255,MMXVII-V-XIV
+1254,"one thousand, two hundred and ninety",2.178k,2,28,203,MMXVI-IX-X
+1209,"two thousand, four hundred and ninety-six",12.969k,5,26,331,MMXVI-VIII-X
+1649,"four thousand, eight hundred and sixty-nine",7.749k,2,24,232,MMXVII-VI-IV
+1174,"three thousand, three hundred and fifty-four",2.016K,7,23,394,MMXVI-VII-XVII
+1529,"two thousand, four hundred and twenty",4.518K,2,29,162,MMXVII-III-XIV
+1059,"two thousand, five hundred and forty-six",2.07K,12,24,522,MMXVI-IV-XXV
+1909,six hundred and fifteen,7.812k,10,22,179,MMXVII-XI-XXIX
+1334,"two thousand, one hundred and eighty-one",15.39k,10,24,246,MMXVI-XI-I
+1030,three hundred and fourteen,7.668k,7,22,671,MMXVI-III-XXVI
+1597,"two thousand, one hundred and thirty-one",2.214K,10,30,403,MMXVII-IV-XXIX
+1705,six hundred and fifteen,6.561k,10,30,443,MMXVII-VII-XI
+1770,"one thousand, seven hundred and sixty-nine",2.817k,3,30,372,MMXVII-VIII-XXVI
+1490,"one thousand, three hundred and ninety-one",13.185K,11,22,550,MMXVII-II-XVI
+1542,"one thousand, seven hundred and twenty-four",8.829K,3,20,485,MMXVII-III-XXIV
+1662,"two thousand, nine hundred and six",2.961k,3,28,458,MMXVII-VI-XIII
+1518,"two thousand, six hundred and thirty-four",1.044K,3,22,286,MMXVII-III-V
+1231,one thousand and fifty-five,3.492k,3,21,346,MMXVI-VIII-XXV
+1836,nine hundred and thirty-one,2.151k,9,27,288,MMXVII-X-X
+1072,"three thousand, eight hundred",6.219K,1,27,616,MMXVI-V-IV
+1499,nine hundred and thirty-one,1.989k,8,24,376,MMXVII-II-XXII
+1096,three thousand and seventy-three,7.29k,1,29,190,MMXVI-V-XXV
+1139,"two thousand, four hundred and twenty",16.452k,8,28,347,MMXVI-VI-XXV
+1070,"three thousand, five hundred and thirty-seven",14.265k,11,29,425,MMXVI-V-IV
+1158,six hundred and eighteen,16.29K,3,29,552,MMXVI-VII-VI
+1493,nine hundred and eighty-nine,9.801K,2,24,255,MMXVII-II-XVII
+1667,"one thousand, seven hundred and sixty-nine",14.49K,8,30,358,MMXVII-VI-XVII
+1198,one thousand and ninety-two,2.97K,6,30,461,MMXVI-VIII-II
+1215,"one thousand, seven hundred and seventy-five",2.574K,11,21,648,MMXVI-VIII-XIII
+1086,"three thousand, seven hundred and eighty-six",13.167k,3,29,293,MMXVI-V-XVIII
+1728,"two thousand, six hundred and thirty-four",7.353K,9,30,155,MMXVII-VII-XXVIII
+1945,"four thousand, one hundred and fifty-four",3.672k,10,27,663,MMXVII-XII-XVIII
+1849,six hundred and fifteen,12.69K,10,28,586,MMXVII-X-XX
+1266,"one thousand, five hundred and ninety-one",1.98K,2,24,647,MMXVI-IX-XVIII
+1342,"four thousand, nine hundred and fifty-five",2.097k,6,25,583,MMXVI-XI-VIII
+1439,"one thousand, seven hundred and twenty-four",6.534k,8,26,279,MMXVII-I-XI
+1955,four hundred and ninety-three,1.953k,8,25,686,MMXVII-XII-XXV
+1559,"two thousand, seven hundred and ninety-nine",1.224k,8,28,461,MMXVII-IV-V
+1486,"four thousand, eight hundred and sixty-nine",10.368k,7,23,152,MMXVII-II-XIV
+1120,"two thousand, two hundred and ninety-eight",2.133k,1,26,595,MMXVI-VI-X
+1621,six hundred,15.354K,10,27,513,MMXVII-V-XVI
+1244,"two thousand, five hundred and ninety-three",6.966k,4,21,621,MMXVI-IX-I
+1916,nine hundred and thirty-one,15.894K,5,25,172,MMXVII-XII-I
+1350,one hundred and ninety-three,4.662k,2,25,555,MMXVI-XI-XIII
+1756,"two thousand, nine hundred and six",0.612K,1,20,380,MMXVII-VIII-XVI
+1076,"four thousand, one hundred and fifty-four",3.006k,5,27,480,MMXVI-V-X
+1708,"two thousand, five hundred and ninety-three",8.523k,1,25,504,MMXVII-VII-XIV
+1023,"four thousand, three hundred and fifty-three",1.935k,12,24,686,MMXVI-III-XV
+1680,one thousand and ninety-two,5.427K,9,23,414,MMXVII-VI-XXV
+1136,"two thousand, two hundred and eighty-one",1.98k,5,23,246,MMXVI-VI-XXIII
+1893,"two thousand, four hundred and twenty",1.818k,6,22,660,MMXVII-XI-XV
+1218,four hundred and ninety-three,3.303k,2,29,472,MMXVI-VIII-XVI
+1830,"two thousand, six hundred and thirty-four",7.146K,3,23,237,MMXVII-X-VI
+1665,"two thousand, four hundred and twenty",3.447k,6,23,636,MMXVII-VI-XV
+1549,"one thousand, three hundred and ninety-one",9.36k,10,21,140,MMXVII-III-XXVII
+1570,two thousand and one,7.209K,7,26,184,MMXVII-IV-XIII
+1067,"three thousand, three hundred and forty-six",12.267K,8,21,341,MMXVI-V-III
+1736,"three thousand, six hundred and twenty-two",15.642K,5,29,328,MMXVII-VIII-II
+1286,"four thousand, eight hundred and sixty-nine",7.371K,10,29,104,MMXVI-X-II
+1281,eight hundred and ninety-six,6.687K,5,26,246,MMXVI-IX-XXIX
+1688,"two thousand, five hundred and ninety-three",6.453K,5,27,599,MMXVII-VII-II
+1323,"three thousand, eight hundred and seventy-six",9.0k,11,22,296,MMXVI-X-XXVII
+1457,"one thousand, five hundred and ninety-two",2.034K,2,25,223,MMXVII-I-XXIV
+1063,six hundred,1.836k,4,22,597,MMXVI-IV-XXVIII
+1088,three thousand and twenty-three,5.067K,5,27,325,MMXVI-V-XIX

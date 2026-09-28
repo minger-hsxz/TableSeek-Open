@@ -1,0 +1,49 @@
+bizID,name,address,city,zipCode,latCoord,longCoord,contactNo,taxID,bizCert,appDate,owner_name,owner_address,owner_city,owner_state,owner_zip
+7.89×10^+04,Mark Hopkins IC Hotel - Top of the Mark,999 California St,zero,94108.0,,,,H87,488210,2014-05-12,"One Nob Hill Associates, LLC","1999 Avenue of the Stars, Suite 2850",Los Angeles,CA,90067
+7.93×10^+04,Dim Sum Club,2550 Van Ness Ave,zero,94109.0,,,,H25,478326,2014-06-17,"Bo Bo Go, Inc.",969 Governors Bay Drive,Redwood City,CA,94065
+2.08×10^+03,KENTUCKY FRIED CHICKEN #249,691 EDDY St,SAN FRANCISCO,94109.0,37.7831,-122.419,14155672641.0,H25,52911,1968-04-03,HARMAN-NGUYEN INC.,691 EDDY ST,SAN FRANCISCO,CA,94109
+6.06×10^+04,Annie's Hot Dogs & Pretzels,"Golden Gate Park, Carousel Snack Bar",SF,,37.7771,-122.42,,H28,143153,2009-07-20,"The New York Frankfurter co. of CA, Inc.",17 Shemran Ct,Fairfax,CA,94930
+3.82×10^+03,SAFEWAY #667,5290 DIAMOND HEIGHTS Blvd,SAN FRANCISCO,94131.0,37.7441,-122.439,14155827744.0,H81,24669,,"SAFEWAY CORP., PETER MCGOWAN",5290 DIAMOND HEIGHTS,SAN FRANCISCO,CA,94131
+7.39×10^+04,The Beer Hall,1 Polk St,zero,94102.0,,,,H87,477958,2013-03-28,"The Beer Hall, LLC / Andrew and Jennifer Hall",523 14th Avenue,San Francisco,CA,94118
+6.46×10^+04,Lone Palm,3394 22nd St,SF,94110.0,37.7552,-122.423,,H86,336529,,Lone Palm Productions,45 Thalia St.,Mill Valley,CA,94941
+8.46×10^+04,Coffee Legend,4601 Geary Blvd,SF,94108.0,,,,H24,1016972,2015-08-13,Po Chu Liang Kuo,1482 18th Ave,SF,CA,94122
+7.02×10^+04,"Eddy's Foothill, Inc.",3004 SAN BRUNO Ave,S.F.,94134.0,,,,H07,444182,2012-09-07,Eddy's Foothill Inc.,25511 Foggy Glen Dr.,Castro Valley,CA,94552
+6.31×10^+04,Sodexo at PG & E Energy Center,851 HOWARD St,S.F.,94103.0,37.7823,-122.404,,H24,364643,2010-05-24,Sodexo America LLC,P.O.Box 352,Buffalo,NY,14240
+7.02×10^+04,Trader Joe's #200,1095 Hyde St,San Francisco,94109.0,,,14155297665.0,H08,934660,2012-09-12,Trader Joe's Company,PO Box 5049,Monrovia,CA,91017
+3.71×10^+04,Pasilla,359 Kearny St,San Francisco,94108.0,37.7915,-122.404,,H25,426242,2008-02-19,Pasilla Inc   Samim Salemi,359 Kearny St,San Francisco,CA,94108
+6.21×10^+03,The Bay Company,496 Jefferson St,San Francisco,94109.0,37.8077,-122.421,,H01,141079,,"Portco, Inc",496 Jefferson St,San Francisco,CA,94109
+6.75×10^+04,The Hidden Vine Wine Bar,408 Merchant St,zero,94111.0,37.7954,-122.401,,H25,381896,2011-09-27,"Magellan Wine, LLC / Alberto De Almeida, Jr., Terra De Almeida","447 Battery Street, Suite 150",San Francisco,CA,94111
+6.95×10^+04,Dinosaurs,2522 Ocean Ave.,SF,94132.0,,,14155676430.0,H24,468488,2012-06-22,Dinosaurs Sandwiches LLC Christopher Nguyen,90 Bartlet St. APT 301,San Francisco,CA,94110
+7.57×10^+03,Green Earth Natural Foods,860 DIVISADERO St,SAN FRANCISCO,94117.0,37.7776,-122.438,,H28,149602,1993-02-04,HANI SHEHADEH,860 DIVISADERO ST,SAN FRANCISCO,CA,94117
+1.02×10^+04,King of Thai Noodle House,184 O'Farrell St,San Francisco,94102.0,37.7865,-122.408,,H26,374810,2004-02-06,KING OF THAI NOODLE HOUSE INC,184 OFARRELL ST,SAN FRANCISCO,CA,94102
+7.18×10^+04,Cafe Terminus,16 California St,zero,94111.0,,,,H24,476500,2013-02-28,"Alcyone LLC / Dennis Leary, Eric Passetti",127 Stevenson Street,San Francisco,CA,94105
+8.85×10^+04,Mozzeria (#2),Off the Grid,zero,,,,14155264610.0,H79,453980,,"Hapa & Stein, Inc.",419 Lawton St.,San Francisco,CA,94122
+5.97×10^+03,EDEN VILLA-SAN FRANCISCO,2750 Geary Blvd,S.F.,94118.0,37.7824,-122.449,,H40,401929,2003-08-25,MICHAEL C. SIM,2750 GEARY BLVD.,SAN FRANCISCO,CA,94118
+8.10×10^+04,Best Beverage Catering,1290 Sutter St,San Francisco,94109.0,,,14155642410.0,H24,938724,2014-11-04,"F & B Associates, Inc.",485 A Valley Dr.,Brisbane,CA,94005
+1.81×10^+03,Cesario,601 Sutter St,San Francisco,94102.0,37.7889,-122.411,,H25,938813,,Roxanne Sotano Inc,601 Sutter St,San Francisco,CA,94102
+1.79×10^+02,SECRET GARDEN TEA HOUSE,721 LINCOLN Way,SF,94122.0,37.7659,-122.466,14155812403.0,H24,363874,,"LEUNG, ANNIE",721 LINCOLN Way,SF,CA,94122
+1.04×10^+03,CENTRAL COFFEE TEA & SPICE,1696 HAYES St,SF,94117.0,37.7742,-122.444,,H24,940946,1995-04-27,"GHARARI, ALI REZA",1696 HAYES ST,SF,CA,94117
+7.65×10^+03,HAYES MARKET,698 HAYES St,SF,94102.0,37.7763,-122.428,,H07,195607,1989-05-10,NEDAL SHOMAN,698 HAYES STREET,SAN FRANCISCO,CA,94102
+8.17×10^+04,AllStars Donuts,399 05th St,zero,94107.0,,,14155880889.0,H25,367904,2015-01-12,Calvin Wei,2960 Dublin Dr,South San Francisco,CA,94080
+7.78×10^+04,Fuddhism,425 Barneveld Ave,zero,94124.0,,,,H74,459812,2014-02-12,Jennifer Stakich,425 Barneveld Ave.,SF,CA,94124
+3.77×10^+04,Jack In the Box #558,4649 GEARY Blvd,SAN FRANCISCO,94118.0,37.7807,-122.469,,H29,429149,2008-04-11,"GUL Food Management, Inc., Saeed Khan",P.O. Box 1810,Chino Hills,CA,91709-0061
+8.10×10^+04,Blue Bottle Coffee,1 Mint Plaza,San Francisco,94103.0,,,14150220022.0,H78,445533,2014-10-27,"Blue Bottle Coffee, LLC",300 Webster St.,Oakland,CA,94607
+7.99×10^+04,Patxi's Pizza,4042 24th St,SF,94114.0,,,14155282000.0,H26,1007238,2014-08-08,"Patxi's OPCO, LLC","30 Liberty Ship, Suite 3110",Sausalito,CA,94965
+6.45×10^+02,TAN-TAN,1825 POST St #223,SAN FRANCISCO,94115.0,37.7853,-122.432,14155346260.0,H24,779057,,SUMIKO & OSAJI KUSUMOTO,1825 POST ST.,SAN FRANCISCO,CA,94115
+2.07×10^+03,Street Restaurant,2141 Polk St,San Francisco,94109.0,37.7963,-122.422,,H25,337512,,Street Restaurant Partners LLC,2141 Polk St,San Francisco,CA,94109
+2.16×10^+03,GOAT HILL PIZZA,300 CONNECTICUT St,S.F.,94107.0,37.7624,-122.398,,H25,104709,1975-11-12,"DEANDRADE P. LIPSKI, ET. AL.",651 33RD AVE,S.F.,CA,94121
+8.30×10^+04,Larkin Street Youth Services,134 Golden Gate Ave,zero,94102.0,,,,H23,377131,2015-04-21,Larkin Street Youth Services,134 Golden Gate Avenue,San Francisco,CA,94102
+1.53×10^+03,STARBUCKS,490 BRANNAN St,S.F.,94107.0,37.7787,-122.396,14155240256.0,H25,911744,1997-12-17,STARBUCKS COFFEE CO.,P.O. BOX 34067-STAX,SEATTLE,WA,98124
+6.95×10^+04,Bay Area Little John's Candies,1422 Market St,San Francisco,94102.0,,,,H25,473105,2012-05-02,"Bay Area Little John's Candies, LLC",75 LaFayette Street,San Francisco,CA,94103
+4.28×10^+02,Caffe Ambrosia,14 Trinity Pl,San Francisco,94104.0,37.7901,-122.403,,H24,303885,,Albert F Jeung,14 Trinity Pl,San Francisco,CA,94104
+6.76×10^+04,Burger Urge,1599 Haight St,SF,94117.0,37.7698,-122.448,,H25,464225,2011-10-13,Burger Urge LLC  c/o M. Beall,P.O. Box 626,Burlingame,CA,94011
+1.21×10^+02,Akikos Sushi,431 Bush St,San Francisco,94108.0,37.7906,-122.405,,H24,183875,,Chung H. Teng & Chin C. Lin,431  Bush St,San Francisco,CA,94102
+7.83×10^+04,Max's Opera Cafe,601 Van Ness Ave,zero,94102.0,,,,H26,481734,2014-03-27,Max's Opera Inc.,601 Vanness Ave.,San Francisco,CA,94102
+4.13×10^+03,Cresta's 2211 Club,2211 Polk St,San Francisco,94109.0,37.797,-122.422,,H87,914491,,CRESTA'S 2211 CLUB,2211 POLK ST,SAN FRANCISCO,CA,94109
+3.31×10^+04,Grant and Green Saloon,1371 Grant Ave,San Francisco,94133.0,37.7994,-122.407,,H86,404895,2007-01-29,Camel Entertainment Ventures LLC,1371 Grant Ave,San Francisco,CA,94133
+8.80×10^+02,Delicious Dim Sum,752 Jackson St,San Francisco,94133.0,37.796,-122.408,,H24,327329,,Kam Fai Lam,752 Jackson St,San Francisco,CA,94133
+6.74×10^+04,Soma Chicken and Salad,101 Spear St #A24,SF,94105.0,37.7926,-122.394,,H28,462098,2011-09-28,"Pleasant Foods, Inc.",1073 Nolan Court,Pleasanton,CA,94566
+3.70×10^+03,MATTERHORN RESTAURANT,2323 VAN NESS Ave,SF,94109.0,37.7972,-122.424,14155886116.0,H26,348824,,THE WALLIS,2323 VAN NESS AVE,SAN FRANCISCO,CA,94109
+8.29×10^+04,Hops & Hominy,12 Tillman St,zero,94108.0,,,,H25,462424,2015-04-16,"3D Hospitality Group, LLC",1 Tillman Place,San Francisco,CA,94108
+7.76×10^+04,Peet's Coffee & Tea,2080 Chestnut St,zero,94123.0,,,14155632393.0,H29,196325,2014-01-22,"Peet's Coffee & Tea, Inc.",1400 Park Avenue,94608,CA,94608
+6.40×10^+04,Thai Cottage Restaurant,4041 JUDAH St,SF,94122.0,37.7604,-122.506,14155670820.0,H24,450932,2010-08-18,Hilda Sahesalaeh,1287 46th Ave,SF,CA,94122

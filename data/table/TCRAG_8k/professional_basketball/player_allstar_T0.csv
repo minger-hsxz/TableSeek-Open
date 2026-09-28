@@ -1,0 +1,37 @@
+PlayerKey,Surname,GivenName,SeasonKey,ConfGroup,LeagueKey,GamesCnt,PlayMinutes,ScorePts,OffReb,DefReb,TotalReb,AssistCnt,StealCnt,BlockCnt,TurnoverCnt,PersonalFoulCnt,FieldGoalAttempts,FieldGoalsMade,FreeThrowAttempts,FreeThrowsMade,TripleAttempts,TripleMade
+allenra02,Allen,Ray,2003,West,NBA,I,2.30×10^+01,sixteen point zero,2.00×10^+00,1.00×10^+00,3.00×10^+00,4.0,1.0,0.0,3.0,2.0,13.0,6.0,4.0,3.0,4.0,1.0
+bayloel01,Baylor,Elgin,1964,West,NBA,I,2.70×10^+01,eighteen point zero,,,7.00×10^+00,0.0,,,,,13.0,5.0,8.0,8.0,,
+isselda01,Issel,Dan,1975,Denver,ABA,I,3.10×10^+01,nineteen point zero,,,9.00×10^+00,5.0,,,,3.0,16.0,6.0,9.0,7.0,0.0,0.0
+stockjo01,Stockton,John,1996,West,NBA,I,2.00×10^+01,twelve point zero,0.00×10^+00,0.00×10^+00,0.00×10^+00,5.0,1.0,0.0,1.0,2.0,6.0,5.0,0.0,0.0,2.0,2.0
+brownla01,Brown,Larry,1967,West,ABA,I,2.20×10^+01,seventeen point zero,0.00×10^+00,3.00×10^+00,3.00×10^+00,5.0,,,4.0,2.0,9.0,7.0,1.0,1.0,2.0,2.0
+malonka01,Malone,Karl,1997,West,NBA,I,1.70×10^+01,four point zero,0.00×10^+00,3.00×10^+00,3.00×10^+00,2.0,2.0,0.0,0.0,1.0,4.0,2.0,0.0,0.0,0.0,0.0
+parisro01,Parish,Robert,1981,East,NBA,I,2.00×10^+01,twenty-one point zero,0.00×10^+00,7.00×10^+00,7.00×10^+00,1.0,0.0,2.0,1.0,2.0,12.0,9.0,4.0,3.0,0.0,0.0
+malonka01,Malone,Karl,1989,West,NBA,I,9.90×10^+01,zero,,,,,,,,,,,,,,
+laimbbi01,Laimbeer,Bill,1986,East,NBA,I,1.10×10^+01,eight point zero,,,2.00×10^+00,1.0,,,,,7.0,4.0,0.0,0.0,,
+sikmaja01,Sikma,Jack,1982,West,NBA,I,1.70×10^+01,eight point zero,,,3.00×10^+00,1.0,,,,,6.0,4.0,0.0,0.0,,
+walkech01,Walker,Chet,1970,West,NBA,I,1.90×10^+01,ten point zero,,,3.00×10^+00,1.0,,,,,9.0,3.0,5.0,4.0,,
+willibu01,Williams,Buck,1982,East,NBA,I,1.90×10^+01,eight point zero,,,7.00×10^+00,1.0,,,,,4.0,3.0,4.0,2.0,,
+pippesc01,Pippen,Scottie,1992,East,NBA,I,2.90×10^+01,ten point zero,,,5.00×10^+00,4.0,,,,,14.0,4.0,3.0,2.0,,0.0
+jacksma01,Jackson,Mark,1988,East,NBA,I,1.60×10^+01,nine point zero,,,2.00×10^+00,4.0,,,,,5.0,3.0,4.0,2.0,,
+walkeji01,Walker,Jimmy,1971,West,NBA,I,1.60×10^+01,ten point zero,,,2.00×10^+00,1.0,,,,,9.0,4.0,5.0,2.0,,
+lucasma01,Lucas,Maurice,1977,West,NBA,I,3.30×10^+01,twelve point zero,,,1.30×10^+01,4.0,,,,,13.0,6.0,0.0,0.0,,
+richmmi01,Richmond,Mitch,1996,West,NBA,I,2.20×10^+01,nine point zero,1.00×10^+00,2.00×10^+00,3.00×10^+00,4.0,0.0,0.0,1.0,1.0,7.0,3.0,0.0,0.0,4.0,3.0
+combsgl01,Combs,Glen,1971,West,ABA,I,1.80×10^+01,two point zero,0.00×10^+00,0.00×10^+00,0.00×10^+00,3.0,,,2.0,0.0,8.0,1.0,0.0,0.0,3.0,0.0
+worthja01,Worthy,James,1988,West,NBA,I,1.80×10^+01,eight point zero,,,2.00×10^+00,2.0,,,,,7.0,4.0,0.0,0.0,,
+wanzebo01,Wanzer,Bob,1952,West,NBA,I,2.20×10^+01,nine point zero,,,2.00×10^+00,2.0,,,,,7.0,4.0,1.0,1.0,,
+marbust01,Marbury,Stephon,2002,West,NBA,I,1.50×10^+01,four point zero,0.00×10^+00,1.00×10^+00,1.00×10^+00,6.0,0.0,0.0,2.0,0.0,3.0,1.0,2.0,2.0,2.0,0.0
+johnsgu01,Johnson,Gus,1968,East,NBA,I,1.80×10^+01,thirteen point zero,,,1.00×10^+01,0.0,,,,,10.0,4.0,8.0,5.0,,
+kenonla01,Kenon,Larry,1977,East,NBA,I,2.00×10^+01,sixteen point zero,,,4.00×10^+00,0.0,,,,,15.0,8.0,0.0,0.0,,
+greerha01,Greer,Hal,1962,East,NBA,I,1.50×10^+01,six point zero,,,3.00×10^+00,2.0,,,,,7.0,3.0,0.0,0.0,,
+laniebo01,Lanier,Bob,1971,West,NBA,I,5.00×10^+00,two point zero,,,3.00×10^+00,0.0,,,,,2.0,0.0,3.0,2.0,,
+costela01,Costello,Larry,1957,East,NBA,I,1.70×10^+01,one point zero,,,1.00×10^+00,4.0,,,,,6.0,0.0,1.0,1.0,,
+russebi01,Russell,Bill,1958,East,NBA,I,2.70×10^+01,seven point zero,,,9.00×10^+00,1.0,,,,,10.0,3.0,1.0,1.0,,
+jordami01,Jordan,Michael,1985,East,NBA,I,9.90×10^+01,zero,,,,,,,,,,,,,,
+wilkeja01,Wilkes,Jamaal,1980,West,NBA,I,2.50×10^+01,fifteen point zero,,,8.00×10^+00,3.0,,,,,12.0,6.0,3.0,3.0,,
+chambwi01,Chamberlain,Wilt,1960,East,NBA,I,3.80×10^+01,twelve point zero,,,1.80×10^+01,5.0,,,,,8.0,2.0,15.0,8.0,,
+moedo01,Moe,Douglas,1968,West,ABA,I,2.60×10^+01,seventeen point zero,4.00×10^+00,2.00×10^+00,6.00×10^+00,6.0,,,1.0,3.0,13.0,6.0,8.0,5.0,0.0,0.0
+chambwi01,Chamberlain,Wilt,1965,East,NBA,I,2.50×10^+01,twenty-one point zero,,,9.00×10^+00,3.0,,,,,11.0,8.0,9.0,5.0,,
+malonmo01,Malone,Moses,1985,East,NBA,I,3.40×10^+01,sixteen point zero,,,1.30×10^+01,0.0,,,,,12.0,5.0,9.0,6.0,,
+allenra02,Allen,Ray,2004,West,NBA,I,2.20×10^+01,seventeen point zero,0.00×10^+00,4.00×10^+00,4.00×10^+00,1.0,0.0,0.0,1.0,2.0,16.0,6.0,0.0,0.0,11.0,5.0
+cunnibi01,Cunningham,Billy,1972,East,ABA,I,2.00×10^+01,eighteen point zero,0.00×10^+00,6.00×10^+00,6.00×10^+00,4.0,1.0,0.0,3.0,6.0,12.0,9.0,0.0,0.0,1.0,0.0
+mcguidi01,McGuire,Dick,1957,West,NBA,I,3.10×10^+01,four point zero,,,7.00×10^+00,10.0,,,,,4.0,2.0,0.0,0.0,,

@@ -1,0 +1,60 @@
+EventDate,SubjectID,VisitInstance,DiagnosisCode,DetailText,MetricValue,MeasureUnits
+27/Mar/2012,5d50844c-252e-4b2f-9397-b2371fb4123d,322a3872-ceef-4ac9-8210-33a91291050c,29463-7,Body Weight,56.85,kg
+18/Feb/2016,6037897f-27d1-4da6-a07b-809017680490,cd4883c2-6912-4eff-b79b-0bbcdf3a9fa5,2947-0,Sodium,143.0,mmol/L
+22/Apr/2017,0b81deef-90c2-458c-a5e0-4968432400ba,97798dc5-3fbf-46ea-95c2-4d643bce0f3d,39156-5,Body Mass Index,22.32,kg/m2
+22/Dec/2010,450b57a3-7d19-49a0-9d23-5c005588cb87,b52b6b08-6a6c-4cf4-997e-c803d34df402,38483-4,Creatinine,1.0,mg/dL
+23/Sep/2010,bd040fcb-a29f-4661-8c0e-315a876e6636,699c5093-5f58-4295-9f40-eb504053fa80,8480-6,Systolic Blood Pressure,136.0,mmHg
+20/Nov/2015,6590902c-4450-488c-8760-fa57d0b7422f,00503532-4580-409c-8e53-945c42d1c0cd,20565-8,Carbon Dioxide,27.0,mmol/L
+23/Dec/2014,1ea6bd42-9609-427b-9899-7ec986e203ef,b51beaea-491f-48c4-8d92-4356c473862c,19926-5,FEV1/​FVC,61.0,%
+21/Aug/2008,cb653c5e-8f76-4568-b475-7a969819672a,98ca96ac-9f46-4be7-827a-cffa4d19970a,4548-4,Hemoglobin A1c/Hemoglobin.total in Blood,6.9,%
+15/Dec/2015,6da01ff4-9dfc-4da9-b9f9-75a4086685c3,8dd546f6-0cc4-4c48-b740-3fa552c2455e,2947-0,Sodium,138.0,mmol/L
+27/May/2011,3ec0fd23-4d17-4ead-a3c4-eac056df6b1c,89bd89dd-3c99-46e0-97e5-af343d75d208,8462-4,Diastolic Blood Pressure,70.0,mmHg
+21/Dec/2015,3966ef2e-43fe-403d-81d2-67770ef887e7,cfb7c80c-6e00-4572-911e-2b7b38485108,6299-2,Urea Nitrogen,20.0,mg/dL
+30/Aug/2008,dd65ebe4-36fa-4c1b-85d9-1e54bee79917,fd58bdb7-091c-4350-8158-a3ec1119eb01,2093-3,Total Cholesterol,191.0,mg/dL
+02/Jun/2014,865efad4-c575-4ec6-bbc8-ad6e2a913b08,22d1e37d-2780-4ef6-8555-129ff9b4420a,29463-7,Body Weight,92.9,kg
+01/Oct/2015,03412d16-9ffe-4d5f-9014-841055a00bba,7510e866-cb19-4b5f-acb9-7a26d7ebb91d,2571-8,Triglycerides,112.0,mg/dL
+24/Mar/2010,ec587d57-20b7-4083-a951-f46ab9a92db9,5891bd26-11b9-4edd-be37-3697d9a7547e,4548-4,Hemoglobin A1c/Hemoglobin.total in Blood,6.3,%
+03/Jan/2014,ae30d2dd-b070-461b-9882-4fdc85d8fb5e,4d5a3bf9-9271-401f-921f-30efee60ff49,8480-6,Systolic Blood Pressure,111.0,mmHg
+18/Jul/2010,2e89bba3-f825-4f25-b3bb-195b9b36b885,e1fd809a-e5dc-465c-b3d2-78e678b3c183,8462-4,Diastolic Blood Pressure,80.0,mmHg
+03/Aug/2016,5f44513e-be21-40f5-bdfb-aa2d09b57f3b,0c0a8112-15ea-498a-92a3-1ed414fb76fb,8302-2,Body Height,169.87,cm
+25/Aug/2008,065b21a6-da8a-4f17-9d45-0fc820e91de8,ec3f3df1-498d-45ce-9a1f-dc0279163f37,4548-4,Hemoglobin A1c/Hemoglobin.total in Blood,6.4,%
+09/Aug/2014,d5f60387-5cbe-4dab-bd83-fc2ab89076e7,bee16af1-dacc-4bee-84aa-99a847551651,8302-2,Body Height,151.11,cm
+18/Mar/2016,4a7594af-accb-4174-86e9-e72f83a19b54,8848c052-5576-4a25-8dbb-26676d93c96f,8302-2,Body Height,150.69,cm
+31/Oct/2017,76ed2f48-88e0-4925-a30a-242a31b0ae0f,,273421001,Disability rating scale,68.47716346132592,years
+09/Aug/2016,405a3d5e-925c-4a1a-9a4b-14d4d214d03a,093464e7-d0ca-4d1f-81ed-6047c01a8979,2085-9,High Density Lipoprotein Cholesterol,72.0,mg/dL
+16/Jan/2011,936bc523-a5bb-479c-a347-6bf2de9c9413,0d68388a-06e8-4c7d-a0fe-e0b37190609d,8462-4,Diastolic Blood Pressure,74.0,mmHg
+19/Apr/2008,9b1991e6-5cd2-4887-ae4c-c6534d827117,6057c4b7-28c2-4347-af43-d93b84fe476d,39156-5,Body Mass Index,22.68,kg/m2
+16/Dec/2015,69c16bda-f9a1-4b8a-93f9-c4af43632d97,29ba36f1-b320-49ed-a1a3-8b7ae69d0e90,8302-2,Body Height,129.29,cm
+26/Dec/2008,ded25ed0-536b-4ad2-b5f6-f34e4956b104,9c744547-5c85-4212-af71-9d79a96fff45,29463-7,Body Weight,108.91,kg
+02/Jul/2008,9943efb3-15d2-4225-ba54-0cb4d4478f6a,0142645f-a339-478c-93fe-e4d42b6f464d,2085-9,High Density Lipoprotein Cholesterol,76.0,mg/dL
+08/Aug/2010,1a7d9b7a-2b80-422f-9fd6-f9b69f3d6fac,a22a2efb-4e64-4cf8-b3ff-9f1c5565f2fd,39156-5,Body Mass Index,17.0,kg/m2
+14/Nov/2012,10fd692e-fdef-4aa6-b010-8a95005b59f1,ff93f6e3-f381-42e0-8183-c23dcd24bfe5,7258-7,Cow milk IgE Ab in Serum,0.25,kU/L
+27/Feb/2010,eb884e68-a03c-416f-9bbb-0d5651a6caaf,d40db9f0-5bad-400e-9273-e6344089fd0a,2571-8,Triglycerides,124.0,mg/dL
+22/Jun/2008,7bc35eeb-a9d8-4b3f-8392-3cf1209a2ea0,b7badc98-5288-4102-8096-064ce17c6bdb,29463-7,Body Weight,64.69,kg
+02/Jul/2008,674ce427-5fc6-4231-b94c-ef8476da4476,32789973-8bb3-47f7-8876-cd040e49a526,8462-4,Diastolic Blood Pressure,85.0,mmHg
+23/Jan/2008,13e0d469-3e52-425c-8078-9e9098e0a015,96dcb0da-1a0a-4f7d-a70e-ff5ea8084257,29463-7,Body Weight,89.59,kg
+18/Feb/2009,ec3f626c-96bc-4e71-af2a-9c02fff2323f,a95cd84f-3f37-461c-b34e-1faec9a23d21,4548-4,Hemoglobin A1c/Hemoglobin.total in Blood,6.2,%
+21/Jan/2014,08608e32-0dc5-43a8-ba12-99fbb8c9575c,4d3a32b8-06aa-4fd2-8192-e20fa548bf75,8302-2,Body Height,159.53,cm
+11/Jul/2010,65a438e3-b83b-4ce3-acb3-6e3d30dfff0c,5595a5f8-d633-4464-bb15-f68110dbb539,29463-7,Body Weight,120.71,kg
+28/Dec/2009,38e639a6-75ce-4e9a-bd87-c4a1874205d2,f894d4ba-e828-403d-a05b-ee253dd6d9c2,39156-5,Body Mass Index,17.89,kg/m2
+18/Aug/2016,31069b16-3fdc-488f-90a2-ff72dcc380c9,956d9967-0593-443d-9dd6-d5f923801651,2085-9,High Density Lipoprotein Cholesterol,58.0,mg/dL
+11/Sep/2013,d3e36d07-d962-414d-bd6a-01db0065d159,b49b6f47-96d8-4da5-9da1-7ab09952cf65,39156-5,Body Mass Index,41.91,kg/m2
+04/Apr/2015,a94327b7-a1ca-468c-8202-4fbf165f629c,bdbbb345-051c-47cf-9fd2-e3b5fe60d8ef,8302-2,Body Height,168.4,cm
+06/Apr/2017,07d3a526-25a4-4146-a478-405a96281799,79b46217-074f-4e92-9b98-14b58789ed23,6299-2,Urea Nitrogen,10.0,mg/dL
+16/Jun/2013,61931a1d-f4ca-4890-958d-cb0b233d73b1,3fd8ca29-b5f5-4b61-aeba-7476888407e9,8302-2,Body Height,175.46,cm
+06/Nov/2011,5338e62b-fe72-4d84-bdb5-4c9c8cca6c71,0eea483b-7e6d-4222-b545-fb886dcf789c,29463-7,Body Weight,60.82,kg
+31/Jul/2009,7d930372-7a58-4940-ac33-cd6373720f4a,96dcb7b2-cc41-436d-8e82-bec70a7a67a6,6189-5,White oak IgE Ab in Serum,0.32,kU/L
+20/Oct/2011,298d1db8-0c77-4561-8aa7-4eac884c2118,e53ef436-d0fa-4d64-ae29-003d54d497c6,29463-7,Body Weight,26.06,kg
+26/Feb/2014,8ab484f0-8692-4576-98a4-ab890f1b2769,aad07cd6-dd5b-4fe5-b31b-3b48949e75a4,8480-6,Systolic Blood Pressure,177.0,mmHg
+22/Dec/2010,d6561c64-9f8f-433d-be69-7e4055a8a3e2,8d77ba9b-521d-4a41-832b-3c5798bb3ba1,38483-4,Creatinine,1.0,mg/dL
+30/Dec/2007,86fc9c5b-ce25-4f37-850b-697fcd3256c1,016b2a4b-87b2-4ec3-894a-277b67f62f35,8480-6,Systolic Blood Pressure,132.0,mmHg
+31/Oct/2017,18020ca0-37ad-4bce-9a73-57c0e3d9d17f,,273421001,Disability rating scale,0.1261528643904585,years
+11/Feb/2013,a111a5a6-e3ff-4611-965c-757c5a8c7f7d,03f81ca2-94c7-4e39-8b8e-29014ed64924,8480-6,Systolic Blood Pressure,149.0,mmHg
+15/Apr/2014,a1851c06-804e-4f31-9d8f-388cd52d4ad0,a15bbbad-034c-4128-be01-434742a738a1,2069-3,Chloride,102.0,mmol/L
+18/Sep/2017,d5f60387-5cbe-4dab-bd83-fc2ab89076e7,47e1f40b-93f4-45cb-a183-9bea79f3515e,18262-6,Low Density Lipoprotein Cholesterol,87.0,mg/dL
+06/Jun/2012,a4a67345-d7e5-4246-8e06-ed043a9764e2,1ee653ce-52fb-4903-9236-7b76955af48a,2947-0,Sodium,144.0,mmol/L
+15/Sep/2014,b213b9fd-f91d-44a1-83ec-b6f11bdbffd5,b4347bbd-15ad-4952-a06d-7ff3ca70f76d,6299-2,Urea Nitrogen,11.0,mg/dL
+22/Oct/2017,bc114dba-358d-48d3-ba39-43a1744c3fb4,2f4577a0-c641-4178-840d-960f85674ae0,29463-7,Body Weight,5.99,kg
+28/May/2011,8adf6f3b-afde-4b24-b9af-af75597be9e0,c90cbc87-fe9b-4f20-a6ba-a81474824deb,39156-5,Body Mass Index,32.16,kg/m2
+17/Nov/2016,376e3dce-3f04-4d92-91a3-c525423c3579,c46b6000-c513-40f5-a572-de6485249b6d,2093-3,Total Cholesterol,249.0,mg/dL
+20/Jul/2009,99c08e13-78fc-4afb-82d8-16c3295d276d,bbec96ee-d1d3-4313-875a-a187e299c622,39156-5,Body Mass Index,31.59,kg/m2

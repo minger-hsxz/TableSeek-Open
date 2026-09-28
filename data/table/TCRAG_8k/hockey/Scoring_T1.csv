@@ -1,0 +1,28 @@
+AthleteID,SeasonYear,Tenure,TeamID,LeagueID,Position,GamesPlayed,Goals,Assists,Points,PenaltyMinutes_mul10,PlusMinus,PointsPerGame,PointsPerAssist,ShorthandGoals,ShorthandAssists,GameWinningGoals,GameTyingGoals,ShotsOnGoal,PostGamesPlayed,PostGoals,PostAssists,PostPoints,PostPenaltyMinutes,PostPlusMinus,PostPointsPerGame,PostPointsPerAssist,PostShorthandGoals,PostShorthandAssists,PostGameWinningGoals,PostShotsOnGoal
+velisra01,1982,1,MNS,NHL,D,three point zero,0.0,zero point zero,0.0,20.0,-4.00×10^+00,0.0,,0.00×10^+00,,0.0,0.0,four point zero,9.0,0.0,0.00×10^+00,zero point zero,0.0,,0.0,,0.0,,0.0,
+oduyajo01,2007,1,NJD,NHL,D,seventy-five point zero,6.0,twenty point zero,26.0,460.0,2.70×10^+01,2.0,6.0,0.00×10^+00,0.00×10^+00,0.0,,sixty-three point zero,5.0,0.0,1.00×10^+00,one point zero,6.0,-5.0,0.0,1.0,0.0,0.0,0.0,2.0
+rungepa01,1934,1,MTL,NHL,L,three point zero,0.0,zero point zero,0.0,20.0,,,,,,,,zero,,,,zero,,,,,,,,
+lalormi01,1987,1,MTL,NHL,D,sixty-six point zero,1.0,ten point zero,11.0,1130.0,4.00×10^+00,0.0,0.0,0.00×10^+00,0.00×10^+00,0.0,0.0,forty-one point zero,11.0,0.0,0.00×10^+00,zero point zero,11.0,-5.0,0.0,0.0,0.0,0.0,0.0,3.0
+simonch01,2000,1,WAS,NHL,L,sixty point zero,10.0,ten point zero,20.0,1090.0,-1.20×10^+01,4.0,3.0,0.00×10^+00,0.00×10^+00,2.0,0.0,one hundred and twenty-three point zero,6.0,0.0,1.00×10^+00,one point zero,4.0,-2.0,0.0,1.0,0.0,0.0,0.0,6.0
+sivekmi01,2002,1,PIT,NHL,C,thirty-eight point zero,3.0,three point zero,6.0,140.0,-5.00×10^+00,1.0,1.0,0.00×10^+00,0.00×10^+00,0.0,0.0,forty-five point zero,,,,zero,,,,,,,,
+mccorjo01,1952,1,MTL,NHL,C,fifty-nine point zero,1.0,nine point zero,10.0,90.0,,,,,,,,zero,9.0,0.0,0.00×10^+00,zero point zero,0.0,,,,,,,
+lumleha01,1946,1,DET,NHL,G,fifty-two point zero,0.0,zero point zero,0.0,40.0,,,,,,,,zero,,,,zero,,,,,,,,
+waremi01,1988,1,EDM,NHL,R,two point zero,0.0,one point zero,1.0,110.0,1.00×10^+00,0.0,0.0,0.00×10^+00,0.00×10^+00,0.0,0.0,zero point zero,,,,zero,,,,,,,,
+pronoje01,1974,1,PIT,NHL,R,seventy-eight point zero,43.0,thirty-two point zero,75.0,370.0,1.30×10^+01,11.0,,1.00×10^+00,,9.0,3.0,two hundred and seventy-five point zero,9.0,3.0,3.00×10^+00,six point zero,6.0,,0.0,,0.0,,0.0,
+weirst01,1973,1,CLF,NHL,C,fifty-eight point zero,9.0,seven point zero,16.0,100.0,-3.30×10^+01,1.0,,0.00×10^+00,,0.0,1.0,sixty-five point zero,,,,zero,,,,,,,,
+mcadaga01,1978,2,PIT,NHL,L,twenty-eight point zero,5.0,nine point zero,14.0,20.0,4.00×10^+00,0.0,,0.00×10^+00,,1.0,1.0,fifty-two point zero,7.0,2.0,1.00×10^+00,three point zero,0.0,,0.0,,0.0,,0.0,
+stewajo02,1978,1,BIR,WHA,C,seventy point zero,24.0,twenty-six point zero,50.0,1080.0,-3.00×10^+00,4.0,,0.00×10^+00,,,,one hundred and twenty-six point zero,,,,zero,,,,,,,,
+oneilje01,2002,1,CAR,NHL,L,eighty-two point zero,30.0,thirty-one point zero,61.0,380.0,-2.10×10^+01,11.0,15.0,0.00×10^+00,1.00×10^+00,7.0,2.0,three hundred and sixteen point zero,,,,zero,,,,,,,,
+toddke01,1993,2,LAK,NHL,C,twelve point zero,3.0,eight point zero,11.0,80.0,-1.00×10^+00,3.0,2.0,0.00×10^+00,0.00×10^+00,0.0,0.0,sixteen point zero,,,,zero,,,,,,,,
+conneal01,1925,1,OTS,NHL,G,thirty-six point zero,0.0,zero point zero,0.0,0.0,,,,,,,,zero,2.0,0.0,0.00×10^+00,zero point zero,0.0,,,,,,,
+magnuke01,1975,1,CHI,NHL,D,forty-eight point zero,1.0,six point zero,7.0,990.0,1.30×10^+01,0.0,,0.00×10^+00,,0.0,0.0,twenty-seven point zero,4.0,0.0,0.00×10^+00,zero point zero,12.0,,0.0,,0.0,,0.0,
+bouleje01,2007,1,PHI,NHL,R,five point zero,0.0,zero point zero,0.0,290.0,-2.00×10^+00,0.0,0.0,0.00×10^+00,0.00×10^+00,0.0,,one point zero,,,,zero,,,,,,,,
+carbogu01,1980,1,MTL,NHL,C,two point zero,0.0,one point zero,1.0,0.0,0.00×10^+00,0.0,,0.00×10^+00,,0.0,0.0,one point zero,,,,zero,,,,,,,,
+schulda01,1979,1,BUF,NHL,C,thirteen point zero,1.0,zero point zero,1.0,280.0,0.00×10^+00,0.0,,0.00×10^+00,,0.0,0.0,one point zero,,,,zero,,,,,,,,
+boyerwa01,1966,1,CHI,NHL,C,forty-two point zero,5.0,six point zero,11.0,150.0,,1.0,,0.00×10^+00,,1.0,0.0,zero,1.0,0.0,0.00×10^+00,zero point zero,0.0,,,,,,0.0,
+givenda01,1974,1,VAB,WHA,R,one point zero,0.0,zero point zero,0.0,0.0,,0.0,,0.00×10^+00,,0.0,,zero point zero,,,,zero,,,,,,,,
+ullmano01,1976,1,EDO,WHA,C,sixty-seven point zero,16.0,twenty-seven point zero,43.0,280.0,-2.30×10^+01,4.0,,0.00×10^+00,,,,one hundred and seven point zero,5.0,0.0,3.00×10^+00,three point zero,0.0,-2.0,0.0,,0.0,,0.0,
+mcdonab01,1966,1,DET,NHL,L,twelve point zero,2.0,zero point zero,2.0,20.0,,0.0,,0.00×10^+00,,0.0,0.0,zero,,,,zero,,,,,,,,
+hullde01,1970,1,CHI,NHL,L,seventy-eight point zero,40.0,twenty-six point zero,66.0,160.0,2.80×10^+01,10.0,,0.00×10^+00,,7.0,1.0,two hundred and twenty-nine point zero,18.0,7.0,6.00×10^+00,thirteen point zero,2.0,,2.0,,0.0,,1.0,
+tebbugr01,1983,1,PIT,NHL,D,twenty-four point zero,0.0,two point zero,2.0,310.0,-2.60×10^+01,0.0,,0.00×10^+00,,0.0,0.0,thirty-eight point zero,,,,zero,,,,,,,,
+auriela01,1933,1,DET,NHL,R,forty-eight point zero,16.0,nineteen point zero,35.0,360.0,,,,,,,,zero,9.0,3.0,7.00×10^+00,ten point zero,2.0,,,,,,,

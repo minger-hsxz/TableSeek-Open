@@ -1,0 +1,61 @@
+OrderPurchaseKey,DetailPurchaseKey,ExpiryDate,QtyOrdered,ItemCode,PricePerUnit,TotalLineAmount,QtyReceived,QtyRejected,QtyStocked,LastModified
+1332,3031,18/Dec/2013 00:00:00.0,3,427,forty-eight point zero,143.0,3.0,0.0,three point zero,MMXIII-XII-XI 00:00:00.0
+3435,7580,08/Jul/2014 00:00:00.0,3,386,forty-seven point zero,142.0,3.0,0.0,three point zero,MMXIV-VII-I 00:00:00.0
+3582,7904,18/Jul/2014 00:00:00.0,550,938,thirty-one point zero,17319.0,550.0,82.0,four hundred and sixty-eight point zero,MMXIV-VII-XI 00:00:00.0
+2801,6203,15/May/2014 00:00:00.0,3,438,forty-eight point zero,143.0,3.0,0.0,three point zero,MMXIV-V-VIII 00:00:00.0
+2650,5887,01/May/2014 00:00:00.0,3,435,thirty-seven point zero,112.0,3.0,0.0,three point zero,MMXIV-IV-XXIV 00:00:00.0
+2673,5927,05/May/2014 00:00:00.0,550,319,forty-six point zero,25335.0,550.0,0.0,five hundred and fifty point zero,MMXIV-IV-XXVIII 00:00:00.0
+1320,2997,16/Dec/2013 00:00:00.0,550,928,thirty-two point zero,17735.0,550.0,0.0,five hundred and fifty point zero,MMXIII-XII-IX 00:00:00.0
+2677,5934,05/May/2014 00:00:00.0,3,438,forty-one point zero,124.0,3.0,0.0,three point zero,MMXIV-IV-XXVIII 00:00:00.0
+1834,4106,11/Feb/2014 00:00:00.0,60,356,four point zero,216.0,60.0,0.0,sixty point zero,MMXIV-II-IV 00:00:00.0
+1129,2561,22/Nov/2013 00:00:00.0,3,470,forty-one point zero,124.0,3.0,0.0,three point zero,MMXIII-XI-XV 00:00:00.0
+1968,4403,26/Feb/2014 00:00:00.0,3,320,forty-five point zero,136.0,3.0,0.0,three point zero,MMXIV-II-XIX 00:00:00.0
+1203,2719,03/Dec/2013 00:00:00.0,550,935,thirty-one point zero,17319.0,550.0,0.0,five hundred and fifty point zero,MMXIII-XI-XXVI 00:00:00.0
+2368,5245,04/Apr/2014 00:00:00.0,60,496,forty-nine point zero,2935.0,60.0,0.0,sixty point zero,MMXIV-III-XXVIII 00:00:00.0
+1979,4426,27/Feb/2014 00:00:00.0,550,352,one point zero,808.0,550.0,0.0,five hundred and fifty point zero,MMXIV-II-XX 00:00:00.0
+3322,7342,30/Jun/2014 00:00:00.0,550,352,one point zero,808.0,550.0,0.0,five hundred and fifty point zero,MMXIV-VI-XXIII 00:00:00.0
+2658,5903,02/May/2014 00:00:00.0,3,321,forty-four point zero,133.0,3.0,0.0,three point zero,MMXIV-IV-XXV 00:00:00.0
+2415,5347,10/Apr/2014 00:00:00.0,550,932,thirty-nine point zero,21581.0,523.0,0.0,five hundred and twenty-three point zero,MMXIV-IV-III 00:00:00.0
+3528,7795,15/Jul/2014 00:00:00.0,550,921,six point zero,3072.0,550.0,0.0,five hundred and fifty point zero,MMXIV-VII-VIII 00:00:00.0
+2907,6430,27/May/2014 00:00:00.0,3,4,fifty-seven point zero,171.0,3.0,0.0,three point zero,MMXIV-V-XX 00:00:00.0
+1265,2864,11/Dec/2013 00:00:00.0,550,679,six point zero,3176.0,550.0,0.0,five hundred and fifty point zero,MMXIII-XII-IV 00:00:00.0
+2232,4965,20/Mar/2014 00:00:00.0,550,912,thirty point zero,16742.0,550.0,0.0,five hundred and fifty point zero,MMXIV-III-XIII 00:00:00.0
+1301,2937,13/Dec/2013 00:00:00.0,60,356,three point zero,203.0,60.0,0.0,sixty point zero,MMXIII-XII-VI 00:00:00.0
+3162,6969,17/Jun/2014 00:00:00.0,550,508,twenty-eight point zero,15206.0,550.0,0.0,five hundred and fifty point zero,MMXIV-VI-X 00:00:00.0
+782,1744,16/Sep/2013 00:00:00.0,550,507,twenty-two point zero,12191.0,550.0,82.0,four hundred and sixty-eight point zero,MMXIII-IX-IX 00:00:00.0
+3920,8619,12/Aug/2014 00:00:00.0,550,907,eighty-three point zero,45559.0,550.0,55.0,four hundred and ninety-five point zero,MMXIV-VIII-V 00:00:00.0
+3424,7557,07/Jul/2014 00:00:00.0,550,938,thirty-one point zero,17319.0,550.0,0.0,five hundred and fifty point zero,MMXIV-VI-XXX 00:00:00.0
+2452,5426,14/Apr/2014 00:00:00.0,550,355,one point zero,751.0,550.0,82.0,four hundred and sixty-eight point zero,MMXIV-IV-VII 00:00:00.0
+1222,2762,05/Dec/2013 00:00:00.0,60,357,four point zero,259.0,60.0,0.0,sixty point zero,MMXIII-XI-XXVIII 00:00:00.0
+3907,8579,12/Aug/2014 00:00:00.0,3,458,forty-three point zero,130.0,3.0,0.0,three point zero,MMXIV-VIII-V 00:00:00.0
+1312,2979,13/Dec/2013 00:00:00.0,550,332,eleven point zero,5948.0,550.0,82.0,four hundred and sixty-eight point zero,MMXIII-XII-VI 00:00:00.0
+3889,8547,11/Aug/2014 00:00:00.0,550,936,forty-eight point zero,26559.0,550.0,0.0,five hundred and fifty point zero,MMXIV-VIII-IV 00:00:00.0
+910,2039,29/Sep/2013 00:00:00.0,3,344,forty-five point zero,136.0,3.0,0.0,three point zero,MMXIII-IX-XXII 00:00:00.0
+3328,7367,30/Jun/2014 00:00:00.0,550,485,eight point zero,4291.0,550.0,0.0,five hundred and fifty point zero,MMXIV-VI-XXIII 00:00:00.0
+288,657,22/Feb/2013 00:00:00.0,3,491,twenty point zero,60.0,3.0,0.0,three point zero,MMXIII-II-XV 00:00:00.0
+1194,2694,02/Dec/2013 00:00:00.0,3,376,thirty-nine point zero,117.0,3.0,0.0,three point zero,MMXIII-XI-XXV 00:00:00.0
+3207,7068,19/Jun/2014 00:00:00.0,550,930,forty-three point zero,23672.0,550.0,0.0,five hundred and fifty point zero,MMXIV-VI-XII 00:00:00.0
+982,2190,13/Oct/2013 00:00:00.0,3,491,twenty point zero,60.0,3.0,0.0,three point zero,MMXIII-X-VI 00:00:00.0
+1990,4454,27/Feb/2014 00:00:00.0,550,526,four point zero,2004.0,550.0,0.0,five hundred and fifty point zero,MMXIV-II-XX 00:00:00.0
+2351,5210,03/Apr/2014 00:00:00.0,3,1,fifty point zero,151.0,3.0,0.0,three point zero,MMXIV-III-XXVII 00:00:00.0
+2668,5922,02/May/2014 00:00:00.0,3,363,forty-three point zero,130.0,3.0,0.0,three point zero,MMXIV-IV-XXV 00:00:00.0
+949,2126,06/Oct/2013 00:00:00.0,3,491,twenty point zero,60.0,3.0,0.0,three point zero,MMXIII-IX-XXIX 00:00:00.0
+1097,2476,20/Nov/2013 00:00:00.0,3,454,forty-one point zero,124.0,3.0,0.0,three point zero,MMXIII-XI-XIII 00:00:00.0
+2199,4888,18/Mar/2014 00:00:00.0,550,319,forty-six point zero,25335.0,550.0,0.0,five hundred and fifty point zero,MMXIV-III-XI 00:00:00.0
+1679,3757,23/Jan/2014 00:00:00.0,550,911,twenty-one point zero,11602.0,550.0,0.0,five hundred and fifty point zero,MMXIV-I-XVI 00:00:00.0
+596,1331,01/Sep/2013 00:00:00.0,3,430,forty-five point zero,136.0,3.0,0.0,three point zero,MMXIII-VIII-XXV 00:00:00.0
+3255,7168,24/Jun/2014 00:00:00.0,550,909,thirty point zero,16742.0,523.0,0.0,five hundred and twenty-three point zero,MMXIV-VI-XVII 00:00:00.0
+3359,7429,02/Jul/2014 00:00:00.0,3,420,forty-one point zero,124.0,3.0,0.0,three point zero,MMXIV-VI-XXV 00:00:00.0
+973,2170,11/Oct/2013 00:00:00.0,3,433,forty-four point zero,131.0,3.0,0.0,three point zero,MMXIII-X-IV 00:00:00.0
+385,863,12/Jun/2013 00:00:00.0,550,948,eighty-three point zero,45559.0,550.0,0.0,five hundred and fifty point zero,MMXIII-VI-V 00:00:00.0
+1706,3817,29/Jan/2014 00:00:00.0,550,928,thirty-three point zero,18024.0,468.0,0.0,four hundred and sixty-eight point zero,MMXIV-I-XXII 00:00:00.0
+3894,8553,11/Aug/2014 00:00:00.0,3,463,forty-eight point zero,143.0,3.0,0.0,three point zero,MMXIV-VIII-IV 00:00:00.0
+3909,8587,12/Aug/2014 00:00:00.0,3,392,forty-one point zero,124.0,3.0,0.0,three point zero,MMXIV-VIII-V 00:00:00.0
+2233,4966,21/Mar/2014 00:00:00.0,550,910,forty-one point zero,22517.0,550.0,0.0,five hundred and fifty point zero,MMXIV-III-XIV 00:00:00.0
+3232,7122,21/Jun/2014 00:00:00.0,3,320,forty-five point zero,136.0,3.0,0.0,three point zero,MMXIV-VI-XIV 00:00:00.0
+651,1454,04/Sep/2013 00:00:00.0,3,447,forty-one point zero,124.0,3.0,0.0,three point zero,MMXIII-VIII-XXVIII 00:00:00.0
+139,334,25/Apr/2012 00:00:00.0,550,513,thirty-nine point zero,21558.0,550.0,0.0,five hundred and fifty point zero,MMXII-IV-XVIII 00:00:00.0
+3929,8638,13/Aug/2014 00:00:00.0,3,374,thirty-seven point zero,111.0,3.0,0.0,three point zero,MMXIV-VIII-VI 00:00:00.0
+3068,6771,09/Jun/2014 00:00:00.0,550,318,thirty-four point zero,18468.0,550.0,0.0,five hundred and fifty point zero,MMXIV-VI-II 00:00:00.0
+1255,2841,09/Dec/2013 00:00:00.0,3,456,forty-one point zero,124.0,3.0,0.0,three point zero,MMXIII-XII-II 00:00:00.0
+1345,3054,19/Dec/2013 00:00:00.0,550,508,twenty-eight point zero,15206.0,523.0,0.0,five hundred and twenty-three point zero,MMXIII-XII-XII 00:00:00.0

@@ -1,0 +1,37 @@
+id,baseSetSize,block,booster,code,isFoilOnly,isForeignOnly,isNonFoilOnly,isPartialPreview,keyruneCode,mcmId,mcmIdExtras,mcmName,mtgoCode,name,parentCode,releaseDate,tcgplayerGroupId,totalSetSize,type
+282,9,Arena League,,PAL99,0,0,0,zero,USG,,,,,Arena League 1999,,1999-January-01,,10,promo
+492,8,,,SS2,0,0,0,zero,SS2,2460.0,,Signature Spellbook: Gideon,,Signature Spellbook: Gideon,,2019-June-28,2447.0,8,spellbook
+252,350,Onslaught,"{'default': {'boosters': [{'contents': {'common': 11, 'rare': 1, 'uncommon': 3}, 'weight': 272757}, {'contents': {'common': 10, 'foilCommonOrBasic': 1, 'rare': 1, 'uncommon': 3}, 'weight': 50853}, {'contents': {'common': 11, 'foilUncommon': 1, 'rare': 1, ",ONS,0,0,0,zero,ONS,41.0,,Onslaught,ONS,Onslaught,,2002-October-07,81.0,350,expansion
+265,9,Magic Player Rewards,,P10,0,0,0,zero,DEFAULT,,,,,Magic Player Rewards 2010,,2010-January-01,,9,promo
+203,249,Core Set,"{'default': {'boosters': [{'contents': {'basic': 1, 'common': 10, 'rareMythic': 1, 'uncommon': 3}, 'weight': 31}, {'contents': {'basic': 1, 'common': 9, 'foil': 1, 'rareMythic': 1, 'uncommon': 3}, 'weight': 9}], 'boostersTotalWeight': 40, 'sheets': {'basi",M10,0,0,0,zero,M10,109.0,,Magic 2010,M10,Magic 2010,,2009-July-17,68.0,249,core
+551,285,,"{'arena': {'boosters': [{'contents': {'common': 10, 'rareMythic': 1, 'uncommon': 3}, 'weight': 1}], 'boostersTotalWeight': 1, 'name': 'Zendikar Rising Arena Booster', 'sheets': {'common': {'balanceColors': True, 'cards': {'01d1ef65-cbcd-5b28-85c8-0edeca7e",ZNR,0,0,0,zero,ZNR,3404.0,3474.0,Zendikar Rising,ZNR,Zendikar Rising,,2020-September-25,2648.0,392,expansion
+230,54,Kaladesh,,MPS,1,0,0,zero,MPS,1733.0,,Kaladesh Inventions,MS2,Kaladesh Inventions,KLD,2016-September-30,1837.0,54,masterpiece
+533,16,,,W16,0,0,1,zero,W16,1710.0,,Welcome Deck 2016,W16,Welcome Deck 2016,,2016-April-08,1765.0,16,starter
+67,63,,,DDD,0,0,0,zero,DDD,115.0,,Duel Decks: Garruk vs. Liliana,DDD,Duel Decks: Garruk vs. Liliana,,2009-October-30,34.0,63,duel_deck
+195,1,,,L15,0,0,1,zero,DEFAULT,,,,,League Tokens 2015,,2015-January-01,,1,token
+334,20,,,PGPX,1,0,0,zero,DEFAULT,1595.0,,Grand Prix Promos,,Grand Prix Promos,,2007-February-24,54.0,20,promo
+37,356,Commander,,C13,0,0,1,zero,C13,1464.0,,Commander 2013,C13,Commander 2013,,2013-November-01,1164.0,356,commander
+273,65,Kaladesh,,PAER,0,0,0,zero,AER,,,,,Aether Revolt Promos,AER,2017-January-21,,65,promo
+181,2,,,J21,0,0,0,zero,DEFAULT,,,,,Judge Gift Cards 2021,,2021-January-01,,2,promo
+239,5,Commander,,OC15,1,0,0,zero,C15,,,,,Commander 2015 Oversized,C15,2015-November-13,,5,memorabilia
+184,165,Theros,"{'default': {'boosters': [{'contents': {'common': 11, 'rareMythic': 1, 'uncommon': 3}, 'weight': 133889}, {'contents': {'common': 10, 'foil': 1, 'rareMythic': 1, 'uncommon': 3}, 'weight': 38871}, {'contents': {'therosGods': 15}, 'weight': 40}], 'boostersT",JOU,0,0,0,zero,JOU,1481.0,,Journey into Nyx,JOU,Journey into Nyx,,2014-May-02,1277.0,165,expansion
+213,155,Scars of Mirrodin,"{'default': {'boosters': [{'contents': {'basic': 1, 'common': 10, 'rareMythic': 1, 'uncommon': 3}, 'weight': 31}, {'contents': {'basic': 1, 'common': 9, 'foil': 1, 'rareMythic': 1, 'uncommon': 3}, 'weight': 9}], 'boostersTotalWeight': 40, 'sheets': {'basi",MBS,0,0,0,zero,MBS,1253.0,,Mirrodin Besieged,MBS,Mirrodin Besieged,,2011-February-04,76.0,155,expansion
+192,2,,,L12,0,0,1,zero,DEFAULT,,,,,League Tokens 2012,,2012-January-01,,2,token
+487,15,,,SLU,0,0,0,zero,PMEI,3068.0,,Secret Lair: Ultimate Edition,,Secret Lair: Ultimate Edition,SLD,2020-May-29,2632.0,15,box
+309,6,Return to Ravnica,,PDGM,0,0,0,zero,DGM,,,,,Dragon's Maze Promos,DGM,2013-April-27,,6,promo
+222,350,Mirage,"{'default': {'boosters': [{'contents': {'common': 11, 'rare': 1, 'uncommon': 3}, 'weight': 1}], 'boostersTotalWeight': 1, 'sheets': {'common': {'balanceColors': True, 'cards': {'007e9122-9daf-53d3-9972-15cc08cd9a15': 1, '06274f11-4c80-54df-bd19-0ff5ff8d38",MIR,0,0,1,zero,MIR,16.0,,Mirage,MI,Mirage,,1996-October-08,74.0,351,expansion
+501,15,Theros,,TFTH,0,0,1,zero,THS,,,,,Face the Hydra,THS,2013-October-19,,15,token
+295,2,Kamigawa,,PBOK,1,0,0,zero,BOK,,,,,Betrayers of Kamigawa Promos,BOK,2005-February-04,,2,promo
+275,11,Arena League,,PAL00,1,0,0,zero,PARL2,,,,,Arena League 2000,,2000-January-01,,11,promo
+448,1,Odyssey,,PTOR,0,0,0,zero,TOR,,,,,Torment Promos,TOR,2002-February-04,,3,promo
+49,125,,"{'default': {'boosters': [{'contents': {'common': 9, 'uncommon': 3}, 'weight': 1}], 'boostersTotalWeight': 1, 'sheets': {'common': {'cards': {'056078b4-63ee-587e-8f30-d72f782e75b3': 3, '09d1c255-b1c2-5dad-b2c6-6729c463e30e': 3, '0c61f13c-0b46-50ce-9b8a-94",CHR,0,0,1,zero,CHR,12.0,,Chronicles,,Chronicles,,1995-July-01,22.0,125,masters
+6,378,Core Set,"{'default': {'boosters': [{'contents': {'common': 11, 'rare': 1, 'uncommon': 3}, 'weight': 1}], 'boostersTotalWeight': 1, 'sheets': {'common': {'balanceColors': True, 'cards': {'01cc31a8-e1da-5dde-bec1-b656a32cc866': 1, '05bc686b-4f13-50a8-9357-d973bec32e",4ED,0,0,1,zero,4ED,10.0,,Fourth Edition,,Fourth Edition,,1995-April-01,46.0,379,core
+58,145,Alara,"{'default': {'boosters': [{'contents': {'common': 11, 'rareMythic': 1, 'uncommon': 3}, 'weight': 31}, {'contents': {'common': 10, 'foil': 1, 'rareMythic': 1, 'uncommon': 3}, 'weight': 9}], 'boostersTotalWeight': 40, 'sheets': {'common': {'balanceColors': ",CON,0,0,0,zero,CON,106.0,,Conflux,CON,Conflux,,2009-February-06,26.0,145,expansion
+331,9,,,PG07,1,0,0,zero,DCI,,,,,Gateway 2007,,2007-January-01,,9,promo
+174,14,Judge Gift Cards,,J14,1,0,0,zero,PMEI,,,,,Judge Gift Cards 2014,,2014-January-01,62.0,14,promo
+283,1,Alara,,PALA,1,0,0,zero,ALA,,,,,Shards of Alara Promos,ALA,2008-October-03,,1,promo
+522,15,,,V09,1,0,0,zero,V09,112.0,,From the Vault: Exiled,V09,From the Vault: Exiled,,2009-August-28,48.0,15,from_the_vault
+454,9,,,PURL,1,0,0,zero,PMEI,,,,,URL/Convention Promos,,2009-February-08,,9,promo
+14,184,Kaladesh,"{'default': {'boosters': [{'contents': {'common': 11, 'rareMythic': 1, 'uncommon': 3}, 'weight': 31}, {'contents': {'common': 10, 'foilOrMasterpiece1In144': 1, 'rareMythic': 1, 'uncommon': 3}, 'weight': 9}], 'boostersTotalWeight': 40, 'sheets': {'common':",AER,0,0,0,zero,AER,1718.0,,Aether Revolt,AER,Aether Revolt,,2017-January-20,1857.0,197,expansion
+459,5,,,PWCQ,1,0,0,zero,PMEI,,,,,World Magic Cup Qualifiers,,2013-April-06,,5,promo
+486,218,,,SLD,0,0,0,zero,PMEI,,,,,Secret Lair Drop,,2019-December-02,2576.0,218,box

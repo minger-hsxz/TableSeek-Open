@@ -1,0 +1,38 @@
+year,round,player_id,team_id,league_id,g,ab,r,h,double,triple,hr,rbi,sb,cs,bb,so_div100,ibb,hbp,sh,sf,g_idp
+"one thousand, nine hundred and seventy-two",NLCS,perezto01,CIN,NL,V,2.00×10^+01,zero,4,1,zero,0,2,0,0.0,0,0.07,0.00×10^+00,0.0,0.0,0.0,zero point zero
+"one thousand, nine hundred and thirty-two",WS,crosefr01,NYA,AL,IV,1.50×10^+01,two,2,1,zero,0,0,0,0.0,2,0.03,1.00×10^+00,0.0,1.0,0.0,one point zero
+"one thousand, nine hundred and ninety-two",WS,cartejo01,TOR,AL,VI,2.20×10^+01,two,6,2,zero,2,3,1,0.0,3,0.02,1.00×10^+00,0.0,0.0,1.0,zero point zero
+two thousand and ten,ALCS,youngmi02,TEX,AL,VI,2.70×10^+01,three,9,3,zero,0,4,0,0.0,1,0.07,0.00×10^+00,0.0,0.0,0.0,two point zero
+"one thousand, nine hundred and twenty-one",WS,milleel01,NYA,AL,VIII,3.10×10^+01,three,5,1,zero,0,2,0,0.0,2,0.05,0.00×10^+00,0.0,0.0,1.0,zero point zero
+"one thousand, nine hundred and seventy-three",WS,rudijo01,OAK,AL,VII,2.70×10^+01,three,9,2,zero,0,4,0,1.0,3,0.04,0.00×10^+00,0.0,1.0,0.0,zero point zero
+"one thousand, nine hundred and seventy-seven",NLCS,motama01,LAN,NL,I,1.00×10^+00,one,1,1,zero,0,0,0,0.0,0,0.0,0.00×10^+00,0.0,0.0,0.0,zero point zero
+"one thousand, nine hundred and fifty-four",WS,dobyla01,CLE,AL,IV,1.60×10^+01,zero,2,0,zero,0,0,0,0.0,2,0.04,1.00×10^+00,0.0,0.0,0.0,zero point zero
+"one thousand, nine hundred and five",WS,gilbebi02,NY1,NL,V,1.60×10^+01,one,5,0,zero,0,2,1,1.0,0,0.02,0.00×10^+00,0.0,0.0,1.0,zero point zero
+two thousand and thirteen,ALDS1,ortizda01,BOS,AL,IV,1.30×10^+01,four,5,1,zero,2,3,0,0.0,5,0.02,,,,,one point zero
+"one thousand, nine hundred and eight",WS,killied01,DET,AL,I,0.00×10^+00,zero,0,0,zero,0,0,0,0.0,0,0.0,0.00×10^+00,0.0,0.0,0.0,zero point zero
+"one thousand, nine hundred and twelve",WS,wagnehe01,BOS,AL,VIII,3.00×10^+01,one,5,1,zero,0,0,1,0.0,3,0.06,0.00×10^+00,0.0,0.0,0.0,zero point zero
+"one thousand, nine hundred and sixty-five",WS,klippjo01,MIN,AL,II,0.00×10^+00,zero,0,0,zero,0,0,0,0.0,0,0.0,0.00×10^+00,0.0,0.0,0.0,zero point zero
+"one thousand, nine hundred and eighty-four",WS,lemonch01,DET,AL,V,1.70×10^+01,one,5,0,zero,0,1,2,1.0,2,0.02,0.00×10^+00,0.0,0.0,0.0,one point zero
+"one thousand, nine hundred and eighty-one",AWDIV,heathmi02,OAK,AL,II,8.00×10^+00,zero,0,0,zero,0,0,0,0.0,0,0.01,0.00×10^+00,0.0,0.0,0.0,zero point zero
+"one thousand, nine hundred and ninety-nine",WS,perezed02,ATL,NL,III,8.00×10^+00,zero,1,0,zero,0,0,0,0.0,1,0.03,0.00×10^+00,0.0,0.0,0.0,one point zero
+two thousand and twelve,NLDS1,descada01,SLN,NL,V,1.90×10^+01,seven,6,1,zero,2,6,1,0.0,1,0.05,,,,,zero
+"one thousand, nine hundred and ninety-seven",NLDS2,smoltjo01,ATL,NL,I,4.00×10^+00,zero,0,0,zero,0,0,0,0.0,0,0.01,0.00×10^+00,0.0,0.0,0.0,zero point zero
+two thousand and fourteen,ALCS,hollagr01,KCA,AL,IV,0.00×10^+00,zero,0,0,zero,0,0,0,0.0,0,0.0,0.00×10^+00,0.0,0.0,0.0,zero point zero
+"one thousand, nine hundred and thirty-nine",WS,bordafr01,CIN,NL,II,0.00×10^+00,zero,0,0,zero,0,0,0,0.0,0,0.0,0.00×10^+00,0.0,0.0,0.0,zero point zero
+two thousand and ten,WS,burrepa01,SFN,NL,IV,1.30×10^+01,one,0,0,zero,0,0,0,0.0,2,0.11,0.00×10^+00,0.0,0.0,0.0,zero point zero
+"one thousand, nine hundred and seventy-one",NLCS,maricju01,SFN,NL,I,3.00×10^+00,zero,0,0,zero,0,0,0,0.0,0,0.01,0.00×10^+00,0.0,0.0,0.0,zero point zero
+"one thousand, nine hundred and seventy-nine",ALCS,bumbral01,BAL,AL,IV,1.60×10^+01,five,4,0,one,0,0,2,0.0,4,0.03,1.00×10^+00,0.0,0.0,0.0,zero point zero
+"one thousand, nine hundred and ninety-eight",NLDS2,aloumo01,HOU,NL,IV,1.60×10^+01,zero,3,0,zero,0,0,0,0.0,0,0.02,0.00×10^+00,0.0,0.0,0.0,one point zero
+two thousand,NLDS2,francjo01,NYN,NL,II,0.00×10^+00,zero,0,0,zero,0,0,0,0.0,0,0.0,0.00×10^+00,0.0,0.0,0.0,zero point zero
+two thousand and thirteen,ALDS1,rodnefe01,TBA,AL,II,0.00×10^+00,zero,0,0,zero,0,0,0,0.0,0,0.0,,,,,zero
+two thousand and two,NLDS1,jonesan01,ATL,NL,V,1.90×10^+01,four,6,1,zero,0,2,0,0.0,2,0.03,0.00×10^+00,0.0,0.0,0.0,zero point zero
+"one thousand, nine hundred and eighty-seven",ALCS,nokesma01,DET,AL,V,1.40×10^+01,two,2,0,zero,1,2,0,0.0,1,0.04,0.00×10^+00,0.0,0.0,0.0,zero point zero
+two thousand and two,NLDS2,isrinja01,SLN,NL,II,0.00×10^+00,zero,0,0,zero,0,0,0,0.0,0,0.0,0.00×10^+00,0.0,0.0,0.0,zero point zero
+two thousand and eight,ALDS1,guerrvl01,LAA,AL,IV,1.50×10^+01,two,7,1,zero,0,0,1,0.0,4,0.01,0.00×10^+00,0.0,0.0,0.0,zero point zero
+"one thousand, nine hundred and ninety-one",NLCS,varshga01,PIT,NL,II,2.00×10^+00,zero,1,0,zero,0,0,0,0.0,0,0.01,0.00×10^+00,0.0,0.0,0.0,zero point zero
+"one thousand, nine hundred and eighty-seven",NLCS,speiech01,SFN,NL,III,5.00×10^+00,zero,0,0,zero,0,0,0,0.0,0,0.02,0.00×10^+00,0.0,0.0,0.0,one point zero
+two thousand and ten,NLDS2,hernadi01,ATL,NL,II,1.00×10^+00,zero,0,0,zero,0,0,0,0.0,0,0.01,0.00×10^+00,0.0,0.0,0.0,zero point zero
+two thousand,NLDS1,dunstsh01,SLN,NL,I,1.00×10^+00,zero,1,0,zero,0,0,0,0.0,0,0.0,0.00×10^+00,0.0,0.0,0.0,zero point zero
+"one thousand, nine hundred and forty-five",WS,hostech01,DET,AL,III,3.00×10^+00,zero,0,0,zero,0,0,0,0.0,0,0.0,0.00×10^+00,0.0,0.0,0.0,zero point zero
+"one thousand, nine hundred and eighty-four",WS,martica01,SDN,NL,V,1.70×10^+01,zero,3,0,zero,0,0,0,0.0,1,0.09,0.00×10^+00,0.0,0.0,0.0,zero point zero
+"one thousand, eight hundred and eighty-eight",WS,whitebi02,SL4,AA,X,3.50×10^+01,four,5,1,zero,0,4,1,,3,0.06,0.00×10^+00,,,,zero

@@ -1,0 +1,75 @@
+id,draftYear,draftRound,draftSelection,draftOverall,tmID,firstName,lastName,suffixName,playerID,draftFrom,lgID
+3700,1968,10,8,128,NYK,Sylvester,Adams,,,Santa Clara,NBA
+4344,1971,6,11,96,DET,Jim,Larranga,,,Providence,NBA
+2355,1956,0,0,0,MNL,John,Barber,,barbejo01,Cal State-Los Angeles,NBA
+9003,2011,2,30,60,SAC,Isaiah,Thomas,,thomais02,Washington,NBA
+7949,1993,2,25,52,SAC,Mike,Peplowski,,peplomi01,Michigan State,NBA
+5053,1974,9,15,159,CHI,Jerry,Davenport,,,Cameron,NBA
+7760,1990,1,25,25,POR,Alaa,Abdelnaby,,abdelal01,Duke,NBA
+8108,1996,2,16,45,SEA,Joe,Vogel,,,Colorado State,NBA
+4382,1971,8,15,134,CHI,Clarence,Sherrod,,,Wisconsin,NBA
+1942,1952,0,0,0,INO,Jim,Hoverder,,,Central Missouri State,NBA
+147,1968,0,0,0,DLC,John,Smith,,smithjo01,Southern Colorado State,ABA
+2085,1953,0,0,0,NYK,Delmer,Diercks,,,Iowa State,NBA
+6818,1983,7,12,151,NYK,Desi,Barimore,,,Fresno State,NBA
+7057,1984,8,2,164,CHI,Brett,Crawford,,,U.S. International,NBA
+1299,1974,5,0,0,INA,Jim,Davis,,davisji01,Detroit,ABA
+7639,1988,2,8,33,MIA,Grant,Long,,longgr01,Eastern Michigan,NBA
+2572,1958,7,5,52,PHW,Jay,Norman,,,Temple,NBA
+896,1972,0,0,0,NYA,Bill,Phillips,,,St. Johns,ABA
+7592,1987,7,9,147,SEA,Mike,Giomi,,,North Carolina State,NBA
+5273,1976,2,10,27,HOU,Phil,Hicks,,hicksph01,Tulane,NBA
+1974,1952,0,0,0,NYK,Roy,Belliveau,,,Seton Hall,NBA
+4317,1971,5,1,69,CLE,Brian,Mahoney,,mahonbr01,Manhattan,NBA
+2299,1955,3,2,16,ROC,Ed,Fleming,,flemied01,Niagara,NBA
+5152,1975,5,8,80,NYK,Don,Washington,,washido01,North Carolina,NBA
+7827,1991,2,11,38,LAC,Joe,Wylie,,,Miami (FL),NBA
+2819,1961,3,4,27,LAL,Frank,Burgess,,,Gonzaga,NBA
+5637,1978,2,14,36,PHI,Maurice,Cheeks,,cheekma01,West Texas State,NBA
+4268,1971,2,3,20,CHI,Willie,Sojourner,,sojouwi01,Weber State,NBA
+4143,1970,9,3,139,DET,Alex,Wynn,,,Dartmouth,NBA
+6321,1981,5,10,102,GSW,Hank,McDowell,,mcdowha01,Memphis State,NBA
+5416,1976,10,13,170,WSB,Mike,Beuscher,,,Seton Hall,NBA
+7690,1989,1,9,9,WSB,Tom,Hammonds,,hammoto01,Georgia Tech,NBA
+3615,1968,4,7,43,SFW,Edgar,Lacy,,lacyed01,St. Louis,NBA
+5969,1979,8,19,166,WSB,Jo Jo,Walters,,,Manhattan,NBA
+929,1972,0,0,0,SDA,Chuck,Williams,,willich02,Denver,ABA
+4550,1972,5,2,65,BUF,Arnie,Berman,,,Brown,NBA
+5783,1978,9,12,182,MIL,Gary,Rosenberger,,,Marquette,NBA
+7233,1985,5,19,112,DEN,Kenny,Brown,,,Texas A&M,NBA
+6981,1984,4,18,88,POR,Brett,Applegate,,,Brigham Young,NBA
+6692,1983,2,1,25,CHI,Sidney,Lowe,,lowesi01,North Carolina State,NBA
+5165,1975,6,3,93,ATL,Danny,Williams,,,Mississippi,NBA
+2833,1961,4,9,41,CHP,Roger,Kaiser,,,Georgia Tech,NBA
+5731,1978,6,20,130,PHI,Osborne,Lockhart,,,Minnesota,NBA
+1879,1951,5,6,45,NYK,Tom,Smith,,smithto01,St. Peter's,NBA
+1177,1973,8,0,0,VIR,Linwood,Johnson,,,Virginia State (redshirt),ABA
+263,1968,0,0,0,NOB,Dave,Williams,,,Mississippi State,ABA
+8830,2009,1,7,7,GSW,Stephen,Curry,,curryst01,Davidson,NBA
+4299,1971,3,16,51,MIL,Gary,Brell,,,Marquette,NBA
+5905,1979,5,14,102,DEN,Larry,Williams,,,Louisville,NBA
+5145,1975,5,1,73,NOJ,Andre,Hampton,,,Kentucky State,NBA
+8892,2010,1,9,9,UTA,Gordon,Hayward,,haywago01,Butler,NBA
+1168,1973,8,0,0,MMT,Jim,Crawford,,,LaSalle,ABA
+4895,1974,1,1,1,POR,Bill,Walton,,waltobi01,UCLA,NBA
+5876,1979,4,7,73,SEA,James,Donaldson,,donalja01,Washington State,NBA
+4576,1972,6,11,91,NYK,Greg,Cleuss,,,St. John's,NBA
+8225,1998,2,18,47,TOR,Tyson,Wheeler,,wheelty01,Rhode Island,NBA
+6897,1984,1,4,4,DAL,Sam,Perkins,,perkisa01,North Carolina,NBA
+1014,1973,1,0,0,DNR,Lamont,King,,,Long Beach State,ABA
+481,1970,0,0,0,KEN,Ted,Rose,,,Northern Michigan,ABA
+2106,1953,0,0,0,SYR,Andy,McGowan,,,Manhattan,NBA
+1373,1975,1,0,0,VIR,David,Thompson,,thompda01,North Carolina State,ABA
+4741,1973,4,6,58,HOU,Lee,Colburn,,,South Dakota State,NBA
+3882,1969,7,11,96,NYK,Chris,Thomforde,,,Princeton,NBA
+3499,1967,7,10,89,PHI,Frank,Card,,cardfr01,Virginia,NBA
+8254,1999,1,18,18,DEN,James,Posey,,poseyja01,Xavier,NBA
+4943,1974,3,13,49,PHO,Earl,Williams,,williea01,Winston-Salem,NBA
+3365,1966,7,8,67,BOS,Jerry,Ward,,,Maryland,NBA
+4368,1971,8,1,120,CLE,Charlie,Davis,,davisch01,Wake Forest,NBA
+1749,1950,4,0,0,BLB,Jerry,Reed,,,Wyoming,NBA
+4097,1970,6,8,93,POR,George,Janky,,,Dayton,NBA
+297,1969,0,0,0,CAR,LC,Bowen,,,Bradley,ABA
+1598,1948,0,0,0,PRO,Ed,Faber,,,Trinity,NBA
+6597,1982,7,17,155,PHO,Phil,Ward,,,North Carolina-Charlotte,NBA
+8432,2002,1,23,23,DET,Tayshaun,Prince,,princta01,Kentucky,NBA

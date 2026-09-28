@@ -1,0 +1,55 @@
+IdState,State,AbbrState,Ctrl,Tier,Year,Sex,Ethnicity,Group,GradGroup,Grad100,Grad150,Grad100Rate,Grad150Rate,GradGroupCount
+17,Illinois,IL,Private not-for-profit,4-year,2008,M,B,4y bach,725,158.0,256,21.8,3.53×10^+01,47
+26,Michigan,MI,Public,4-year,2010,M,A,4y bach,828,383.0,602,46.3,7.27×10^+01,15
+8,Colorado,CO,Private not-for-profit,4-year,2004,M,H,4y bach,34,18.0,22,52.9,6.47×10^+01,7
+17,Illinois,IL,Public,4-year,2006,M,A,4y bach,1084,356.0,641,32.8,5.91×10^+01,10
+13,Georgia,GA,Private for-profit,2-year,2009,B,X,2y all,2818,962.0,1359,34.1,4.82×10^+01,9
+0,United States,US,Public,4-year,2002,M,Ai,4y bach,2482,271.0,823,10.9,3.32×10^+01,537
+48,Texas,TX,Private not-for-profit,4-year,2004,M,B,4y bach,596,71.0,210,11.9,3.52×10^+01,38
+37,North Carolina,NC,Public,4-year,2013,M,B,4y bach,2979,427.0,1220,14.3,4.10×10^+01,16
+48,Texas,TX,Private not-for-profit,4-year,2010,M,B,4y other,1,,0,,0.00×10^+00,8
+24,Maryland,MD,Private for-profit,2-year,2012,B,W,2y all,736,,450,,6.11×10^+01,4
+12,Florida,FL,Private for-profit,4-year,2007,F,H,4y bach,263,55.0,66,20.9,2.51×10^+01,26
+49,Utah,UT,Private for-profit,4-year,2013,F,A,4y other,39,,19,,4.87×10^+01,11
+53,Washington,WA,Public,4-year,2012,F,A,4y other,110,,22,,2.00×10^+01,18
+35,New Mexico,NM,Public,4-year,2004,B,A,4y other,0,,0,,,3
+23,Maine,ME,Private not-for-profit,4-year,2005,B,A,4y other,3,,1,,3.33×10^+01,5
+48,Texas,TX,Private not-for-profit,4-year,2012,F,Ai,4y other,4,,2,,5.00×10^+01,44
+13,Georgia,GA,Private for-profit,2-year,2008,B,B,2y all,842,,465,,5.52×10^+01,8
+36,New York,NY,Public,4-year,2012,M,A,4y other,425,,98,,2.31×10^+01,39
+18,Indiana,IN,Public,2-year,2007,B,Ai,2y all,14,,0,,0.00×10^+00,14
+2,Alaska,AK,Public,2-year,2010,B,Ai,2y all,20,,6,,3.00×10^+01,2
+32,Nevada,NV,Private not-for-profit,4-year,2002,B,B,4y bach,1,0.0,1,0.0,1.00×10^+02,1
+13,Georgia,GA,Private not-for-profit,4-year,2010,M,H,4y other,14,,4,,2.86×10^+01,7
+21,Kentucky,KY,Private for-profit,4-year,2013,B,B,4y other,285,,72,,2.53×10^+01,15
+21,Kentucky,KY,Private for-profit,2-year,2011,B,X,2y all,1068,531.0,674,49.7,6.31×10^+01,7
+23,Maine,ME,Public,2-year,2010,F,A,2y all,14,,3,,2.14×10^+01,7
+35,New Mexico,NM,Public,4-year,2008,B,H,4y other,146,,29,,1.99×10^+01,3
+10,Delaware,DE,Public,4-year,2006,M,X,4y bach,1481,656.0,961,44.3,6.49×10^+01,2
+31,Nebraska,NE,Private not-for-profit,2-year,2013,B,B,2y all,0,,0,,,1
+29,Missouri,MO,Public,4-year,2004,F,X,4y other,102,,40,,3.92×10^+01,4
+54,West Virginia,WV,Private not-for-profit,4-year,2013,M,Ai,4y other,0,,0,,,8
+8,Colorado,CO,Private for-profit,4-year,2003,F,A,4y bach,7,0.0,0,0.0,0.00×10^+00,8
+17,Illinois,IL,Private for-profit,2-year,2011,B,B,2y all,1340,,638,,4.76×10^+01,11
+11,District of Columbia,DC,Private for-profit,4-year,2004,F,H,4y other,2,,0,,0.00×10^+00,1
+23,Maine,ME,Public,4-year,2004,F,A,4y other,0,,0,,,5
+5,Arkansas,AR,Public,4-year,2010,M,X,4y bach,4851,742.0,1684,15.3,3.47×10^+01,10
+41,Oregon,OR,Private for-profit,4-year,2012,B,A,4y bach,17,3.0,7,17.6,4.12×10^+01,4
+37,North Carolina,NC,Private not-for-profit,2-year,2007,B,A,2y all,3,,1,,3.33×10^+01,1
+6,California,CA,Public,4-year,2002,F,W,4y bach,10615,3740.0,7097,35.2,6.69×10^+01,30
+2,Alaska,AK,Private not-for-profit,4-year,2009,B,X,4y bach,23,7.0,11,30.4,4.78×10^+01,1
+29,Missouri,MO,Public,4-year,2010,M,W,4y other,66,,25,,3.79×10^+01,3
+53,Washington,WA,Private for-profit,4-year,2006,B,H,4y bach,3,1.0,1,33.3,3.33×10^+01,3
+35,New Mexico,NM,Private not-for-profit,4-year,2006,M,W,4y bach,61,22.0,32,36.1,5.25×10^+01,2
+8,Colorado,CO,Public,4-year,2011,B,W,4y other,503,,110,,2.19×10^+01,13
+13,Georgia,GA,Private not-for-profit,4-year,2002,F,W,4y bach,2469,1268.0,1465,51.4,5.93×10^+01,25
+33,New Hampshire,NH,Private for-profit,4-year,2006,B,X,4y other,583,,197,,3.38×10^+01,1
+54,West Virginia,WV,Private for-profit,4-year,2002,F,W,4y bach,66,30.0,36,45.5,5.45×10^+01,1
+12,Florida,FL,Private for-profit,4-year,2002,B,A,4y bach,44,14.0,14,31.8,3.18×10^+01,12
+41,Oregon,OR,Public,4-year,2011,B,A,4y bach,724,191.0,412,26.4,5.69×10^+01,7
+39,Ohio,OH,Private not-for-profit,2-year,2003,B,Ai,2y all,1,,1,,1.00×10^+02,4
+41,Oregon,OR,Private for-profit,4-year,2005,M,A,4y other,18,,13,,7.22×10^+01,4
+35,New Mexico,NM,Private for-profit,4-year,2007,M,Ai,4y bach,9,4.0,4,44.4,4.44×10^+01,6
+46,South Dakota,SD,Private not-for-profit,2-year,2003,F,X,2y all,13,,4,,3.08×10^+01,1
+46,South Dakota,SD,Public,2-year,2013,F,X,2y all,801,,389,,4.86×10^+01,5
+31,Nebraska,NE,Private for-profit,4-year,2010,B,H,4y bach,0,0.0,0,,,1

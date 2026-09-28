@@ -1,0 +1,50 @@
+StoreKey,CityLabel,County,StateCode,State,Category,LatDeg,LonDeg,RegionCode_add10,PopCount,HHIncome,MedianEarnings,TerrainSize,AquaSize,TZ
+362,Spokane,Spokane County,WA,Washington,City,47.65878,-117.42605,519,213272,87623,42386,178034003,1984449,America/Los Angeles
+266,Manhattan,New York County,NY,New York,Borough,40.72833,-73.99417,222,1644518,738644,47030,59100000,28000000,America/New York
+70,San Diego,San Diego County,CA,California,City,32.71533,-117.15726,629,1394928,485091,66116,842252395,122244773,America/Los Angeles
+216,Lansing,Clinton County/Ingham County/Eaton County,MI,Michigan,City,42.71434,-84.55928,527,115056,48414,35563,101329851,1640233,America/Detroit
+360,Renton,King County,WA,Washington,City,47.48288,-122.21707,435,100242,37994,64802,60663567,511360,America/Los Angeles
+339,San Angelo,Tom Green County,TX,Texas,City,31.46377,-100.43704,335,100450,36409,44802,155255892,5940332,America/Chicago
+203,Metairie,Jefferson Parish,LA,Louisiana,CDP,29.98409,-90.15285,514,140074,59557,52421,60144259,109317,America/Chicago
+272,Rochester,Monroe County,NY,New York,City,43.15478,-77.61556,726,209802,85741,30960,92678538,3546651,America/New York
+240,Omaha,Douglas County,NE,Nebraska,City,41.25861,-95.93779,412,443885,173764,49896,344973715,9140906,America/Chicago
+152,Aurora (Township),Kane County,IL,Illinois,Township,41.76887,-88.31893,640,148308,44798,49797,89841331,1727843,America/Chicago
+86,Victorville,San Bernardino County,CA,California,City,34.53611,-117.29116,770,122225,31886,45894,189919736,1459026,America/Los Angeles
+283,Toledo,Lucas County,OH,Ohio,City,41.66394,-83.55521,429,279789,117531,33687,209065315,8887951,America/New York
+80,Stockton,San Joaquin County,CA,California,City,37.9577,-121.29078,219,305658,92440,44797,159717213,7984586,America/Los Angeles
+167,Naperville (Township),DuPage County,IL,Illinois,Township,41.76635,-88.2009,640,102708,37133,88282,90385339,2423679,America/Chicago
+220,Rochester,Olmsted County,MN,Minnesota,City,44.02163,-92.4699,517,112225,43634,64554,141314495,403646,America/Chicago
+265,Islip,Suffolk County,NY,New York,Town,40.71258,-73.19552,641,336113,101387,86864,268844871,153259682,America/New York
+257,Sunrise Manor,Clark County,NV,Nevada,CDP,36.21108,-115.07306,712,187647,60366,39586,86444651,0,America/Los Angeles
+233,Greensboro,Guilford County,NC,North Carolina,City,36.07264,-79.79198,346,285342,114080,41628,332338206,13707999,America/New York
+225,Springfield,Christian County/Greene County,MO,Missouri,City,37.19415,-93.2913,427,166810,71268,33557,213158276,1530246,America/Chicago
+96,Fort Collins,Larimer County,CO,Colorado,City,40.58526,-105.08442,980,161175,58918,55647,144576803,3196479,America/Denver
+82,Temecula,Riverside County,CA,California,City,33.49364,-117.14836,961,112011,32835,79925,96518165,30591,America/Los Angeles
+254,Paradise,Clark County,NV,Nevada,CDP,36.09719,-115.14666,712,223182,88401,43911,121034884,0,America/Los Angeles
+34,Fairfield,Solano County,CA,California,City,38.24936,-122.03997,717,112970,34623,67364,105971964,696390,America/Los Angeles
+280,Cleveland,Cuyahoga County,OH,Ohio,City,41.4995,-81.69541,226,388072,167100,26150,201255242,12332080,America/New York
+342,Tyler,Smith County,TX,Texas,City,32.35126,-95.30106,913,103700,37644,42840,146667943,1327654,America/Chicago
+267,New York City,Richmond County/Queens County/Kings County/New York County/Bronx County,NY,New York,City,40.66347,-73.9387,728,8550405,3113535,53373,780785193,431834008,America/New York
+11,Phoenix,Maricopa County,AZ,Arizona,City,33.44838,-112.07404,612,1563025,525610,47326,1340692038,3247104,America/Phoenix
+136,Tallahassee,Leon County,FL,Florida,City,30.43826,-84.28073,860,189907,74388,39681,260089732,8300437,America/New York
+261,Brooklyn,Kings County,NY,New York,Borough,40.62472,-73.95222,357,2636735,880727,32135,180000000,70000000,America/New York
+9,Mesa,Maricopa County,AZ,Arizona,City,33.42227,-111.82264,490,471825,168914,48809,357097953,1950781,America/Phoenix
+352,Hampton,Hampton city,VA,Virginia,City,37.02987,-76.34522,767,136454,52940,49190,133308913,219591352,America/New York
+227,Jackson,Rankin County/Hinds County/Madison County,MS,Mississippi,City,32.31583,-90.21282,779,170674,62671,32250,287614760,5655837,America/Chicago
+43,Inglewood,Los Angeles County,CA,California,City,33.96168,-118.35313,434,111666,36667,42044,23485845,63502,America/Los Angeles
+48,Los Angeles,Los Angeles County,CA,California,City,34.05223,-118.24368,223,3971883,1342761,50205,1214027148,88124562,America/Los Angeles
+231,Durham,Durham County/Orange County/Wake County,NC,North Carolina,City,35.98115,-78.90293,929,257636,100513,50420,284339132,2323182,America/New York
+45,Jurupa Valley,Riverside County,CA,California,City,34.00259,-117.46761,961,100314,24839,57749,111216400,1914744,America/Los Angeles
+297,Charleston,Berkeley County/Charleston County,SC,South Carolina,City,32.81793,-79.95896,853,132609,52450,55546,282372739,47927393,America/New York
+304,Memphis,Shelby County,TN,Tennessee,City,35.14953,-90.04898,911,655770,249775,36445,822013083,23171205,America/Chicago
+12,Scottsdale,Maricopa County,AZ,Arizona,City,33.50921,-111.89903,490,236839,102424,73288,476410748,1220280,America/Phoenix
+89,West Covina,Los Angeles County,CA,California,City,34.06862,-117.93895,636,108484,30816,69189,41546642,124507,America/Los Angeles
+51,Murrieta,Riverside County,CA,California,City,33.55391,-117.21392,961,109830,32685,74610,87023902,93770,America/Los Angeles
+103,Bridgeport,Fairfield County,CT,Connecticut,City,41.16704,-73.20483,213,147629,50367,41801,41591056,8721419,America/New York
+287,Tulsa,Rogers County/Wagoner County/Osage County/Tulsa County,OK,Oklahoma,City,36.12795,-95.90232,928,403505,164471,42284,509834953,10955689,America/Chicago
+175,Schaumburg (Township),Cook County,IL,Illinois,Township,42.02911,-88.08951,640,132162,49006,74034,79648612,555721,America/Chicago
+328,Lubbock,Lubbock County,TX,Texas,City,33.57786,-101.85517,816,249042,90433,44648,322793416,2955879,America/Chicago
+164,Maine,Cook County,IL,Illinois,Township,42.03353,-87.86441,857,136667,50680,65608,67114018,640546,America/Chicago
+325,Killeen,Bell County,TX,Texas,City,31.11712,-97.7278,264,140806,46952,47763,138670219,1727829,America/Chicago
+366,Madison,Dane County,WI,Wisconsin,City,43.07305,-89.40123,618,248951,104087,54896,199339279,44491310,America/Chicago
+58,Palmdale,Los Angeles County,CA,California,City,34.57943,-118.11646,671,158351,42720,52392,274452754,633935,America/Los Angeles

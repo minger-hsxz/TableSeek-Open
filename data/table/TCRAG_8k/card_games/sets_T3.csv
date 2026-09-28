@@ -1,0 +1,41 @@
+uid,initSetCount,segment,pack,token,isFoilOnly,isNonFoilOnly,isOnlineOnly,isPartialPreview,runeKey,mcmId,mcmIdExtras,mcmLabel,mtgoToken,label,ancestorToken,launchDate,tcgGrpId,fullSetCount,category
+100,2.05×10^+02,Shadows over Innistrad,"{'default': {'boosters': [{'contents': {'dfcCommonUncommon': 1, 'sfcCommon': 10, 'sfcRareMythic': 1, 'sfcUncommon': 3}, 'weight': 217}, {'contents': {'dfcCommonUncommon': 1, 'foil': 1, 'sfcCommon': 9, 'sfcRareMythic': 1, 'sfcUncommon': 3}, 'weight': 63}, ",EMN,0,0,0,N,EMN,1695.0,zero,Eldritch Moon,EMN,Eldritch Moon,,MMXVI-VII-XXII,1790.0,208,expansion
+311,5.00×10^+00,Innistrad,,PDKA,0,0,0,N,DKA,,zero,,zero,Dark Ascension Promos,DKA,MMXII-I-XXVIII,,5,promo
+269,1.00×10^+00,,,P2HG,1,0,0,N,DCI,,zero,,zero,Two-Headed Giant Tournament,,MMV-XII-IX,,1,promo
+232,5.00×10^+00,,,MZNR,0,0,0,N,ZNR,,zero,,zero,Zendikar Rising Minigames,ZNR,MMXX-IX-XXV,,5,funny
+230,5.40×10^+01,Kaladesh,,MPS,1,0,0,N,MPS,1733.0,zero,Kaladesh Inventions,MS2,Kaladesh Inventions,KLD,MMXVI-IX-XXX,1837.0,54,masterpiece
+366,1.00×10^+00,,,PLNY,1,0,0,N,PMEI,,zero,,zero,2018 Lunar New Year,,MMXVIII-II-XVI,,1,promo
+225,2.29×10^+02,,"{'default': {'boosters': [{'contents': {'common': 10, 'dedicatedFoil': 1, 'rareMythic': 1, 'uncommon': 3}, 'weight': 1}], 'boostersTotalWeight': 1, 'sheets': {'common': {'balanceColors': True, 'cards': {'000a83dc-9ee4-528d-866d-2ca2063e718c': 1, '004b3b84",MMA,0,0,0,N,MMA,1444.0,zero,Modern Masters,MMA,Modern Masters,,MMXIII-VI-VII,1111.0,229,masters
+350,5.00×10^+00,Innistrad,,PISD,0,0,0,N,ISD,,zero,,zero,Innistrad Promos,ISD,MMXI-IX-XXIV,,5,promo
+426,5.00×10^+00,,,PS19,1,0,0,N,DEFAULT,,zero,,zero,San Diego Comic-Con 2019,,MMXIX-VII-XVIII,,5,promo
+361,1.65×10^+02,Time Spiral,"{'default': {'boosters': [{'contents': {'pcCommon': 8, 'pcCsCommon': 3, 'pcCsUncommonRare': 1, 'pcRare': 1, 'pcUncommon': 2}, 'weight': 31}, {'contents': {'foil': 1, 'pcCommon': 7, 'pcCsCommon': 3, 'pcCsUncommonRare': 1, 'pcRare': 1, 'pcUncommon': 2}, 'we",PLC,0,0,0,N,PLC,58.0,zero,Planar Chaos,PLC,Planar Chaos,,MMVII-II-II,83.0,165,expansion
+386,5.00×10^+00,,,PMPS06,1,0,0,N,PMTG2,,zero,,zero,Magic Premiere Shop 2006,,MMVI-I-I,,5,promo
+435,5.00×10^+00,Battle for Zendikar,,PSS1,0,1,0,N,BFZ,,zero,,zero,BFZ Standard Series,BFZ,MMXV-X-II,,5,promo
+116,1.30×10^+01,Friday Night Magic,,F12,0,0,0,N,PMEI,,zero,,zero,Friday Night Magic 2012,,MMXII-I-I,,13,promo
+267,5.00×10^+00,Magic Player Rewards,,P11,0,0,0,N,DEFAULT,,zero,,zero,Magic Player Rewards 2011,,MMXI-I-I,,5,promo
+38,3.37×10^+02,Commander,,C14,0,1,0,N,C14,1513.0,zero,Commander 2014,C14,Commander 2014,,MMXIV-XI-VII,1476.0,337,commander
+164,3.00×10^+00,,,HTR17,0,1,0,N,PMEI,,zero,,zero,2017 Heroes of the Realm,,MMXVIII-VIII-I,,3,funny
+459,5.00×10^+00,,,PWCQ,1,0,0,N,PMEI,,zero,,zero,World Magic Cup Qualifiers,,MMXIII-IV-VI,,5,promo
+413,9.60×10^+01,Ixalan,,PRIX,0,0,0,N,RIX,,zero,,zero,Rivals of Ixalan Promos,RIX,MMXVIII-I-XIX,,96,promo
+543,1.11×10^+02,,,WC99,0,0,0,N,DEFAULT,,zero,,zero,World Championship Decks 1999,,MCMXCIX-VIII-IV,,111,memorabilia
+61,6.00×10^+00,,,CP3,1,0,0,N,PMEI,,zero,,zero,Magic Origins Clash Pack,ORI,MMXV-VII-XVII,,6,starter
+84,7.60×10^+01,,,DDU,0,0,0,N,DDU,2068.0,zero,Duel Decks: Elves vs. Inventors,DDU,Duel Decks: Elves vs. Inventors,,MMXVIII-IV-VI,2207.0,76,duel_deck
+27,8.50×10^+01,,,ATH,0,1,0,N,ATH,75.0,zero,Anthologies,zero,Anthologies,,MCMXCVIII-XI-I,1275.0,85,box
+393,1.00×10^+00,,,PNAT,1,0,0,N,PMEI,,zero,,zero,Nationals Promos,,MMXVIII-I-XXV,,1,promo
+246,1.50×10^+01,Commander,,OCMD,1,0,0,N,CMD,,zero,,zero,Commander 2011 Oversized,CMD,MMXI-VI-XVII,,15,memorabilia
+265,9.00×10^+00,Magic Player Rewards,,P10,0,0,0,N,DEFAULT,,zero,,zero,Magic Player Rewards 2010,,MMX-I-I,,9,promo
+418,1.00×10^+01,Guilds of Ravnica,,PRW2,1,0,0,N,RNA,,zero,,zero,RNA Ravnica Weekend,RNA,MMXIX-II-XVI,,10,promo
+457,3.20×10^+01,,,PVAN,0,1,0,N,VAN,,zero,,zero,Vanguard Series,,MCMXCVII-V-I,119.0,32,vanguard
+507,3.50×10^+02,Tempest,"{'default': {'boosters': [{'contents': {'common': 11, 'rare': 1, 'uncommon': 3}, 'weight': 1}], 'boostersTotalWeight': 1, 'sheets': {'common': {'balanceColors': True, 'cards': {'03debc19-ddaa-5ff2-9474-f2bb9e3210f4': 1, '05925dd2-1ff8-5b59-934b-f3e4f5d8e7",TMP,0,0,0,N,TMP,19.0,zero,Tempest,TE,Tempest,,MCMXCVII-X-XIV,108.0,350,expansion
+284,1.50×10^+01,,,PALP,0,1,0,N,PAPAC,,zero,,zero,Asia Pacific Land Program,,MCMXCVIII-IX-I,9.0,15,promo
+388,6.00×10^+00,,,PMPS08,0,0,0,N,PMPS,,zero,,zero,Magic Premiere Shop 2008,,MMVIII-I-I,,6,promo
+294,9.00×10^+00,Theros,,PBNG,0,0,0,N,BNG,,zero,,zero,Born of the Gods Promos,BNG,MMXIV-II-I,,9,promo
+67,6.30×10^+01,,,DDD,0,0,0,N,DDD,115.0,zero,Duel Decks: Garruk vs. Liliana,DDD,Duel Decks: Garruk vs. Liliana,,MMIX-X-XXX,34.0,63,duel_deck
+336,5.00×10^+00,,,PGRU,0,1,0,N,PGRU,,zero,,zero,Guru,,MCMXCIX-VII-XII,56.0,5,promo
+363,1.00×10^+00,Onslaught,,PLGN,1,0,0,N,LGN,,zero,,zero,Legions Promos,LGN,MMIII-II-III,,1,promo
+60,6.00×10^+00,Khans of Tarkir,,CP2,1,0,0,N,PMEI,,zero,,zero,Fate Reforged Clash Pack,FRF,MMXV-I-XXIII,,6,starter
+526,2.00×10^+01,,,V13,1,0,0,N,V13,1455.0,zero,From the Vault: Twenty,V13,From the Vault: Twenty,,MMXIII-VIII-XXIII,1141.0,20,from_the_vault
+353,9.00×10^+00,Theros,,PJOU,0,0,0,N,JOU,,zero,,zero,Journey into Nyx Promos,JOU,MMXIV-IV-XXVI,,9,promo
+44,3.22×10^+02,Commander,,C20,0,0,0,N,C20,,zero,,C20,Commander 2020,,MMXX-IV-XVII,2634.0,322,commander
+142,5.00×10^+00,,,G17,1,0,0,N,PMEI,,zero,,zero,2017 Gift Pack,,MMXVII-X-XX,,5,box
+534,3.00×10^+01,,,W17,0,1,0,N,W17,1802.0,zero,Welcome Deck 2017,W17,Welcome Deck 2017,,MMXVII-IV-XV,1930.0,30,starter

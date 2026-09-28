@@ -1,0 +1,83 @@
+cognress_rep_id,first_name,last_name,CID,party,state,abbreviation,House,land_area
+IA-4,King,Steven A,N00013799,Republican,Iowa,IA,House of Repsentatives,22756.75
+KS-S2,Roberts,Pat,N00009816,Republican,Kansas,KS,Senate,81823.0
+TX-35,Doggett,Lloyd,N00030836,Democrat,Texas,TX,House of Repsentatives,593.77
+NY-23,Reed,Tom,N00000575,Republican,New York,NY,House of Repsentatives,7371.65
+MS-S1,Cochran,Thad,N00029736,Republican,Mississippi,MS,Senate,46914.0
+MA-S2,Warren,Elizabeth,N00033508,Democrat,Massachusetts,MA,Senate,7838.0
+DE,Carney,John,N00026790,Democrat,Delaware,DE,House of Repsentatives,3977.06
+VA-10,Wolf,Frank,N00007151,Republican,Virginia,VA,House of Repsentatives,1372.24
+AZ-7,Pastor,Ed,N00005656,Democrat,Arizona,AZ,House of Repsentatives,205.12
+NJ-6,Pallone,Frank Jr,N00035717,Democrat,New Jersey,NJ,House of Repsentatives,215.55
+OR-S1,Merkley,Jeff,N00031226,Democrat,Oregon,OR,Senate,96003.0
+ME-S1,Collins,Susan M,N00004118,Republican,Maine,ME,Senate,30865.0
+TX-8,Brady,Kevin,N00033540,Republican,Texas,TX,House of Repsentatives,6053.76
+NE-S2,Johanns,Mike,N00030191,Republican,Nebraska,NE,Senate,76878.0
+WI-4,Moore,Gwen,N00006446,Democrat,Wisconsin,WI,House of Repsentatives,128.35
+FL-16,Buchanan,Vernon,N00005601,Republican,Florida,FL,House of Repsentatives,875.33
+WA-3,Beutler,Jaime Herrera,N00031741,Republican,Washington,WA,House of Repsentatives,9114.01
+PA-6,Gerlach,Jim,N00034547,Republican,Pennsylvania,PA,House of Repsentatives,860.47
+MD-1,Harris,Andy,N00009975,Republican,Maryland,MD,House of Repsentatives,3977.06
+CA-42,Calvert,Ken,N00002674,Republican,California,CA,House of Repsentatives,935.96
+WA-8,Reichert,Dave,N00008264,Republican,Washington,WA,House of Repsentatives,7359.7
+MN-5,Ellison,Keith,N00029835,Democrat,Minnesota,MN,House of Repsentatives,135.66
+MI-9,Levin,Sander,N00029147,Democrat,Michigan,MI,House of Repsentatives,183.59
+LA-6,Cassidy,Bill,N00000743,Republican,Louisiana,LA,House of Repsentatives,4033.89
+WI-3,Kind,Ron,N00025280,Democrat,Wisconsin,WI,House of Repsentatives,11111.79
+HI-S2,Schatz,Brian,N00009920,Democrat,Hawaii,HI,Senate,6423.0
+PA-S2,Toomey,Pat,N00002097,Republican,Pennsylvania,PA,Senate,44820.0
+MI-S1,Levin,Carl,N00006701,Democrat,Michigan,MI,Senate,56539.0
+CO-7,Perlmutter,Ed,N00002685,Democrat,Colorado,CO,House of Repsentatives,342.11
+TX-1,Gohmert,Louis B Jr,N00007360,Republican,Texas,TX,House of Repsentatives,7858.86
+IN-S1,Coats,Dan,N00033983,Republican,Indiana,IN,Senate,35870.0
+NY-16,Engel,Eliot L,N00034580,Democrat,New York,NY,House of Repsentatives,78.37
+MA-8,Lynch,Stephen F,N00032029,Democrat,Massachusetts,MA,House of Repsentatives,326.37
+AK-S2,Murkowski,Lisa,N00033101,Republican,Alaska,AK,Senate,570641.0
+NJ-S1,Booker,Cory,N00008051,Democrat,New Jersey,NJ,Senate,7419.0
+OH-13,Ryan,Tim,N00027459,Democrat,Ohio,OH,House of Repsentatives,894.3
+UT-2,Stewart,Chris,N00031127,Republican,Utah,UT,House of Repsentatives,39987.95
+CA-38,Sanchez,Linda,N00009771,Democrat,California,CA,House of Repsentatives,101.46
+CA-27,Chu,Judy,N00007727,Democrat,California,CA,House of Repsentatives,699.9
+OH-10,Turner,Michael R,N00001148,Republican,Ohio,OH,House of Repsentatives,1129.76
+AR-3,Womack,Steve,N00033625,Republican,Arkansas,AR,House of Repsentatives,5400.99
+OH-3,Beatty,Joyce,N00029788,Democrat,Ohio,OH,House of Repsentatives,228.0
+KY-4,Massie,Thomas,N00033281,Republican,Kentucky,KY,House of Repsentatives,4382.19
+IN-7,Carson,Andre,N00007364,Democrat,Indiana,IN,House of Repsentatives,303.84
+AZ-4,Gosar,Paul,N00031233,Republican,Arizona,AZ,House of Repsentatives,33199.45
+TX-26,Burgess,Michael,N00029285,Republican,Texas,TX,House of Repsentatives,907.15
+CA-3,Garamendi,John,N00024866,Democrat,California,CA,House of Repsentatives,6183.59
+MI-4,Camp,Dave,N00005645,Republican,Michigan,MI,House of Repsentatives,8457.8
+TX-31,Carter,John,N00031011,Republican,Texas,TX,House of Repsentatives,2154.49
+NJ-5,Garrett,Scott,N00008122,Republican,New Jersey,NJ,House of Repsentatives,991.3
+WY-S1,Barrasso,John A,N00007999,Republican,Wyoming,WY,Senate,97105.0
+NV-S1,Heller,Dean,N00030196,Republican,Nevada,NV,Senate,109806.0
+ME-S2,King,Angus,N00033932,Independent,Maine,ME,Senate,30865.0
+OR-3,Blumenauer,Earl,N00009829,Democrat,Oregon,OR,House of Repsentatives,1074.46
+NY-11,Grimm,Michael,N00025237,Republican,New York,NY,House of Repsentatives,65.83
+TX-27,Farenthold,Blake,N00029391,Republican,Texas,TX,House of Repsentatives,9128.25
+NY-8,Jeffries,Hakeem,N00029260,Democrat,New York,NY,House of Repsentatives,29.66
+PA-9,Shuster,Bill,N00013846,Republican,Pennsylvania,PA,House of Repsentatives,5730.09
+CA-52,Peters,Scott,N00007099,Democrat,California,CA,House of Repsentatives,267.0
+AL-1,Byrne,Bradley,N00031938,Republican,Alabama,AL,House of Repsentatives,6066.83
+IN-9,Young,Todd,N00029679,Republican,Indiana,IN,House of Repsentatives,4486.77
+SD-1,Noem,Kristi,N00006789,Republican,South Dakota,SD,House of Repsentatives,11973.99
+TX-10,McCaul,Michael,N00033549,Republican,Texas,TX,House of Repsentatives,5070.95
+FL-6,DeSantis,Ron,N00025726,Republican,Florida,FL,House of Repsentatives,2506.92
+KY-S2,Paul,Rand,N00001811,Republican,Kentucky,KY,Senate,39732.0
+OH-4,Jordan,Jim,N00026710,Republican,Ohio,OH,House of Repsentatives,4664.87
+NJ-10,Payne,Donald M Jr,N00027894,Democrat,New Jersey,NJ,House of Repsentatives,75.92
+KY-S1,McConnell,Mitch,N00035282,Republican,Kentucky,KY,Senate,39732.0
+CA-30,Sherman,Brad,N00033373,Democrat,California,CA,House of Repsentatives,135.94
+VA-S2,Warner,Mark,N00002073,Democrat,Virginia,VA,Senate,39598.0
+IN-3,Stutzman,Marlin,N00027229,Republican,Indiana,IN,House of Repsentatives,4180.37
+UT-S1,Hatch,Orrin G,N00003280,Republican,Utah,UT,Senate,82168.0
+GA-13,Scott,David,N00030693,Democrat,Georgia,GA,House of Repsentatives,714.95
+TX-34,Vela,Filemon,N00002198,Democrat,Texas,TX,House of Repsentatives,8190.32
+FL-9,Grayson,Alan,N00029891,Democrat,Florida,FL,House of Repsentatives,1707.49
+NM-3,Lujan,Ben Ray,N00031647,Democrat,New Mexico,NM,House of Repsentatives,44958.52
+AZ-3,Grijalva,Raul M,N00006236,Democrat,Arizona,AZ,House of Repsentatives,15688.79
+NC-12,Adams,Alma,N00031696,Democrat,North Carolina,NC,House of Repsentatives,549.66
+MA-5,Clark,Katherine,N00026686,Democrat,Massachusetts,MA,House of Repsentatives,265.08
+MN-S2,Klobuchar,Amy,N00003288,Democrat,Minnesota,MN,Senate,79617.0
+MO-1,Clay,William L Jr,N00012611,Democrat,Missouri,MO,House of Repsentatives,225.36
+PA-18,Murphy,Tim,N00024770,Republican,Pennsylvania,PA,House of Repsentatives,2072.79

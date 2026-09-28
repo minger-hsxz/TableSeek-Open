@@ -1,0 +1,62 @@
+DATE,PATIENT,ENCOUNTER,CODE,DESCRIPTION,REASONCODE,REASONDESCRIPTION
+MMXII-VI-XVII,00b7297c-9997-455d-b581-f1bd677f5012,376edbe5-9dcf-4d67-a771-3bbc4b0f5b7b,428191000124101,Documentation of current medications,zero,
+MMXV-V-VI,53244745-9198-41c8-83b7-1647d98cc618,03bffd1b-83d0-44ce-bb15-c22a48feb7c9,428191000124101,Documentation of current medications,zero,
+MMXIV-VI-XIV,86082f75-6af5-4df0-a8f7-effd9bd68a58,92537509-eb4e-4cb1-96a9-ed01ef704338,76601001,Intramuscular injection,zero,
+MMXII-XII-XXI,1dc16f0d-f0e6-4885-b8d4-46c484dd2f4f,ba495404-c1e1-42e2-8954-e70023d8d0f2,428191000124101,Documentation of current medications,zero,
+MMIX-I-VIII,4b20abe1-4248-4c59-951b-fb2eb6587a3b,bde9ba31-5d4f-4354-8cbc-aba3f25953e7,428191000124101,Documentation of current medications,zero,
+MMVIII-III-XXV,f436e3f6-b2ef-4352-aef9-1b1563412b77,36897c67-4bee-4fa6-807a-de654b424717,180256009,Subcutaneous immunotherapy,zero,
+MMIX-XI-XVII,1e2bfd82-4d6f-4978-b34d-486e7ce1b2df,a6a009af-93ad-42f6-a828-a9f2f6d99b57,180256009,Subcutaneous immunotherapy,zero,
+MMXVI-IX-III,c4204728-f3b9-43c3-a5e4-3697ab1d2429,a852c991-2c48-4e2c-bd01-81bd7e42ffe8,76601001,Intramuscular injection,zero,
+MMXI-XI-XXIX,8ab2b0e2-a751-4e2a-a5fb-d85ac1ceeeaf,96f96fb7-782f-4302-88e6-23aac608fdbb,252160004,Standard pregnancy test,"seventy-two million, eight hundred and ninety-two thousand and two point zero",Normal pregnancy
+MMXI-III-XXIV,698c6e47-70e4-4086-8de2-89de2655967b,925be936-e262-42f4-b138-0522e6044889,15081005,Pulmonary rehabilitation (regime/therapy),"one hundred and eighty-five million, eighty-six thousand and nine point zero",Chronic obstructive bronchitis (disorder)
+MMIX-II-XIII,89ea126b-7b45-46f9-8099-46b13ebd76a1,5ccc6798-ce45-4100-90cb-ab8fb25f474f,76601001,Intramuscular injection,zero,
+MMXI-VI-XXII,1a07c9ba-9c0b-486f-9cb6-3b71ce574e5a,b760b21a-4667-4352-a34a-afb6a26b14c3,180256009,Subcutaneous immunotherapy,zero,
+MMVIII-VIII-X,c072ab2e-2c88-4b6a-8843-2ee43839f24e,8dce4f35-b378-441d-a777-755fcd9e1f4c,31208007,Medical induction of labor,"seventy-two million, eight hundred and ninety-two thousand and two point zero",Normal pregnancy
+MMXVII-VIII-III,b7902ae0-ce01-41ee-ae1b-b3fc88eed4be,5844daa0-6738-455d-a195-0e2ed2c3b6fe,428191000124101,Documentation of current medications,zero,
+MMXII-III-XVI,27d3c718-96df-465f-b0de-227b958a3b67,b87c1da9-1e83-4da3-903a-294ba5f68b67,73761001,Colonoscopy,zero,
+MMXIV-VIII-IX,99ca7d85-4dd4-446a-a200-b65a4dee5756,62a8f7fd-4894-4328-997f-dfbfda4d2869,127783003,Spirometry (procedure),"one hundred and eighty-five million, eighty-six thousand and nine point zero",Chronic obstructive bronchitis (disorder)
+MMXVI-II-XXV,186ce071-096a-4eed-9c61-dd773ccf3830,e592bcb2-3ead-41c6-8826-8809ae4dee6f,428191000124101,Documentation of current medications,zero,
+MMXIII-V-XXIV,30fc7dce-67d8-40ab-afd5-c805ddbbc670,ef10d036-bb5c-4348-a038-dba0f059bb24,127783003,Spirometry (procedure),"one hundred and eighty-five million, eighty-six thousand and nine point zero",Chronic obstructive bronchitis (disorder)
+MMX-V-XIV,b507a6c9-5534-40ab-9a31-f0a6feba1700,08ddbaa8-9118-47a6-bfc0-322ea02e0f0b,117015009,Throat culture (procedure) ,"forty-three million, eight hundred and seventy-eight thousand and eight point zero",Streptococcal sore throat (disorder)
+MMXI-IX-XXVI,0207a4c4-4d49-47bf-93c6-4133376784a2,5cf6b6b0-4583-4742-bb37-72cd6e8d730b,274474001,Bone immobilization,"sixty-five million, nine hundred and sixty-six thousand and four point zero",Fracture of forearm
+MMIX-XI-XXVII,a6cfe61a-55e9-4d00-ba15-dcd83875c584,e46cb973-b028-4dde-bfe4-82dd6a73b9f5,65200003,Insertion of intrauterine contraceptive device,zero,
+MMXI-XI-XXIX,d08b84b0-560c-487f-a17b-e9c8fb34babf,16a08de3-2929-4206-ae44-0767ff909152,73761001,Colonoscopy,zero,
+MMXVII-X-XXIX,674ce427-5fc6-4231-b94c-ef8476da4476,61ff8de0-de58-482b-a7b4-54e7c5f9c80e,252160004,Standard pregnancy test,"seventy-two million, eight hundred and ninety-two thousand and two point zero",Normal pregnancy
+MMXIV-VIII-VII,4bb1c058-5218-42e0-b53e-07c1f5899ad1,8aa63187-bb3d-421e-b305-d850b96a095d,180256009,Subcutaneous immunotherapy,zero,
+MMVIII-X-XXIII,450b57a3-7d19-49a0-9d23-5c005588cb87,dc4835dc-18f4-48c3-ac76-668b4b53c8e1,428191000124101,Documentation of current medications,zero,
+MMXI-II-XX,d252b22e-a8f2-4f5d-8a3c-c5d2bd55ff48,ab7ef627-f903-4ad7-b09c-08f2916841ca,428191000124101,Documentation of current medications,zero,
+MMXIII-XII-VI,95bb9d1a-99a3-4442-bf55-e5aa3db08122,6051920f-8082-4fea-a286-dd86447ad2ae,76601001,Intramuscular injection,zero,
+MMVIII-VIII-IX,459b6c2c-16ca-44e9-a232-6369b4a3daa7,954209a4-3769-4325-aedc-e3e5092fabf3,428191000124101,Documentation of current medications,zero,
+MMXII-II-VI,4c0bdf93-44d8-4811-8d1d-7a7452751d39,deccec03-c46b-402d-b563-32d7cefdee2c,180256009,Subcutaneous immunotherapy,zero,
+MMX-XII-XXII,12300941-b493-4209-a752-86144f883b6c,25bf2877-c308-4ab4-9e55-de428c8495d3,180256009,Subcutaneous immunotherapy,zero,
+MMXIV-VIII-XXV,84674ed2-b64e-4cf6-a179-555d22e5bfaa,37aea48f-c2ff-409d-a8b1-0bed44a0c808,428191000124101,Documentation of current medications,zero,
+MMXVII-VI-XXVI,0ed686b8-877a-430b-a1a6-5d0be2d6bebc,09c1b84e-c127-4f5f-9264-7c080cb4bae5,252160004,Standard pregnancy test,"seventy-two million, eight hundred and ninety-two thousand and two point zero",Normal pregnancy
+MMVIII-VIII-XXIX,9a7b7520-3cc1-4d58-84a3-6e56f0a1b02d,6acdf780-1ff0-417d-9eea-0d42005e5560,180256009,Subcutaneous immunotherapy,zero,
+MMXVI-II-VIII,a25c136e-488b-41d2-9fc1-192843dbb214,b3f4aa98-8bb6-4d29-a2d3-6ad84d424f83,428191000124101,Documentation of current medications,zero,
+MMXVII-VIII-III,068771f7-2835-42a8-9f45-02b59627bd84,76c8ae89-9a52-4d14-90ec-a797dfbb28e8,428191000124101,Documentation of current medications,zero,
+MMXVII-X-XXIV,7333e372-dd00-46b2-8f86-0efc72430fb6,a5926537-cfd1-497a-8d0f-88995329ebfc,428191000124101,Documentation of current medications,zero,
+MMX-IV-XXIV,c86495a8-a0e1-45e3-ad47-cac9f796c3a6,2131accc-c074-4117-a0f9-531798df68d6,447365002,Insertion of biventricular implantable cardioverter defibrillator,zero,
+MMVIII-IX-II,b7cba796-4b08-420a-97b2-10a0eff96afb,8d5f0c42-7bf4-4151-8b0f-108a82ab4086,18286008,Catheter ablation of tissue of heart,zero,
+MMXV-XII-XVIII,fc54d845-803d-4ec8-89b0-55bd620f8b0f,ae8725a7-8503-4a6d-b1eb-e8af731fc286,274474001,Bone immobilization,"thirty-three million, seven hundred and thirty-seven thousand and one point zero",Fracture of rib
+MMXII-X-X,d70ee654-da70-41d0-af60-7d236ba800a7,df1ce155-439d-45f9-9229-066278a3275f,76601001,Intramuscular injection,zero,
+MMXI-V-V,23123dab-daae-45be-ac55-70523ad83111,b6d6ff33-26d7-4abc-89f8-76f7bd3287c3,76601001,Intramuscular injection,zero,
+MMX-VI-XVI,f759f9d7-97e6-486f-8fdd-ea20899c3abc,99976704-5d26-4765-914a-63c91524757a,428191000124101,Documentation of current medications,zero,
+MMVII-XII-IV,16014a34-8dee-4402-89da-edf7884ae808,74e25ebf-3862-4a93-9cd8-3a3d367fa59d,428191000124101,Documentation of current medications,zero,
+MMXVII-VII-XXIX,5f44513e-be21-40f5-bdfb-aa2d09b57f3b,878236b7-1a3c-488e-ae5f-f88d56bc5402,428191000124101,Documentation of current medications,zero,
+MMVIII-VIII-XXX,dd65ebe4-36fa-4c1b-85d9-1e54bee79917,fd58bdb7-091c-4350-8158-a3ec1119eb01,428191000124101,Documentation of current medications,zero,
+MMXV-IX-XXVII,04090939-7263-4562-90c7-547d117113f2,f5a5f13d-ddea-4723-9cd7-15eca23df96d,73761001,Colonoscopy,zero,
+MMVIII-VII-X,9a7b7520-3cc1-4d58-84a3-6e56f0a1b02d,42ba2c41-ec49-4347-adfa-7647e40bce90,180256009,Subcutaneous immunotherapy,zero,
+MMXIV-II-XI,9369649d-f8d0-4c61-8749-93b0f95238bf,528799b2-2419-47cb-9742-5bb828395994,428191000124101,Documentation of current medications,zero,
+MMXI-VIII-XXXI,0129dfc5-e04a-4771-9116-aee1739b25f9,0c1dac74-e921-497c-95be-ca85e8c320a7,428191000124101,Documentation of current medications,zero,
+MMXVI-X-XVI,5338e62b-fe72-4d84-bdb5-4c9c8cca6c71,70aca584-842b-47a0-b249-4631e176fe0a,180256009,Subcutaneous immunotherapy,zero,
+MMXVII-VII-XXIII,c730688c-0add-41c1-85f3-2eb2dec1c8c7,27a81129-1d2c-4de5-8957-4d0407a944e4,76601001,Intramuscular injection,zero,
+MMVII-XI-X,ab6d8296-d3c7-4fef-9215-40b156db67ac,9d87c22d-a777-426b-b020-cfa469229f82,180256009,Subcutaneous immunotherapy,zero,
+MMXV-VII-V,70d83feb-28fe-4241-84db-20fc48a30b55,6e5bf7f7-c95f-4830-a764-7f3db413f786,428191000124101,Documentation of current medications,zero,
+MMXI-X-XIX,837fa233-74f3-4ef4-bb67-23e28b226063,7def8383-c941-4d6c-acc2-f300e2f28429,23426006,Measurement of respiratory function (procedure),"ten million, five hundred and nine thousand and two point zero",Acute bronchitis (disorder)
+MMIX-VI-XXVIII,23373822-718a-428f-aa11-e65d10947576,fb1b121c-9e4c-49ce-9a28-3ca9cf3ccd38,76601001,Intramuscular injection,zero,
+MMXIV-IX-IX,1ae54a7d-a7d4-4d34-8dcc-2e83784e4a8e,ccd5ad6d-0aab-4c50-84e1-65d13ccec21d,127783003,Spirometry (procedure),"eighty-seven million, four hundred and thirty-three thousand and one point zero",Pulmonary emphysema (disorder)
+MMXII-X-XVII,e224f8af-c380-46a4-bc6d-3b59d6bb9e23,0c119648-7bef-4f2e-900c-7f92f6905dfe,301807007,Removal of subcutaneous contraceptive,zero,
+MMX-II-XXVII,e497677a-79d0-43ee-994e-a365ee8c497a,7c906abb-b4c4-4db5-86b8-98d2f7dfffb8,428191000124101,Documentation of current medications,zero,
+MMVIII-XII-XI,0a2ff52e-a77b-4df7-a01d-dfbbc446be21,66d5e414-b3c6-44b5-b5c4-28e01667cedb,428191000124101,Documentation of current medications,zero,
+MMXV-III-VII,551ed558-4710-4a35-99e5-4d3340f40966,58540048-744b-4b5a-9273-207bd94add5e,428191000124101,Documentation of current medications,zero,
+MMXIV-XII-XI,44c77449-072b-4559-8608-dc28f4647379,88b5567d-a829-4413-8716-c4de4de3557b,428191000124101,Documentation of current medications,zero,

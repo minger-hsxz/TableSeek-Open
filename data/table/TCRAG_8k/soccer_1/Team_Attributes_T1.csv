@@ -1,0 +1,36 @@
+uid,fifaTeamKey,apiTeamKey,eventDate,buildUpPlaySpeed,buildUpPlaySpeedClass,buildUpPlayDribbling,buildUpPlayDribblingClass,buildUpPlayPassing,buildUpPlayPassingClass,BU_PositioningClass,chanceCreationPassing,chanceCreationPassingClass,chanceCreationCrossing,chanceCreationCrossingClass,chanceCreationShooting,chanceCreationShootingClass,CC_PositioningClass,defencePressure_div100,defencePressureClass,defenceAggression,defenceAggressionClass,defenceTeamWidth,defenceTeamWidthClass,DEF_DefenderLineClass
+"one thousand, one hundred and two",1902,9803,MMXIV-IX-XIX 00:00:00,43,Balanced,46.0,Normal,44,Mixed,Organised,59,Normal,45,Normal,42,Normal,Organised,0.39,Medium,XXXVII,Press,42,Normal,Cover
+"one thousand, two hundred and eighty-nine",294,10242,MMXII-II-XXII 00:00:00,49,Balanced,,Little,51,Mixed,Organised,52,Normal,49,Normal,49,Normal,Organised,0.43,Medium,XLII,Press,52,Normal,Cover
+two hundred and nineteen,23,9788,MMXIII-IX-XX 00:00:00,76,Fast,,Little,40,Mixed,Organised,66,Normal,48,Normal,30,Little,Free Form,0.33,Deep,LIII,Press,41,Normal,Cover
+four hundred and thirty-four,236,9773,MMXI-II-XXII 00:00:00,50,Balanced,,Little,50,Mixed,Organised,50,Normal,65,Normal,65,Normal,Free Form,0.55,Medium,XLIII,Press,65,Normal,Cover
+seventy-seven,2,10252,MMX-II-XXII 00:00:00,70,Fast,,Little,59,Mixed,Organised,65,Normal,70,Lots,50,Normal,Free Form,0.3,Deep,LXX,Double,30,Narrow,Cover
+eight hundred and thirty-seven,69,9829,MMXI-II-XXII 00:00:00,65,Balanced,,Little,50,Mixed,Organised,65,Normal,35,Normal,50,Normal,Organised,0.35,Medium,LV,Press,50,Normal,Cover
+"one thousand, one hundred and seventy",111092,8025,MMXI-II-XXII 00:00:00,47,Balanced,,Little,55,Mixed,Organised,45,Normal,48,Normal,54,Normal,Organised,0.48,Medium,XLVII,Press,51,Normal,Cover
+six hundred and seventy,472,8306,MMXIV-IX-XIX 00:00:00,48,Balanced,55.0,Normal,44,Mixed,Organised,53,Normal,42,Normal,53,Normal,Organised,0.53,Medium,XXXIX,Press,57,Normal,Cover
+sixty-eight,159,9912,MMXIV-IX-XIX 00:00:00,62,Balanced,49.0,Normal,55,Mixed,Organised,56,Normal,51,Normal,52,Normal,Organised,0.36,Medium,LIV,Press,48,Normal,Cover
+one hundred and eighty-five,1898,8613,MMXV-IX-X 00:00:00,47,Balanced,56.0,Normal,50,Mixed,Organised,37,Normal,38,Normal,53,Normal,Organised,0.32,Deep,LXII,Press,54,Normal,Cover
+"one thousand, three hundred and twenty-one",462,10281,MMXI-II-XXII 00:00:00,54,Balanced,,Little,55,Mixed,Organised,44,Normal,60,Normal,62,Normal,Organised,0.43,Medium,LII,Press,59,Normal,Cover
+five hundred and twenty-three,111429,8020,MMX-II-XXII 00:00:00,30,Slow,,Little,50,Mixed,Organised,45,Normal,35,Normal,70,Lots,Organised,0.6,Medium,LXX,Double,55,Normal,Cover
+five hundred and seventy-seven,100879,10278,MMXII-II-XXII 00:00:00,53,Balanced,,Little,54,Mixed,Organised,60,Normal,58,Normal,60,Normal,Organised,0.5,Medium,LII,Press,58,Normal,Cover
+one thousand and forty-two,1793,9798,MMXV-IX-X 00:00:00,44,Balanced,36.0,Normal,64,Mixed,Organised,62,Normal,65,Normal,42,Normal,Organised,0.51,Medium,XLVII,Press,52,Normal,Cover
+nine hundred and six,1792,9850,MMXI-II-XXII 00:00:00,49,Balanced,,Little,52,Mixed,Organised,48,Normal,64,Normal,66,Normal,Organised,0.34,Medium,LIV,Press,48,Normal,Cover
+eight hundred and eighty-seven,100737,9809,MMXI-II-XXII 00:00:00,50,Balanced,,Little,65,Mixed,Organised,35,Normal,50,Normal,50,Normal,Organised,0.45,Medium,XLI,Press,35,Normal,Offside Trap
+five hundred and sixty-eight,80,9860,MMXIV-IX-XIX 00:00:00,55,Balanced,51.0,Normal,62,Mixed,Organised,55,Normal,61,Normal,60,Normal,Organised,0.49,Medium,LII,Press,57,Normal,Cover
+one thousand and thirty-two,480,8370,MMXI-II-XXII 00:00:00,53,Balanced,,Little,55,Mixed,Organised,44,Normal,56,Normal,61,Normal,Organised,0.58,Medium,LII,Press,68,Wide,Cover
+one thousand and twenty-four,456,8696,MMXV-IX-X 00:00:00,48,Balanced,52.0,Normal,47,Mixed,Organised,53,Normal,53,Normal,53,Normal,Organised,0.51,Medium,XLVII,Press,53,Normal,Cover
+one hundred and sixty-nine,88,8658,MMXII-II-XXII 00:00:00,51,Balanced,,Little,55,Mixed,Organised,41,Normal,62,Normal,56,Normal,Organised,0.42,Medium,XLVIII,Press,54,Normal,Cover
+"one thousand, one hundred and eighty-eight",670,9986,MMX-II-XXII 00:00:00,40,Balanced,,Little,50,Mixed,Organised,45,Normal,43,Normal,60,Normal,Organised,0.7,High,LXX,Double,70,Wide,Cover
+"one thousand, one hundred and eight",52,8686,MMXIV-IX-XIX 00:00:00,67,Fast,48.0,Normal,38,Mixed,Organised,73,Risky,64,Normal,56,Normal,Free Form,0.36,Medium,LVII,Press,34,Normal,Cover
+two hundred and seventy-eight,110364,8530,MMXI-II-XXII 00:00:00,65,Balanced,,Little,35,Mixed,Free Form,50,Normal,65,Normal,63,Normal,Organised,0.35,Medium,LV,Press,50,Normal,Offside Trap
+one thousand and thirty-six,480,8370,MMXV-IX-X 00:00:00,29,Slow,52.0,Normal,44,Mixed,Organised,44,Normal,44,Normal,47,Normal,Organised,0.54,Medium,LII,Press,63,Normal,Cover
+four hundred and fifty-four,246,10235,MMXII-II-XXII 00:00:00,38,Balanced,,Little,34,Mixed,Organised,60,Normal,44,Normal,50,Normal,Organised,0.43,Medium,XLIII,Press,54,Normal,Cover
+six hundred and fifteen,620,8066,MMXII-II-XXII 00:00:00,61,Balanced,,Little,59,Mixed,Organised,48,Normal,52,Normal,54,Normal,Organised,0.4,Medium,XL,Press,46,Normal,Cover
+one hundred and ninety-three,189,9857,MMXI-II-XXII 00:00:00,65,Balanced,,Little,35,Mixed,Organised,35,Normal,35,Normal,50,Normal,Organised,0.3,Deep,L,Press,50,Normal,Cover
+four hundred and fourteen,111271,4087,MMXIV-IX-XIX 00:00:00,61,Balanced,51.0,Normal,44,Mixed,Organised,52,Normal,61,Normal,48,Normal,Organised,0.47,Medium,LVI,Press,50,Normal,Cover
+one hundred and twenty-four,241,8634,MMXV-IX-X 00:00:00,36,Balanced,35.0,Normal,51,Mixed,Free Form,36,Normal,49,Normal,56,Normal,Free Form,0.61,Medium,LXV,Press,65,Normal,Cover
+"one thousand, two hundred and fifty-one",106,8472,MMXII-II-XXII 00:00:00,67,Fast,,Little,62,Mixed,Organised,44,Normal,72,Lots,59,Normal,Organised,0.47,Medium,LIII,Press,60,Normal,Cover
+"one thousand, one hundred and ninety-one",670,9986,MMXIV-IX-XIX 00:00:00,60,Balanced,47.0,Normal,53,Mixed,Organised,48,Normal,50,Normal,48,Normal,Organised,0.42,Medium,XLVIII,Press,49,Normal,Cover
+eight hundred and fifty-three,83,9927,MMX-II-XXII 00:00:00,70,Fast,,Little,70,Long,Organised,70,Risky,70,Lots,65,Normal,Organised,0.6,Medium,LXX,Double,70,Wide,Cover
+five hundred and fifty-five,184,8429,MMX-II-XXII 00:00:00,70,Fast,,Little,70,Long,Organised,70,Risky,70,Lots,60,Normal,Organised,0.6,Medium,LXV,Press,70,Wide,Cover
+"one thousand, one hundred and seventy-three",111092,8025,MMXIV-IX-XIX 00:00:00,47,Balanced,53.0,Normal,34,Mixed,Organised,38,Normal,36,Normal,68,Lots,Organised,0.37,Medium,XXXVII,Press,39,Normal,Cover
+four hundred and sixteen,1971,10218,MMXI-II-XXII 00:00:00,73,Fast,,Little,59,Mixed,Organised,77,Risky,33,Little,52,Normal,Organised,0.25,Deep,XLVII,Press,33,Narrow,Cover

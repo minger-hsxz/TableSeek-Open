@@ -1,0 +1,73 @@
+RecordTimestamp,SubjectID,VisitSession,CodeKey,DetailNarrative,QuantityUnits
+MMXIV-IV-III,349caf98-99b2-483d-81ef-46be5667273a,4c8bbe48-a99d-4728-ac4e-925fc849c781,8462-4,Diastolic Blood Pressure,mmHg
+MMXI-VIII-XXIX,3d85deaa-da76-4bc1-a7f3-b396d459f089,206c0fb4-ece1-424c-94dd-1c127fcefe06,2085-9,High Density Lipoprotein Cholesterol,mg/dL
+MMXV-IV-IX,d1449e3d-b9a5-405f-9bac-2e39250b14eb,857507e4-71ec-41e6-b9d7-2023553ed981,2069-3,Chloride,mmol/L
+MMX-III-XI,454216f3-6d7e-426e-8c96-ffa5ffe25e42,9fec5d8e-4800-421d-816c-4a2a97e939b4,2947-0,Sodium,mmol/L
+MMX-X-III,07092071-fbf1-4e30-a37d-f379ca7e2068,d91d9b0c-573b-4dbf-91b5-344b827060f5,8302-2,Body Height,cm
+MMXIII-X-XIV,d75cf1bc-ad40-40f7-95a4-723014dcee82,4806a85a-182b-4c6e-8713-70f9fe7229c1,2947-0,Sodium,mmol/L
+MMX-IX-I,5ead1353-03dd-4a68-a031-6c52e62d017a,704bed02-6392-4ec6-8c09-c38543882c52,39156-5,Body Mass Index,kg/m2
+MMX-IX-XXI,0e708a73-1e4b-491f-9d3f-c0c3e291081c,e539e031-1ba6-48c5-95ff-0a55f65745f9,2947-0,Sodium,mmol/L
+MMXIII-XII-XIII,f012bc5c-f2e8-4867-9401-2f4c394994c4,72ba8397-f4a3-4b0f-b2a3-2095d8ddc2fb,2339-0,Glucose,mg/dL
+MMXI-IX-VIII,9f7c6143-9a13-4fec-96fe-42053e8091c1,1276e2e0-a350-4a52-a95e-83be91e8fdc7,29463-7,Body Weight,kg
+MMXIV-III-XXX,5e8a81d8-e7f2-416b-afdd-c2f8faca1bb5,8ddcb2fa-872e-41ac-a008-53d77713817e,8480-6,Systolic Blood Pressure,mmHg
+MMVIII-III-XXVI,867ff303-0cbc-472b-ac70-0c7529fb72e9,3792a201-ef3e-4ac0-bb1d-a658ea67f502,8480-6,Systolic Blood Pressure,mmHg
+MMXVII-X-XXXI,b8115da8-7892-46de-8788-9ceff89d2a76,,273421001,Disability rating scale,years
+MMXIII-XII-XXIV,0579d517-c531-4b96-9539-8c618ea02f57,a78bfa37-ff48-4c4e-98ee-5563703f5cf7,29463-7,Body Weight,kg
+MMVIII-XI-XXIX,96c24a52-7df7-4022-a753-685639e1c922,9ba0baed-e4bd-4b39-b2d2-84225d79fd51,8480-6,Systolic Blood Pressure,mmHg
+MMVII-XI-XXX,2b926345-c578-4726-ae4c-e37716b6a2b7,f110c13e-8696-4c56-8579-bbb820b5e972,8462-4,Diastolic Blood Pressure,mmHg
+MMXII-IV-XXIV,cfa57bf0-706f-4668-afb0-5f145bb8919c,97e5befe-4efb-4162-aa91-83593cc861bc,2571-8,Triglycerides,mg/dL
+MMXIII-I-XIII,01290832-65db-488f-9d67-50e3a6d468ea,ab80e1a7-e2fc-4646-944e-6b1b3f5a0613,8480-6,Systolic Blood Pressure,mmHg
+MMXVII-X-XXVI,ac793c0f-9f85-4a3c-981b-dd28a693dde9,05d2479f-6567-4afd-86ff-9907c659c204,7258-7,Cow milk IgE Ab in Serum,kU/L
+MMXVII-VI-IV,96b24072-e1fe-49cd-a22a-6dfb92c3994c,280ca1a6-df33-4aad-87b5-40bb027a33ae,49765-1,Calcium,mg/dL
+MMXII-XI-XVII,2efd5b17-e027-44cb-9520-795df4cd0227,3ee9f7b7-f019-48b5-9a18-5a12027ca5be,2947-0,Sodium,mmol/L
+MMX-X-XXIX,a4c81b9c-ef47-4207-ae64-39c8bf8976ad,abf4110a-4d61-4c10-a697-9e01ac80473f,29463-7,Body Weight,kg
+MMX-VIII-XXVII,1b74791c-4223-4c9c-81ab-c8427e07484e,fef605ba-b241-4aaf-a340-75557cdc0210,8302-2,Body Height,cm
+MMXI-XII-XVIII,5b30f187-8b4e-4484-8c94-18b5cdb2151a,d6ce308f-0857-4947-98bc-6e6e0f0daa69,6299-2,Urea Nitrogen,mg/dL
+MMXIV-I-VI,01290832-65db-488f-9d67-50e3a6d468ea,cd55bf2f-68f2-4997-a850-6ef0acad272a,33914-3,Estimated Glomerular Filtration Rate,mL/min/{1.73_m2}
+MMXIV-VI-XII,5af73924-32f9-4a3e-b0cc-9989832a2a03,e962de1c-af65-4138-a74c-ea70c0fdb905,8302-2,Body Height,cm
+MMXVII-V-XXII,f7208391-f9dd-4185-82b2-f0d6f04d6149,435165c5-204a-4ce0-a860-e351b77b3c9b,29463-7,Body Weight,kg
+MMVIII-III-VI,daa72f50-f8e5-4c31-910a-9560384e209a,cba31c34-8e7c-4583-90ca-743c72433ee3,4548-4,Hemoglobin A1c/Hemoglobin.total in Blood,%
+MMXVII-VII-VII,67e4f87a-7a66-4877-a76f-0f73f2e7d9be,bfb73a03-145b-4e44-a09a-c7cae5f29cec,8302-2,Body Height,cm
+MMVIII-II-VIII,0bcc9845-c873-492e-96e1-9771ebcbc2df,e00e3df2-62ac-4401-baac-e9df210c95a8,38483-4,Creatinine,mg/dL
+MMXI-IV-IX,a29d4c82-cbf4-4905-bfb1-ac3a41fa621b,723adbe7-2f98-49a0-92cb-0cc1502e214c,4548-4,Hemoglobin A1c/Hemoglobin.total in Blood,%
+MMX-XII-I,4d99abd2-2a27-49a3-97dd-df1e5b67bad8,c2496e6a-af66-4833-bb08-fc15fe34beec,29463-7,Body Weight,kg
+MMVIII-IX-XVII,e17ad385-64d8-4266-8300-26108998f947,5497ae91-b708-46ad-a9c8-11e7bc430fc9,33914-3,Estimated Glomerular Filtration Rate,mL/min/{1.73_m2}
+MMXI-XI-II,90e7f959-f0ec-4e9e-bce8-ca0a7d0e6a1f,508aebb9-5b6c-42fc-990d-3f399b7ba386,2571-8,Triglycerides,mg/dL
+MMXIV-XII-XXIV,edcc4ed4-876f-478d-9cba-e9b1f3bc9484,6abaa9ab-4b01-4a90-8f07-108021e2ecd3,33914-3,Estimated Glomerular Filtration Rate,mL/min/{1.73_m2}
+MMVIII-X-VII,952180eb-b076-4881-8702-f1cbc20693ab,3ff063ee-b9b1-4f8a-ace6-0fda65e48287,38483-4,Creatinine,mg/dL
+MMXVI-XII-IX,b5af9d9b-93ef-402e-824d-18e8fae89627,bf07fe6f-5126-4764-a237-ac76c77c82e6,8480-6,Systolic Blood Pressure,mmHg
+MMXIII-XII-XXII,04e7994c-d4e2-4f8d-8048-e7d36239a35d,3a28e3e6-d496-4ec5-8058-2436d6bc6eac,8302-2,Body Height,cm
+MMXII-VI-XX,27d3c718-96df-465f-b0de-227b958a3b67,e3892dd9-5422-44ff-a8e3-9d8770425de2,4548-4,Hemoglobin A1c/Hemoglobin.total in Blood,%
+MMXVII-VI-XVI,b78252ec-a5b0-46e0-bf3f-4cfbae092b10,470b2bc6-411c-4bac-ab57-eecad4cb0b07,18262-6,Low Density Lipoprotein Cholesterol,mg/dL
+MMXI-VIII-XX,e05b7410-ca77-4589-966b-7b8b47aedcca,e7b206a2-673a-4c37-80be-3e29a85ff1b6,8480-6,Systolic Blood Pressure,mmHg
+MMXVI-V-XXIV,5af73924-32f9-4a3e-b0cc-9989832a2a03,314494b2-f4df-4fa9-b293-6d6da72662ba,2339-0,Glucose,mg/dL
+MMXVI-XII-I,00d4fba5-9a5f-411a-9010-c970fb50962e,f258e96f-7926-4bf3-ab0d-18aee9d98c78,8462-4,Diastolic Blood Pressure,mmHg
+MMX-III-XXIV,c09b2b62-feca-40e0-ba72-edcda0d0f15e,e57e5b36-225f-4a45-96d0-d5f80c390a04,38483-4,Creatinine,mg/dL
+MMXIII-VIII-XXI,056bbe38-8874-4820-91a2-4b84b46275b7,4fe16887-b138-4329-ab80-c20ce26c3bcd,29463-7,Body Weight,kg
+MMXVII-IX-XVI,41f884e8-0e84-4f26-b606-4fee231b3812,a7ff5a88-9513-48e0-a92d-8967c7c32546,8462-4,Diastolic Blood Pressure,mmHg
+MMXVII-X-XXXI,95db5d3f-5acb-497e-9052-45082aed2dd4,,273421001,Disability rating scale,years
+MMXVII-VIII-III,18ee6283-35ea-4868-bd88-18107741a791,0e62d084-1a68-484c-b4b3-bae77e48710a,49765-1,Calcium,mg/dL
+MMXI-VIII-XX,94f98532-269c-4a9f-8a34-186d80a16a8e,ae1bc222-4070-4132-8027-7c492f161da4,39156-5,Body Mass Index,kg/m2
+MMXII-III-II,0b81deef-90c2-458c-a5e0-4968432400ba,df73c295-6136-4130-8117-98a559974008,39156-5,Body Mass Index,kg/m2
+MMXVI-I-XXIX,952180eb-b076-4881-8702-f1cbc20693ab,83ec65d4-b353-4748-aa6e-3eccfd9630a7,29463-7,Body Weight,kg
+MMXV-XII-XIV,6e687318-9491-4453-8877-da816d835499,549459d0-7534-4314-afb8-a79e0d370846,38483-4,Creatinine,mg/dL
+MMXIII-I-XXVIII,26dc866f-0123-496d-9f4e-232e04b4357a,47d08cad-fcfa-4561-accf-80ba105074f6,4548-4,Hemoglobin A1c/Hemoglobin.total in Blood,%
+MMXIV-IV-XXIII,c8483126-6497-4896-a793-b37903c8a530,0b361295-1f97-46fd-a027-ed31355a5f7b,14959-1,Microalbumin Creatinine Ratio,mg/g
+MMVIII-V-VIII,5955b04b-15c9-4303-a82c-2a94cee107b8,63111cbc-187f-4e63-bf0f-e5a03d145e2a,39156-5,Body Mass Index,kg/m2
+MMXIV-XI-XVI,093c5b43-9b43-40a4-8cb6-ba2292cba7c0,4b9554dc-17b9-4748-8414-bfeefaaa1eb1,8302-2,Body Height,cm
+MMVIII-VII-XVII,c072ab2e-2c88-4b6a-8843-2ee43839f24e,40566e6c-997c-4106-b31d-f2425f470dfe,38483-4,Creatinine,mg/dL
+MMXV-I-XVIII,62b28409-3a8d-4f88-872d-ffca2f45766c,ff0557e1-a031-483a-8ab6-1d48c424ce85,29463-7,Body Weight,kg
+MMXIII-XII-VII,d4841577-f9ac-4cc8-ad03-f80131552fc9,1c1de7fc-4a76-4df1-989b-74fc0758407d,8462-4,Diastolic Blood Pressure,mmHg
+MMXVII-X-XXIX,73f084cb-ef47-4418-8ce3-34cd248fe1c6,d3095d3e-1efc-45c9-b59f-d1b1fee657ae,29463-7,Body Weight,kg
+MMXIII-II-XVI,c1fe2029-0bb3-4634-9725-90760a63cc3f,f393a726-cc1b-4d20-b125-41635a387f4f,18262-6,Low Density Lipoprotein Cholesterol,mg/dL
+MMXVI-VII-XV,fa76af8f-2af9-459a-b93f-270ab70b81bb,be710af9-1bd4-4414-a9b9-b944c167d5f1,8480-6,Systolic Blood Pressure,mmHg
+MMXVII-VI-XXI,e41ffd82-bdf3-40f8-8a64-08818306edd5,4a314fda-3948-4478-a634-063865cabb40,8462-4,Diastolic Blood Pressure,mmHg
+MMXII-IV-XXI,0af13b58-dd4e-457b-a38e-673669b05354,e29916df-cab0-4325-89b5-10924e1b6e04,8331-1,Oral temperature,Cel
+MMXVI-IX-VII,7620b7d9-1764-46a1-b509-5ef92d4f4899,5868889f-822b-4a99-a3c9-6eb28eaf88da,4548-4,Hemoglobin A1c/Hemoglobin.total in Blood,%
+MMIX-X-XVI,2bbaedc8-d765-4950-bfc2-32b16713934c,f5a454c1-c7cb-4035-b741-28fdf1376835,2947-0,Sodium,mmol/L
+MMXVII-III-III,7d5a76ac-774d-4bc1-8e66-13104086f467,7064a42d-25c6-48a8-9f93-c58159a9db63,8302-2,Body Height,cm
+MMXVII-III-XXVIII,b1c7569d-2a9c-42e1-a574-506962e38e1b,6de4ed42-6b34-4af6-9c03-dee81fcce1ed,29463-7,Body Weight,kg
+MMXVI-VI-XVIII,4fb74ef2-2eba-44cd-999a-02f96e1037fb,61f3bdc0-a9ca-4cf3-ae48-d6d2e0bcb38b,29463-7,Body Weight,kg
+MMXI-IX-XVIII,0ed686b8-877a-430b-a1a6-5d0be2d6bebc,a2ef0e0a-8742-483c-a0a5-77b237708aaf,8302-2,Body Height,cm
+MMXVII-X-XXXI,cab05815-d231-4704-be4b-36d2e9bf4bd5,,273421001,Disability rating scale,years
+MMXIII-VIII-XVI,b1315bef-34c3-4d90-a81d-11bd6d68c7e7,7fa1a22a-2aa8-48f3-bdbb-c08cab3a19f2,4548-4,Hemoglobin A1c/Hemoglobin.total in Blood,%

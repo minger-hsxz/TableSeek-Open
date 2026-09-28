@@ -1,0 +1,80 @@
+uid,fiscal_year,sex_category,ethnicity,entry_cohort,graduation_cohort,grad_100,grad_150,grad_100_rate,grad_150_rate
+2.01×10^+05,2004,M,X,4y other,one point zero,,1.0,,100.0
+3.66×10^+05,2009,M,H,2y all,two hundred and seventy-nine point zero,,28.0,,10.0
+1.50×10^+05,2003,F,Ai,4y other,zero,,,,
+1.19×10^+05,2009,M,B,4y other,nine point zero,,3.0,,33.3
+1.92×10^+05,2005,B,B,2y all,seven point zero,,5.0,,71.4
+1.68×10^+05,2003,F,W,4y bach,three hundred and thirty-nine point zero,36.0,148.0,10.6,43.7
+2.25×10^+05,2005,M,B,2y all,ninety point zero,,9.0,,10.0
+1.53×10^+05,2010,B,W,4y other,four point zero,,4.0,,100.0
+4.47×10^+05,2011,B,X,2y all,five hundred and eighty-four point zero,354.0,427.0,60.6,73.1
+2.04×10^+05,2004,B,Ai,4y bach,zero point zero,0.0,0.0,,
+2.10×10^+05,2008,B,H,2y all,fifteen point zero,,5.0,,33.3
+2.15×10^+05,2006,F,Ai,4y bach,zero point zero,0.0,0.0,,
+1.38×10^+05,2011,F,A,4y other,zero point zero,,0.0,,
+2.05×10^+05,2010,B,B,4y bach,six point zero,0.0,0.0,0.0,0.0
+1.18×10^+05,2010,B,A,2y all,seventy-nine point zero,,13.0,,16.5
+1.75×10^+05,2004,F,A,2y all,five point zero,,3.0,,60.0
+2.28×10^+05,2002,B,H,2y all,zero,,,,
+1.02×10^+05,2012,B,A,4y bach,four point zero,2.0,3.0,50.0,75.0
+1.30×10^+05,2007,B,B,4y bach,one point zero,1.0,1.0,100.0,100.0
+1.09×10^+05,2007,M,Ai,2y all,zero,,,,
+2.10×10^+05,2007,M,X,4y other,zero,,,,
+1.26×10^+05,2002,B,H,4y bach,twenty-eight point zero,14.0,16.0,50.0,57.1
+4.48×10^+05,2011,B,B,4y bach,zero,,,,
+2.06×10^+05,2012,F,A,2y all,zero point zero,,0.0,,
+2.14×10^+05,2005,F,B,4y bach,four point zero,2.0,2.0,50.0,50.0
+1.48×10^+05,2008,B,W,2y all,one hundred and eighty-eight point zero,,27.0,,14.4
+1.89×10^+05,2009,B,H,4y bach,zero,,,,
+1.78×10^+05,2008,B,H,4y other,zero,,,,
+1.74×10^+05,2006,F,A,4y other,four point zero,,2.0,,50.0
+4.47×10^+05,2005,F,H,4y bach,zero,,,,
+1.86×10^+05,2009,F,Ai,4y bach,two point zero,1.0,1.0,50.0,50.0
+3.67×10^+05,2002,M,Ai,4y other,zero point zero,,0.0,,
+1.27×10^+05,2004,M,Ai,4y bach,sixty-one point zero,1.0,6.0,1.6,9.8
+4.09×10^+05,2013,B,W,4y other,eighteen point zero,,10.0,,55.6
+1.61×10^+05,2011,B,X,4y bach,four hundred and ninety point zero,429.0,452.0,87.6,92.2
+1.90×10^+05,2011,B,B,4y other,zero,,,,
+2.33×10^+05,2007,M,X,4y other,zero,,,,
+1.65×10^+05,2008,F,X,4y other,five point zero,,2.0,,40.0
+1.66×10^+05,2003,F,H,4y bach,zero point zero,0.0,0.0,,
+1.76×10^+05,2011,M,A,2y all,seven point zero,,1.0,,14.3
+2.23×10^+05,2012,M,B,2y all,seventeen point zero,,5.0,,29.4
+2.29×10^+05,2003,F,B,4y bach,zero,,,,
+2.07×10^+05,2011,M,W,4y bach,six hundred and sixty-nine point zero,51.0,255.0,7.6,38.1
+2.07×10^+05,2008,F,H,4y bach,zero,,,,
+2.07×10^+05,2010,B,X,2y all,nine hundred and ten point zero,130.0,205.0,14.3,22.5
+2.19×10^+05,2004,B,W,4y bach,two hundred and fifty-one point zero,166.0,190.0,66.1,75.7
+2.36×10^+05,2003,B,W,4y other,zero,,,,
+1.88×10^+05,2006,M,W,4y bach,fifty point zero,18.0,21.0,36.0,42.0
+1.73×10^+05,2011,F,A,4y other,zero,,,,
+1.99×10^+05,2009,B,B,4y bach,fifty-three point zero,3.0,11.0,5.7,20.8
+1.61×10^+05,2005,M,Ai,2y all,three point zero,,1.0,,33.3
+1.30×10^+05,2012,M,B,4y bach,zero,,,,
+2.34×10^+05,2003,F,A,4y bach,zero,,,,
+2.03×10^+05,2008,B,A,4y bach,zero,,,,
+1.41×10^+05,2010,B,B,4y bach,twenty-four point zero,10.0,12.0,41.7,50.0
+1.84×10^+05,2005,B,B,4y bach,forty point zero,9.0,16.0,22.5,40.0
+2.15×10^+05,2012,F,H,4y bach,two point zero,0.0,1.0,0.0,50.0
+1.74×10^+05,2013,F,A,4y other,zero point zero,,0.0,,
+2.37×10^+05,2008,F,W,4y other,zero,,,,
+2.36×10^+05,2006,M,W,4y bach,zero,,,,
+1.04×10^+05,2004,F,W,2y all,zero,,,,
+2.26×10^+05,2008,M,H,4y bach,zero point zero,0.0,0.0,,
+1.44×10^+05,2002,B,B,2y all,eight point zero,,1.0,,12.5
+1.56×10^+05,2006,M,B,4y bach,four point zero,1.0,1.0,25.0,25.0
+1.55×10^+05,2010,B,X,4y bach,one hundred and nineteen point zero,21.0,39.0,17.6,32.8
+1.63×10^+05,2006,F,X,4y other,zero,,,,
+2.20×10^+05,2011,B,A,4y other,zero,,,,
+1.23×10^+05,2007,M,B,4y other,zero,,,,
+1.75×10^+05,2012,B,Ai,2y all,seven point zero,,1.0,,14.3
+4.42×10^+05,2003,F,Ai,4y other,zero,,,,
+2.39×10^+05,2005,B,H,4y other,zero,,,,
+4.39×10^+05,2013,M,H,4y other,zero,,,,
+2.19×10^+05,2012,F,B,4y bach,zero point zero,0.0,0.0,,
+4.44×10^+05,2002,F,A,4y other,zero,,,,
+1.46×10^+05,2013,M,W,4y bach,one hundred and nine point zero,54.0,66.0,49.5,60.6
+1.65×10^+05,2013,B,W,4y bach,"two thousand, five hundred and six point zero",2039.0,2142.0,81.4,85.5
+4.43×10^+05,2002,B,W,4y bach,zero,,,,
+2.40×10^+05,2008,M,B,4y bach,eight point zero,0.0,3.0,0.0,37.5
+1.09×10^+05,2006,M,B,2y all,three point zero,,2.0,,66.7

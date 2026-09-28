@@ -1,0 +1,55 @@
+ID_Store,UrbanLabel,District,StateCode,State,StoreCategory,LatDeg,LonDeg,AreaID,PopCount,HH_Income,Med_Income,TerraSize,AquaSize,TZ_Region
+53,Oakland,Alameda County,CA,California,City,37.80437,-122.2708,510,419267,158424,54618,144762241,56897826,America/Los Angeles
+3,Mobile,Mobile County,AL,Alabama,City,30.69436,-88.04305,251,194288,76170,38776,361044263,105325210,America/Chicago
+244,Jersey City,Hudson County,NJ,New Jersey,City,40.72816,-74.07764,551,264290,99058,59537,38318201,16417392,America/New York
+237,Winston-Salem,Forsyth County,NC,North Carolina,City,36.09986,-80.24422,336,241218,93267,39882,343173025,3173027,America/New York
+218,Warren,Macomb County,MI,Michigan,City,42.49982,-83.00549,586,135358,53493,43523,89052398,191291,America/Detroit
+140,Atlanta,DeKalb County/Fulton County,GA,Georgia,City,33.76291,-84.42267,678,463878,185820,47527,345684978,2311315,America/New York
+281,Columbus,Delaware County/Franklin County/Fairfield County,OH,Ohio,City,39.98524,-82.98477,614,850106,334724,45659,565783587,15247719,America/New York
+190,Warren,Marion County,IN,Indiana,Township,39.77514,-86.01718,317,103365,38889,41504,125067149,209265,America/Indiana/Indianapolis
+226,St. Louis,St. Louis city,MO,Missouri,City,38.62727,-90.19789,314,315685,139555,35599,160458044,10670040,America/Chicago
+71,San Francisco,San Francisco County,CA,California,City,37.775,-122.41944,415,864816,353287,81294,121455687,479136515,America/Los Angeles
+108,New Haven (Town),New Haven County,CT,Connecticut,Town,41.31081,-72.92495,203,130322,49771,37192,48407373,3739487,America/New York
+358,Everett,Snohomish County,WA,Washington,City,47.97898,-122.20208,425,108010,42079,49578,86145342,38944936,America/Los Angeles
+167,Naperville (Township),DuPage County,IL,Illinois,Township,41.76635,-88.2009,630,102708,37133,88282,90385339,2423679,America/Chicago
+102,Westminster,Jefferson County/Adams County,CO,Colorado,City,39.88219,-105.06443,303,113130,42239,67081,82177513,6010635,America/Denver
+178,Wheeling (Township),Cook County,IL,Illinois,Township,42.10987,-87.94458,847,155286,59425,73977,92979678,317743,America/Chicago
+142,Columbus,Muscogee County,GA,Georgia,City,32.46098,-84.98771,706,200579,72760,42306,560530243,11873622,America/New York
+97,Greeley,Weld County,CO,Colorado,City,40.42331,-104.70913,970,100883,33774,48813,123893579,314890,America/Denver
+34,Fairfield,Solano County,CA,California,City,38.24936,-122.03997,707,112970,34623,67364,105971964,696390,America/Los Angeles
+174,Rockford (Township),Winnebago County,IL,Illinois,Township,42.24868,-89.07452,815,173110,69780,40391,287475255,4720906,America/Chicago
+101,Thornton,Adams County/Weld County,CO,Colorado,City,39.91942,-104.94281,303,133451,42679,66948,92549444,2767648,America/Denver
+70,San Diego,San Diego County,CA,California,City,32.71533,-117.15726,619,1394928,485091,66116,842252395,122244773,America/Los Angeles
+324,Irving,Dallas County,TX,Texas,City,32.81402,-96.94889,972,236607,83649,52154,173638538,2582657,America/Chicago
+177,Thornton (Township),Cook County,IL,Illinois,Township,41.60127,-87.60032,708,169468,62380,41024,121463504,1255264,America/Chicago
+75,Santa Clara,Santa Clara County,CA,California,City,37.35411,-121.95524,408,126215,43433,98914,47678886,0,America/Los Angeles
+112,Waterbury (Town),New Haven County,CT,Connecticut,Town,41.5585,-73.03668,203,108802,40213,40467,73880017,1086045,America/New York
+344,Wichita Falls,Wichita County,TX,Texas,City,33.91371,-98.49339,940,104710,37200,44543,187027492,61486,America/Chicago
+308,Amarillo,Randall County/Potter County,TX,Texas,City,35.19988,-101.8302,806,198645,74769,47735,262507124,4049009,America/Chicago
+315,Corpus Christi,Aransas County/Kleberg County/Nueces County/San Patricio County,TX,Texas,City,27.75425,-97.17339,361,324074,114817,50658,452109961,852118618,America/Chicago
+106,Hartford (Town),Hartford County,CT,Connecticut,Town,41.76593,-72.68158,959,124006,45239,30630,45016120,1748078,America/New York
+154,Bremen,Cook County,IL,Illinois,Township,41.60156,-87.73503,708,110683,40159,55902,97756706,295143,America/Chicago
+27,Daly City,San Mateo County,CA,California,City,37.70583,-122.46194,650,106562,31137,74449,19788422,0,America/Los Angeles
+255,Reno,Washoe County,NV,Nevada,City,39.52963,-119.8138,775,241445,92283,47012,277887963,7380237,America/Los Angeles
+42,Huntington Beach,Orange County,CA,California,City,33.6603,-117.99923,657,201899,74460,83252,69762694,13438927,America/Los Angeles
+313,Carrollton,Collin County/Denton County/Dallas County,TX,Texas,City,32.98836,-96.89977,972,133168,45263,69368,93959417,2048329,America/Chicago
+9,Mesa,Maricopa County,AZ,Arizona,City,33.42227,-111.82264,480,471825,168914,48809,357097953,1950781,America/Phoenix
+242,Edison,Middlesex County,NJ,New Jersey,Township,40.50399,-74.34941,848,102701,35198,90515,77862691,1630832,America/New York
+349,Alexandria,Alexandria city,VA,Virginia,City,38.80484,-77.04692,571,153511,66879,89134,38977688,1127171,America/New York
+310,Austin,Hays County/Williamson County/Travis County,TX,Texas,City,30.30394,-97.75436,512,931830,351195,57689,809976356,17536404,America/Chicago
+186,Lawrence (Township),Marion County,IN,Indiana,Township,39.8716,-86.01156,317,123397,48011,50411,121424443,4188930,America/Indiana/Indianapolis
+166,Naperville,Will County/DuPage County,IL,Illinois,City,41.74917,-88.16202,630,147100,50073,109468,100155901,1471160,America/Chicago
+231,Durham,Durham County/Orange County/Wake County,NC,North Carolina,City,35.98115,-78.90293,919,257636,100513,50420,284339132,2323182,America/New York
+214,Detroit,Wayne County,MI,Michigan,City,42.33143,-83.04575,313,677116,255740,25764,359360867,10667144,America/Detroit
+286,Oklahoma City,Canadian County/Pottawatomie County/Oklahoma County/Cleveland County,OK,Oklahoma,City,35.46708,-97.51366,405,631346,232254,47779,1570317627,37245501,America/Chicago
+173,Rockford,Winnebago County/Ogle County,IL,Illinois,City,42.25884,-89.06455,815,148278,58559,38716,164382960,2627885,America/Chicago
+105,Hartford,Hartford County,CT,Connecticut,City,41.76371,-72.68509,959,124006,45239,30630,45016120,1748078,America/New York
+183,Evansville,Vanderburgh County,IN,Indiana,City,37.97476,-87.55585,812,119943,51271,35785,122628548,1274315,America/Chicago
+26,Costa Mesa,Orange County,CA,California,City,33.64113,-117.91867,949,113204,40908,66459,40723584,211253,America/Los Angeles
+292,Salem,Marion County/Polk County,OR,Oregon,City,44.92371,-123.02319,503,164549,57729,47191,125786966,1433926,America/Los Angeles
+282,Dayton,Montgomery County,OH,Ohio,City,39.75895,-84.19161,937,140599,57316,27683,144197693,2208312,America/New York
+341,The Woodlands,Harris County/Montgomery County,TX,Texas,CDP,30.17256,-95.50981,832,102911,38114,109917,111856589,1380351,America/Chicago
+151,Aurora,Kendall County/Kane County/Will County/DuPage County,IL,Illinois,City,41.76346,-88.2901,630,200661,61449,63090,116273603,2278285,America/Chicago
+245,Newark,Essex County,NJ,New Jersey,City,40.73566,-74.17237,973,281944,92675,33139,62531085,4509710,America/New York
+145,Savannah,Chatham County,GA,Georgia,City,32.08354,-81.09983,912,145674,52798,36466,268318796,13908113,America/New York
+165,Milton,DuPage County,IL,Illinois,Township,41.85857,-88.08948,630,118844,43510,84039,88967140,2353781,America/Chicago

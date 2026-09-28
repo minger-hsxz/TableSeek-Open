@@ -1,0 +1,7 @@
+playerID,useFirst,firstName,middleName,lastName,nameGiven,fullGivenName,nameSuffix,nameNick,pos,firstseason,lastseason,height,weight,college,collegeOther,birthDate,birthCity,birthState,birthCountry,highSchool,hsCity,hsState,hsCountry,deathDate,race
+stanced01,Ed,Edmund,A.,Stanczak,,,,"Ed, Moose, Stan",F,0.0,0.0,seventy-three point zero,185.0,none,zero,1921-08-15,,,,Central,Fort Wayne,IN,USA,30/May/2004,W
+mcguial01,Al,Alfred,James,McGuire,,,,Al,G-F,0.0,0.0,seventy-four point zero,180.0,St. John's (NY),zero,1928-09-07,New York,NY,USA,St. John's Prep,Brooklyn,NY,USA,26/Jan/2001,W
+seminji01,Jim,James,J.,Seminoff,,,,Jim,G-F,0.0,0.0,seventy-four point zero,190.0,USC,zero,1922-09-01,Los Angeles,CA,USA,Roosevelt,Los Angeles,CA,USA,12/Jun/2001,W
+boozebo01,Bob,Robert,Lewis,Boozer,,,,"Bob, Bullet Bob, Big Bob, Coot",F,0.0,0.0,eighty point zero,215.0,Kansas State,zero,1937-04-26,Omaha,NE,USA,Omaha Tech,Omaha,NE,USA,19/May/2012,B
+stutzst01,Stan,Stanley,J.,Stutz,,Stanley J. Modzelewski,,Stan,G-F,0.0,0.0,seventy point zero,170.0,Rhode Island,zero,1920-04-14,Worcester,MA,USA,Worcester Classical,Worcester,MA,USA,28/Oct/1975,W
+roberwy01,,Wyman,J.,Roberts,,,,,F,0.0,0.0,seventy-one point zero,160.0,none,zero,1915-09-27,,,,Waterloo,Waterloo,OH,USA,01/Dec/1987,W

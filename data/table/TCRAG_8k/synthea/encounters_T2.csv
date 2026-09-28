@@ -1,0 +1,69 @@
+ID,DATE,PATIENT,CODE,DESCRIPTION,REASONCODE,REASONDESCRIPTION
+3241038f-a466-4517-9d59-4424b1a96339,two thousand and nine.nine.eight,1e2bfd82-4d6f-4978-b34d-486e7ce1b2df,371883000,Outpatient procedure,,
+77705d84-4d1b-4d31-a60d-10645696c7d9,two thousand and fifteen.eight.twelve,3d39598c-82fd-43c0-8daf-56cd09346ca0,424441002,Prenatal initial visit,72892002.0,Normal pregnancy
+7ae38a4a-9834-4765-b1b0-544f3bf28fc7,two thousand and fifteen.seven.twenty-eight,267fc535-41e9-470a-89bf-7e49e6540a73,170258001,Outpatient Encounter,,
+edccc158-9d68-4960-b878-180d1be9a421,two thousand and ten.eight.seven,5ad39139-628d-4239-ba89-e8a70628439f,185349003,Outpatient Encounter,,
+1e2d649d-bdd4-41da-b4c0-1d88d5a92bce,two thousand and fourteen.two.nineteen,2199f796-c662-4fe6-a93e-c99d6e9838af,185349003,Outpatient Encounter,,
+fd0ecb68-a87e-49a7-a951-29dbafb08d0d,two thousand and sixteen.seven.twenty-seven,15b536d8-47ea-4429-86bb-804266646fe1,308335008,Patient encounter procedure,,
+a3d1a1f5-36da-40a2-8287-f0755c8121a4,two thousand and seventeen.five.fifteen,6e3a29fb-706f-4d39-99d1-dbe447c9642e,308335008,Patient encounter procedure,,
+dc3a237e-904f-4cc3-8730-9fa3942245df,two thousand and thirteen.four.nine,462abede-dc9a-4928-a120-0449155d6ada,185345009,Encounter for symptom,10509002.0,Acute bronchitis (disorder)
+1243b2cd-cd67-4534-983c-8071189645ec,two thousand and seven.eleven.three,f0438525-1d1c-4e55-81c5-ab5b8d15e7e8,424619006,Prenatal visit,72892002.0,Normal pregnancy
+403ab920-0108-4b0e-9a25-805f5c23743c,two thousand and fifteen.twelve.twenty-nine,bb2c8d26-b208-46d5-a31e-62c20806694a,185349003,Encounter for 'check-up',,
+f40f355d-ed7d-48f8-ba9f-190c0fd46ed5,two thousand and nine.seven.twenty-eight,8c092dc2-e640-47b0-abd8-9fa327c469e6,185349003,Outpatient Encounter,,
+92da737a-dab4-4c9a-a12b-8a0edaeae957,two thousand and nine.seven.twenty,8fd2a4f2-d8c1-42e2-b0f1-77872fb8474c,308646001,Death Certification,,
+5d293a2b-1708-49da-a5ad-7fb9e55376f3,two thousand and eight.eleven.nineteen,15b536d8-47ea-4429-86bb-804266646fe1,308335008,Patient encounter procedure,,
+79cf6bf6-46c3-481d-bbfa-0e2470a8b5c0,two thousand and thirteen.five.thirty-one,7a3ecd43-9c34-41e6-9acc-7244b391efd9,424619006,Prenatal visit,72892002.0,Normal pregnancy
+3a5e9553-9c81-4401-9b20-40a0a1f99604,two thousand and twelve.six.nine,b310e814-20ab-4ffb-b46b-840ff1a83519,185345009,Encounter for symptom,36971009.0,Sinusitis (disorder)
+dce5c3ad-051b-43d3-8f96-f7eacae1025e,two thousand and eight.eleven.eighteen,f80828a0-e9c2-475b-a5fa-79bb017dbecc,424619006,Prenatal visit,72892002.0,Normal pregnancy
+62878033-6801-4b18-8e87-7c59eaabacbc,two thousand and sixteen.three.seven,f9b7b2f0-146d-48d4-ba99-49ba9db0a02f,170258001,Outpatient Encounter,,
+d567918e-2c34-4b0d-97fc-ba17560ecd28,two thousand and seventeen.three.twenty-one,0c7fc6b6-90e4-4bb6-9282-13906f18009d,185349003,Encounter for 'check-up',,
+0d6e7285-fa28-4b37-89dc-c00014bb2377,two thousand and twelve.eleven.twelve,2297617f-c6ce-4f63-9445-72527391a02d,424619006,Prenatal visit,72892002.0,Normal pregnancy
+68120686-d356-4eca-9704-2b3dcfc56d0e,two thousand and sixteen.three.six,765701c0-cea1-4152-94b9-4ae1e0525b2e,308335008,Patient encounter procedure,,
+23c8194d-5712-4432-8f57-1bcbbbda100e,two thousand and twelve.twelve.thirty-one,4b20abe1-4248-4c59-951b-fb2eb6587a3b,170258001,Outpatient Encounter,,
+8db28e98-cab7-4382-9fdd-056fdf758b13,two thousand and nine.three.eighteen,8a4c76ce-1710-4632-ac34-7eaedcba5595,185347001,Encounter for problem,,
+da204f6d-d028-436f-a3c2-a308afdc08a6,two thousand and ten.four.twenty-five,9d957940-1255-4b19-8665-94b66f8b7980,185349003,Outpatient Encounter,,
+ae3b823d-3a84-446c-b2cc-624e6088cf1f,two thousand and sixteen.five.ten,e73f3814-3988-44a6-befb-88bbd2028735,185349003,Encounter for 'check-up',58150001.0,Fracture of clavicle
+75d0dbe0-4c2c-436a-9253-f3b94d47c9d9,two thousand and seventeen.ten.twenty-eight,b753c784-a824-4041-bffd-4d8c85eca390,308335008,Patient encounter procedure,,
+cb5606ba-0e2d-4abe-b2f6-af435b951715,two thousand and fourteen.six.fifteen,edd56e80-f5e3-48d4-a9b6-d69e42e945ca,170258001,Outpatient Encounter,,
+b75bdee2-c571-47e4-8a06-343238d244af,two thousand and twelve.five.five,54803da7-7d6e-48c9-9550-2aff4fe246e0,185349003,Outpatient Encounter,,
+4f0f6932-213b-4a10-8d3c-f3405b16d7a1,two thousand and eleven.six.twenty-seven,6f9e7973-579e-4b02-b754-1902021a80ac,185349003,Outpatient Encounter,,
+ba3294d8-5095-4563-b052-de4514e2ea15,two thousand and twelve.eleven.twenty-four,8b0ae083-a89e-4bc8-99fe-4572da689e83,185349003,Outpatient Encounter,,
+38a11f8e-5780-476c-b6ae-d5e2a38558e3,two thousand and seventeen.one.twenty,837fa233-74f3-4ef4-bb67-23e28b226063,394701000,Asthma follow-up,195967001.0,Asthma
+f1cfac3c-53b8-45bd-a09c-7c228aac9172,two thousand and ten.eleven.five,12300941-b493-4209-a752-86144f883b6c,371883000,Outpatient procedure,,
+333bbf86-6fd6-4d63-bef2-fdc62001610b,two thousand and ten.four.five,14bbd2f8-43f5-4965-aa9b-c3e6a6156b42,170258001,Outpatient Encounter,,
+b53a76b2-9088-45c1-9d22-f81c17cb4189,two thousand and fourteen.eight.two,a9ed94fe-bd52-4ba8-a9c2-d8b90c49f13f,185349003,Outpatient Encounter,,
+cf32e95a-47f7-4590-9428-44e1c0a8efe3,two thousand and ten.eight.thirty,68d88ef1-f857-4d6e-acd9-8c44072c86f3,170258001,Outpatient Encounter,,
+cb1de3d4-1d49-4154-9ada-bf6011384d0d,two thousand and eleven.nine.thirteen,dd30a0b1-e81e-4148-a1d6-5debd15fbc0c,170258001,Outpatient Encounter,,
+9cd28f71-9055-4d64-ad79-a48b239ec246,two thousand and eight.seven.fourteen,28b4e442-afe8-416c-b1a3-11a1e64bf82b,170258001,Outpatient Encounter,,
+11656edb-f3ad-498f-85cf-ef66073718ac,"one thousand, nine hundred and thirty-nine.ten.ten",b126e4ed-5834-4832-b377-9fbab40bd833,308646001,Death Certification,,
+887dbf0c-d930-4165-8d5e-f4bb51000095,two thousand and thirteen.seven.thirteen,f549951c-8946-461d-a453-6e9b713ce277,170258001,Outpatient Encounter,,
+b6be8263-bd12-400a-b4b5-cdcd5ccd9026,two thousand and fifteen.nine.twenty-two,5d761208-d2b4-4569-b4d5-75882501cd83,424619006,Prenatal visit,72892002.0,Normal pregnancy
+8a9c1129-26f9-417f-8ee1-44fff49bd2d4,two thousand and ten.two.seven,0579d517-c531-4b96-9539-8c618ea02f57,266707007,Drug addiction therapy,,
+27032d8d-7268-4cbb-889e-d1e2036e95dc,two thousand and seven.eleven.twenty-nine,23123dab-daae-45be-ac55-70523ad83111,308335008,Patient encounter procedure,,
+2b21f5f7-0d34-4090-9738-458e3be7ee2b,two thousand and thirteen.one.three,d53ed29a-ace1-45bb-bb74-210592805067,185349003,Outpatient Encounter,,
+1d7ed6e1-f962-4709-9bb2-f947057c121b,two thousand and fifteen.four.twenty-two,338930f6-29fa-406f-b8ba-85aec57c9f59,185345009,Encounter for symptom,444814009.0,Viral sinusitis (disorder)
+7725bf41-83dd-42ed-9267-ad9cefe13a3e,two thousand and sixteen.five.eighteen,f696d611-8a14-4dec-9e6c-cd01489ff1dd,170258001,Outpatient Encounter,,
+c773ada9-3fbf-4cd2-a39f-b52c15591937,two thousand and ten.one.five,3966ef2e-43fe-403d-81d2-67770ef887e7,185349003,Encounter for 'check-up',62564004.0,Concussion with loss of consciousness
+ed0bc28b-18b8-4eaa-a221-88cd8be28ad2,two thousand and ten.five.eight,d871e7f4-b18d-4e4a-8fbb-f1d2c101efc5,185349003,Outpatient Encounter,,
+987d6720-a6dc-4f41-bc68-97dcfa6597ec,two thousand and thirteen.two.eighteen,d4841577-f9ac-4cc8-ad03-f80131552fc9,185349003,Outpatient Encounter,,
+acb28864-1cae-4f09-8d17-fe110b4e25d2,two thousand and twelve.five.twelve,7d930372-7a58-4940-ac33-cd6373720f4a,371883000,Outpatient procedure,,
+f0498b73-b164-4aa6-a6a7-7a32cb16922c,two thousand and eleven.two.three,f61960b3-267f-4cac-89e4-420b0b0a2cae,170258001,Outpatient Encounter,,
+141cf9ed-7aa2-4ca1-aec1-6cc860d60460,two thousand and thirteen.six.twenty-three,bb2c8d26-b208-46d5-a31e-62c20806694a,185349003,Outpatient Encounter,,
+199c2dd6-31e2-40ac-8276-aa632a87244f,two thousand and eight.seven.twenty-eight,e3c8d2c8-570d-4c69-a81e-bd88d6c6b0ca,185347001,Encounter for problem,423121009.0,Non-small cell carcinoma of lung  TNM stage 4 (disorder)
+c7d2ff7f-d033-4f2e-a739-499e27da17ed,two thousand and eight.eight.five,0583c5ff-17d3-431e-8b71-dd8638173280,170258001,Outpatient Encounter,,
+bfb73a03-145b-4e44-a09a-c7cae5f29cec,two thousand and seventeen.seven.seven,67e4f87a-7a66-4877-a76f-0f73f2e7d9be,170258001,Outpatient Encounter,,
+e40b4ac8-5bf0-4930-b28a-ea226b960dc2,two thousand and fourteen.three.twelve,f73d4196-a1da-41c3-b2a0-1d0623ba4627,50849002,Emergency room admission,,
+3f99168b-534b-4862-adea-03c3f1f625ad,two thousand and twelve.two.twenty-one,f7208391-f9dd-4185-82b2-f0d6f04d6149,185345009,Encounter for symptom,195662009.0,Acute viral pharyngitis (disorder)
+a66ce022-5375-4091-8e12-ae9ea4ca489b,two thousand and fourteen.one.fifteen,87828e93-e09b-435b-be8e-657361f1c68a,185349003,Outpatient Encounter,,
+ecac0a8e-e696-4850-b3e6-f9a6194be354,two thousand and seventeen.six.seven,0a51828e-c916-46d8-b950-1b4ea9adf68b,185347001,Encounter for problem,,
+c4148b88-bbdd-4c00-9d69-3b9675722ded,two thousand and eleven.five.seventeen,a959dbe4-699e-4206-a5ee-9edaf72917f8,170258001,Outpatient Encounter,,
+8caa7704-abe3-4341-9e0b-0ebc0eac0847,two thousand and nine.two.fifteen,6d4f6237-91b5-46ef-a64c-837acbf3a2b3,185349003,Outpatient Encounter,,
+219eed61-eb45-4f54-98a8-5bbb8c9281cc,two thousand and thirteen.twelve.three,84579084-1b3e-4b63-9601-4a435828e1d2,170258001,Outpatient Encounter,,
+8d525bf1-8b88-4a6c-9165-4f2f72ec4715,two thousand and eleven.four.thirty,7d930372-7a58-4940-ac33-cd6373720f4a,371883000,Outpatient procedure,,
+816c0464-021b-4f87-9c51-d86b5f68ce09,two thousand and thirteen.five.ten,9c12e468-7511-44a8-88dd-26687412bd59,185349003,Outpatient Encounter,,
+35eb0092-4cbb-4383-ac1f-8fc67f8ee31c,two thousand and twelve.five.thirteen,ee9ca91c-ba0c-4976-a040-529dd4a48235,185345009,Encounter for symptom,444814009.0,Viral sinusitis (disorder)
+f382c578-629b-4feb-80e1-c767e6b20702,two thousand and twelve.one.five,2b935fc5-120f-4f61-bd73-8e64f7d28e49,424619006,Prenatal visit,72892002.0,Normal pregnancy
+f088bebb-a51b-4928-a39d-47746accb827,two thousand and sixteen.eight.twenty-two,2c884d0f-62a1-4371-becc-36a98cdc4f52,308646001,Death Certification,,
+a8baeca4-2bbe-41f3-9f89-ff926c5ac3c1,two thousand and thirteen.six.twenty-five,900bed98-128e-4199-aca9-b0ec2b20cfc4,185345009,Encounter for symptom,444814009.0,Viral sinusitis (disorder)
+195afb23-75e9-4abc-8d07-1aae7c0af4c1,two thousand and ten.twelve.twenty-six,6e3a29fb-706f-4d39-99d1-dbe447c9642e,185345009,Encounter for symptom,43878008.0,Streptococcal sore throat (disorder)
+06bd80d8-ff99-453d-a7fc-ec1f5e8e6cad,two thousand and thirteen.two.two,3630abb3-e44f-48ff-b599-26c86d1e1cce,185349003,Encounter for 'check-up',,

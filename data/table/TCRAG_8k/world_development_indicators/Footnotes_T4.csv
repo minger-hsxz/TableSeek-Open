@@ -1,0 +1,53 @@
+NationID,SequenceID,FiscalYear,DetailText
+ARB,SE.SEC.TCHR.FE,YR2010,UNESCO Institute for Statistics (UIS) estimate
+SLV,MS.MIL.XPND.CN,YR1996,"SIPRI estimates.  For 1988-2001, the figures include an estimate of $75m. as an average for pensions, as figures are not available."
+KHM,SL.AGR.0714.MA.ZS,YR2001,Cambodia Child Labour Survey.
+NLD,SL.EMP.TOTL.SP.FE.NE.ZS,YR2010,Source: European Labour Force Survey (Eurostat). Coverage: Total. Coverage (employment): Total employment. Age: 15+. Survey limitation: Definitions revised. Break in series.
+LSO,SH.STA.STNT.ZS,YR2009,"Survey coverage: 2009-10 (OCT-JAN). Age group: 0. - 5.00. Ministry of Health and Social Welfare (MOHSW) [Lesotho] and ICF Macro.Lesotho demographic and health survey 2009. Demographic and Health Surveys. Maseru, Lesotho: MOHSW and ICF Macro, 2010 (and add"
+BRN,SH.STA.BRTC.ZS,YR2005,Country data
+RUS,SL.IND.EMPL.FE.ZS,YR1997,Source: Household or labour force survey. Coverage: Total. Age: 15-72. Break in series.
+AZE,SL.EMP.SELF.FE.ZS,YR2008,Source: Labour force survey. Age: 15+. Coverage: Civilian. Classification remark: Own-account workers includes contributing family workers.
+KOR,TM.QTY.MRCH.XD.WD,YR1993,"Source: UNCTAD Handbook of Statistics and data files, February 2012 update."
+WLD,DT.ODA.ALLD.CD,YR2007,Include aid not allocated by country or region.
+OEC,SE.SEC.REPT.ZS,YR1980,UNESCO Institute for Statistics (UIS) estimate
+COG,ST.INT.ARVL,YR2008,"Refers to arrivals of non-resident tourists in hotels and similar establishments. Source: ""Direction Générale de l'Industrie Touristique"". Survey data."
+COM,TM.VAL.MRCH.XD.WD,YR2004,"Source: UNCTAD Handbook of Statistics and data files, February 2012 update."
+JOR,ST.INT.TVLX.CD,YR2013,Compiled from data reported in the International Monetary Fund's Balance of Payment Statistics database.
+GNB,TX.QTY.MRCH.XD.WD,YR1999,"Source: UNCTAD Handbook of Statistics and data files, February 2012 update."
+CZE,SL.UEM.TOTL.MA.NE.ZS,YR2001,Source: European Labour Force Survey (Eurostat). Coverage: Total. Age: 15+.
+POL,SH.HIV.1524.FE.ZS,YR2001,<0.1. Plausible bound is <0.1-<0.1
+ESP,EG.ELC.ACCS.RU.ZS,YR2000,Source: Assumption
+THA,SL.UEM.PRIM.ZS,YR1998,"Source: Household or labour force survey. Coverage: Civilian. Coverage (unemployment): Total unemployed. Age: 13+. Reference period: Third quarter. Education: International Standard Classification of Education, 1976 version."
+MEA,SM.POP.REFG,YR1998,"Figure includes refugees in economies that are not included in the World Development Indicators. Figure also includes Palestinian refugees under the mandate of the United Nations Relief and Works Agency for Palestine Refugees in the Near East (UNRWA), whi"
+EGY,SL.UEM.1524.FE.NE.ZS,YR2009,Source: Household or labour force survey. Coverage: Civilian. Age: 15-24.
+SGP,SL.EMP.WORK.MA.ZS,YR2007,Source: Labour force survey. Age: 15+. Coverage: Total. Reference period: June. Coverage limitation: Data refer to permanent residents..
+THA,SH.HIV.ARTC.ZS,YR2002,Plausible bound is 2 - 2
+RWA,SH.DTH.IMRT,YR2009,Uncertainty bound is 15908 - 18856
+TMP,SL.TLF.ACTI.1524.FE.ZS,YR1990,ILO estimates
+QAT,ST.INT.TVLR.CD,YR2012,Compiled from data reported in the International Monetary Fund's Balance of Payment Statistics database.
+MLI,SL.TLF.CACT.FE.ZS,YR1996,ILO estimates
+LCN,SE.SEC.ENRL.GC.FE.ZS,YR1988,UNESCO Institute for Statistics (UIS) estimate
+MEX,SL.UEM.LTRM.ZS,YR2000,Source: Labour force survey. Coverage: Civilian. Age: 15+. Reference period: April to June.
+EAP,DC.DAC.NZLL.CD,YR1998,Include data for economies not specified elsewhere.
+MOZ,SE.SEC.TCHR,YR2012,UNESCO Institute for Statistics (UIS) estimate
+HIC,DT.ODA.ODAT.CD,YR1964,Include aid not allocated by country or region.
+SYC,ST.INT.TVLX.CD,YR2005,Compiled from data reported in the International Monetary Fund's Balance of Payment Statistics database.
+VIR,SE.PRM.ENRL.TC.ZS,YR1972,UNESCO Institute for Statistics (UIS) estimate
+FCS,SE.SEC.ENRR.MA,YR1990,UNESCO Institute for Statistics (UIS) estimate
+SST,SE.SEC.PROG.MA.ZS,YR1984,UNESCO Institute for Statistics (UIS) estimate
+VNM,SH.PRV.SMOK.MA,YR2005,Plausible bound is 38.3-58.5.
+EGY,SP.MTR.1519.ZS,YR1995,Source: DHS 1995
+TUR,SL.UEM.LTRM.ZS,YR2007,Source: Labour force survey. Coverage: Total. Age: 15+.
+ECA,DC.DAC.CHEL.CD,YR1963,Include data for economies not specified elsewhere.
+PSS,SE.PRM.GINT.ZS,YR1972,UNESCO Institute for Statistics (UIS) estimate
+SUR,SL.UEM.TOTL.FE.NE.ZS,YR2004,Source: Population census. Coverage: Total. Age: 15+. Reference period: August. Break in series.
+KGZ,SL.TLF.CACT.ZS,YR2002,ILO estimates
+BRN,SL.UEM.TOTL.FE.ZS,YR1999,ILO estimates
+GTM,IS.SHP.GOOD.TU,YR2006,"Data are from the Containerisation International's Containerisation International Yearbook 2008.
+"
+SAU,IT.NET.SECR,YR2009,"December, 2009"
+PSS,SE.PRM.TENR.MA,YR1997,UNESCO Institute for Statistics (UIS) estimate
+IDN,SH.MMR.DTHS,YR2009,Uncertainty bound is 6800 - 11000
+ISR,SL.UEM.TERT.FE.ZS,YR2006,"Source: Household or labour force survey. Coverage: Total. Coverage (unemployment): Total unemployed. Age: 15+. Education: International Standard Classification of Education, 1997 version."
+KGZ,TM.VAL.MRCH.XD.WD,YR2001,"Source: UNCTAD Handbook of Statistics and data files, February 2012 update."
+FCS,SE.SEC.ENRL.FE.ZS,YR1989,UNESCO Institute for Statistics (UIS) estimate

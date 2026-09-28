@@ -1,0 +1,40 @@
+station_nbr,date,tmax,tmin,tavg,depart,dewpoint,wetbulb,heat,cool,sunrise,sunset,codesum,snowfall,preciptotal,stnpressure_sub3,sealevel,resultspeed,resultdir,avgspeed
+6.00×10^+00,MMXII-X-XIII,85.0,74.0,eighty point zero,10.0,seventy-two point zero,seventy-three point zero,0.0,fifteen point zero,06:31:00,18:03:00,TS,0.0,zero point zero five,26.44,29.97,11.6,17.0,11.9
+4.00×10^+00,MMXIII-V-XIII,87.0,53.0,seventy point zero,-6.0,fifty point zero,fifty-nine point zero,0.0,five point zero,05:39:00,19:16:00, ,0.0,zero point zero,26.51,30.19,2.3,14.0,4.0
+1.20×10^+01,MMXIV-VII-XX,92.0,75.0,eighty-four point zero,,seventy-four point zero,seventy-six point zero,0.0,nineteen point zero,,,TSRA RA BR VCTS,0.0,one point eight nine,27.0,30.04,2.3,20.0,4.6
+1.70×10^+01,MMXIII-VII-XXIX,90.0,73.0,eighty-two point zero,,seventy-one point zero,seventy-four point zero,0.0,seventeen point zero,,,RA BR VCTS,0.0,zero point two three,26.31,29.98,8.8,17.0,9.6
+4.00×10^+00,MMXIII-VI-XIII,97.0,77.0,eighty-seven point zero,5.0,seventy point zero,seventy-four point zero,0.0,twenty-two point zero,05:29:00,19:33:00, ,0.0,zero point zero,26.3,29.97,3.1,19.0,4.5
+8.00×10^+00,MMXII-X-II,81.0,59.0,zero,,fifty-five point zero,sixty-one point zero,,zero,,, ,,zero point zero,26.57,,3.8,33.0,3.9
+9.00×10^+00,MMXII-IV-VIII,63.0,34.0,forty-nine point zero,,twenty-three point zero,thirty-nine point zero,16.0,zero point zero,,, ,,zero point zero,26.36,30.14,9.0,29.0,9.5
+1.20×10^+01,MMXIII-XI-XVII,80.0,67.0,seventy-four point zero,,sixty-eight point zero,seventy point zero,0.0,nine point zero,,,RA BR,0.0,zero point four seven,27.03,30.06,2.1,14.0,2.4
+2.00×10^+01,MMXIII-IX-IV,102.0,73.0,eighty-eight point zero,,sixty-six point zero,seventy-three point zero,0.0,twenty-three point zero,,, ,0.0,zero point zero,26.28,29.97,4.3,9.0,5.3
+2.00×10^+01,MMXII-XII-XVI,74.0,51.0,sixty-three point zero,,thirty-eight point zero,fifty point zero,2.0,zero point zero,,, ,0.0,zero point zero,26.05,29.76,5.1,26.0,5.9
+2.00×10^+00,MMXIV-VII-III,87.0,66.0,seventy-seven point zero,9.0,sixty-nine point zero,seventy-one point zero,0.0,twelve point zero,04:16:00,19:28:00,RA FG BR VCTS,0.0,zero point six nine,25.88,29.96,6.8,22.0,8.4
+1.80×10^+01,MMXII-IV-XXVIII,88.0,69.0,seventy-nine point zero,10.0,sixty-two point zero,sixty-eight point zero,0.0,fourteen point zero,05:44:00,19:06:00, ,0.0,zero point zero,26.3,29.79,16.9,18.0,17.2
+3.00×10^+00,MMXII-VIII-XXVI,91.0,71.0,eighty-one point zero,1.0,seventy point zero,seventy-three point zero,0.0,sixteen point zero,05:50:00,19:01:00,TSRA RA BR,0.0,zero point four nine,26.24,29.92,2.6,22.0,5.4
+1.10×10^+01,MMXII-X-XIX,82.0,62.0,seventy-two point zero,3.0,sixty-one point zero,sixty-five point zero,0.0,seven point zero,06:32:00,17:52:00, ,0.0,zero point zero,26.8,29.84,0.2,29.0,2.9
+2.00×10^+00,MMXIII-II-XV,48.0,25.0,thirty-seven point zero,11.0,twenty-seven point zero,thirty-three point zero,28.0,zero point zero,06:44:00,17:20:00,SN FG+ FZFG BR,0.0,zero point zero,25.83,29.95,9.9,23.0,10.4
+1.70×10^+01,MMXII-V-XXIII,93.0,66.0,eighty point zero,,fifty-six point zero,sixty-five point zero,0.0,fifteen point zero,,, ,0.0,zero point zero,25.94,29.66,13.8,17.0,13.8
+2.00×10^+01,MMXII-I-XVIII,55.0,28.0,forty-two point zero,,twenty-six point zero,thirty-seven point zero,23.0,zero point zero,,, ,0.0,zero point zero,26.42,30.18,1.9,11.0,4.6
+1.70×10^+01,MMXIV-IV-X,89.0,63.0,seventy-six point zero,,forty-six point zero,fifty-eight point zero,0.0,eleven point zero,,, ,0.0,zero point zero,26.15,29.85,9.5,20.0,11.7
+2.00×10^+01,MMXII-VI-IX,91.0,67.0,seventy-nine point zero,,sixty-six point zero,seventy-one point zero,0.0,fourteen point zero,,, ,0.0,zero point zero,26.06,29.77,6.2,14.0,6.6
+1.90×10^+01,MMXII-IV-IV,49.0,36.0,forty-three point zero,2.0,thirty-three point zero,forty point zero,22.0,zero point zero,05:29:00,18:20:00, ,0.0,zero point zero,26.26,30.01,12.0,2.0,12.1
+1.70×10^+01,MMXIII-I-XXX,43.0,24.0,thirty-four point zero,,twenty-seven point zero,thirty-three point zero,31.0,zero point zero,,, ,0.0,zero point zero,26.26,29.92,6.6,31.0,7.8
+5.00×10^+00,MMXIV-IX-XXIV,,,zero,,fifty point zero,zero,,zero,05:34:00,17:39:00, ,,zero,,30.59,7.9,7.0,
+9.00×10^+00,MMXII-V-I,74.0,50.0,sixty-two point zero,,fifty-five point zero,fifty-eight point zero,3.0,zero point zero,,,RA BR VCTS,,zero point seven five,25.94,29.7,11.1,15.0,11.5
+1.00×10^+00,MMXIII-XII-XIV,18.0,9.0,fourteen point zero,,one point zero,eleven point zero,51.0,zero point zero,,,SN,,zero point one,27.34,30.5,6.8,36.0,7.8
+1.90×10^+01,MMXIV-I-XIV,35.0,19.0,twenty-seven point zero,,twenty-two point zero,twenty-six point zero,38.0,zero point zero,,,SN BR HZ BLSN,2.3,zero point zero eight,25.91,29.66,8.9,25.0,13.9
+6.00×10^+00,MMXIII-II-XXIII,72.0,35.0,fifty-four point zero,0.0,thirty-two point zero,forty-three point zero,11.0,zero point zero,07:03:00,18:24:00, ,0.0,zero point zero,26.43,29.97,5.5,1.0,6.8
+7.00×10^+00,MMXIII-IV-X,38.0,31.0,thirty-five point zero,,thirty point zero,thirty-three point zero,30.0,zero point zero,,,RA FZRA BR VCTS,0.05,one point two eight,25.59,29.97,15.0,33.0,14.8
+7.00×10^+00,MMXII-VI-XX,89.0,73.0,eighty-one point zero,,sixty-seven point zero,seventy-one point zero,0.0,sixteen point zero,,, ,0.0,zero point zero,25.53,29.85,20.1,17.0,20.2
+4.00×10^+00,MMXII-XI-XVIII,76.0,45.0,sixty-one point zero,1.0,forty-four point zero,fifty-two point zero,4.0,zero point zero,06:59:00,17:33:00, ,0.0,zero point zero,26.53,30.25,1.9,16.0,3.6
+7.00×10^+00,MMXIV-I-XXIX,48.0,14.0,thirty-one point zero,,five point zero,twenty-four point zero,34.0,zero point zero,,, ,0.0,zero point zero,25.76,30.23,15.9,20.0,16.3
+9.00×10^+00,MMXII-II-XXIX,36.0,32.0,thirty-four point zero,,thirty point zero,thirty-two point zero,31.0,zero point zero,,,RA SN BR,,zero point five eight,25.69,29.49,5.9,4.0,10.4
+1.40×10^+01,MMXIII-VIII-XIV,86.0,69.0,seventy-eight point zero,-4.0,sixty-five point zero,sixty-nine point zero,0.0,thirteen point zero,05:49:00,19:22:00, ,0.0,zero point zero,25.69,30.03,6.1,7.0,7.4
+1.30×10^+01,MMXIV-V-XXIV,70.0,48.0,fifty-nine point zero,,forty-seven point zero,fifty-one point zero,6.0,zero point zero,,,TS TSRA,,zero point one one,21.22,29.91,1.3,26.0,6.9
+8.00×10^+00,MMXII-VIII-I,99.0,77.0,zero,,sixty-nine point zero,seventy-five point zero,,zero,,,HZ,,zero point zero,26.59,,6.3,19.0,7.1
+4.00×10^+00,MMXIV-II-XVI,76.0,59.0,sixty-eight point zero,13.0,fifty-six point zero,sixty point zero,0.0,three point zero,07:10:00,18:19:00,BR HZ,0.0,zero point zero,26.29,30.0,4.6,17.0,5.1
+1.50×10^+01,MMXII-IX-XIV,83.0,50.0,sixty-seven point zero,7.0,fifty-six point zero,sixty point zero,0.0,two point zero,05:24:00,17:58:00,FG+ BR,0.0,zero point zero,26.79,30.15,2.3,17.0,3.0
+5.00×10^+00,MMXIII-VII-XXVIII,,,zero,,zero,zero,,zero,04:33:00,19:09:00, ,,zero,,,,,
+1.20×10^+01,MMXIV-V-VII,90.0,63.0,seventy-seven point zero,,sixty-four point zero,sixty-nine point zero,0.0,twelve point zero,,, ,0.0,zero point zero,27.06,30.11,4.9,15.0,6.5
+1.00×10^+00,MMXIV-VI-XXX,90.0,63.0,seventy-seven point zero,,zero,zero,0.0,twelve point zero,,, ,,zero point zero,26.85,29.99,8.7,23.0,9.1

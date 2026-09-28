@@ -1,0 +1,141 @@
+Identifier,LabelTag,Total,ExcerptPostKey,WikiPostKey
+one hundred and twenty-six,categorical-data,838,"twenty-eight thousand, two hundred and ten point zero",28209.0
+five hundred and eighty,dataframe,29,"sixty-three thousand, three hundred and ten point zero",63309.0
+one thousand and fifteen,neweywest,10,zero,
+nine hundred and seventy-two,ward,6,zero,
+five hundred and ten,contrasts,91,zero,
+six hundred and forty-four,ranks,35,zero,
+"one thousand, five hundred and fifty-two",specificity,11,"sixty-two thousand, nine hundred and seventy-eight point zero",62977.0
+five hundred and fifty-six,multicore,3,zero,
+one hundred and thirty-eight,minimum,32,"eighty thousand, four hundred and thirty-one point zero",80430.0
+nine hundred and thirty,identifiability,27,zero,
+"one thousand, one hundred and eighty-seven",winbugs,58,"forty-seven thousand, nine hundred and thirty-six point zero",47935.0
+seven hundred and eighty-five,average,151,"forty-one thousand, five hundred and two point zero",41501.0
+three hundred and seventy-three,networks,70,zero,
+"one thousand, eight hundred and fifty-nine",ecdf,3,one hundred and fourteen thousand and fifty-eight point zero,114057.0
+eight hundred and ninety-two,observational-study,34,zero,
+three hundred and fifty-four,intraclass-correlation,75,"sixty-seven thousand, eight hundred and twenty-two point zero",67821.0
+four hundred and ninety-eight,latent-variable,90,"sixty-eight thousand, six hundred and twenty-seven point zero",68626.0
+five hundred and thirty-seven,empirical,44,zero,
+seven hundred and two,students-t,22,sixty-seven thousand and eighty point zero,67079.0
+"one thousand, seven hundred and thirty-eight",jeffreys-prior,3,zero,
+seven hundred and seventy,state-space-models,40,zero,
+"one thousand, two hundred and fifty-nine",fiducial,5,"twenty-seven thousand, eight hundred and fifty-seven point zero",27856.0
+two hundred and fifty-six,factor-analysis,369,"thirty-one thousand, nine hundred and eighty-three point zero",31982.0
+six hundred and eight,sql,15,"eighty thousand, seven hundred and five point zero",80704.0
+"one thousand, five hundred and thirty-four",double-blind,1,"sixty thousand, two hundred and eighty-seven point zero",60286.0
+"one thousand, three hundred and twenty-nine",automatic-algorithms,4,zero,
+"one thousand, seven hundred and sixty-three",poisson-binomial,9,"ninety-three thousand, seven hundred and thirty-nine point zero",93738.0
+two hundred and three,science,8,"sixty-six thousand, three hundred and eighty-two point zero",66381.0
+six hundred and seventy-two,shrinkage,29,zero,
+three hundred and eighty-seven,gui,3,"sixty-five thousand, eight hundred and twenty-three point zero",65822.0
+"one thousand, two hundred and thirty-three",point-estimation,32,"eighty thousand, three hundred and sixty-eight point zero",80367.0
+"one thousand, eight hundred and two",relabelling,1,zero,
+"one thousand, six hundred and twenty-three",population-average,2,"sixty-eight thousand, nine hundred and eighty-one point zero",68980.0
+three hundred and fifty-five,aggregation,56,"twenty-eight thousand, two hundred and eighty point zero",28279.0
+five hundred and sixty-nine,unsupervised-learning,105,"fifty-eight thousand, eight hundred and twenty-three point zero",58822.0
+eight hundred and seventy,hotelling,12,zero,
+"one thousand, one hundred and ninety-eight",similarities,104,zero,
+"one thousand, eight hundred and sixty-seven",generilzed-linear-model,1,zero,
+nine hundred and ninety-three,rejection-sampling,20,"ninety thousand, two hundred and twenty-three point zero",90222.0
+"one thousand, six hundred and three",theta-method,2,"sixty-seven thousand, eight hundred and nine point zero",67808.0
+"one thousand, seven hundred and thirteen",wlln,4,"eighty-two thousand, six hundred and nineteen point zero",82618.0
+"one thousand, one hundred and twenty-nine",life-expectancy,6,zero,
+"one thousand, seven hundred and eighty-eight",novelty-detection,1,zero,
+"one thousand, two hundred and fifty-seven",change-scores,19,ninety-two thousand and thirty-seven point zero,92036.0
+one hundred and thirty,interval,50,zero,
+three,elicitation,6,zero,
+six hundred and twenty-one,optimization,429,"twenty-eight thousand, five hundred and thirty-five point zero",28534.0
+"one thousand, six hundred and two",rhadoop,2,"eighty thousand, six hundred and sixty-seven point zero",80666.0
+"one thousand, eight hundred and thirty-nine",information-geometry,4,"one hundred and eleven thousand, one hundred and sixty-five point zero",111164.0
+one hundred and fifty-nine,estimation,885,"twenty thousand, four hundred and eighty-eight point zero",20487.0
+"one thousand, four hundred and twelve",quotation,4,zero,
+"one thousand, three hundred and sixty-one",local-statistics,3,zero,
+five hundred and fifty-seven,tables,22,zero,
+"one thousand, eight hundred and sixty",gradient,1,zero,
+seven hundred and sixty-nine,lmer,267,"twenty-eight thousand, two hundred and ninety-seven point zero",28296.0
+fifty-two,transportation,3,zero,
+"one thousand, one hundred and twenty-six",package,23,zero,
+five hundred and fifty,genetics,105,"sixty-four thousand, six hundred and sixty-five point zero",64664.0
+one thousand and six,natural-language,66,zero,
+one thousand and thirty-seven,media,8,"sixteen thousand, four hundred and twenty point zero",16419.0
+four hundred and eighty-eight,latent-class,27,zero,
+"one thousand, seven hundred and ninety-seven",breusch-pagan,4,zero,
+"one thousand, four hundred and fifty-eight",programming,22,zero,
+"one thousand, four hundred and twenty-four",crossover-study,7,"forty-four thousand, eight hundred and ten point zero",44809.0
+seven hundred and twelve,interactive-visualization,16,zero,
+"one thousand, five hundred and five",k-medoids,9,zero,
+one thousand and sixty-four,google-spreadsheet,3,zero,
+eight hundred and thirty,arma,129,"forty thousand, eight hundred and thirty-two point zero",40831.0
+"one thousand, one hundred and fifty-seven",paired-data,53,zero,
+"one thousand, two hundred and twenty-five",incidence-rate-ratio,15,zero,
+"one thousand, one hundred and thirty-six",performance,62,zero,
+"one thousand, five hundred and seventy-seven",coverage-probability,7,zero,
+"one thousand, five hundred and eighty-one",polr,4,"eighty thousand, six hundred and eighty-one point zero",80680.0
+eight hundred and twenty-six,conjoint-analysis,17,fifty-seven thousand and eighty-two point zero,57081.0
+"one thousand, four hundred and forty-nine",cv.glm,4,"sixty-five thousand, three hundred and nine point zero",65308.0
+"one thousand, seven hundred and nineteen",cauchy,7,zero,
+three hundred and sixty-eight,latex,11,"eighty thousand, six hundred and ninety point zero",80689.0
+"one thousand, seven hundred and sixty-six",choice,6,zero,
+two hundred and thirteen,mathematical-statistics,911,"thirty-three thousand, two hundred and fifty-one point zero",33250.0
+"one thousand, eight hundred and four",apriori,2,zero,
+eight hundred and twenty-five,gee,107,"twenty-eight thousand, two hundred and forty-one point zero",28240.0
+three hundred and seven,stata,460,four thousand and thirty-seven point zero,4036.0
+three hundred and sixty-nine,plyr,2,"eighty thousand, six hundred and seventy-nine point zero",80678.0
+six hundred and thirty-six,interaction,514,"thirty-three thousand, four hundred and eighty-four point zero",33483.0
+one hundred and eighty-eight,probability,2081,"twenty thousand, two hundred and fifty-six point zero",20255.0
+four,normality,191,"sixty-seven thousand, eight hundred and fifteen point zero",67814.0
+"one thousand, seven hundred and eighty-five",forestry,1,zero,
+one hundred and eighteen,kde,37,"twenty-one thousand, four hundred and ninety-eight point zero",21497.0
+six hundred and twenty-eight,fixed-effects-model,160,"thirty-two thousand, seven hundred and eleven point zero",32710.0
+"one thousand, eight hundred and forty-three",scalability,1,zero,
+seventy-four,forecasting,608,"three thousand, one hundred and ninety point zero",3189.0
+"one thousand, one hundred and thirty",demography,14,"fifty-six thousand, one hundred and two point zero",56101.0
+two hundred and ninety-four,roc,175,"forty-one thousand, three hundred and nine point zero",41308.0
+five hundred and ninety-seven,gibbs,91,"sixty-two thousand, six hundred and twenty point zero",62619.0
+"one thousand, seven hundred and ninety",taguchi,1,zero,
+nine hundred and sixty-three,feature-construction,65,zero,
+"one thousand, four hundred and thirty-six",risk-difference,2,"forty-six thousand, seven hundred and twenty-seven point zero",46726.0
+one thousand and thirty-three,group-differences,167,"sixty-nine thousand, two hundred and eighty-five point zero",69284.0
+one thousand and eighty-seven,quasi-binomial,6,zero,
+"one thousand, seven hundred and three",vecm,18,zero,
+one hundred and twenty-seven,data-mining,668,"nineteen thousand, four hundred and twenty-four point zero",19423.0
+seven hundred and ninety-one,composite,37,zero,
+one hundred and ninety-four,proof,106,zero,
+thirty-nine,p-value,487,"twenty-eight thousand, three hundred and thirty-six point zero",28335.0
+two hundred and fifty,software,128,"sixty-three thousand, four hundred and seventy-four point zero",63473.0
+one hundred and nine,pca,774,"eight thousand, five hundred and seventy-nine point zero",8578.0
+"one thousand, eight hundred and forty-five",lilliefors,1,zero,
+"one thousand, four hundred and thirty-nine",rbm,45,zero,
+five hundred and thirty-three,beta,40,"forty thousand, eight hundred and thirty-four point zero",40833.0
+"one thousand, eight hundred and twenty-two",dunn-test,5,one hundred and eight thousand and fifty-three point zero,108052.0
+"one thousand, three hundred and twenty-eight",constrained-regression,19,zero,
+"one thousand, seven hundred and one",intercept,27,zero,
+four hundred and twenty-two,particle-filter,24,zero,
+one hundred and twenty-two,outliers,307,"thirty-three thousand, four hundred and eighty-two point zero",33481.0
+four hundred and three,normalization,244,"fourteen thousand, two hundred and eighty-two point zero",14281.0
+"one thousand, one hundred and eighty-three",bernoulli-distribution,63,"sixty-eight thousand, five hundred and thirty-five point zero",68534.0
+"one thousand, four hundred and fifty-four",gaussian-mixture,92,sixty-nine thousand and seven point zero,69006.0
+"one thousand, eight hundred and sixty-five",roxygen2,1,zero,
+"one thousand, five hundred and seventy",planned-comparisons-test,6,zero,
+"one thousand, two hundred and ninety-nine",eigenvalues,61,"eighty-one thousand, six hundred and ninety-eight point zero",81697.0
+four hundred and fifty-one,ancova,174,"twenty-one thousand, eight hundred and sixty-seven point zero",21866.0
+"one thousand, six hundred and fourteen",heterogeneity,6,zero,
+"one thousand, seven hundred and ninety-five",record-linkage,2,zero,
+nine hundred and eighty-five,irt,51,"thirty-four thousand, one hundred and twenty-four point zero",34123.0
+six hundred and ninety-seven,split-plot,32,zero,
+"one thousand, two hundred and twelve",paradox,13,"twenty-three thousand, eight hundred and forty-eight point zero",23847.0
+fifteen,measurement,97,"sixty-six thousand, three hundred and nineteen point zero",66318.0
+three hundred and forty-six,type-ii-errors,18,"sixty-five thousand, five hundred and seventy-one point zero",65570.0
+one hundred and sixty-one,maximum-likelihood,586,"twenty-eight thousand, three hundred and twenty-nine point zero",28328.0
+two hundred and six,bootstrap,448,"twenty-eight thousand, two hundred and twenty point zero",28219.0
+"one thousand, two hundred and ninety-seven",two-step-estimation,10,"twenty-nine thousand, eight hundred and thirty point zero",29829.0
+seven hundred and seventy-eight,non-central,13,zero,
+three hundred and thirty-four,relative-risk,32,"forty-six thousand, seven hundred and twenty-five point zero",46724.0
+fifty-four,data-visualization,982,"twenty thousand, four hundred and eighty-four point zero",20483.0
+one thousand and ninety-six,residual-analysis,28,zero,
+"one thousand, two hundred and eighty-five",train,42,zero,
+"one thousand, one hundred and seventy-seven",euclidean,26,zero,
+"one thousand, six hundred and ninety-six",cumulants,2,zero,
+six hundred and one,marginal,78,"sixty-eight thousand, eight hundred and twenty-four point zero",68823.0
+"one thousand, five hundred and ninety-three",fisher-transform,6,"sixty-four thousand, nine hundred and ninety-five point zero",64994.0

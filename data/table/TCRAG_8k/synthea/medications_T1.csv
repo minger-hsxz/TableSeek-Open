@@ -1,0 +1,54 @@
+START,STOP,PATIENT,ENCOUNTER,CODE,DESCRIPTION,REASONCODE,REASONDESCRIPTION
+MMXII-VI-XXIX,2013-06-29,6d7d6465-9734-4dc2-863b-de2855068971,cd127232-caf9-455e-8a62-39e74546a174,7.49×10^+05,Yaz 28 Day Pack,,
+MMIII-VI-VII,zero,f1024eae-1feb-4cc6-9022-ea4ad7a188c8,e63a772e-ff91-4562-8e57-d686a42588e0,9.04×10^+05,Alendronic acid 10 MG [Fosamax],,
+MCMLXXXIX-IV-XX,zero,e60e911b-529c-4293-872d-50a5269531d0,154568fc-5e3a-4a3c-b666-aa73453ab82a,8.34×10^+05,Penicillin V Potassium 250 MG,43878008.0,Streptococcal sore throat (disorder)
+MCMLXXVII-III-XXX,zero,401f0b8c-3e96-4de5-a9aa-c9bbe51b8407,641370b0-9542-4dd9-adac-70f2d8d768e4,8.34×10^+05,Penicillin V Potassium 250 MG,43878008.0,Streptococcal sore throat (disorder)
+MMX-IV-XXX,2010-05-19,b2301dc8-edc8-4e55-9433-592b83df7183,9e64bd03-9ef7-4fdd-b63a-c72a7c2ec208,8.24×10^+05, Amoxicillin 250 MG / Clavulanate 125 MG [Augmentin],444814009.0,Viral sinusitis (disorder)
+MCMXCIV-VII-XXXI,zero,9d57c713-2368-4ff2-b6e4-6f4546154050,a3914830-9405-4dc4-8952-91661244275d,1.97×10^+05,Amlodipine 5 MG Oral Tablet,53741008.0,Coronary Heart Disease
+MMIX-VII-VI,2009-07-20,093e7ac4-a049-4763-8782-a96c049188db,8c401021-a859-4e84-be81-5e16a3aeab47,2.82×10^+05,Acetaminophen 160 MG Oral Tablet,,
+MMXVI-IX-XIV,2016-09-14,95bb9d1a-99a3-4442-bf55-e5aa3db08122,b515b30c-ac6f-4eb0-b914-87617f8029b2,1.73×10^+06,Etoposide 100 MG Injection,67821000119109.0,Primary small cell malignant neoplasm of lung  TNM stage 2 (disorder)
+MMXII-IX-XVIII,2013-09-18,a6f27ea2-ee82-4166-a4ee-9404d519d09f,85fdf4e8-9a70-4556-9844-fd9ed8f26daa,7.58×10^+05,Jolivette 28 Day Pack,,
+MMXII-VIII-IX,2012-08-17,296f8d3d-b0b5-4a34-8ee6-21430bcc96a8,880702ca-3b01-4678-aa13-f6fdb338bc43,1.02×10^+06,Dextromethorphan Hydrobromide 1 MG/ML,10509002.0,Acute bronchitis (disorder)
+MCMLXXXII-VII-V,1991-04-19,abe7ef60-0c44-4ff7-8935-fc0c521fa613,1f52d0b7-9f74-462a-8702-77092b16e6be,5.65×10^+05,Nitroglycerin 0.4 MG/ACTUAT [Nitrolingual],53741008.0,Coronary Heart Disease
+MMX-XI-XXX,2010-12-30,90ab3acb-46b7-40d2-b66c-a04022cee236,fad1604d-7bbe-445d-aa9f-ac4bd6f569eb,8.33×10^+05,Milnacipran hydrochloride 100 MG [Savella],95417003.0,Primary fibromyalgia syndrome
+MCMLXIV-XII-XVII,zero,f0e225b2-7314-4b49-881d-01a77725624c,0750e569-18dc-4a07-8841-d478fb499053,8.96×10^+05,Fluticasone propionate 0.25 MG/ACTUAT / salmeterol 0.05 MG/ACTUAT [Advair],185086009.0,Chronic obstructive bronchitis (disorder)
+MCMXC-X-VII,zero,5f68fa5d-cf9e-41b5-b043-f8eb2dce3b17,10e7c71a-cc70-4c2a-93af-a45bb2374ac0,5.65×10^+05,Nitroglycerin 0.4 MG/ACTUAT [Nitrolingual],22298006.0,Myocardial Infarction
+MMXV-XII-III,2015-12-21,1ed32c2d-b25c-4dd0-aefe-05131ac6c401,482c97ac-48cf-4106-938b-9929f9c89d4b,2.82×10^+05,Acetaminophen 160 MG Oral Tablet,,
+MMIX-XII-XXX,2010-01-06,7ccc59eb-31b1-4d6a-a5eb-b3367d0a18ec,fdc2a5d1-a3b9-4360-bcd6-6e7305f2fabe,5.69×10^+05,Nitrofurantoin 5 MG/ML [Furadantin],301011002.0,Escherichia coli urinary tract infection
+MCMXCV-VII-XXIII,zero,e18078c4-b4c9-4e7e-8ed0-e40e255d8fc7,ad3a15af-6e7f-49ed-9814-b0609765e153,1.80×10^+06,Leucovorin 100 MG Injection,363406005.0,Malignant tumor of colon
+MCMXCIX-II-XXII,2000-02-22,d538bb58-f5ce-4609-83cf-bfc495616eda,2aaf7afd-43fe-46f2-b58a-39ccce2ac3f4,1.36×10^+06,Estrostep Fe 28 Day Pack,,
+MCMXLVIII-IX-XXX,zero,55f1a2b1-da37-476a-9bce-ca82a880863e,1021a758-5854-4175-9a8b-8c6e02d3585c,8.34×10^+05,Penicillin V Potassium 250 MG,43878008.0,Streptococcal sore throat (disorder)
+MMXIV-III-XXI,2014-04-04,9195dc4a-37c9-47f0-b0f3-1e6aad398de3,14fc28a3-bfa4-487b-9aa7-26067fe3fa5c,3.92×10^+05,Amoxicillin 200 MG Oral Tablet,,
+MMXVI-VIII-XXVIII,zero,346854b6-9fa9-4ff4-9118-0b0926078df6,cf4ae719-9486-4b12-bee7-955bc67f5e6d,8.34×10^+05,Penicillin V Potassium 500 MG,43878008.0,Streptococcal sore throat (disorder)
+MMXII-VIII-XIII,2012-09-10,5e8a81d8-e7f2-416b-afdd-c2f8faca1bb5,08b19de3-0519-4591-833a-5b818a26ead4,3.14×10^+05,Acetaminophen 325 MG Oral Tablet,,
+MCMLVI-V-IX,zero,5e1d7145-e7ab-4cce-8645-d2d99d929079,cf8ae4da-adfa-406e-ac2f-cee98438ea67,8.34×10^+05,Penicillin V Potassium 250 MG,43878008.0,Streptococcal sore throat (disorder)
+MMXVII-VII-XV,zero,3bda8038-e158-4b07-ab06-42ec8a6a34f7,782d8364-7ecf-46df-a394-bc4d6de283b4,7.58×10^+05,Jolivette 28 Day Pack,,
+MMXIV-X-XIII,2014-10-13,045e2f8e-5bbd-4776-9a84-43ba02cea3ba,feb9e2d1-5960-4e5b-a372-5fd23e2436ff,1.73×10^+06,Etoposide 100 MG Injection,67841000119103.0,Primary small cell malignant neoplasm of lung  TNM stage 4 (disorder)
+MMXIII-XII-XVII,2013-12-31,0d3c7df1-38e8-4566-8b58-6a2735857ee2,76cd049c-4db8-4e6e-9962-7c399ac81408,3.92×10^+05,Amoxicillin 200 MG Oral Tablet,,
+MMXVII-VII-XVI,2017-10-19,689e4bef-f975-4d6a-82db-6b82ec46ac49,8ebf671c-bd8c-475f-aea8-c54c240479d1,3.14×10^+05,Acetaminophen 325 MG Oral Tablet,,
+MCMXXII-X-XXX,zero,ab31bac7-6165-4bb3-9d11-935d56ee331b,75a37827-15c9-4931-bcae-1d4f2b734edb,8.34×10^+05,Penicillin V Potassium 250 MG,43878008.0,Streptococcal sore throat (disorder)
+MCMLXXI-XII-XXIII,zero,aaa4c718-2f48-4c13-9ad0-d287cf280824,c6670e6a-8df4-43e0-a707-3adf2802f85f,8.50×10^+05,Naproxen sodium 220 MG [Aleve],239872002.0,Osteoarthritis of hip
+MMIX-III-XIV,2009-03-14,e73f3814-3988-44a6-befb-88bbd2028735,8b32fbcf-ba3b-4f66-ace4-01186c0f7b38,3.09×10^+05,Clopidogrel 75 MG Oral Tablet,230690007.0,Stroke
+MMX-II-IV,2010-02-04,304ef151-bcfb-4f05-94f3-a7598efac77e,9a5aff91-2987-4fda-9f87-e2c9a45c04d2,5.83×10^+05,PACLitaxel 100 MG Injection,423121009.0,Non-small cell carcinoma of lung  TNM stage 4 (disorder)
+MCMLXVIII-I-VI,1969-01-06,a8b24df6-d727-45d2-b269-cf482c17a402,2d536593-07c9-4ec1-b2af-1dc97848718a,2.35×10^+05,Mestranol / Norethynodrel [Enovid],,
+MMVIII-XI-XXVII,2009-11-27,63b2d7b3-c597-4ede-b477-9b0515799cc8,5e11d3c0-c228-492d-839a-19fe25db1400,7.58×10^+05,Jolivette 28 Day Pack,,
+MMXVI-VII-XVI,2016-08-17,edd7899b-c155-4028-85b1-e464ea61d031,981c1a64-d916-4b1f-ab92-ee7c2c5e4eeb,1.05×10^+06,Acetaminophen 325 MG / oxyCODONE Hydrochloride 5 MG Oral Tablet,,
+MCMXLV-IX-XXIII,zero,3c049790-24b6-4c63-bd54-3f19d3c67ea5,798b55be-7d95-4637-a996-3a54ef81d3aa,8.34×10^+05,Penicillin V Potassium 250 MG,43878008.0,Streptococcal sore throat (disorder)
+MCMLXXXVIII-VI-XXII,zero,7275dc64-7663-444d-bff1-f914ae597eaf,f2c7271d-05b1-4b60-8e13-d9fcccd15c3d,7.27×10^+05,0.3 ML EPINEPHrine 0.5 MG/ML Auto-Injector,,
+MMXI-IX-IX,2011-10-07,daa72f50-f8e5-4c31-910a-9560384e209a,0ecffd43-7709-4d56-a609-38740066f42f,1.05×10^+06,Acetaminophen 325 MG / oxyCODONE Hydrochloride 5 MG Oral Tablet,,
+MMXI-III-XX,2012-03-22,045e2f8e-5bbd-4776-9a84-43ba02cea3ba,0de2a1cb-9485-4b7b-88c5-3aa3719038d0,8.07×10^+05,Mirena 52 MG Intrauterine System,,
+MCMLXXXV-II-IX,zero,e8a28ebd-def8-4f46-86aa-780e7674b6a0,4aeaec83-7661-424f-bb69-4436d2c9dead,8.50×10^+05,Naproxen sodium 220 MG [Aleve],201834006.0,Localized  primary osteoarthritis of the hand
+MCMLXIX-V-XXI,zero,e38d9e39-b073-491d-b9ca-14f9d1a7688a,8e518461-8eb1-4346-8c7b-f905d7f80e68,8.50×10^+05,Naproxen sodium 220 MG [Aleve],239873007.0,Osteoarthritis of knee
+MCMLIII-I-IX,zero,3f16df24-c47f-4b37-a735-e32d5a4c5839,a2a04b0c-dfb2-4b0b-a1ac-915d0fda36f9,7.46×10^+05,200 ACTUAT Albuterol 0.09 MG/ACTUAT Metered Dose Inhaler,233678006.0,Childhood asthma
+MMXIV-XI-XIX,2014-12-08,68e8e936-9ff8-42b6-bb0a-e74e7e2ecbb7,0544f291-d949-44df-9098-ec0790421719,8.50×10^+05,Naproxen sodium 220 MG Oral Tablet,,
+MMXVII-V-VI,2017-05-06,99ca7d85-4dd4-446a-a200-b65a4dee5756,e20779a0-527a-43d9-be4f-db5f29bb2a60,1.74×10^+06,Cisplatin 50 MG Injection,67841000119103.0,Primary small cell malignant neoplasm of lung  TNM stage 4 (disorder)
+MMVII-XII-XXIV,zero,5ff83eda-a4ec-4e06-a813-5fee6a8a968a,2b63c45b-8339-4917-b448-3b0fc1983bb7,1.97×10^+05,Amlodipine 5 MG Oral Tablet,53741008.0,Coronary Heart Disease
+MMXVII-III-XXI,2017-04-04,20d01a18-36fc-40b2-8a1b-b69770017de7,dec13737-904c-4b60-ae40-1f883bb789ca,3.92×10^+05,Amoxicillin 200 MG Oral Tablet,,
+MCMXCVIII-VI-XIV,zero,535f5462-9a5e-45e1-933c-3eafc1c242df,c4c4497b-2891-4174-a2d6-2c409d242151,8.34×10^+05,Penicillin V Potassium 250 MG,43878008.0,Streptococcal sore throat (disorder)
+MMIX-X-XXII,2009-10-22,8a4c76ce-1710-4632-ac34-7eaedcba5595,94cb0aa0-aa5f-4136-81cd-1cd5d027fc36,1.74×10^+06,Cisplatin 50 MG Injection,422968005.0,Non-small cell carcinoma of lung  TNM stage 3 (disorder)
+MMIII-VIII-XIX,zero,9369649d-f8d0-4c61-8749-93b0f95238bf,8b69e30b-ff73-4ba3-a4ae-43a667a2bcdd,8.34×10^+05,Penicillin V Potassium 250 MG,43878008.0,Streptococcal sore throat (disorder)
+MMIX-II-XXVI,2009-02-26,e3c8d2c8-570d-4c69-a81e-bd88d6c6b0ca,dd5f792d-e0be-4eeb-ba00-4bcd340919fa,1.74×10^+06,Cisplatin 50 MG Injection,423121009.0,Non-small cell carcinoma of lung  TNM stage 4 (disorder)
+MCMLXXXIX-VIII-XIV,zero,80ffa4a9-bde4-4229-8d3b-f2a50d349e2e,891ce561-87bc-43e5-bf0f-d3b04182173f,8.34×10^+05,Penicillin V Potassium 500 MG,43878008.0,Streptococcal sore throat (disorder)
+MMVIII-II-XX,2008-02-20,ec5b8c72-1106-4626-b00b-e71fdbba07a1,da1625a1-6d77-4707-89f2-39c0206a997e,1.74×10^+06,Cisplatin 50 MG Injection,423121009.0,Non-small cell carcinoma of lung  TNM stage 4 (disorder)
+MMV-IX-XXX,zero,aea0aaf7-1292-4011-9448-771d7a84daaf,26a4f223-794b-4357-a712-0e0e76212577,8.34×10^+05,Penicillin V Potassium 500 MG,43878008.0,Streptococcal sore throat (disorder)
+MMXVI-VIII-II,2017-08-04,c730688c-0add-41c1-85f3-2eb2dec1c8c7,0b1de01d-2687-4bc8-8a59-98026eeda937,8.07×10^+05,Mirena 52 MG Intrauterine System,,

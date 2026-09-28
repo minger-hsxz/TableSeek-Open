@@ -1,0 +1,84 @@
+payment_id,customer_id,staff_id,rental_id,amount,payment_date,last_update
+three hundred and seventy-two,14,1,8548.0,3.99,MMV-VII-XXIX 11:11:33,MMVI-II-XV 22:12:32
+"nine thousand, one hundred and ninety-four",340,2,6381.0,4.99,MMV-VII-XI 21:58:48,MMVI-II-XV 22:16:28
+"four thousand, nine hundred and forty-five",181,2,15196.0,2.99,MMV-VIII-XXII 16:11:32,MMVI-II-XV 22:13:50
+"thirteen thousand, one hundred and thirty-eight",486,2,14251.0,4.99,MMV-VIII-XXI 05:42:20,MMVI-II-XV 22:20:01
+"one thousand, five hundred and seventy-three",57,2,4226.0,4.99,MMV-VII-VII 12:37:56,MMVI-II-XV 22:12:43
+"eight thousand, one hundred and ninety",302,1,1231.0,2.99,MMV-VI-XV 04:04:41,MMVI-II-XV 22:15:44
+"four thousand, seven hundred and forty",175,2,3266.0,4.99,MMV-VI-XXI 04:49:07,MMVI-II-XV 22:13:45
+"five thousand, eight hundred and sixty-nine",216,1,9096.0,0.99,MMV-VII-XXX 08:39:23,MMVI-II-XV 22:14:17
+"eleven thousand, eight hundred and sixty-three",439,1,15818.0,1.99,MMV-VIII-XXIII 14:59:58,MMVI-II-XV 22:18:47
+"two thousand, three hundred and sixty-six",87,1,5628.0,3.99,MMV-VII-X 05:56:40,MMVI-II-XV 22:12:54
+"nine thousand, one hundred and ninety-three",340,1,4742.0,0.99,MMV-VII-VIII 13:35:23,MMVI-II-XV 22:16:28
+"one thousand, six hundred and forty-seven",60,1,318.0,4.99,MMV-V-XXVI 23:37:39,MMVI-II-XV 22:12:44
+"thirteen thousand, eight hundred and sixty-four",515,2,2003.0,4.99,MMV-VI-XVII 11:40:35,MMVI-II-XV 22:20:46
+"four thousand, four hundred and sixty-one",164,1,6980.0,3.99,MMV-VII-XXVII 00:50:30,MMVI-II-XV 22:13:38
+"fourteen thousand, six hundred and ninety",547,2,3679.0,4.99,MMV-VII-VI 09:15:57,MMVI-II-XV 22:21:39
+"twelve thousand, one hundred and seventy-one",451,1,4538.0,2.99,MMV-VII-VIII 03:56:29,MMVI-II-XV 22:19:04
+"ten thousand, four hundred and ninety",387,2,11682.0,2.99,MMV-VIII-XVII 06:13:40,MMVI-II-XV 22:17:31
+"one thousand, eight hundred and eighty-three",69,1,12012.0,2.99,MMV-VIII-XVII 19:20:48,MMVI-II-XV 22:12:47
+"seven thousand, three hundred and eighty-four",273,1,9186.0,4.99,MMV-VII-XXX 12:13:48,MMVI-II-XV 22:15:12
+"two thousand, two hundred and thirteen",81,1,15224.0,5.99,MMV-VIII-XXII 17:18:05,MMVI-II-XV 22:12:52
+"one thousand, eight hundred and ninety",69,1,15547.0,2.99,MMV-VIII-XXIII 04:25:50,MMVI-II-XV 22:12:47
+"eleven thousand, seven hundred and ninety-seven",438,2,1036.0,0.99,MMV-V-XXXI 05:21:10,MMVI-II-XV 22:18:44
+seventy-two,3,1,7911.0,4.99,MMV-VII-XXVIII 11:46:45,MMVI-II-XV 22:12:30
+"thirteen thousand, seven hundred and fifty-six",510,1,15065.0,4.99,MMV-VIII-XXII 10:46:44,MMVI-II-XV 22:20:39
+"eleven thousand, six hundred and seventy-three",433,1,6765.0,5.99,MMV-VII-XII 15:30:47,MMVI-II-XV 22:18:37
+"ten thousand, eight hundred and seventy-six",403,1,442.0,2.99,MMV-V-XXVII 18:12:13,MMVI-II-XV 22:17:52
+"seven thousand, two hundred and five",266,1,14492.0,2.99,MMV-VIII-XXI 13:59:08,MMVI-II-XV 22:15:05
+"two thousand, five hundred and seventy",94,1,13786.0,5.99,MMV-VIII-XX 12:13:24,MMVI-II-XV 22:12:57
+"one thousand, two hundred and ten",44,1,2809.0,3.99,MMV-VI-XIX 19:40:27,MMVI-II-XV 22:12:39
+"ten thousand, seven hundred and forty-five",397,2,5103.0,4.99,MMV-VII-IX 06:34:40,MMVI-II-XV 22:17:44
+"eight thousand, six hundred and seventy-seven",321,1,3410.0,0.99,MMV-VI-XXI 16:20:47,MMVI-II-XV 22:16:04
+"three thousand, five hundred and ninety-nine",133,1,7177.0,2.99,MMV-VII-XXVII 08:07:39,MMVI-II-XV 22:13:18
+"twelve thousand, six hundred and twenty-three",468,1,3840.0,5.99,MMV-VII-VI 16:30:59,MMVI-II-XV 22:19:30
+"three thousand, three hundred and sixty-eight",125,1,8433.0,2.99,MMV-VII-XXIX 07:19:16,MMVI-II-XV 22:13:13
+"one thousand, six hundred and eighty-three",61,1,13830.0,0.99,MMV-VIII-XX 13:57:59,MMVI-II-XV 22:12:45
+fifteen thousand and eighty-one,563,2,4711.0,2.99,MMV-VII-VIII 12:06:58,MMVI-II-XV 22:22:06
+seven thousand and thirty-seven,260,1,13685.0,3.99,MMV-VIII-XX 08:57:11,MMVI-II-XV 22:14:59
+"three thousand, nine hundred and thirty-two",145,2,6378.0,0.99,MMV-VII-XI 21:45:23,MMVI-II-XV 22:13:26
+"six thousand, seven hundred and sixty-six",251,1,3799.0,4.99,MMV-VII-VI 15:00:14,MMVI-II-XV 22:14:50
+"eleven thousand, six hundred and thirty-two",431,2,8810.0,4.99,MMV-VII-XXIX 21:45:19,MMVI-II-XV 22:18:35
+"ten thousand, nine hundred and fifty-seven",405,2,8482.0,2.99,MMV-VII-XXIX 08:46:33,MMVI-II-XV 22:17:56
+fifteen thousand and thirty-five,561,1,6843.0,4.99,MMV-VII-XII 19:14:05,MMVI-II-XV 22:22:03
+"four thousand, one hundred and seventy-two",153,1,12103.0,1.99,MMV-VIII-XVII 22:49:09,MMVI-II-XV 22:13:31
+"thirteen thousand, six hundred and ninety",508,2,5978.0,6.99,MMV-VII-XI 00:16:54,MMVI-II-XV 22:20:35
+"six thousand, five hundred and thirty-four",242,1,108.0,2.99,MMV-V-XXV 18:30:05,MMVI-II-XV 22:14:42
+"five thousand, four hundred and eighty-seven",202,1,10375.0,2.99,MMV-VIII-I 06:26:22,MMVI-II-XV 22:14:05
+"two thousand, nine hundred and twenty-seven",108,2,12625.0,6.99,MMV-VIII-XVIII 17:36:19,MMVI-II-XV 22:13:04
+five hundred and fifty-three,21,1,5772.0,3.99,MMV-VII-X 13:27:40,MMVI-II-XV 22:12:33
+"one thousand, nine hundred and ninety-four",74,2,1121.0,6.99,MMV-V-XXXI 16:37:36,MMVI-II-XV 22:12:49
+ten thousand and sixty-two,372,1,5501.0,6.99,MMV-VII-X 00:33:48,MMVI-II-XV 22:17:10
+"eleven thousand, four hundred and sixty-five",424,2,8999.0,2.99,MMV-VII-XXX 04:55:46,MMVI-II-XV 22:18:26
+"fourteen thousand, one hundred and forty-four",526,2,2398.0,4.99,MMV-VI-XVIII 15:56:53,MMVI-II-XV 22:21:03
+"nine thousand, four hundred and ninety-three",351,2,4761.0,5.99,MMV-VII-VIII 14:51:45,MMVI-II-XV 22:16:42
+"one thousand, five hundred and sixty-seven",57,1,2058.0,5.99,MMV-VI-XVII 15:34:41,MMVI-II-XV 22:12:43
+"three thousand, six hundred and fifty-eight",135,2,11194.0,5.99,MMV-VIII-II 11:35:53,MMVI-II-XV 22:13:19
+"fourteen thousand, six hundred and eighty-six",547,1,306.0,0.99,MMV-V-XXVI 21:31:57,MMVI-II-XV 22:21:39
+"four thousand, one hundred and thirty-two",151,2,14922.0,3.99,MMV-VIII-XXII 05:13:05,MMVI-II-XV 22:13:30
+"eight thousand, one hundred and fifty",300,1,8210.0,6.99,MMV-VII-XXVIII 23:31:05,MMVI-II-XV 22:15:42
+five thousand and sixty-one,186,1,12348.0,5.99,MMV-VIII-XVIII 07:21:47,MMVI-II-XV 22:13:54
+"three thousand, two hundred and seventy",121,2,12734.0,1.99,MMV-VIII-XVIII 22:04:52,MMVI-II-XV 22:13:11
+fourteen thousand and thirty-two,521,2,11625.0,2.99,MMV-VIII-XVII 04:18:52,MMVI-II-XV 22:20:56
+thirteen thousand and sixty-one,484,1,2044.0,5.99,MMV-VI-XVII 14:37:57,MMVI-II-XV 22:19:56
+"two thousand, five hundred and ninety-six",96,2,1437.0,0.99,MMV-VI-XV 18:37:04,MMVI-II-XV 22:12:58
+"eight thousand, five hundred and three",313,2,15569.0,6.99,MMV-VIII-XXIII 05:24:29,MMVI-II-XV 22:15:57
+"six thousand, three hundred and seventeen",234,1,15129.0,2.99,MMV-VIII-XXII 13:03:52,MMVI-II-XV 22:14:35
+"five thousand, five hundred and ninety-nine",207,2,826.0,6.99,MMV-V-XXIX 21:56:15,MMVI-II-XV 22:14:09
+"ten thousand, nine hundred and four",403,2,12005.0,5.99,MMV-VIII-XVII 18:56:55,MMVI-II-XV 22:17:53
+"six thousand, nine hundred and seventy-two",258,2,10332.0,6.99,MMV-VIII-I 04:57:32,MMVI-II-XV 22:14:57
+"thirteen thousand, three hundred and one",494,1,3511.0,0.99,MMV-VII-VI 00:42:01,MMVI-II-XV 22:20:11
+"thirteen thousand, two hundred and thirty-three",491,1,484.0,2.99,MMV-V-XXVII 23:26:45,MMVI-II-XV 22:20:06
+"fifteen thousand, six hundred and ninety-eight",586,2,9786.0,2.99,MMV-VII-XXXI 10:25:21,MMVI-II-XV 22:22:49
+"seven thousand, eight hundred and sixty-nine",290,2,13190.0,1.99,MMV-VIII-XIX 14:27:59,MMVI-II-XV 22:15:31
+"eight thousand, eight hundred and thirty-eight",327,1,10371.0,0.99,MMV-VIII-I 06:20:29,MMVI-II-XV 22:16:11
+two hundred and fifty-eight,10,1,2814.0,0.99,MMV-VI-XIX 20:01:59,MMVI-II-XV 22:12:31
+"twelve thousand, eight hundred and forty-seven",475,2,5469.0,2.99,MMV-VII-IX 23:08:07,MMVI-II-XV 22:19:43
+"nine thousand, five hundred and thirty",352,1,14130.0,4.99,MMV-VIII-XXI 01:43:11,MMVI-II-XV 22:16:44
+"thirteen thousand, four hundred and seventy-one",500,1,4561.0,0.99,MMV-VII-VIII 05:02:43,MMVI-II-XV 22:20:21
+"ten thousand, two hundred and seventy-nine",380,1,3260.0,4.99,MMV-VI-XXI 03:59:13,MMVI-II-XV 22:17:20
+eight thousand and sixteen,295,2,15735.0,0.99,MMVI-II-XIV 15:16:03,MMVI-II-XV 22:15:37
+five hundred and fifty,21,2,2830.0,4.99,MMV-VI-XIX 21:14:33,MMVI-II-XV 22:12:33
+"eight thousand, seven hundred and forty",323,1,8790.0,0.99,MMV-VII-XXIX 20:51:41,MMVI-II-XV 22:16:07
+"five thousand, one hundred and seventy-two",190,2,14141.0,4.99,MMV-VIII-XXI 02:07:22,MMVI-II-XV 22:13:57
+"eleven thousand, seven hundred and fifty-four",436,2,8027.0,5.99,MMV-VII-XXVIII 16:09:57,MMVI-II-XV 22:18:41

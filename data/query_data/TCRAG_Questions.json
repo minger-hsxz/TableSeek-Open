@@ -1,0 +1,4819 @@
+[
+  {
+    "question_id": "Question_G0_Q0",
+    "db_id": "movie_3",
+    "highlighted_table": [
+      "address_T0"
+    ],
+    "all_tables_in_group": [
+      "address_T0",
+      "address_T1",
+      "address_T2",
+      "address_T3",
+      "address_T4"
+    ],
+    "question": "As a data analyst, could you help me retrieve the postal (ZIP) codes for all records where the city identifier is 594 or higher?",
+    "answer": [
+      35156.0
+    ],
+    "answer_index": [
+      37
+    ],
+    "question_type": "SF"
+  },
+  {
+    "question_id": "Question_G1_Q0",
+    "db_id": "retail_complains",
+    "highlighted_table": [
+      "callcenterlogs_T0"
+    ],
+    "all_tables_in_group": [
+      "callcenterlogs_T0",
+      "callcenterlogs_T1",
+      "callcenterlogs_T2",
+      "callcenterlogs_T3",
+      "callcenterlogs_T4"
+    ],
+    "question": "As a data analyst, could you pull up the RAND client record where the call identifier equals 35710?",
+    "answer": [
+      "C00003714"
+    ],
+    "answer_index": [
+      44
+    ],
+    "question_type": "EM"
+  },
+  {
+    "question_id": "Question_G2_Q0",
+    "db_id": "sales_in_weather",
+    "highlighted_table": [
+      "weather_T0"
+    ],
+    "all_tables_in_group": [
+      "weather_T0",
+      "weather_T1",
+      "weather_T2",
+      "weather_T3",
+      "weather_T4"
+    ],
+    "question": "As a climate researcher, could you help me find the lowest total precipitation recorded when the station number is less than 2, the dew‑point temperature is above –6.0 °C, and the heat index is below 16.0 °C?",
+    "answer": [
+      0.05
+    ],
+    "answer_index": [
+      13
+    ],
+    "question_type": "SA"
+  },
+  {
+    "question_id": "Question_G3_Q0",
+    "db_id": "hockey",
+    "highlighted_table": [
+      "TeamsPost_T0"
+    ],
+    "all_tables_in_group": [
+      "TeamsPost_T0",
+      "TeamsPost_T1",
+      "TeamsPost_T2",
+      "TeamsPost_T3"
+    ],
+    "question": "As a sports analyst, could you help me retrieve the points‑per‑game values for all records where the team identifier is \"NYR\" and the bench‑minor rating is exactly 2.0?",
+    "answer": [
+      13.0
+    ],
+    "answer_index": [
+      19
+    ],
+    "question_type": "EM"
+  },
+  {
+    "question_id": "Question_G4_Q0",
+    "db_id": "college_completion",
+    "highlighted_table": [
+      "state_sector_grads_T0"
+    ],
+    "all_tables_in_group": [
+      "state_sector_grads_T0",
+      "state_sector_grads_T1",
+      "state_sector_grads_T2",
+      "state_sector_grads_T3",
+      "state_sector_grads_T4"
+    ],
+    "question": "As a data analyst, could you help me determine the highest graduation cohort among all records where the state identifier is greater than 54?",
+    "answer": [
+      19.0
+    ],
+    "answer_index": [
+      38,
+      44
+    ],
+    "question_type": "SA"
+  },
+  {
+    "question_id": "Question_G5_Q0",
+    "db_id": "books",
+    "highlighted_table": [
+      "customer_address_T0"
+    ],
+    "all_tables_in_group": [
+      "customer_address_T0",
+      "customer_address_T1",
+      "customer_address_T2",
+      "customer_address_T3"
+    ],
+    "question": "As a customer support representative, could you tell me which customer ID corresponds to the address ID 901?",
+    "answer": [
+      274,
+      529
+    ],
+    "answer_index": [
+      73,
+      128
+    ],
+    "question_type": "EM"
+  },
+  {
+    "question_id": "Question_G6_Q0",
+    "db_id": "music_platform_2",
+    "highlighted_table": [
+      "podcasts_T0"
+    ],
+    "all_tables_in_group": [
+      "podcasts_T0",
+      "podcasts_T1",
+      "podcasts_T2",
+      "podcasts_T3",
+      "podcasts_T4"
+    ],
+    "question": "As a data analyst working on a podcast directory, could you tell me what the podcast ID is for the show whose iTunes URL is podcasts.apple.com/us/podcast/luanis-podcast/id1521263525 and whose slug is “luanis-podcast”?",
+    "answer": [
+      "a743379a56235b8e5d78256c0b6be033"
+    ],
+    "answer_index": [
+      29
+    ],
+    "question_type": "EM"
+  },
+  {
+    "question_id": "Question_G7_Q0",
+    "db_id": "regional_sales",
+    "highlighted_table": [
+      "Sales Orders_T0"
+    ],
+    "all_tables_in_group": [
+      "Sales Orders_T0",
+      "Sales Orders_T1",
+      "Sales Orders_T2",
+      "Sales Orders_T3"
+    ],
+    "question": "As a sales analyst, could you help me find the total order quantity for all sales teams whose team ID is three or lower?",
+    "answer": [
+      28.0
+    ],
+    "answer_index": [
+      10,
+      25,
+      26,
+      31,
+      42
+    ],
+    "question_type": "SA"
+  },
+  {
+    "question_id": "Question_G8_Q0",
+    "db_id": "chicago_crime",
+    "highlighted_table": [
+      "Crime_T0"
+    ],
+    "all_tables_in_group": [
+      "Crime_T0",
+      "Crime_T1",
+      "Crime_T2"
+    ],
+    "question": "As a detective reviewing case files, could you tell me the district number for the records where the case number is JB374147 and the beat number is 1,014?",
+    "answer": [
+      10
+    ],
+    "answer_index": [
+      38
+    ],
+    "question_type": "EM"
+  },
+  {
+    "question_id": "Question_G9_Q0",
+    "db_id": "movies_4",
+    "highlighted_table": [
+      "keyword_T0"
+    ],
+    "all_tables_in_group": [
+      "keyword_T0",
+      "keyword_T1",
+      "keyword_T2",
+      "keyword_T3"
+    ],
+    "question": "As a data analyst, could you help me retrieve the keyword name for the record where the keyword ID is 12366?",
+    "answer": [
+      "hitwoman"
+    ],
+    "answer_index": [
+      198
+    ],
+    "question_type": "EM"
+  },
+  {
+    "question_id": "Question_G10_Q0",
+    "db_id": "legislator",
+    "highlighted_table": [
+      "current_T0"
+    ],
+    "all_tables_in_group": [
+      "current_T0",
+      "current_T1",
+      "current_T2",
+      "current_T3",
+      "current_T4"
+    ],
+    "question": "As a data analyst working with Wikidata, could you help me retrieve the gender biography information for the entry whose Wikidata identifier is Q973737?",
+    "answer": [
+      "M"
+    ],
+    "answer_index": [
+      3
+    ],
+    "question_type": "EM"
+  },
+  {
+    "question_id": "Question_G11_Q0",
+    "db_id": "books",
+    "highlighted_table": [
+      "book_T0"
+    ],
+    "all_tables_in_group": [
+      "book_T0",
+      "book_T1",
+      "book_T2",
+      "book_T3"
+    ],
+    "question": "As a librarian updating our catalog, could you help me pull the publication dates for all books with a book identifier of 9,930 or higher, but only those that aren't in the primary language (i.e., where the language identifier is not 1)?",
+    "answer": [
+      "1983-01-01",
+      "2000-07-06"
+    ],
+    "answer_index": [
+      18,
+      76
+    ],
+    "question_type": "SF"
+  },
+  {
+    "question_id": "Question_G12_Q0",
+    "db_id": "video_games",
+    "highlighted_table": [
+      "game_platform_T0"
+    ],
+    "all_tables_in_group": [
+      "game_platform_T0",
+      "game_platform_T1",
+      "game_platform_T2",
+      "game_platform_T3",
+      "game_platform_T4"
+    ],
+    "question": "As a game data analyst, could you tell me the platform identifier for the game that was released in 1998 and has a publisher ID of 8486?",
+    "answer": [
+      13
+    ],
+    "answer_index": [
+      111
+    ],
+    "question_type": "EM"
+  },
+  {
+    "question_id": "Question_G13_Q0",
+    "db_id": "financial",
+    "highlighted_table": [
+      "disp_T0"
+    ],
+    "all_tables_in_group": [
+      "disp_T0",
+      "disp_T1",
+      "disp_T2",
+      "disp_T3"
+    ],
+    "question": "As a data analyst, could you help me retrieve the client identifier for the record where the display ID equals 529?",
+    "answer": [
+      529
+    ],
+    "answer_index": [
+      152
+    ],
+    "question_type": "EM"
+  },
+  {
+    "question_id": "Question_G14_Q0",
+    "db_id": "cookbook",
+    "highlighted_table": [
+      "Nutrition_T0"
+    ],
+    "all_tables_in_group": [
+      "Nutrition_T0",
+      "Nutrition_T1",
+      "Nutrition_T2",
+      "Nutrition_T3"
+    ],
+    "question": "As a nutritionist, I'm trying to figure out the smallest amount of total fat you can get in foods that have an iron content greater than 4.61 mg. Could you help me determine that?",
+    "answer": [
+      8.84
+    ],
+    "answer_index": [
+      34
+    ],
+    "question_type": "SA"
+  },
+  {
+    "question_id": "Question_G15_Q0",
+    "db_id": "works_cycles",
+    "highlighted_table": [
+      "BusinessEntityAddress_T0"
+    ],
+    "all_tables_in_group": [
+      "BusinessEntityAddress_T0",
+      "BusinessEntityAddress_T1",
+      "BusinessEntityAddress_T2",
+      "BusinessEntityAddress_T3",
+      "BusinessEntityAddress_T4"
+    ],
+    "question": "As a data analyst, could you help me retrieve the row GUID values for all records where the address type ID is not equal to 2 and the business entity ID is not equal to 11,114?",
+    "answer": [
+      "5D4845C6-5905-4712-908B-5084FCC3B04F"
+    ],
+    "answer_index": [
+      84
+    ],
+    "question_type": "SF"
+  },
+  {
+    "question_id": "Question_G16_Q0",
+    "db_id": "codebase_comments",
+    "highlighted_table": [
+      "Solution_T0"
+    ],
+    "all_tables_in_group": [
+      "Solution_T0",
+      "Solution_T1",
+      "Solution_T2",
+      "Solution_T3"
+    ],
+    "question": "As a data analyst, I'm trying to find the smallest record identifier among all rows where the repository ID exceeds 146,413. Could you help me compute that?",
+    "answer": [
+      209159.0
+    ],
+    "answer_index": [
+      17,
+      23,
+      27,
+      42,
+      94
+    ],
+    "question_type": "SA"
+  },
+  {
+    "question_id": "Question_G17_Q0",
+    "db_id": "shipping",
+    "highlighted_table": [
+      "shipment_T0"
+    ],
+    "all_tables_in_group": [
+      "shipment_T0",
+      "shipment_T1",
+      "shipment_T2",
+      "shipment_T3"
+    ],
+    "question": "As a logistics analyst, could you help me retrieve the weight values for all entries where the shipping date is March 11, 2017?",
+    "answer": [
+      3006.0
+    ],
+    "answer_index": [
+      55
+    ],
+    "question_type": "EM"
+  },
+  {
+    "question_id": "Question_G18_Q0",
+    "db_id": "airline",
+    "highlighted_table": [
+      "Airlines_T0"
+    ],
+    "all_tables_in_group": [
+      "Airlines_T0",
+      "Airlines_T1",
+      "Airlines_T2",
+      "Airlines_T3",
+      "Airlines_T4"
+    ],
+    "question": "As an airline analyst, could you help me find the tail numbers of flights where the scheduled elapsed time is exactly 73?",
+    "answer": [
+      "N241LR"
+    ],
+    "answer_index": [
+      2
+    ],
+    "question_type": "EM"
+  },
+  {
+    "question_id": "Question_G19_Q0",
+    "db_id": "hockey",
+    "highlighted_table": [
+      "Teams_T0"
+    ],
+    "all_tables_in_group": [
+      "Teams_T0",
+      "Teams_T1",
+      "Teams_T2"
+    ],
+    "question": "As a data analyst, I'm trying to find the total number of points accumulated for all records where the SoW value is 5.0 or lower. Could you help me calculate that sum?",
+    "answer": [
+      256.0
+    ],
+    "answer_index": [
+      2,
+      3,
+      9
+    ],
+    "question_type": "SA"
+  },
+  {
+    "question_id": "Question_G20_Q0",
+    "db_id": "student_club",
+    "highlighted_table": [
+      "zip_code_T0"
+    ],
+    "all_tables_in_group": [
+      "zip_code_T0",
+      "zip_code_T1",
+      "zip_code_T2",
+      "zip_code_T3",
+      "zip_code_T4"
+    ],
+    "question": "As a data analyst, could you give me a list of the cities for all entries where the state abbreviation is “OH” and the full state name is Ohio?",
+    "answer": [
+      "Reynoldsburg",
+      "Saint Paris"
+    ],
+    "answer_index": [
+      23,
+      121
+    ],
+    "question_type": "EM"
+  },
+  {
+    "question_id": "Question_G21_Q0",
+    "db_id": "thrombosis_prediction",
+    "highlighted_table": [
+      "Examination_T0"
+    ],
+    "all_tables_in_group": [
+      "Examination_T0",
+      "Examination_T1",
+      "Examination_T2",
+      "Examination_T3",
+      "Examination_T4"
+    ],
+    "question": "As a clinical researcher, could you let me know which test dates show an ANA level greater than 64 and an anti‑cardiolipin IgM value exceeding 11.5?",
+    "answer": [
+      "1995-03-16",
+      "1996-10-17",
+      "1996-06-17",
+      "1998-02-06"
+    ],
+    "answer_index": [
+      7,
+      21,
+      29,
+      58
+    ],
+    "question_type": "SF"
+  },
+  {
+    "question_id": "Question_G22_Q0",
+    "db_id": "retails",
+    "highlighted_table": [
+      "partsupp_T0"
+    ],
+    "all_tables_in_group": [
+      "partsupp_T0",
+      "partsupp_T1",
+      "partsupp_T2",
+      "partsupp_T3"
+    ],
+    "question": "As a supply chain analyst, could you help me determine the highest supplier ID where the part ID is less than or equal to 52,717, the available quantity is not 4,467, and the supply cost is at least $864.09?",
+    "answer": [
+      4947.0
+    ],
+    "answer_index": [
+      2,
+      35,
+      58,
+      60
+    ],
+    "question_type": "SA"
+  },
+  {
+    "question_id": "Question_G23_Q0",
+    "db_id": "sakila_1",
+    "highlighted_table": [
+      "customer_T0"
+    ],
+    "all_tables_in_group": [
+      "customer_T0",
+      "customer_T1",
+      "customer_T2",
+      "customer_T3"
+    ],
+    "question": "As a data analyst, could you help me pull the first names of all records where the active status is zero or negative?",
+    "answer": [
+      "JUDITH"
+    ],
+    "answer_index": [
+      48
+    ],
+    "question_type": "SF"
+  },
+  {
+    "question_id": "Question_G24_Q0",
+    "db_id": "cookbook",
+    "highlighted_table": [
+      "Ingredient_T0"
+    ],
+    "all_tables_in_group": [
+      "Ingredient_T0",
+      "Ingredient_T1",
+      "Ingredient_T2"
+    ],
+    "question": "As a home chef planning my pantry, could you tell me the ingredient ID for Frieda's Black Beans that belongs to the dried beans category?",
+    "answer": [
+      2498
+    ],
+    "answer_index": [
+      123
+    ],
+    "question_type": "EM"
+  },
+  {
+    "question_id": "Question_G25_Q0",
+    "db_id": "shakespeare",
+    "highlighted_table": [
+      "paragraphs_T0"
+    ],
+    "all_tables_in_group": [
+      "paragraphs_T0",
+      "paragraphs_T1",
+      "paragraphs_T2"
+    ],
+    "question": "As a game data analyst, could you help me calculate the total of the chapter IDs for all records where the character ID is greater than 1,236?",
+    "answer": [
+      95229.0
+    ],
+    "answer_index": [
+      27,
+      36,
+      38,
+      43,
+      48
+    ],
+    "question_type": "SA"
+  },
+  {
+    "question_id": "Question_G26_Q0",
+    "db_id": "formula_1",
+    "highlighted_table": [
+      "results_T0"
+    ],
+    "all_tables_in_group": [
+      "results_T0",
+      "results_T1",
+      "results_T2"
+    ],
+    "question": "As a data analyst, I'm trying to find the average value of the status identifier for all records where the ranking is at least 16.",
+    "answer": [
+      16.2
+    ],
+    "answer_index": [
+      4,
+      18,
+      28,
+      34,
+      42
+    ],
+    "question_type": "SA"
+  },
+  {
+    "question_id": "Question_G27_Q0",
+    "db_id": "address",
+    "highlighted_table": [
+      "zip_congress_T0"
+    ],
+    "all_tables_in_group": [
+      "zip_congress_T0",
+      "zip_congress_T1",
+      "zip_congress_T2",
+      "zip_congress_T3",
+      "zip_congress_T4"
+    ],
+    "question": "I'm trying to find out which district corresponds to the zip code 28804. Could you help me?",
+    "answer": [
+      "NC-10"
+    ],
+    "answer_index": [
+      75
+    ],
+    "question_type": "EM"
+  },
+  {
+    "question_id": "Question_G28_Q0",
+    "db_id": "movielens",
+    "highlighted_table": [
+      "movies_T0"
+    ],
+    "all_tables_in_group": [
+      "movies_T0",
+      "movies_T1",
+      "movies_T2"
+    ],
+    "question": "As a film analyst, could you help me retrieve the IDs of movies whose runtime is under one hour?",
+    "answer": [
+      2465823
+    ],
+    "answer_index": [
+      36
+    ],
+    "question_type": "SF"
+  },
+  {
+    "question_id": "Question_G29_Q0",
+    "db_id": "food_inspection_2",
+    "highlighted_table": [
+      "establishment_T0"
+    ],
+    "all_tables_in_group": [
+      "establishment_T0",
+      "establishment_T1",
+      "establishment_T2",
+      "establishment_T3"
+    ],
+    "question": "As a data analyst, could you help me retrieve the city names for all records where the longitude is less than -87.804 and the ZIP code is not 60631?",
+    "answer": [
+      "CHICAGO"
+    ],
+    "answer_index": [
+      25
+    ],
+    "question_type": "SF"
+  },
+  {
+    "question_id": "Question_G30_Q0",
+    "db_id": "works_cycles",
+    "highlighted_table": [
+      "PersonCreditCard_T0"
+    ],
+    "all_tables_in_group": [
+      "PersonCreditCard_T0",
+      "PersonCreditCard_T1",
+      "PersonCreditCard_T2",
+      "PersonCreditCard_T3",
+      "PersonCreditCard_T4"
+    ],
+    "question": "As a data analyst, could you help me find the smallest business entity ID among the records where the credit card ID is greater than 18,436?",
+    "answer": [
+      3571.0
+    ],
+    "answer_index": [
+      13,
+      36,
+      42,
+      124,
+      158
+    ],
+    "question_type": "SA"
+  },
+  {
+    "question_id": "Question_G31_Q0",
+    "db_id": "talkingdata",
+    "highlighted_table": [
+      "app_labels_T0"
+    ],
+    "all_tables_in_group": [
+      "app_labels_T0",
+      "app_labels_T1",
+      "app_labels_T2"
+    ],
+    "question": "As a data analyst, could you help me retrieve the application IDs for all records where the label identifier is 713?",
+    "answer": [
+      -999943268489174128,
+      -8103714745209298813,
+      6130399180013669721,
+      -1633853134040899336
+    ],
+    "answer_index": [
+      48,
+      143,
+      155,
+      228
+    ],
+    "question_type": "EM"
+  },
+  {
+    "question_id": "Question_G32_Q0",
+    "db_id": "flight_4",
+    "highlighted_table": [
+      "routes_T0"
+    ],
+    "all_tables_in_group": [
+      "routes_T0",
+      "routes_T1",
+      "routes_T2"
+    ],
+    "question": "As a network analyst, could you help me retrieve the source access point for all records where the destination access point ID is 3861?",
+    "answer": [
+      "JFK"
+    ],
+    "answer_index": [
+      94
+    ],
+    "question_type": "EM"
+  },
+  {
+    "question_id": "Question_G33_Q0",
+    "db_id": "card_games",
+    "highlighted_table": [
+      "sets_T0"
+    ],
+    "all_tables_in_group": [
+      "sets_T0",
+      "sets_T1",
+      "sets_T2",
+      "sets_T3"
+    ],
+    "question": "As a data analyst, I'm trying to determine the average value of the foreign‑only flag for all records where the online‑only flag is greater than zero. Could you help me calculate that?",
+    "answer": [
+      0.0
+    ],
+    "answer_index": [
+      6,
+      21,
+      30
+    ],
+    "question_type": "SA"
+  },
+  {
+    "question_id": "Question_G34_Q0",
+    "db_id": "address",
+    "highlighted_table": [
+      "area_code_T0"
+    ],
+    "all_tables_in_group": [
+      "area_code_T0",
+      "area_code_T1",
+      "area_code_T2"
+    ],
+    "question": "As a data analyst working on a mailing list, could you tell me what the area code is for the zip code 2044?",
+    "answer": [
+      781
+    ],
+    "answer_index": [
+      43
+    ],
+    "question_type": "EM"
+  },
+  {
+    "question_id": "Question_G35_Q0",
+    "db_id": "public_review_platform",
+    "highlighted_table": [
+      "Tips_T0"
+    ],
+    "all_tables_in_group": [
+      "Tips_T0",
+      "Tips_T1",
+      "Tips_T2"
+    ],
+    "question": "As a data analyst, could you help me pull the tip length values for all entries where the number of likes is greater than zero?",
+    "answer": [
+      "Medium"
+    ],
+    "answer_index": [
+      152
+    ],
+    "question_type": "SF"
+  },
+  {
+    "question_id": "Question_G36_Q0",
+    "db_id": "food_inspection",
+    "highlighted_table": [
+      "businesses_T0"
+    ],
+    "all_tables_in_group": [
+      "businesses_T0",
+      "businesses_T1",
+      "businesses_T2",
+      "businesses_T3"
+    ],
+    "question": "As a data analyst, could you tell me the owner's ZIP code for any entries where the phone number isn’t 14150220022 and the latitude is above 37.796?",
+    "answer": [
+      "94109",
+      "94133"
+    ],
+    "answer_index": [
+      12,
+      31,
+      40,
+      41,
+      44
+    ],
+    "question_type": "SF"
+  },
+  {
+    "question_id": "Question_G37_Q0",
+    "db_id": "donor",
+    "highlighted_table": [
+      "projects_T0"
+    ],
+    "all_tables_in_group": [
+      "projects_T0",
+      "projects_T1",
+      "projects_T2",
+      "projects_T3",
+      "projects_T4"
+    ],
+    "question": "As a school administrator, could you provide me with the school IDs for all entries where the primary focus subject is Mathematics?",
+    "answer": [
+      "d510c00a7d934a8f85793106b39eb649",
+      "afdd491ad5831681b7060a9b9264731f",
+      "a7989ae6a7828685032854dfc1632da8"
+    ],
+    "answer_index": [
+      3,
+      8,
+      12
+    ],
+    "question_type": "EM"
+  },
+  {
+    "question_id": "Question_G38_Q0",
+    "db_id": "hockey",
+    "highlighted_table": [
+      "Coaches_T0"
+    ],
+    "all_tables_in_group": [
+      "Coaches_T0",
+      "Coaches_T1",
+      "Coaches_T2"
+    ],
+    "question": "As a researcher working with historical data, could you help me retrieve the stint values for all records where the postw measurement isn’t equal to 1.0 and the year is 1910 or earlier?",
+    "answer": [
+      1
+    ],
+    "answer_index": [
+      57
+    ],
+    "question_type": "SF"
+  },
+  {
+    "question_id": "Question_G39_Q0",
+    "db_id": "college_completion",
+    "highlighted_table": [
+      "institution_grads_T0"
+    ],
+    "all_tables_in_group": [
+      "institution_grads_T0",
+      "institution_grads_T1",
+      "institution_grads_T2",
+      "institution_grads_T3",
+      "institution_grads_T4"
+    ],
+    "question": "As a data analyst working on student performance metrics, could you help me find the highest unit identifier where the graduation cohort is less than 2.0, the graduation value at the 150‑point level is no more than 11.0, and the graduation rate at the 100‑point level is under 4.5?",
+    "answer": [
+      199157.0
+    ],
+    "answer_index": [
+      29
+    ],
+    "question_type": "SA"
+  },
+  {
+    "question_id": "Question_G40_Q0",
+    "db_id": "baseball_1",
+    "highlighted_table": [
+      "player_award_vote_T0"
+    ],
+    "all_tables_in_group": [
+      "player_award_vote_T0",
+      "player_award_vote_T1",
+      "player_award_vote_T2",
+      "player_award_vote_T3"
+    ],
+    "question": "As a data analyst, could you help me determine the highest value of the maximum points column for all records where the points earned are at least 248?",
+    "answer": [
+      392.0
+    ],
+    "answer_index": [
+      5,
+      11
+    ],
+    "question_type": "SA"
+  },
+  {
+    "question_id": "Question_G41_Q0",
+    "db_id": "works_cycles",
+    "highlighted_table": [
+      "PurchaseOrderHeader_T0"
+    ],
+    "all_tables_in_group": [
+      "PurchaseOrderHeader_T0",
+      "PurchaseOrderHeader_T1",
+      "PurchaseOrderHeader_T2",
+      "PurchaseOrderHeader_T3"
+    ],
+    "question": "As an analyst looking at our shipping expenses, could you help me find the highest freight cost for shipments where the shipping method ID is greater than 5 and the vendor ID is less than 1516?",
+    "answer": [
+      221.18
+    ],
+    "answer_index": [
+      11,
+      12,
+      26
+    ],
+    "question_type": "SA"
+  },
+  {
+    "question_id": "Question_G42_Q0",
+    "db_id": "codebase_community",
+    "highlighted_table": [
+      "votes_T0"
+    ],
+    "all_tables_in_group": [
+      "votes_T0",
+      "votes_T1",
+      "votes_T2",
+      "votes_T3",
+      "votes_T4"
+    ],
+    "question": "As a data analyst, could you tell me the highest Post ID for records where the Vote Type ID exceeds 5?",
+    "answer": [
+      6788.0
+    ],
+    "answer_index": [
+      110
+    ],
+    "question_type": "SA"
+  },
+  {
+    "question_id": "Question_G43_Q0",
+    "db_id": "movies_4",
+    "highlighted_table": [
+      "movie_genres_T0"
+    ],
+    "all_tables_in_group": [
+      "movie_genres_T0",
+      "movie_genres_T1",
+      "movie_genres_T2",
+      "movie_genres_T3",
+      "movie_genres_T4"
+    ],
+    "question": "As a data analyst, could you help me determine the smallest movie identifier for any movie whose genre identifier exceeds 10,751?",
+    "answer": [
+      935.0
+    ],
+    "answer_index": [
+      42,
+      129
+    ],
+    "question_type": "SA"
+  },
+  {
+    "question_id": "Question_G44_Q0",
+    "db_id": "financial",
+    "highlighted_table": [
+      "account_T0"
+    ],
+    "all_tables_in_group": [
+      "account_T0",
+      "account_T1",
+      "account_T2",
+      "account_T3",
+      "account_T4"
+    ],
+    "question": "As a data analyst, could you help me identify the frequency values for all rows where the district identifier is 76 or higher?",
+    "answer": [
+      "POPLATEK MESICNE"
+    ],
+    "answer_index": [
+      0,
+      45,
+      109
+    ],
+    "question_type": "SF"
+  },
+  {
+    "question_id": "Question_G45_Q0",
+    "db_id": "food_inspection_2",
+    "highlighted_table": [
+      "violation_T0"
+    ],
+    "all_tables_in_group": [
+      "violation_T0",
+      "violation_T1",
+      "violation_T2",
+      "violation_T3",
+      "violation_T4"
+    ],
+    "question": "As a health‑safety manager reviewing inspection records, could you tell me which inspection ID corresponds to a case where the inspector’s comment includes the note like “between uses and during storage, ice‑dispensing utensils and ice receptacles must be stored to protect them from contamination; keep the ice‑scoop handle out of the ice in the machine’s bin; and store wiping cloths in sanitizing solution between uses,” the fine amount is $100, and the point identifier is 43?",
+    "answer": [
+      120407
+    ],
+    "answer_index": [
+      47
+    ],
+    "question_type": "EM"
+  },
+  {
+    "question_id": "Question_G46_Q0",
+    "db_id": "wta_1",
+    "highlighted_table": [
+      "rankings_T0"
+    ],
+    "all_tables_in_group": [
+      "rankings_T0",
+      "rankings_T1",
+      "rankings_T2",
+      "rankings_T3",
+      "rankings_T4"
+    ],
+    "question": "As a data analyst, could you tell me what the smallest number of tours is for entries where the ranking points are 5 or fewer and the ranking date is later than the first day of 2010?",
+    "answer": [
+      3.0
+    ],
+    "answer_index": [
+      44,
+      75,
+      80,
+      123
+    ],
+    "question_type": "SA"
+  },
+  {
+    "question_id": "Question_G47_Q0",
+    "db_id": "menu",
+    "highlighted_table": [
+      "Dish_T0"
+    ],
+    "all_tables_in_group": [
+      "Dish_T0",
+      "Dish_T1",
+      "Dish_T2"
+    ],
+    "question": "What is the maximum of times_appeared when menus_appeared >= 5?",
+    "answer": [
+      16.0
+    ],
+    "answer_index": [
+      4,
+      7,
+      41,
+      55,
+      67
+    ],
+    "question_type": "SA"
+  },
+  {
+    "question_id": "Question_G48_Q0",
+    "db_id": "soccer_2016",
+    "highlighted_table": [
+      "Player_Match_T0"
+    ],
+    "all_tables_in_group": [
+      "Player_Match_T0",
+      "Player_Match_T1",
+      "Player_Match_T2",
+      "Player_Match_T3"
+    ],
+    "question": "As a sports analyst, could you help me retrieve the player IDs for records where the role ID is less than 2 and the team ID is greater than 7?",
+    "answer": [
+      254,
+      21,
+      187,
+      27
+    ],
+    "answer_index": [
+      43,
+      69,
+      97,
+      132
+    ],
+    "question_type": "SF"
+  },
+  {
+    "question_id": "Question_G49_Q0",
+    "db_id": "superhero",
+    "highlighted_table": [
+      "hero_power_T0"
+    ],
+    "all_tables_in_group": [
+      "hero_power_T0",
+      "hero_power_T1",
+      "hero_power_T2",
+      "hero_power_T3"
+    ],
+    "question": "As a game designer, could you give me a list of the power identifiers for all abilities that belong to the hero whose ID is 101?",
+    "answer": [
+      9,
+      20,
+      8,
+      60
+    ],
+    "answer_index": [
+      39,
+      64,
+      172,
+      214
+    ],
+    "question_type": "EM"
+  },
+  {
+    "question_id": "Question_G50_Q0",
+    "db_id": "movie",
+    "highlighted_table": [
+      "characters_T0"
+    ],
+    "all_tables_in_group": [
+      "characters_T0",
+      "characters_T1",
+      "characters_T2",
+      "characters_T3",
+      "characters_T4"
+    ],
+    "question": "As a casting coordinator, could you provide me with the actor IDs for any records where the character name is Maria Portokalos?",
+    "answer": [
+      1563
+    ],
+    "answer_index": [
+      141
+    ],
+    "question_type": "EM"
+  },
+  {
+    "question_id": "Question_G51_Q0",
+    "db_id": "sakila_1",
+    "highlighted_table": [
+      "payment_T0"
+    ],
+    "all_tables_in_group": [
+      "payment_T0",
+      "payment_T1",
+      "payment_T2"
+    ],
+    "question": "As a data analyst, could you help me retrieve the customer IDs for all records where the transaction amount is greater than $6.99 and the rental identifier exceeds 625?",
+    "answer": [
+      185,
+      11,
+      346,
+      6
+    ],
+    "answer_index": [
+      3,
+      25,
+      50,
+      64
+    ],
+    "question_type": "SF"
+  },
+  {
+    "question_id": "Question_G52_Q0",
+    "db_id": "movie_platform",
+    "highlighted_table": [
+      "lists_users_T0"
+    ],
+    "all_tables_in_group": [
+      "lists_users_T0",
+      "lists_users_T1",
+      "lists_users_T2",
+      "lists_users_T3"
+    ],
+    "question": "As a data analyst, I'm trying to identify which users are eligible for a trial. Could you show me the eligibility flag for those users who either have more than one payment method on file or are already marked as trial participants?",
+    "answer": [
+      0
+    ],
+    "answer_index": [
+      28,
+      35
+    ],
+    "question_type": "SF"
+  },
+  {
+    "question_id": "Question_G53_Q0",
+    "db_id": "store_1",
+    "highlighted_table": [
+      "tracks_T0"
+    ],
+    "all_tables_in_group": [
+      "tracks_T0",
+      "tracks_T1",
+      "tracks_T2",
+      "tracks_T3",
+      "tracks_T4"
+    ],
+    "question": "As a data analyst reviewing our music catalog, could you help me identify the media type ID for any records where the genre ID is 1 and the file size equals 3,300,654 bytes?",
+    "answer": [
+      2
+    ],
+    "answer_index": [
+      39
+    ],
+    "question_type": "EM"
+  },
+  {
+    "question_id": "Question_G54_Q0",
+    "db_id": "codebase_community",
+    "highlighted_table": [
+      "tags_T0"
+    ],
+    "all_tables_in_group": [
+      "tags_T0",
+      "tags_T1",
+      "tags_T2",
+      "tags_T3",
+      "tags_T4"
+    ],
+    "question": "As a data analyst, could you help me pull the record IDs for all entries where the count value is exactly 21?",
+    "answer": [
+      1398,
+      459,
+      562,
+      1625
+    ],
+    "answer_index": [
+      21,
+      72,
+      101,
+      130
+    ],
+    "question_type": "EM"
+  },
+  {
+    "question_id": "Question_G55_Q0",
+    "db_id": "formula_1",
+    "highlighted_table": [
+      "drivers_T0"
+    ],
+    "all_tables_in_group": [
+      "drivers_T0",
+      "drivers_T1",
+      "drivers_T2",
+      "drivers_T3",
+      "drivers_T4"
+    ],
+    "question": "As a data analyst, could you help me pull the first names of all records where the numeric value exceeds 2.0?",
+    "answer": [
+      "Jean-Éric",
+      "Marcus",
+      "Nico",
+      "Will",
+      "Rio"
+    ],
+    "answer_index": [
+      1,
+      61,
+      62,
+      64,
+      79
+    ],
+    "question_type": "SF"
+  },
+  {
+    "question_id": "Question_G56_Q0",
+    "db_id": "authors",
+    "highlighted_table": [
+      "Author_T0"
+    ],
+    "all_tables_in_group": [
+      "Author_T0",
+      "Author_T1",
+      "Author_T2",
+      "Author_T3",
+      "Author_T4"
+    ],
+    "question": "As a researcher updating our speaker list, could you tell me which organization Slimane Ben Slimane is affiliated with?",
+    "answer": [
+      "Radio Communication Systems, Department of Communication Systems, The Royal Institute of Technology (KTH), Stockholm, Sweden"
+    ],
+    "answer_index": [
+      41
+    ],
+    "question_type": "EM"
+  },
+  {
+    "question_id": "Question_G57_Q0",
+    "db_id": "works_cycles",
+    "highlighted_table": [
+      "CurrencyRate_T0"
+    ],
+    "all_tables_in_group": [
+      "CurrencyRate_T0",
+      "CurrencyRate_T1",
+      "CurrencyRate_T2"
+    ],
+    "question": "As a financial analyst, could you help me find the destination currency codes where the average exchange rate is less than or equal to 0.663?",
+    "answer": [
+      "GBP"
+    ],
+    "answer_index": [
+      15,
+      46,
+      66,
+      76
+    ],
+    "question_type": "SF"
+  },
+  {
+    "question_id": "Question_G58_Q0",
+    "db_id": "menu",
+    "highlighted_table": [
+      "MenuItem_T0"
+    ],
+    "all_tables_in_group": [
+      "MenuItem_T0",
+      "MenuItem_T1",
+      "MenuItem_T2",
+      "MenuItem_T3",
+      "MenuItem_T4"
+    ],
+    "question": "As I'm digging into my dataset, could you help me find the maximum vertical position (y‑coordinate) for the rows where the price is greater than $1.25 and the horizontal position (x‑coordinate) is at least 0.495?",
+    "answer": [
+      0.67
+    ],
+    "answer_index": [
+      24,
+      33
+    ],
+    "question_type": "SA"
+  },
+  {
+    "question_id": "Question_G59_Q0",
+    "db_id": "bike_1",
+    "highlighted_table": [
+      "trip_T0"
+    ],
+    "all_tables_in_group": [
+      "trip_T0",
+      "trip_T1",
+      "trip_T2",
+      "trip_T3",
+      "trip_T4"
+    ],
+    "question": "As a commuter planning my next ride, could you show me the start dates for trips that begin at station 39?",
+    "answer": [
+      "8/28/2015 12:52",
+      "8/25/2015 12:42"
+    ],
+    "answer_index": [
+      22,
+      37
+    ],
+    "question_type": "EM"
+  },
+  {
+    "question_id": "Question_G60_Q0",
+    "db_id": "movies_4",
+    "highlighted_table": [
+      "movie_company_T0"
+    ],
+    "all_tables_in_group": [
+      "movie_company_T0",
+      "movie_company_T1",
+      "movie_company_T2"
+    ],
+    "question": "As a data analyst, could you help me identify the movie IDs that are associated with the company whose ID is 75277?",
+    "answer": [
+      301325
+    ],
+    "answer_index": [
+      21
+    ],
+    "question_type": "EM"
+  },
+  {
+    "question_id": "Question_G61_Q0",
+    "db_id": "soccer_2016",
+    "highlighted_table": [
+      "Ball_by_Ball_T0"
+    ],
+    "all_tables_in_group": [
+      "Ball_by_Ball_T0",
+      "Ball_by_Ball_T1",
+      "Ball_by_Ball_T2",
+      "Ball_by_Ball_T3"
+    ],
+    "question": "As a cricket analyst, could you help me find the lowest batting position of the striker in any record where the non‑striker has scored at least 394 runs?",
+    "answer": [
+      1.0
+    ],
+    "answer_index": [
+      85
+    ],
+    "question_type": "SA"
+  },
+  {
+    "question_id": "Question_G62_Q0",
+    "db_id": "debit_card_specializing",
+    "highlighted_table": [
+      "customers_T0"
+    ],
+    "all_tables_in_group": [
+      "customers_T0",
+      "customers_T1",
+      "customers_T2"
+    ],
+    "question": "As a data analyst, could you let me know which currency is linked to the customer with ID 24673 who falls under the SME segment?",
+    "answer": [
+      "CZK"
+    ],
+    "answer_index": [
+      174
+    ],
+    "question_type": "EM"
+  },
+  {
+    "question_id": "Question_G63_Q0",
+    "db_id": "legislator",
+    "highlighted_table": [
+      "historical-terms_T0"
+    ],
+    "all_tables_in_group": [
+      "historical-terms_T0",
+      "historical-terms_T1",
+      "historical-terms_T2",
+      "historical-terms_T3"
+    ],
+    "question": "As a researcher working with congressional data, could you tell me the Bioguide identifier for any records where the classification value exceeds 1.0?",
+    "answer": [
+      "M000486",
+      "C001031"
+    ],
+    "answer_index": [
+      30,
+      38
+    ],
+    "question_type": "SF"
+  },
+  {
+    "question_id": "Question_G64_Q0",
+    "db_id": "baseball_1",
+    "highlighted_table": [
+      "home_game_T0"
+    ],
+    "all_tables_in_group": [
+      "home_game_T0",
+      "home_game_T1",
+      "home_game_T2",
+      "home_game_T3"
+    ],
+    "question": "As a baseball data analyst, could you tell me what the opening values are for the period that starts on April 13, 1992 and ends on September 27, 1992 in the American League?",
+    "answer": [
+      80
+    ],
+    "answer_index": [
+      21
+    ],
+    "question_type": "EM"
+  },
+  {
+    "question_id": "Question_G65_Q0",
+    "db_id": "hockey",
+    "highlighted_table": [
+      "Scoring_T0"
+    ],
+    "all_tables_in_group": [
+      "Scoring_T0",
+      "Scoring_T1",
+      "Scoring_T2",
+      "Scoring_T3"
+    ],
+    "question": "As a data analyst, could you help me find the highest GWG value among the records where the Post plus/minus measurement is greater than or equal to -1.0?",
+    "answer": [
+      0.0
+    ],
+    "answer_index": [
+      3,
+      15,
+      21
+    ],
+    "question_type": "SA"
+  },
+  {
+    "question_id": "Question_G66_Q0",
+    "db_id": "books",
+    "highlighted_table": [
+      "author_T0"
+    ],
+    "all_tables_in_group": [
+      "author_T0",
+      "author_T1",
+      "author_T2",
+      "author_T3"
+    ],
+    "question": "As a data analyst, could you tell me which author names are associated with the author ID 4719?",
+    "answer": [
+      "K. Tempest Bradford"
+    ],
+    "answer_index": [
+      146
+    ],
+    "question_type": "EM"
+  },
+  {
+    "question_id": "Question_G67_Q0",
+    "db_id": "works_cycles",
+    "highlighted_table": [
+      "WorkOrderRouting_T0"
+    ],
+    "all_tables_in_group": [
+      "WorkOrderRouting_T0",
+      "WorkOrderRouting_T1",
+      "WorkOrderRouting_T2",
+      "WorkOrderRouting_T3"
+    ],
+    "question": "As an analyst, could you calculate the average operation sequence number for all records where the work order ID is 778 or lower?",
+    "answer": [
+      6.0
+    ],
+    "answer_index": [
+      35
+    ],
+    "question_type": "SA"
+  },
+  {
+    "question_id": "Question_G68_Q0",
+    "db_id": "books",
+    "highlighted_table": [
+      "customer_T0"
+    ],
+    "all_tables_in_group": [
+      "customer_T0",
+      "customer_T1",
+      "customer_T2",
+      "customer_T3"
+    ],
+    "question": "As a sales analyst, could you help me retrieve the last names of customers whose customer ID numbers are lower than 70?",
+    "answer": [
+      "Robbings",
+      "Shimwell",
+      "Donizeau"
+    ],
+    "answer_index": [
+      8,
+      10,
+      29
+    ],
+    "question_type": "SF"
+  },
+  {
+    "question_id": "Question_G69_Q0",
+    "db_id": "hockey",
+    "highlighted_table": [
+      "SeriesPost_T0"
+    ],
+    "all_tables_in_group": [
+      "SeriesPost_T0",
+      "SeriesPost_T1",
+      "SeriesPost_T2"
+    ],
+    "question": "As a data analyst, could you help me calculate the total of the W values for all records where the GoalsLoser is not equal to 7, the L is not 3, and the T field is greater than zero?",
+    "answer": [
+      5.0
+    ],
+    "answer_index": [
+      20,
+      21,
+      34,
+      38
+    ],
+    "question_type": "SA"
+  },
+  {
+    "question_id": "Question_G70_Q0",
+    "db_id": "california_schools",
+    "highlighted_table": [
+      "frpm_T0"
+    ],
+    "all_tables_in_group": [
+      "frpm_T0",
+      "frpm_T1",
+      "frpm_T2"
+    ],
+    "question": "As a data analyst reviewing school performance metrics, could you help me find the school code identifiers for the records where the percentage of K‑12 students eligible for free meals is less than 43.5%, the FRPM (Free and Reduced‑Price Meal) count for ages 5‑17 is not equal to 293, and the CDS code is less than or equal to 34,674,396,059,323?",
+    "answer": [
+      6027031,
+      6012157,
+      6030621,
+      6028088,
+      3130234
+    ],
+    "answer_index": [
+      13,
+      16,
+      18,
+      21,
+      23
+    ],
+    "question_type": "SF"
+  },
+  {
+    "question_id": "Question_G71_Q0",
+    "db_id": "professional_basketball",
+    "highlighted_table": [
+      "players_T0"
+    ],
+    "all_tables_in_group": [
+      "players_T0",
+      "players_T1",
+      "players_T2",
+      "players_T3",
+      "players_T4"
+    ],
+    "question": "As a data analyst, could you help me pull the \"collegeOther\" values for any records where the death date is listed as 0000‑00‑00 and the height is exactly 83.0?",
+    "answer": [
+      "Oregon"
+    ],
+    "answer_index": [
+      21,
+      22
+    ],
+    "question_type": "EM"
+  },
+  {
+    "question_id": "Question_G72_Q0",
+    "db_id": "synthea",
+    "highlighted_table": [
+      "medications_T0"
+    ],
+    "all_tables_in_group": [
+      "medications_T0",
+      "medications_T1",
+      "medications_T2",
+      "medications_T3"
+    ],
+    "question": "As a data analyst, I'm trying to pinpoint the START values for rows where the reason code is less than or equal to 10,509,002.0 and the code number is under 904,420. Could you help me identify those START values?",
+    "answer": [
+      "2013-04-17",
+      "2009-06-06",
+      "2013-09-18"
+    ],
+    "answer_index": [
+      4,
+      10,
+      18
+    ],
+    "question_type": "SF"
+  },
+  {
+    "question_id": "Question_G73_Q0",
+    "db_id": "world_development_indicators",
+    "highlighted_table": [
+      "Footnotes_T0"
+    ],
+    "all_tables_in_group": [
+      "Footnotes_T0",
+      "Footnotes_T1",
+      "Footnotes_T2",
+      "Footnotes_T3",
+      "Footnotes_T4"
+    ],
+    "question": "As a financial analyst, could you tell me which years correspond to the records where the series code is “SI.DST.FRST.20” and the description indicates “Income based.”?",
+    "answer": [
+      "YR2004"
+    ],
+    "answer_index": [
+      8
+    ],
+    "question_type": "EM"
+  },
+  {
+    "question_id": "Question_G74_Q0",
+    "db_id": "financial",
+    "highlighted_table": [
+      "trans_T0"
+    ],
+    "all_tables_in_group": [
+      "trans_T0",
+      "trans_T1",
+      "trans_T2"
+    ],
+    "question": "As a financial analyst, could you help me pull the account balances for all records where the transaction amount is less than or equal to 11?",
+    "answer": [
+      1547,
+      2969,
+      33660
+    ],
+    "answer_index": [
+      18,
+      49,
+      66
+    ],
+    "question_type": "SF"
+  },
+  {
+    "question_id": "Question_G75_Q0",
+    "db_id": "hockey",
+    "highlighted_table": [
+      "Master_T0"
+    ],
+    "all_tables_in_group": [
+      "Master_T0",
+      "Master_T1",
+      "Master_T2",
+      "Master_T3"
+    ],
+    "question": "As a researcher exploring historical records, could you help me find the surnames of individuals who died in November or earlier and were born in 1943 or before?",
+    "answer": [
+      "Griffis",
+      "Martin",
+      "McAvoy"
+    ],
+    "answer_index": [
+      4,
+      11,
+      22
+    ],
+    "question_type": "SF"
+  },
+  {
+    "question_id": "Question_G76_Q0",
+    "db_id": "sakila_1",
+    "highlighted_table": [
+      "rental_T0"
+    ],
+    "all_tables_in_group": [
+      "rental_T0",
+      "rental_T1",
+      "rental_T2",
+      "rental_T3",
+      "rental_T4"
+    ],
+    "question": "As a store manager reviewing recent rentals, could you let me know the rental dates for all transactions where the inventory ID is not 905, the rental ID is lower than 1413, and the staff member’s ID is 1 or less?",
+    "answer": [
+      "2005-05-29 05:30:31",
+      "2005-05-25 14:28:29"
+    ],
+    "answer_index": [
+      33,
+      66
+    ],
+    "question_type": "SF"
+  },
+  {
+    "question_id": "Question_G77_Q0",
+    "db_id": "address",
+    "highlighted_table": [
+      "zip_data_T0"
+    ],
+    "all_tables_in_group": [
+      "zip_data_T0",
+      "zip_data_T1",
+      "zip_data_T2",
+      "zip_data_T3",
+      "zip_data_T4"
+    ],
+    "question": "As a data analyst reviewing demographic statistics, could you help me find the average household income for all records where the proportion of residents over 65 years old is zero or less and the count of disabled workers is under 485?",
+    "answer": [
+      68278.0,
+      166156.0
+    ],
+    "answer_index": [
+      1,
+      11
+    ],
+    "question_type": "SF"
+  },
+  {
+    "question_id": "Question_G78_Q0",
+    "db_id": "financial",
+    "highlighted_table": [
+      "order_T0"
+    ],
+    "all_tables_in_group": [
+      "order_T0",
+      "order_T1",
+      "order_T2"
+    ],
+    "question": "As a data analyst, could you let me know which k_symbol codes appear in the rows where the order number is 44,297 or higher?",
+    "answer": [
+      "UVER",
+      "SIPO"
+    ],
+    "answer_index": [
+      22,
+      30,
+      51,
+      54
+    ],
+    "question_type": "SF"
+  },
+  {
+    "question_id": "Question_G79_Q0",
+    "db_id": "synthea",
+    "highlighted_table": [
+      "claims_T0"
+    ],
+    "all_tables_in_group": [
+      "claims_T0",
+      "claims_T1",
+      "claims_T2",
+      "claims_T3"
+    ],
+    "question": "As a researcher, could you help me identify the total values that are linked to the patient with ID 86813f0e-cac1-4e13-85c4-0d7d16f91c91 and the specific record identifier ff70577c-5cef-414b-8e9a-ea4880ec8cb1?",
+    "answer": [
+      100
+    ],
+    "answer_index": [
+      34
+    ],
+    "question_type": "EM"
+  },
+  {
+    "question_id": "Question_G80_Q0",
+    "db_id": "professional_basketball",
+    "highlighted_table": [
+      "players_teams_T0"
+    ],
+    "all_tables_in_group": [
+      "players_teams_T0",
+      "players_teams_T1",
+      "players_teams_T2",
+      "players_teams_T3"
+    ],
+    "question": "As a basketball analyst, I'm trying to figure out the lowest number of offensive rebounds recorded in any game where the player attempted at least one post‑free‑throw. Could you help me determine that?",
+    "answer": [
+      24.0
+    ],
+    "answer_index": [
+      0,
+      5,
+      12,
+      14,
+      19
+    ],
+    "question_type": "SA"
+  },
+  {
+    "question_id": "Question_G81_Q0",
+    "db_id": "university",
+    "highlighted_table": [
+      "university_year_T0"
+    ],
+    "all_tables_in_group": [
+      "university_year_T0",
+      "university_year_T1",
+      "university_year_T2",
+      "university_year_T3"
+    ],
+    "question": "As a university analyst, could you help me identify the lowest percentage of female students among schools where the proportion of international students exceeds 51%?",
+    "answer": [
+      27.0
+    ],
+    "answer_index": [
+      49
+    ],
+    "question_type": "SA"
+  },
+  {
+    "question_id": "Question_G82_Q0",
+    "db_id": "inn_1",
+    "highlighted_table": [
+      "Reservations_T0"
+    ],
+    "all_tables_in_group": [
+      "Reservations_T0",
+      "Reservations_T1",
+      "Reservations_T2",
+      "Reservations_T3"
+    ],
+    "question": "As a school counselor, could you give me the surnames of families that have two or more children?",
+    "answer": [
+      "PICHARD",
+      "PAVLOCK",
+      "MAIDENS",
+      "HONEYWELL"
+    ],
+    "answer_index": [
+      1,
+      8,
+      13,
+      38
+    ],
+    "question_type": "SF"
+  },
+  {
+    "question_id": "Question_G83_Q0",
+    "db_id": "movie_platform",
+    "highlighted_table": [
+      "lists_T0"
+    ],
+    "all_tables_in_group": [
+      "lists_T0",
+      "lists_T1",
+      "lists_T2",
+      "lists_T3"
+    ],
+    "question": "As a data analyst, could you tell me the smallest movie number in the list for all records where the list ID is greater than 195,544?",
+    "answer": [
+      5.0
+    ],
+    "answer_index": [
+      9
+    ],
+    "question_type": "SA"
+  },
+  {
+    "question_id": "Question_G84_Q0",
+    "db_id": "movielens",
+    "highlighted_table": [
+      "movies2actors_T0"
+    ],
+    "all_tables_in_group": [
+      "movies2actors_T0",
+      "movies2actors_T1",
+      "movies2actors_T2",
+      "movies2actors_T3",
+      "movies2actors_T4"
+    ],
+    "question": "I'm working on a movie database and need to pull the actor IDs for all entries where the movie ID is 2371603. Could you help me with that?",
+    "answer": [
+      2147310
+    ],
+    "answer_index": [
+      3
+    ],
+    "question_type": "EM"
+  },
+  {
+    "question_id": "Question_G85_Q0",
+    "db_id": "codebase_community",
+    "highlighted_table": [
+      "users_T0"
+    ],
+    "all_tables_in_group": [
+      "users_T0",
+      "users_T1",
+      "users_T2",
+      "users_T3",
+      "users_T4"
+    ],
+    "question": "As a data analyst, could you help me determine the maximum age for all records where the identifier is greater than 52,214?",
+    "answer": [
+      26.0
+    ],
+    "answer_index": [
+      2,
+      5,
+      12
+    ],
+    "question_type": "SA"
+  },
+  {
+    "question_id": "Question_G86_Q0",
+    "db_id": "authors",
+    "highlighted_table": [
+      "Journal_T0"
+    ],
+    "all_tables_in_group": [
+      "Journal_T0",
+      "Journal_T1",
+      "Journal_T2",
+      "Journal_T3"
+    ],
+    "question": "As a data analyst, could you help me retrieve the full name for any records where the abbreviated name is \"J VLSI SIGNAL PROCESS SYST S\"?",
+    "answer": [
+      "Journal of Vlsi Signal Processing Systems for Signal Image and Video Technology"
+    ],
+    "answer_index": [
+      131
+    ],
+    "question_type": "EM"
+  },
+  {
+    "question_id": "Question_G87_Q0",
+    "db_id": "works_cycles",
+    "highlighted_table": [
+      "Product_T0"
+    ],
+    "all_tables_in_group": [
+      "Product_T0",
+      "Product_T1",
+      "Product_T2",
+      "Product_T3"
+    ],
+    "question": "As a production planner, could you help me find the number of days required to manufacture the product identified by the code LJ‑0192‑M?",
+    "answer": [
+      0
+    ],
+    "answer_index": [
+      10
+    ],
+    "question_type": "EM"
+  },
+  {
+    "question_id": "Question_G88_Q0",
+    "db_id": "books",
+    "highlighted_table": [
+      "publisher_T0"
+    ],
+    "all_tables_in_group": [
+      "publisher_T0",
+      "publisher_T1",
+      "publisher_T2"
+    ],
+    "question": "As I'm updating our catalog, could you tell me the name of the publisher that has the identifier 1160?",
+    "answer": [
+      "Liveright Publishing Corp."
+    ],
+    "answer_index": [
+      195
+    ],
+    "question_type": "EM"
+  },
+  {
+    "question_id": "Question_G89_Q0",
+    "db_id": "professional_basketball",
+    "highlighted_table": [
+      "draft_T0"
+    ],
+    "all_tables_in_group": [
+      "draft_T0",
+      "draft_T1",
+      "draft_T2",
+      "draft_T3",
+      "draft_T4"
+    ],
+    "question": "As a sports analyst putting together a scouting report, could you give me the first names of all players whose draft round number is greater than ten?",
+    "answer": [
+      "George",
+      "Bill",
+      "Kevin",
+      "Larry"
+    ],
+    "answer_index": [
+      4,
+      53,
+      68,
+      74
+    ],
+    "question_type": "SF"
+  },
+  {
+    "question_id": "Question_G90_Q0",
+    "db_id": "soccer_1",
+    "highlighted_table": [
+      "Team_Attributes_T0"
+    ],
+    "all_tables_in_group": [
+      "Team_Attributes_T0",
+      "Team_Attributes_T1",
+      "Team_Attributes_T2"
+    ],
+    "question": "As a sports analyst reviewing team data, could you help me locate the build‑up play positioning class for the records where the FIFA team identifier is 1819 and the internal team API identifier is 9853?",
+    "answer": [
+      "Organised"
+    ],
+    "answer_index": [
+      18
+    ],
+    "question_type": "EM"
+  },
+  {
+    "question_id": "Question_G91_Q0",
+    "db_id": "financial",
+    "highlighted_table": [
+      "client_T0"
+    ],
+    "all_tables_in_group": [
+      "client_T0",
+      "client_T1",
+      "client_T2"
+    ],
+    "question": "As a data analyst working on a demographic report, could you tell me which gender categories appear in the records where the district identifier is greater than 76?",
+    "answer": [
+      "F"
+    ],
+    "answer_index": [
+      160
+    ],
+    "question_type": "SF"
+  },
+  {
+    "question_id": "Question_G92_Q0",
+    "db_id": "movie",
+    "highlighted_table": [
+      "actor_T0"
+    ],
+    "all_tables_in_group": [
+      "actor_T0",
+      "actor_T1",
+      "actor_T2"
+    ],
+    "question": "As a casting director, could you let me know the gender associated with the actor whose ID number is 606?",
+    "answer": [
+      "Male"
+    ],
+    "answer_index": [
+      26
+    ],
+    "question_type": "EM"
+  },
+  {
+    "question_id": "Question_G93_Q0",
+    "db_id": "menu",
+    "highlighted_table": [
+      "Menu_T0"
+    ],
+    "all_tables_in_group": [
+      "Menu_T0",
+      "Menu_T1",
+      "Menu_T2"
+    ],
+    "question": "As a developer handling international transactions, could you help me retrieve the currency symbol for every entry whose identifier is greater than 33,564?",
+    "answer": [
+      "$"
+    ],
+    "answer_index": [
+      25,
+      32,
+      33
+    ],
+    "question_type": "SF"
+  },
+  {
+    "question_id": "Question_G94_Q0",
+    "db_id": "european_football_2",
+    "highlighted_table": [
+      "Player_T0"
+    ],
+    "all_tables_in_group": [
+      "Player_T0",
+      "Player_T1",
+      "Player_T2",
+      "Player_T3",
+      "Player_T4"
+    ],
+    "question": "As a sports data analyst, could you help me retrieve the record ID for the player whose height is 175.26 cm and whose player API identifier is 74382?",
+    "answer": [
+      7026
+    ],
+    "answer_index": [
+      53
+    ],
+    "question_type": "EM"
+  },
+  {
+    "question_id": "Question_G95_Q0",
+    "db_id": "professional_basketball",
+    "highlighted_table": [
+      "series_post_T0"
+    ],
+    "all_tables_in_group": [
+      "series_post_T0",
+      "series_post_T1",
+      "series_post_T2"
+    ],
+    "question": "As a data analyst, could you help me identify the winner IDs (lgIDWinner) that belong to the CFR round in the year 1995 where the L column has a value of 1?",
+    "answer": [
+      "NBA"
+    ],
+    "answer_index": [
+      70
+    ],
+    "question_type": "EM"
+  },
+  {
+    "question_id": "Question_G96_Q0",
+    "db_id": "synthea",
+    "highlighted_table": [
+      "observations_T0"
+    ],
+    "all_tables_in_group": [
+      "observations_T0",
+      "observations_T1",
+      "observations_T2"
+    ],
+    "question": "As a data analyst, could you tell me which dates appear in the records where the measured value is less than or equal to 1.0?",
+    "answer": [
+      "2010-12-22",
+      "2012-11-14",
+      "2009-07-31",
+      "2017-10-31"
+    ],
+    "answer_index": [
+      3,
+      29,
+      44,
+      47,
+      49
+    ],
+    "question_type": "SF"
+  },
+  {
+    "question_id": "Question_G97_Q0",
+    "db_id": "beer_factory",
+    "highlighted_table": [
+      "rootbeer_T0"
+    ],
+    "all_tables_in_group": [
+      "rootbeer_T0",
+      "rootbeer_T1",
+      "rootbeer_T2"
+    ],
+    "question": "As a data analyst reviewing our inventory, could you pull the purchase dates for all records where the location ID is 1 and the root beer ID is 105714?",
+    "answer": [
+      "2015-03-10"
+    ],
+    "answer_index": [
+      135
+    ],
+    "question_type": "EM"
+  },
+  {
+    "question_id": "Question_G98_Q0",
+    "db_id": "superhero",
+    "highlighted_table": [
+      "hero_attribute_T0"
+    ],
+    "all_tables_in_group": [
+      "hero_attribute_T0",
+      "hero_attribute_T1",
+      "hero_attribute_T2",
+      "hero_attribute_T3"
+    ],
+    "question": "As a game data analyst, could you give me the attribute values for all entries where the hero ID is 229?",
+    "answer": [
+      75
+    ],
+    "answer_index": [
+      206
+    ],
+    "question_type": "EM"
+  },
+  {
+    "question_id": "Question_G99_Q0",
+    "db_id": "codebase_comments",
+    "highlighted_table": [
+      "MethodParameter_T0"
+    ],
+    "all_tables_in_group": [
+      "MethodParameter_T0",
+      "MethodParameter_T1",
+      "MethodParameter_T2",
+      "MethodParameter_T3"
+    ],
+    "question": "As a data analyst, could you help me retrieve the record IDs for all rows where the method identifier equals 1685984?",
+    "answer": [
+      2539413
+    ],
+    "answer_index": [
+      110
+    ],
+    "question_type": "EM"
+  },
+  {
+    "question_id": "Question_G100_Q0",
+    "db_id": "movielens",
+    "highlighted_table": [
+      "actors_T0"
+    ],
+    "all_tables_in_group": [
+      "actors_T0",
+      "actors_T1",
+      "actors_T2",
+      "actors_T3"
+    ],
+    "question": "As a data analyst, could you help me retrieve the gender of the actor whose actor ID is 123,947?",
+    "answer": [
+      "M"
+    ],
+    "answer_index": [
+      69
+    ],
+    "question_type": "EM"
+  },
+  {
+    "question_id": "Question_G101_Q0",
+    "db_id": "address",
+    "highlighted_table": [
+      "congress_T0"
+    ],
+    "all_tables_in_group": [
+      "congress_T0",
+      "congress_T1",
+      "congress_T2",
+      "congress_T3"
+    ],
+    "question": "As a data analyst, could you help me pull the abbreviation values for all rows where the district measurement is less than or equal to 1.0?",
+    "answer": [
+      "MD",
+      "IN",
+      "NH",
+      "KS",
+      "CA"
+    ],
+    "answer_index": [
+      0,
+      21,
+      29,
+      38,
+      49
+    ],
+    "question_type": "SF"
+  },
+  {
+    "question_id": "Question_G102_Q0",
+    "db_id": "language_corpus",
+    "highlighted_table": [
+      "langs_words_T0"
+    ],
+    "all_tables_in_group": [
+      "langs_words_T0",
+      "langs_words_T1",
+      "langs_words_T2"
+    ],
+    "question": "As a data analyst, could you help me pull all records where the wid value is greater than 2,715,581 or the lid value exceeds 1?",
+    "answer": [
+      1,
+      3
+    ],
+    "answer_index": [
+      12,
+      190
+    ],
+    "question_type": "SF"
+  },
+  {
+    "question_id": "Question_G103_Q0",
+    "db_id": "regional_sales",
+    "highlighted_table": [
+      "Store Locations_T0"
+    ],
+    "all_tables_in_group": [
+      "Store Locations_T0",
+      "Store Locations_T1",
+      "Store Locations_T2",
+      "Store Locations_T3",
+      "Store Locations_T4"
+    ],
+    "question": "As a data analyst, could you help me calculate the total sum of the store identifiers for all records where the latitude is below 29.652, the population is under 249,042, and the area code is not 650?",
+    "answer": [
+      812.0
+    ],
+    "answer_index": [
+      3,
+      7,
+      9,
+      14,
+      35
+    ],
+    "question_type": "SA"
+  },
+  {
+    "question_id": "Question_G104_Q0",
+    "db_id": "baseball_1",
+    "highlighted_table": [
+      "salary_T0"
+    ],
+    "all_tables_in_group": [
+      "salary_T0",
+      "salary_T1",
+      "salary_T2"
+    ],
+    "question": "As a sports analyst reviewing player data, could you tell me the league identifier for any players whose salary is under $100,000?",
+    "answer": [
+      "NL",
+      "AL"
+    ],
+    "answer_index": [
+      24,
+      39,
+      59,
+      85,
+      133
+    ],
+    "question_type": "SF"
+  },
+  {
+    "question_id": "Question_G105_Q0",
+    "db_id": "car_retails",
+    "highlighted_table": [
+      "orderdetails_T0"
+    ],
+    "all_tables_in_group": [
+      "orderdetails_T0",
+      "orderdetails_T1",
+      "orderdetails_T2"
+    ],
+    "question": "As an analyst looking at our sales data, could you help me identify the order numbers that have line items where the line number is 6 or higher and the unit price exceeds $166.10?",
+    "answer": [
+      10359,
+      10208
+    ],
+    "answer_index": [
+      20,
+      52
+    ],
+    "question_type": "SF"
+  },
+  {
+    "question_id": "Question_G106_Q0",
+    "db_id": "thrombosis_prediction",
+    "highlighted_table": [
+      "Laboratory_T0"
+    ],
+    "all_tables_in_group": [
+      "Laboratory_T0",
+      "Laboratory_T1",
+      "Laboratory_T2"
+    ],
+    "question": "As a data analyst, could you help me determine the smallest GOT value for all records where the PT measurement is 14.7 or lower?",
+    "answer": [
+      16.0
+    ],
+    "answer_index": [
+      15
+    ],
+    "question_type": "SA"
+  },
+  {
+    "question_id": "Question_G107_Q0",
+    "db_id": "baseball_1",
+    "highlighted_table": [
+      "fielding_outfield_T0"
+    ],
+    "all_tables_in_group": [
+      "fielding_outfield_T0",
+      "fielding_outfield_T1",
+      "fielding_outfield_T2",
+      "fielding_outfield_T3"
+    ],
+    "question": "As an analyst, could you help me calculate the total sum of the year values for all records where the GRF is less than or equal to 0.0 and the stint count is greater than 1?",
+    "answer": [
+      9466.0
+    ],
+    "answer_index": [
+      46,
+      86,
+      98,
+      99,
+      104
+    ],
+    "question_type": "SA"
+  },
+  {
+    "question_id": "Question_G108_Q0",
+    "db_id": "works_cycles",
+    "highlighted_table": [
+      "TransactionHistoryArchive_T0"
+    ],
+    "all_tables_in_group": [
+      "TransactionHistoryArchive_T0",
+      "TransactionHistoryArchive_T1",
+      "TransactionHistoryArchive_T2",
+      "TransactionHistoryArchive_T3"
+    ],
+    "question": "As a data analyst, could you help me list the reference order line IDs for all records where the quantity exceeds 20?",
+    "answer": [
+      0
+    ],
+    "answer_index": [
+      19,
+      43,
+      52
+    ],
+    "question_type": "SF"
+  },
+  {
+    "question_id": "Question_G109_Q0",
+    "db_id": "bike_1",
+    "highlighted_table": [
+      "weather_T0"
+    ],
+    "all_tables_in_group": [
+      "weather_T0",
+      "weather_T1",
+      "weather_T2"
+    ],
+    "question": "As a meteorologist reviewing our dataset, could you help me find the highest average humidity recorded on days where the average wind speed isn’t exactly 2 mph and the maximum visibility isn’t exactly 10 miles?",
+    "answer": [
+      75.0
+    ],
+    "answer_index": [
+      2,
+      7
+    ],
+    "question_type": "SA"
+  },
+  {
+    "question_id": "Question_G110_Q0",
+    "db_id": "soccer_1",
+    "highlighted_table": [
+      "Player_Attributes_T0"
+    ],
+    "all_tables_in_group": [
+      "Player_Attributes_T0",
+      "Player_Attributes_T1",
+      "Player_Attributes_T2"
+    ],
+    "question": "As a data analyst, could you help me identify the highest potential rating for entries where the finishing score is at least 20.0 and the number of interceptions is below 23.0?",
+    "answer": [
+      75.0
+    ],
+    "answer_index": [
+      0
+    ],
+    "question_type": "SA"
+  },
+  {
+    "question_id": "Question_G111_Q0",
+    "db_id": "movies_4",
+    "highlighted_table": [
+      "movie_T0"
+    ],
+    "all_tables_in_group": [
+      "movie_T0",
+      "movie_T1",
+      "movie_T2"
+    ],
+    "question": "As a film analyst, could you let me know the status of any movies whose average rating isn’t exactly 6.2, whose movie identifier is 22,102 or higher, and whose production budget is at least $30 million?",
+    "answer": [
+      "Released"
+    ],
+    "answer_index": [
+      10,
+      24
+    ],
+    "question_type": "SF"
+  },
+  {
+    "question_id": "Question_G112_Q0",
+    "db_id": "baseball_1",
+    "highlighted_table": [
+      "player_T0"
+    ],
+    "all_tables_in_group": [
+      "player_T0",
+      "player_T1",
+      "player_T2",
+      "player_T3"
+    ],
+    "question": "As a coach reviewing our roster, could you tell me which player IDs belong to the players whose height exceeds 76.0 inches?",
+    "answer": [
+      "mmahake01"
+    ],
+    "answer_index": [
+      29
+    ],
+    "question_type": "SF"
+  },
+  {
+    "question_id": "Question_G113_Q0",
+    "db_id": "financial",
+    "highlighted_table": [
+      "loan_T0"
+    ],
+    "all_tables_in_group": [
+      "loan_T0",
+      "loan_T1",
+      "loan_T2",
+      "loan_T3"
+    ],
+    "question": "As a financial analyst, could you help me find the highest payment amount for records where the loan identifier exceeds 7,279 and the account number is below 97?",
+    "answer": [
+      4674.0
+    ],
+    "answer_index": [
+      62,
+      64,
+      107
+    ],
+    "question_type": "SA"
+  },
+  {
+    "question_id": "Question_G114_Q0",
+    "db_id": "works_cycles",
+    "highlighted_table": [
+      "Employee_T0"
+    ],
+    "all_tables_in_group": [
+      "Employee_T0",
+      "Employee_T1",
+      "Employee_T2"
+    ],
+    "question": "As an HR analyst, could you help me identify the highest employee ID among staff members who have accumulated at least 67 hours of sick leave?",
+    "answer": [
+      126.0
+    ],
+    "answer_index": [
+      5,
+      7,
+      9,
+      20,
+      37
+    ],
+    "question_type": "SA"
+  },
+  {
+    "question_id": "Question_G115_Q0",
+    "db_id": "synthea",
+    "highlighted_table": [
+      "immunizations_T0"
+    ],
+    "all_tables_in_group": [
+      "immunizations_T0",
+      "immunizations_T1",
+      "immunizations_T2",
+      "immunizations_T3",
+      "immunizations_T4"
+    ],
+    "question": "As a healthcare analyst, could you help me retrieve the patient details for any records where the description is “MMR” and the date is November 24, 2009?",
+    "answer": [
+      "d0afb501-b444-4146-8747-abd110dc33b4"
+    ],
+    "answer_index": [
+      24
+    ],
+    "question_type": "EM"
+  },
+  {
+    "question_id": "Question_G116_Q0",
+    "db_id": "card_games",
+    "highlighted_table": [
+      "rulings_dg_tmp_T0"
+    ],
+    "all_tables_in_group": [
+      "rulings_dg_tmp_T0",
+      "rulings_dg_tmp_T1",
+      "rulings_dg_tmp_T2"
+    ],
+    "question": "As a data analyst, could you help me retrieve the UUID (unique identifier) for the records where the record ID is 83,934 or higher?",
+    "answer": [
+      "4125530b-29ef-5f5e-a4e0-f237bb804e20",
+      "93d95156-c790-5483-8497-10d2ba29543c",
+      "2156ca78-8bd5-5dfd-80c9-4b84045c7b00",
+      "cb1af308-50fb-5801-8158-1afef49af3ad"
+    ],
+    "answer_index": [
+      15,
+      29,
+      62,
+      65
+    ],
+    "question_type": "SF"
+  },
+  {
+    "question_id": "Question_G117_Q0",
+    "db_id": "college_completion",
+    "highlighted_table": [
+      "institution_details_T0"
+    ],
+    "all_tables_in_group": [
+      "institution_details_T0",
+      "institution_details_T1",
+      "institution_details_T2",
+      "institution_details_T3"
+    ],
+    "question": "As a data analyst, could you help me determine the maximum value of the “vsa grad elsewhere after 4 transfer” metric for all records where the retain value is greater than 68.9 and the retain percentile is less than 72.0?",
+    "answer": [
+      5.2
+    ],
+    "answer_index": [
+      5,
+      7,
+      9
+    ],
+    "question_type": "SA"
+  },
+  {
+    "question_id": "Question_G118_Q0",
+    "db_id": "law_episode",
+    "highlighted_table": [
+      "Person_T0"
+    ],
+    "all_tables_in_group": [
+      "Person_T0",
+      "Person_T1",
+      "Person_T2",
+      "Person_T3"
+    ],
+    "question": "As a researcher interested in tall individuals, could you tell me the birthplaces of people whose height exceeds 1.8 meters?",
+    "answer": [
+      "Buffalo",
+      "Wichita"
+    ],
+    "answer_index": [
+      14,
+      15,
+      79
+    ],
+    "question_type": "SF"
+  },
+  {
+    "question_id": "Question_G119_Q0",
+    "db_id": "professional_basketball",
+    "highlighted_table": [
+      "player_allstar_T0"
+    ],
+    "all_tables_in_group": [
+      "player_allstar_T0",
+      "player_allstar_T1",
+      "player_allstar_T2",
+      "player_allstar_T3"
+    ],
+    "question": "As a basketball analyst, could you help me find the smallest count of offensive rebounds recorded in seasons from 2004 onward, while ignoring any rows where the player participated in only one game?",
+    "answer": [
+      0.0
+    ],
+    "answer_index": [
+      33
+    ],
+    "question_type": "SA"
+  },
+  {
+    "question_id": "Question_G120_Q0",
+    "db_id": "card_games",
+    "highlighted_table": [
+      "cards_T0"
+    ],
+    "all_tables_in_group": [
+      "cards_T0",
+      "cards_T1",
+      "cards_T2"
+    ],
+    "question": "As an MTG collector, could you tell me which Scryfall IDs belong to the cards that are marked as foil (i.e., where the foil flag is not zero)?",
+    "answer": [
+      "3b15648c-1d88-42ec-b2f7-aab9a8c256a2",
+      "55b9e2db-d37e-4a87-ae5a-88a8e45d7419",
+      "a263f594-621e-46af-8561-f7eee565a19a",
+      "eb32175c-f2e6-460b-b4bf-dd85cac3eb4f"
+    ],
+    "answer_index": [
+      0,
+      2,
+      5,
+      7
+    ],
+    "question_type": "SF"
+  },
+  {
+    "question_id": "Question_G121_Q0",
+    "db_id": "works_cycles",
+    "highlighted_table": [
+      "ProductVendor_T0"
+    ],
+    "all_tables_in_group": [
+      "ProductVendor_T0",
+      "ProductVendor_T1",
+      "ProductVendor_T2",
+      "ProductVendor_T3",
+      "ProductVendor_T4"
+    ],
+    "question": "As an inventory manager, could you help me calculate the total of the most recent receipt costs for all items where the quantity on order is three or fewer?",
+    "answer": [
+      226.17
+    ],
+    "answer_index": [
+      12,
+      19,
+      20,
+      27,
+      58
+    ],
+    "question_type": "SA"
+  },
+  {
+    "question_id": "Question_G122_Q0",
+    "db_id": "chinook_1",
+    "highlighted_table": [
+      "Track_T0"
+    ],
+    "all_tables_in_group": [
+      "Track_T0",
+      "Track_T1",
+      "Track_T2",
+      "Track_T3",
+      "Track_T4"
+    ],
+    "question": "As a music data analyst, could you help me calculate the total of the genre identifier for all tracks whose track ID is 52 or lower?",
+    "answer": [
+      1.0
+    ],
+    "answer_index": [
+      46,
+      50,
+      57
+    ],
+    "question_type": "SA"
+  },
+  {
+    "question_id": "Question_G123_Q0",
+    "db_id": "retails",
+    "highlighted_table": [
+      "customer_T0"
+    ],
+    "all_tables_in_group": [
+      "customer_T0",
+      "customer_T1",
+      "customer_T2",
+      "customer_T3",
+      "customer_T4",
+      "customer_T5",
+      "customer_T6"
+    ],
+    "question": "As a data analyst, could you help me determine the smallest nation key for customers whose account balance is exactly -$464.69 and whose customer ID does not exceed 74,731?",
+    "answer": [
+      23
+    ],
+    "answer_index": [
+      8
+    ],
+    "question_type": "SA"
+  },
+  {
+    "question_id": "Question_G123_Q1",
+    "db_id": "retails",
+    "highlighted_table": [
+      "customer_T3"
+    ],
+    "all_tables_in_group": [
+      "customer_T0",
+      "customer_T1",
+      "customer_T2",
+      "customer_T3",
+      "customer_T4",
+      "customer_T5",
+      "customer_T6"
+    ],
+    "question": "As a data analyst, could you tell me the customer‑key for the record where the customer name is 000105160?",
+    "answer": [
+      105160
+    ],
+    "answer_index": [
+      36
+    ],
+    "question_type": "EM"
+  },
+  {
+    "question_id": "Question_G123_Q2",
+    "db_id": "retails",
+    "highlighted_table": [
+      "customer_T2"
+    ],
+    "all_tables_in_group": [
+      "customer_T0",
+      "customer_T1",
+      "customer_T2",
+      "customer_T3",
+      "customer_T4",
+      "customer_T5",
+      "customer_T6"
+    ],
+    "question": "As a data analyst, could you help me calculate the total account balance for the customer whose customer key is 1500?",
+    "answer": [
+      6734.11
+    ],
+    "answer_index": [
+      8
+    ],
+    "question_type": "SA"
+  },
+  {
+    "question_id": "Question_G123_Q3",
+    "db_id": "retails",
+    "highlighted_table": [
+      "customer_T1"
+    ],
+    "all_tables_in_group": [
+      "customer_T0",
+      "customer_T1",
+      "customer_T2",
+      "customer_T3",
+      "customer_T4",
+      "customer_T5",
+      "customer_T6"
+    ],
+    "question": "As a data analyst, could you help me retrieve the customer name for any records where the customer address exactly matches \"W DfSua0pF8oHJz8mVTYdFfVb5CehCOOeD \"?",
+    "answer": [
+      "Customer#000136147"
+    ],
+    "answer_index": [
+      50
+    ],
+    "question_type": "EM"
+  },
+  {
+    "question_id": "Question_G124_Q0",
+    "db_id": "retails",
+    "highlighted_table": [
+      "orders_T2"
+    ],
+    "all_tables_in_group": [
+      "orders_T0",
+      "orders_T1",
+      "orders_T2",
+      "orders_T3",
+      "orders_T4",
+      "orders_T5"
+    ],
+    "question": "As a data analyst, could you help me retrieve the shipping priority values for all orders where the customer ID equals 111,830?",
+    "answer": [
+      0
+    ],
+    "answer_index": [
+      35
+    ],
+    "question_type": "SF"
+  },
+  {
+    "question_id": "Question_G124_Q1",
+    "db_id": "retails",
+    "highlighted_table": [
+      "orders_T0"
+    ],
+    "all_tables_in_group": [
+      "orders_T0",
+      "orders_T1",
+      "orders_T2",
+      "orders_T3",
+      "orders_T4",
+      "orders_T5"
+    ],
+    "question": "As a sales analyst, could you help me identify the order clerk who handled the orders where the total order price equals 215,540.19?",
+    "answer": [
+      "Clerk#000000582"
+    ],
+    "answer_index": [
+      57
+    ],
+    "question_type": "EM"
+  },
+  {
+    "question_id": "Question_G124_Q2",
+    "db_id": "retails",
+    "highlighted_table": [
+      "orders_T1"
+    ],
+    "all_tables_in_group": [
+      "orders_T0",
+      "orders_T1",
+      "orders_T2",
+      "orders_T3",
+      "orders_T4",
+      "orders_T5"
+    ],
+    "question": "As a data analyst, could you tell me which clerk identifiers are associated with orders that have an order priority of “1‑URGENT” and a total price of 275,509.21?",
+    "answer": [
+      "Clerk#000000098"
+    ],
+    "answer_index": [
+      17
+    ],
+    "question_type": "EM"
+  },
+  {
+    "question_id": "Question_G125_Q0",
+    "db_id": "formula_1",
+    "highlighted_table": [
+      "constructorStandings_T2"
+    ],
+    "all_tables_in_group": [
+      "constructorStandings_T0",
+      "constructorStandings_T1",
+      "constructorStandings_T2",
+      "constructorStandings_T3",
+      "constructorStandings_T4",
+      "constructorStandings_T5",
+      "constructorStandings_T6",
+      "constructorStandings_T7"
+    ],
+    "question": "As a motorsport analyst, could you help me find the highest race ID where the constructor's identifier is 92?",
+    "answer": [
+      726
+    ],
+    "answer_index": [
+      23
+    ],
+    "question_type": "SA"
+  },
+  {
+    "question_id": "Question_G125_Q1",
+    "db_id": "formula_1",
+    "highlighted_table": [
+      "constructorStandings_T0"
+    ],
+    "all_tables_in_group": [
+      "constructorStandings_T0",
+      "constructorStandings_T1",
+      "constructorStandings_T2",
+      "constructorStandings_T3",
+      "constructorStandings_T4",
+      "constructorStandings_T5",
+      "constructorStandings_T6",
+      "constructorStandings_T7"
+    ],
+    "question": "As a motorsport data analyst, could you help me pull the win counts for entries where the constructor ID is 208, the points total is 0.0, and the position text shows a ninth‑place finish?",
+    "answer": [
+      0
+    ],
+    "answer_index": [
+      28
+    ],
+    "question_type": "EM"
+  },
+  {
+    "question_id": "Question_G125_Q2",
+    "db_id": "formula_1",
+    "highlighted_table": [
+      "constructorStandings_T1"
+    ],
+    "all_tables_in_group": [
+      "constructorStandings_T0",
+      "constructorStandings_T1",
+      "constructorStandings_T2",
+      "constructorStandings_T3",
+      "constructorStandings_T4",
+      "constructorStandings_T5",
+      "constructorStandings_T6",
+      "constructorStandings_T7"
+    ],
+    "question": "As a motorsport analyst, could you tell me how many points were awarded to the entries where the constructor standings identifier is 19525 and the position label reads 9?",
+    "answer": [
+      0.0
+    ],
+    "answer_index": [
+      57
+    ],
+    "question_type": "EM"
+  },
+  {
+    "question_id": "Question_G125_Q3",
+    "db_id": "formula_1",
+    "highlighted_table": [
+      "constructorStandings_T3"
+    ],
+    "all_tables_in_group": [
+      "constructorStandings_T0",
+      "constructorStandings_T1",
+      "constructorStandings_T2",
+      "constructorStandings_T3",
+      "constructorStandings_T4",
+      "constructorStandings_T5",
+      "constructorStandings_T6",
+      "constructorStandings_T7"
+    ],
+    "question": "As a Formula 1 data analyst, could you tell me the constructor‑standings identifier for the race with ID 405 where the points total is zero?",
+    "answer": [
+      9704
+    ],
+    "answer_index": [
+      64
+    ],
+    "question_type": "EM"
+  },
+  {
+    "question_id": "Question_G126_Q0",
+    "db_id": "movie_3",
+    "highlighted_table": [
+      "inventory_T1"
+    ],
+    "all_tables_in_group": [
+      "inventory_T0",
+      "inventory_T1",
+      "inventory_T2",
+      "inventory_T3",
+      "inventory_T4",
+      "inventory_T5"
+    ],
+    "question": "As a store manager, could you help me identify the inventory IDs that are linked to the film with the ID number 186?",
+    "answer": [
+      847
+    ],
+    "answer_index": [
+      67
+    ],
+    "question_type": "EM"
+  },
+  {
+    "question_id": "Question_G126_Q1",
+    "db_id": "movie_3",
+    "highlighted_table": [
+      "inventory_T0"
+    ],
+    "all_tables_in_group": [
+      "inventory_T0",
+      "inventory_T1",
+      "inventory_T2",
+      "inventory_T3",
+      "inventory_T4",
+      "inventory_T5"
+    ],
+    "question": "As a data analyst, could you help me find the lowest film ID for all records where the inventory ID equals 158?",
+    "answer": [
+      34
+    ],
+    "answer_index": [
+      134
+    ],
+    "question_type": "SA"
+  },
+  {
+    "question_id": "Question_G126_Q2",
+    "db_id": "movie_3",
+    "highlighted_table": [
+      "inventory_T2"
+    ],
+    "all_tables_in_group": [
+      "inventory_T0",
+      "inventory_T1",
+      "inventory_T2",
+      "inventory_T3",
+      "inventory_T4",
+      "inventory_T5"
+    ],
+    "question": "As a data analyst, could you help me find the film identifier for the record that was last updated on February 15 2006 at 05:09:17, belongs to store number 1, and has an inventory number 888?",
+    "answer": [
+      197
+    ],
+    "answer_index": [
+      117
+    ],
+    "question_type": "EM"
+  },
+  {
+    "question_id": "Question_G126_Q3",
+    "db_id": "movie_3",
+    "highlighted_table": [
+      "inventory_T3"
+    ],
+    "all_tables_in_group": [
+      "inventory_T0",
+      "inventory_T1",
+      "inventory_T2",
+      "inventory_T3",
+      "inventory_T4",
+      "inventory_T5"
+    ],
+    "question": "I'm digging through the inventory data and need to pinpoint the store. Could you tell me the store identifier for the inventory record whose inventory ID is 696, the last update timestamp is 2006‑02‑15 05:09:17, and the associated film ID is 152?",
+    "answer": [
+      1
+    ],
+    "answer_index": [
+      122
+    ],
+    "question_type": "EM"
+  },
+  {
+    "question_id": "Question_G127_Q0",
+    "db_id": "california_schools",
+    "highlighted_table": [
+      "schools_T0"
+    ],
+    "all_tables_in_group": [
+      "schools_T0",
+      "schools_T1",
+      "schools_T2",
+      "schools_T3",
+      "schools_T4",
+      "schools_T5"
+    ],
+    "question": "As a data analyst, could you help me find the maximum DOC value for all rows where the NCES school ID equals 10505?",
+    "answer": [
+      54
+    ],
+    "answer_index": [
+      11
+    ],
+    "question_type": "SA"
+  },
+  {
+    "question_id": "Question_G127_Q1",
+    "db_id": "california_schools",
+    "highlighted_table": [
+      "schools_T1"
+    ],
+    "all_tables_in_group": [
+      "schools_T0",
+      "schools_T1",
+      "schools_T2",
+      "schools_T3",
+      "schools_T4",
+      "schools_T5"
+    ],
+    "question": "As a data analyst, could you help me retrieve the charter information for any records where the CDS code is 7617540730655?",
+    "answer": [
+      0.0
+    ],
+    "answer_index": [
+      8
+    ],
+    "question_type": "EM"
+  },
+  {
+    "question_id": "Question_G127_Q2",
+    "db_id": "california_schools",
+    "highlighted_table": [
+      "schools_T2"
+    ],
+    "all_tables_in_group": [
+      "schools_T0",
+      "schools_T1",
+      "schools_T2",
+      "schools_T3",
+      "schools_T4",
+      "schools_T5"
+    ],
+    "question": "As a data analyst, could you help me calculate the average longitude for all records where the \"Ext\" value is not 2098.0 and the CDS code equals 33670903330545?",
+    "answer": [
+      -117.43
+    ],
+    "answer_index": [
+      3
+    ],
+    "question_type": "SA"
+  },
+  {
+    "question_id": "Question_G127_Q3",
+    "db_id": "california_schools",
+    "highlighted_table": [
+      "schools_T3"
+    ],
+    "all_tables_in_group": [
+      "schools_T0",
+      "schools_T1",
+      "schools_T2",
+      "schools_T3",
+      "schools_T4",
+      "schools_T5"
+    ],
+    "question": "As a data analyst, could you help me retrieve the status type for all records where the NCES school identifier equals 10706?",
+    "answer": [
+      "Active"
+    ],
+    "answer_index": [
+      0
+    ],
+    "question_type": "EM"
+  },
+  {
+    "question_id": "Question_G128_Q0",
+    "db_id": "superstore",
+    "highlighted_table": [
+      "south_superstore_T3"
+    ],
+    "all_tables_in_group": [
+      "south_superstore_T0",
+      "south_superstore_T1",
+      "south_superstore_T2",
+      "south_superstore_T3",
+      "south_superstore_T4",
+      "south_superstore_T5",
+      "south_superstore_T6",
+      "south_superstore_T7"
+    ],
+    "question": "As a data analyst, could you help me find the smallest row ID that has a profit value of 119.686?",
+    "answer": [
+      10741
+    ],
+    "answer_index": [
+      32
+    ],
+    "question_type": "SA"
+  },
+  {
+    "question_id": "Question_G128_Q1",
+    "db_id": "superstore",
+    "highlighted_table": [
+      "south_superstore_T1"
+    ],
+    "all_tables_in_group": [
+      "south_superstore_T0",
+      "south_superstore_T1",
+      "south_superstore_T2",
+      "south_superstore_T3",
+      "south_superstore_T4",
+      "south_superstore_T5",
+      "south_superstore_T6",
+      "south_superstore_T7"
+    ],
+    "question": "As a sales analyst, could you tell me what discount was applied to the order with the ID “US‑2012‑108966”?",
+    "answer": [
+      0.45
+    ],
+    "answer_index": [
+      44
+    ],
+    "question_type": "EM"
+  },
+  {
+    "question_id": "Question_G128_Q2",
+    "db_id": "superstore",
+    "highlighted_table": [
+      "south_superstore_T0"
+    ],
+    "all_tables_in_group": [
+      "south_superstore_T0",
+      "south_superstore_T1",
+      "south_superstore_T2",
+      "south_superstore_T3",
+      "south_superstore_T4",
+      "south_superstore_T5",
+      "south_superstore_T6",
+      "south_superstore_T7"
+    ],
+    "question": "As a sales analyst, could you tell me the order date that corresponds to the order identified by the ID CA-2014-113481?",
+    "answer": [
+      "2016-01-03"
+    ],
+    "answer_index": [
+      9
+    ],
+    "question_type": "EM"
+  },
+  {
+    "question_id": "Question_G128_Q3",
+    "db_id": "superstore",
+    "highlighted_table": [
+      "south_superstore_T2"
+    ],
+    "all_tables_in_group": [
+      "south_superstore_T0",
+      "south_superstore_T1",
+      "south_superstore_T2",
+      "south_superstore_T3",
+      "south_superstore_T4",
+      "south_superstore_T5",
+      "south_superstore_T6",
+      "south_superstore_T7"
+    ],
+    "question": "As a data analyst, could you tell me the quantity for the record that has a row identifier of 10,995?",
+    "answer": [
+      4
+    ],
+    "answer_index": [
+      21
+    ],
+    "question_type": "EM"
+  },
+  {
+    "question_id": "Question_G129_Q0",
+    "db_id": "works_cycles",
+    "highlighted_table": [
+      "PurchaseOrderDetail_T0"
+    ],
+    "all_tables_in_group": [
+      "PurchaseOrderDetail_T0",
+      "PurchaseOrderDetail_T1",
+      "PurchaseOrderDetail_T2",
+      "PurchaseOrderDetail_T3",
+      "PurchaseOrderDetail_T4"
+    ],
+    "question": "As a procurement analyst, could you tell me which due dates are associated with the purchase order detail that has an ID of 1743?",
+    "answer": [
+      "2013-09-16 00:00:00.0"
+    ],
+    "answer_index": [
+      38
+    ],
+    "question_type": "SF"
+  },
+  {
+    "question_id": "Question_G129_Q1",
+    "db_id": "works_cycles",
+    "highlighted_table": [
+      "PurchaseOrderDetail_T2"
+    ],
+    "all_tables_in_group": [
+      "PurchaseOrderDetail_T0",
+      "PurchaseOrderDetail_T1",
+      "PurchaseOrderDetail_T2",
+      "PurchaseOrderDetail_T3",
+      "PurchaseOrderDetail_T4"
+    ],
+    "question": "As an inventory analyst, could you help me locate the product ID for the record where the received quantity equals 550, the purchase order detail identifier is 6434, and the purchase order identifier is 2910?",
+    "answer": [
+      318
+    ],
+    "answer_index": [
+      40
+    ],
+    "question_type": "EM"
+  },
+  {
+    "question_id": "Question_G129_Q2",
+    "db_id": "works_cycles",
+    "highlighted_table": [
+      "PurchaseOrderDetail_T1"
+    ],
+    "all_tables_in_group": [
+      "PurchaseOrderDetail_T0",
+      "PurchaseOrderDetail_T1",
+      "PurchaseOrderDetail_T2",
+      "PurchaseOrderDetail_T3",
+      "PurchaseOrderDetail_T4"
+    ],
+    "question": "As an analyst reviewing order history, could you tell me which modified‑date values are associated with purchase order number 3162?",
+    "answer": [
+      "2014-06-10 00:00:00.0"
+    ],
+    "answer_index": [
+      22
+    ],
+    "question_type": "EM"
+  },
+  {
+    "question_id": "Question_G129_Q3",
+    "db_id": "works_cycles",
+    "highlighted_table": [
+      "PurchaseOrderDetail_T3"
+    ],
+    "all_tables_in_group": [
+      "PurchaseOrderDetail_T0",
+      "PurchaseOrderDetail_T1",
+      "PurchaseOrderDetail_T2",
+      "PurchaseOrderDetail_T3",
+      "PurchaseOrderDetail_T4"
+    ],
+    "question": "As a sales analyst, could you help me find the unit price for items that were last modified on January 2 2014 and have an order quantity of three?",
+    "answer": [
+      46.0
+    ],
+    "answer_index": [
+      48
+    ],
+    "question_type": "EM"
+  },
+  {
+    "question_id": "Question_G130_Q0",
+    "db_id": "world_1",
+    "highlighted_table": [
+      "city_T0"
+    ],
+    "all_tables_in_group": [
+      "city_T0",
+      "city_T1",
+      "city_T2",
+      "city_T3",
+      "city_T4"
+    ],
+    "question": "As a data analyst, could you help me find the name associated with the record where the country code is “USA” and the identifier equals 3940?",
+    "answer": [
+      "Irvine"
+    ],
+    "answer_index": [
+      35
+    ],
+    "question_type": "EM"
+  },
+  {
+    "question_id": "Question_G130_Q1",
+    "db_id": "world_1",
+    "highlighted_table": [
+      "city_T2"
+    ],
+    "all_tables_in_group": [
+      "city_T0",
+      "city_T1",
+      "city_T2",
+      "city_T3",
+      "city_T4"
+    ],
+    "question": "As I'm reviewing the data, could you tell me which district is associated with the record whose ID is 2826?",
+    "answer": [
+      "Punjab"
+    ],
+    "answer_index": [
+      44
+    ],
+    "question_type": "SF"
+  },
+  {
+    "question_id": "Question_G130_Q2",
+    "db_id": "world_1",
+    "highlighted_table": [
+      "city_T1"
+    ],
+    "all_tables_in_group": [
+      "city_T0",
+      "city_T1",
+      "city_T2",
+      "city_T3",
+      "city_T4"
+    ],
+    "question": "I'm looking at a demographic dataset. Could you tell me the record identifier for the entry where the population is 119,128?",
+    "answer": [
+      3979
+    ],
+    "answer_index": [
+      5
+    ],
+    "question_type": "EM"
+  },
+  {
+    "question_id": "Question_G131_Q0",
+    "db_id": "public_review_platform",
+    "highlighted_table": [
+      "Business_Hours_T0"
+    ],
+    "all_tables_in_group": [
+      "Business_Hours_T0",
+      "Business_Hours_T1",
+      "Business_Hours_T2",
+      "Business_Hours_T3",
+      "Business_Hours_T4",
+      "Business_Hours_T5"
+    ],
+    "question": "As a data analyst, could you help me retrieve the closing time for the business with the ID number 13699?",
+    "answer": [
+      "5PM"
+    ],
+    "answer_index": [
+      46
+    ],
+    "question_type": "EM"
+  },
+  {
+    "question_id": "Question_G131_Q1",
+    "db_id": "public_review_platform",
+    "highlighted_table": [
+      "Business_Hours_T3"
+    ],
+    "all_tables_in_group": [
+      "Business_Hours_T0",
+      "Business_Hours_T1",
+      "Business_Hours_T2",
+      "Business_Hours_T3",
+      "Business_Hours_T4",
+      "Business_Hours_T5"
+    ],
+    "question": "As a data analyst, could you help me calculate the average day identifier for all records where the business ID equals 14676?",
+    "answer": [
+      7.0
+    ],
+    "answer_index": [
+      128
+    ],
+    "question_type": "SA"
+  },
+  {
+    "question_id": "Question_G131_Q2",
+    "db_id": "public_review_platform",
+    "highlighted_table": [
+      "Business_Hours_T1"
+    ],
+    "all_tables_in_group": [
+      "Business_Hours_T0",
+      "Business_Hours_T1",
+      "Business_Hours_T2",
+      "Business_Hours_T3",
+      "Business_Hours_T4",
+      "Business_Hours_T5"
+    ],
+    "question": "As a manager planning staff schedules, could you let me know the closing time for the business with ID 2257 on day 3 when its doors open at 9 PM?",
+    "answer": [
+      "2AM"
+    ],
+    "answer_index": [
+      95
+    ],
+    "question_type": "EM"
+  },
+  {
+    "question_id": "Question_G131_Q3",
+    "db_id": "public_review_platform",
+    "highlighted_table": [
+      "Business_Hours_T2"
+    ],
+    "all_tables_in_group": [
+      "Business_Hours_T0",
+      "Business_Hours_T1",
+      "Business_Hours_T2",
+      "Business_Hours_T3",
+      "Business_Hours_T4",
+      "Business_Hours_T5"
+    ],
+    "question": "As a data analyst, could you help me identify the business IDs that have an opening time of 8 AM, a day identifier of 4, and a closing time of 12 PM?",
+    "answer": [
+      4704
+    ],
+    "answer_index": [
+      93
+    ],
+    "question_type": "EM"
+  },
+  {
+    "question_id": "Question_G132_Q0",
+    "db_id": "music_tracker",
+    "highlighted_table": [
+      "torrents_T2"
+    ],
+    "all_tables_in_group": [
+      "torrents_T0",
+      "torrents_T1",
+      "torrents_T2",
+      "torrents_T3",
+      "torrents_T4"
+    ],
+    "question": "As a music data analyst, could you tell me the total number of snatches for all entries where the artist is $waggot?",
+    "answer": [
+      30
+    ],
+    "answer_index": [
+      66
+    ],
+    "question_type": "EM"
+  },
+  {
+    "question_id": "Question_G132_Q1",
+    "db_id": "music_tracker",
+    "highlighted_table": [
+      "torrents_T1"
+    ],
+    "all_tables_in_group": [
+      "torrents_T0",
+      "torrents_T1",
+      "torrents_T2",
+      "torrents_T3",
+      "torrents_T4"
+    ],
+    "question": "As a music data analyst, could you help me identify the artist values that match a group name of “The Fresh Start,” an ID of 49856, and a total snatched count of 7?",
+    "answer": [
+      "shelton harris & tyler dopps"
+    ],
+    "answer_index": [
+      88
+    ],
+    "question_type": "EM"
+  },
+  {
+    "question_id": "Question_G132_Q2",
+    "db_id": "music_tracker",
+    "highlighted_table": [
+      "torrents_T0"
+    ],
+    "all_tables_in_group": [
+      "torrents_T0",
+      "torrents_T1",
+      "torrents_T2",
+      "torrents_T3",
+      "torrents_T4"
+    ],
+    "question": "As a music archivist, could you tell me the groupYear for all entries where the artist is “7L & Esoteric” and the release type is an EP?",
+    "answer": [
+      1999
+    ],
+    "answer_index": [
+      79
+    ],
+    "question_type": "EM"
+  },
+  {
+    "question_id": "Question_G132_Q3",
+    "db_id": "music_tracker",
+    "highlighted_table": [
+      "torrents_T3"
+    ],
+    "all_tables_in_group": [
+      "torrents_T0",
+      "torrents_T1",
+      "torrents_T2",
+      "torrents_T3",
+      "torrents_T4"
+    ],
+    "question": "As a data analyst, could you help me retrieve the group year values for all records where the group ID equals 207,670 and the record ID is less than 61,669?",
+    "answer": [
+      2007
+    ],
+    "answer_index": [
+      34
+    ],
+    "question_type": "SF"
+  },
+  {
+    "question_id": "Question_G133_Q0",
+    "db_id": "software_company",
+    "highlighted_table": [
+      "mailings3_T1"
+    ],
+    "all_tables_in_group": [
+      "mailings3_T0",
+      "mailings3_T1",
+      "mailings3_T2",
+      "mailings3_T3",
+      "mailings3_T4"
+    ],
+    "question": "As a data analyst, could you tell me the reference date associated with the record whose reference ID is 357450?",
+    "answer": [
+      "2007-07-01 12:00:00.0"
+    ],
+    "answer_index": [
+      161
+    ],
+    "question_type": "EM"
+  },
+  {
+    "question_id": "Question_G133_Q1",
+    "db_id": "software_company",
+    "highlighted_table": [
+      "mailings3_T0"
+    ],
+    "all_tables_in_group": [
+      "mailings3_T0",
+      "mailings3_T1",
+      "mailings3_T2",
+      "mailings3_T3",
+      "mailings3_T4"
+    ],
+    "question": "As a data analyst, could you tell me which response values are associated with rows where the reference ID equals 109,092?",
+    "answer": [
+      false
+    ],
+    "answer_index": [
+      104
+    ],
+    "question_type": "SF"
+  },
+  {
+    "question_id": "Question_G133_Q2",
+    "db_id": "software_company",
+    "highlighted_table": [
+      "mailings3_T3"
+    ],
+    "all_tables_in_group": [
+      "mailings3_T0",
+      "mailings3_T1",
+      "mailings3_T2",
+      "mailings3_T3",
+      "mailings3_T4"
+    ],
+    "question": "As a data analyst, could you help me retrieve the response value for the rows where the reference ID is 128,278 and the reference date is July 1, 2007 at 12:00 PM?",
+    "answer": [
+      false
+    ],
+    "answer_index": [
+      91
+    ],
+    "question_type": "EM"
+  },
+  {
+    "question_id": "Question_G133_Q3",
+    "db_id": "software_company",
+    "highlighted_table": [
+      "mailings3_T2"
+    ],
+    "all_tables_in_group": [
+      "mailings3_T0",
+      "mailings3_T1",
+      "mailings3_T2",
+      "mailings3_T3",
+      "mailings3_T4"
+    ],
+    "question": "As a data analyst, could you let me know what the response value is for the record with reference ID 286255?",
+    "answer": [
+      true
+    ],
+    "answer_index": [
+      132
+    ],
+    "question_type": "SF"
+  },
+  {
+    "question_id": "Question_G134_Q0",
+    "db_id": "debit_card_specializing",
+    "highlighted_table": [
+      "gasstations_T2"
+    ],
+    "all_tables_in_group": [
+      "gasstations_T0",
+      "gasstations_T1",
+      "gasstations_T2",
+      "gasstations_T3",
+      "gasstations_T4",
+      "gasstations_T5",
+      "gasstations_T6"
+    ],
+    "question": "As a logistics analyst, could you tell me the chain identifier for the gas station whose ID is 3893 and that is located in the Czech Republic?",
+    "answer": [
+      2
+    ],
+    "answer_index": [
+      62
+    ],
+    "question_type": "EM"
+  },
+  {
+    "question_id": "Question_G134_Q1",
+    "db_id": "debit_card_specializing",
+    "highlighted_table": [
+      "gasstations_T1"
+    ],
+    "all_tables_in_group": [
+      "gasstations_T0",
+      "gasstations_T1",
+      "gasstations_T2",
+      "gasstations_T3",
+      "gasstations_T4",
+      "gasstations_T5",
+      "gasstations_T6"
+    ],
+    "question": "As a data analyst, could you help me retrieve the country name for all records where the gas station ID is 2736 and the chain identifier is 12 or higher?",
+    "answer": [
+      "CZE"
+    ],
+    "answer_index": [
+      78
+    ],
+    "question_type": "SF"
+  },
+  {
+    "question_id": "Question_G134_Q2",
+    "db_id": "debit_card_specializing",
+    "highlighted_table": [
+      "gasstations_T0"
+    ],
+    "all_tables_in_group": [
+      "gasstations_T0",
+      "gasstations_T1",
+      "gasstations_T2",
+      "gasstations_T3",
+      "gasstations_T4",
+      "gasstations_T5",
+      "gasstations_T6"
+    ],
+    "question": "As a data analyst, could you help me calculate the total of the chain identifiers for all records where the gas station ID is 5747?",
+    "answer": [
+      3
+    ],
+    "answer_index": [
+      88
+    ],
+    "question_type": "SA"
+  },
+  {
+    "question_id": "Question_G135_Q0",
+    "db_id": "mondial_geo",
+    "highlighted_table": [
+      "province_T2"
+    ],
+    "all_tables_in_group": [
+      "province_T0",
+      "province_T1",
+      "province_T2",
+      "province_T3",
+      "province_T4",
+      "province_T5",
+      "province_T6",
+      "province_T7"
+    ],
+    "question": "As a data analyst preparing a demographic report, could you help me identify which capital city has a population of exactly 1,474,000?",
+    "answer": [
+      "Adelaide"
+    ],
+    "answer_index": [
+      24
+    ],
+    "question_type": "SF"
+  },
+  {
+    "question_id": "Question_G135_Q1",
+    "db_id": "mondial_geo",
+    "highlighted_table": [
+      "province_T1"
+    ],
+    "all_tables_in_group": [
+      "province_T0",
+      "province_T1",
+      "province_T2",
+      "province_T3",
+      "province_T4",
+      "province_T5",
+      "province_T6",
+      "province_T7"
+    ],
+    "question": "As a data analyst, I'm trying to find all the names that are associated with the capital province listed as Vaasa. Could you tell me which name entries correspond to it?",
+    "answer": [
+      "Vaasa"
+    ],
+    "answer_index": [
+      46
+    ],
+    "question_type": "EM"
+  },
+  {
+    "question_id": "Question_G135_Q2",
+    "db_id": "mondial_geo",
+    "highlighted_table": [
+      "province_T0"
+    ],
+    "all_tables_in_group": [
+      "province_T0",
+      "province_T1",
+      "province_T2",
+      "province_T3",
+      "province_T4",
+      "province_T5",
+      "province_T6",
+      "province_T7"
+    ],
+    "question": "As a researcher, could you tell me what the highest population is among regions that have an area of exactly 4168.0?",
+    "answer": [
+      740000
+    ],
+    "answer_index": [
+      64
+    ],
+    "question_type": "SA"
+  },
+  {
+    "question_id": "Question_G135_Q3",
+    "db_id": "mondial_geo",
+    "highlighted_table": [
+      "province_T3"
+    ],
+    "all_tables_in_group": [
+      "province_T0",
+      "province_T1",
+      "province_T2",
+      "province_T3",
+      "province_T4",
+      "province_T5",
+      "province_T6",
+      "province_T7"
+    ],
+    "question": "As a data analyst, could you help me retrieve the capital city for any records where the area is exactly 23,667?",
+    "answer": [
+      "Bakhtaran"
+    ],
+    "answer_index": [
+      70
+    ],
+    "question_type": "SF"
+  },
+  {
+    "question_id": "Question_G136_Q0",
+    "db_id": "works_cycles",
+    "highlighted_table": [
+      "SalesOrderHeader_T0"
+    ],
+    "all_tables_in_group": [
+      "SalesOrderHeader_T0",
+      "SalesOrderHeader_T1",
+      "SalesOrderHeader_T2",
+      "SalesOrderHeader_T3",
+      "SalesOrderHeader_T4",
+      "SalesOrderHeader_T5",
+      "SalesOrderHeader_T6"
+    ],
+    "question": "As a logistics analyst, could you help me pull the shipping address identifier for all records where the freight charge is exactly 1.057?",
+    "answer": [
+      19475
+    ],
+    "answer_index": [
+      7
+    ],
+    "question_type": "EM"
+  },
+  {
+    "question_id": "Question_G136_Q1",
+    "db_id": "works_cycles",
+    "highlighted_table": [
+      "SalesOrderHeader_T2"
+    ],
+    "all_tables_in_group": [
+      "SalesOrderHeader_T0",
+      "SalesOrderHeader_T1",
+      "SalesOrderHeader_T2",
+      "SalesOrderHeader_T3",
+      "SalesOrderHeader_T4",
+      "SalesOrderHeader_T5",
+      "SalesOrderHeader_T6"
+    ],
+    "question": "As a finance analyst, could you help me calculate the total sum of the currency rate identifiers for all records where the billing address ID is greater than 760 and the subtotal amount is less than $4.99?",
+    "answer": [
+      11966.0
+    ],
+    "answer_index": [
+      10
+    ],
+    "question_type": "SA"
+  },
+  {
+    "question_id": "Question_G136_Q2",
+    "db_id": "works_cycles",
+    "highlighted_table": [
+      "SalesOrderHeader_T1"
+    ],
+    "all_tables_in_group": [
+      "SalesOrderHeader_T0",
+      "SalesOrderHeader_T1",
+      "SalesOrderHeader_T2",
+      "SalesOrderHeader_T3",
+      "SalesOrderHeader_T4",
+      "SalesOrderHeader_T5",
+      "SalesOrderHeader_T6"
+    ],
+    "question": "As a data analyst, could you tell me what the row GUID is for the record where the Bill‑to address ID equals 13,108?",
+    "answer": [
+      "DC7E2EEF-2902-482B-8A41-92FF1D45928E"
+    ],
+    "answer_index": [
+      3
+    ],
+    "question_type": "SF"
+  },
+  {
+    "question_id": "Question_G136_Q3",
+    "db_id": "works_cycles",
+    "highlighted_table": [
+      "SalesOrderHeader_T3"
+    ],
+    "all_tables_in_group": [
+      "SalesOrderHeader_T0",
+      "SalesOrderHeader_T1",
+      "SalesOrderHeader_T2",
+      "SalesOrderHeader_T3",
+      "SalesOrderHeader_T4",
+      "SalesOrderHeader_T5",
+      "SalesOrderHeader_T6"
+    ],
+    "question": "As a logistics coordinator, could you help me retrieve the freight amounts for all records where the Bill‑to address identifier is 24880?",
+    "answer": [
+      51.7855
+    ],
+    "answer_index": [
+      22
+    ],
+    "question_type": "EM"
+  },
+  {
+    "question_id": "Question_G137_Q0",
+    "db_id": "wta_1",
+    "highlighted_table": [
+      "matches_T1"
+    ],
+    "all_tables_in_group": [
+      "matches_T0",
+      "matches_T1",
+      "matches_T2",
+      "matches_T3",
+      "matches_T4"
+    ],
+    "question": "As a sports data analyst, could you tell me the IOC country code that corresponds to the winner with the identifier 201366?",
+    "answer": [
+      "CZE"
+    ],
+    "answer_index": [
+      26
+    ],
+    "question_type": "EM"
+  },
+  {
+    "question_id": "Question_G137_Q1",
+    "db_id": "wta_1",
+    "highlighted_table": [
+      "matches_T0"
+    ],
+    "all_tables_in_group": [
+      "matches_T0",
+      "matches_T1",
+      "matches_T2",
+      "matches_T3",
+      "matches_T4"
+    ],
+    "question": "As a data analyst, could you help me pull the loser’s rank points for the records where the match number equals 218 and the winner’s rank is 8?",
+    "answer": [
+      2780
+    ],
+    "answer_index": [
+      10
+    ],
+    "question_type": "EM"
+  },
+  {
+    "question_id": "Question_G137_Q2",
+    "db_id": "wta_1",
+    "highlighted_table": [
+      "matches_T4"
+    ],
+    "all_tables_in_group": [
+      "matches_T0",
+      "matches_T1",
+      "matches_T2",
+      "matches_T3",
+      "matches_T4"
+    ],
+    "question": "As a sports analyst, could you tell me the most recent tournament date where the loser’s age isn’t 23.984, the winner’s age is 24.999 or younger, and the winner’s seed is number 8?",
+    "answer": [
+      20170515
+    ],
+    "answer_index": [
+      8
+    ],
+    "question_type": "SA"
+  },
+  {
+    "question_id": "Question_G137_Q3",
+    "db_id": "wta_1",
+    "highlighted_table": [
+      "matches_T3"
+    ],
+    "all_tables_in_group": [
+      "matches_T0",
+      "matches_T1",
+      "matches_T2",
+      "matches_T3",
+      "matches_T4"
+    ],
+    "question": "As a tennis analyst, could you help me find the names of the tournaments where the match score was 6‑3, 7‑6(4), the draw consisted of 128 players, and the losing player was seeded number 7?",
+    "answer": [
+      "Miami"
+    ],
+    "answer_index": [
+      9
+    ],
+    "question_type": "EM"
+  },
+  {
+    "question_id": "Question_G138_Q0",
+    "db_id": "public_review_platform",
+    "highlighted_table": [
+      "Users_T4"
+    ],
+    "all_tables_in_group": [
+      "Users_T0",
+      "Users_T1",
+      "Users_T2",
+      "Users_T3",
+      "Users_T4"
+    ],
+    "question": "As a data analyst, could you pull the “cool votes” value for the entry where the user ID equals 11242?",
+    "answer": [
+      "Low"
+    ],
+    "answer_index": [
+      76
+    ],
+    "question_type": "EM"
+  },
+  {
+    "question_id": "Question_G138_Q1",
+    "db_id": "public_review_platform",
+    "highlighted_table": [
+      "Users_T2"
+    ],
+    "all_tables_in_group": [
+      "Users_T0",
+      "Users_T1",
+      "Users_T2",
+      "Users_T3",
+      "Users_T4"
+    ],
+    "question": "As a data analyst, I'm trying to determine the most recent year a particular user began yelping. Could you help me find the highest yelping‑since year for the user whose ID is 57452?",
+    "answer": [
+      2009
+    ],
+    "answer_index": [
+      47
+    ],
+    "question_type": "SA"
+  },
+  {
+    "question_id": "Question_G138_Q2",
+    "db_id": "public_review_platform",
+    "highlighted_table": [
+      "Users_T1"
+    ],
+    "all_tables_in_group": [
+      "Users_T0",
+      "Users_T1",
+      "Users_T2",
+      "Users_T3",
+      "Users_T4"
+    ],
+    "question": "As a data analyst, could you tell me how many \"useful\" votes the user with ID 29453 has received, given that their average star rating is 5.0 or lower and they didn’t start yelping in 2009?",
+    "answer": [
+      "Low"
+    ],
+    "answer_index": [
+      98
+    ],
+    "question_type": "SF"
+  },
+  {
+    "question_id": "Question_G139_Q0",
+    "db_id": "movie_3",
+    "highlighted_table": [
+      "film_text_T0"
+    ],
+    "all_tables_in_group": [
+      "film_text_T0",
+      "film_text_T1",
+      "film_text_T2",
+      "film_text_T3",
+      "film_text_T4",
+      "film_text_T5"
+    ],
+    "question": "As a film buff, could you tell me the title of the movie whose film identifier is 775?",
+    "answer": [
+      "SEATTLE EXPECATIONS"
+    ],
+    "answer_index": [
+      51
+    ],
+    "question_type": "EM"
+  },
+  {
+    "question_id": "Question_G139_Q1",
+    "db_id": "movie_3",
+    "highlighted_table": [
+      "film_text_T2"
+    ],
+    "all_tables_in_group": [
+      "film_text_T0",
+      "film_text_T1",
+      "film_text_T2",
+      "film_text_T3",
+      "film_text_T4",
+      "film_text_T5"
+    ],
+    "question": "As a film archivist, could you help me retrieve the description for the entry whose title is “Fidelity Devil” and whose film identifier is 313?",
+    "answer": [
+      "A Awe-Inspiring Drama of a Technical Writer And a Composer who must Reach a Pastry Chef in A U-Boat"
+    ],
+    "answer_index": [
+      89
+    ],
+    "question_type": "EM"
+  },
+  {
+    "question_id": "Question_G139_Q2",
+    "db_id": "movie_3",
+    "highlighted_table": [
+      "film_text_T1"
+    ],
+    "all_tables_in_group": [
+      "film_text_T0",
+      "film_text_T1",
+      "film_text_T2",
+      "film_text_T3",
+      "film_text_T4",
+      "film_text_T5"
+    ],
+    "question": "As a film archivist, could you help me find the movie title for the entry whose description reads “A Astounding Saga of a Dog And a Squirrel who must Conquer a Dog in An Abandoned Fun House” and whose film ID is 470?",
+    "answer": [
+      "ISHTAR ROCKETEER"
+    ],
+    "answer_index": [
+      8
+    ],
+    "question_type": "EM"
+  },
+  {
+    "question_id": "Question_G139_Q3",
+    "db_id": "movie_3",
+    "highlighted_table": [
+      "film_text_T3"
+    ],
+    "all_tables_in_group": [
+      "film_text_T0",
+      "film_text_T1",
+      "film_text_T2",
+      "film_text_T3",
+      "film_text_T4",
+      "film_text_T5"
+    ],
+    "question": "As a film enthusiast digging into the database, could you show me the titles of movies whose film identifier is 703?",
+    "answer": [
+      "PUNK DIVORCE"
+    ],
+    "answer_index": [
+      26
+    ],
+    "question_type": "SF"
+  },
+  {
+    "question_id": "Question_G140_Q0",
+    "db_id": "olympics",
+    "highlighted_table": [
+      "games_competitor_T0"
+    ],
+    "all_tables_in_group": [
+      "games_competitor_T0",
+      "games_competitor_T1",
+      "games_competitor_T2",
+      "games_competitor_T3",
+      "games_competitor_T4",
+      "games_competitor_T5"
+    ],
+    "question": "As a data analyst, could you help me retrieve the age for the record where the game identifier is 28 and the person identifier is 8374?",
+    "answer": [
+      32
+    ],
+    "answer_index": [
+      103
+    ],
+    "question_type": "EM"
+  },
+  {
+    "question_id": "Question_G140_Q1",
+    "db_id": "olympics",
+    "highlighted_table": [
+      "games_competitor_T2"
+    ],
+    "all_tables_in_group": [
+      "games_competitor_T0",
+      "games_competitor_T1",
+      "games_competitor_T2",
+      "games_competitor_T3",
+      "games_competitor_T4",
+      "games_competitor_T5"
+    ],
+    "question": "As a data analyst, could you help me find the age of the individual whose person ID is 52052?",
+    "answer": [
+      28
+    ],
+    "answer_index": [
+      45
+    ],
+    "question_type": "SF"
+  },
+  {
+    "question_id": "Question_G140_Q2",
+    "db_id": "olympics",
+    "highlighted_table": [
+      "games_competitor_T1"
+    ],
+    "all_tables_in_group": [
+      "games_competitor_T0",
+      "games_competitor_T1",
+      "games_competitor_T2",
+      "games_competitor_T3",
+      "games_competitor_T4",
+      "games_competitor_T5"
+    ],
+    "question": "As a data analyst, could you help me find the age for the entry where the game ID is 12 and the record’s unique identifier is 176387?",
+    "answer": [
+      29
+    ],
+    "answer_index": [
+      51
+    ],
+    "question_type": "EM"
+  },
+  {
+    "question_id": "Question_G140_Q3",
+    "db_id": "olympics",
+    "highlighted_table": [
+      "games_competitor_T3"
+    ],
+    "all_tables_in_group": [
+      "games_competitor_T0",
+      "games_competitor_T1",
+      "games_competitor_T2",
+      "games_competitor_T3",
+      "games_competitor_T4",
+      "games_competitor_T5"
+    ],
+    "question": "As a data analyst, could you help me calculate the total of the person ID numbers for all records where the entry ID is 21468?",
+    "answer": [
+      16335
+    ],
+    "answer_index": [
+      104
+    ],
+    "question_type": "SA"
+  },
+  {
+    "question_id": "Question_G141_Q0",
+    "db_id": "debit_card_specializing",
+    "highlighted_table": [
+      "transactions_1k_T0"
+    ],
+    "all_tables_in_group": [
+      "transactions_1k_T0",
+      "transactions_1k_T1",
+      "transactions_1k_T2",
+      "transactions_1k_T3",
+      "transactions_1k_T4",
+      "transactions_1k_T5",
+      "transactions_1k_T6",
+      "transactions_1k_T7"
+    ],
+    "question": "As a data analyst, could you help me find the gas station identifier for the record where the customer ID is 23078 and the transaction ID is 658?",
+    "answer": [
+      3907
+    ],
+    "answer_index": [
+      38
+    ],
+    "question_type": "EM"
+  },
+  {
+    "question_id": "Question_G141_Q1",
+    "db_id": "debit_card_specializing",
+    "highlighted_table": [
+      "transactions_1k_T2"
+    ],
+    "all_tables_in_group": [
+      "transactions_1k_T0",
+      "transactions_1k_T1",
+      "transactions_1k_T2",
+      "transactions_1k_T3",
+      "transactions_1k_T4",
+      "transactions_1k_T5",
+      "transactions_1k_T6",
+      "transactions_1k_T7"
+    ],
+    "question": "As a data analyst reviewing fuel sales, could you help me locate the product identifier for entries where the timestamp is exactly 12:37:00 and the gas station identifier is 1206?",
+    "answer": [
+      2
+    ],
+    "answer_index": [
+      13
+    ],
+    "question_type": "EM"
+  },
+  {
+    "question_id": "Question_G141_Q2",
+    "db_id": "debit_card_specializing",
+    "highlighted_table": [
+      "transactions_1k_T3"
+    ],
+    "all_tables_in_group": [
+      "transactions_1k_T0",
+      "transactions_1k_T1",
+      "transactions_1k_T2",
+      "transactions_1k_T3",
+      "transactions_1k_T4",
+      "transactions_1k_T5",
+      "transactions_1k_T6",
+      "transactions_1k_T7"
+    ],
+    "question": "As a data analyst, could you help me retrieve the customer ID for any records where the card ID is 487,005?",
+    "answer": [
+      25026
+    ],
+    "answer_index": [
+      8
+    ],
+    "question_type": "EM"
+  },
+  {
+    "question_id": "Question_G141_Q3",
+    "db_id": "debit_card_specializing",
+    "highlighted_table": [
+      "transactions_1k_T1"
+    ],
+    "all_tables_in_group": [
+      "transactions_1k_T0",
+      "transactions_1k_T1",
+      "transactions_1k_T2",
+      "transactions_1k_T3",
+      "transactions_1k_T4",
+      "transactions_1k_T5",
+      "transactions_1k_T6",
+      "transactions_1k_T7"
+    ],
+    "question": "As a data analyst, could you help me retrieve the amount values for all records where the card identifier equals 501,029?",
+    "answer": [
+      0
+    ],
+    "answer_index": [
+      22
+    ],
+    "question_type": "SF"
+  },
+  {
+    "question_id": "Question_G142_Q0",
+    "db_id": "food_inspection",
+    "highlighted_table": [
+      "inspections_T2"
+    ],
+    "all_tables_in_group": [
+      "inspections_T0",
+      "inspections_T1",
+      "inspections_T2",
+      "inspections_T3",
+      "inspections_T4",
+      "inspections_T5"
+    ],
+    "question": "As a data analyst, could you provide the score values for the records dated November 12 2013, where the business identifier is 68865 and the entry type is “Routine – Unscheduled”?",
+    "answer": [
+      83.0
+    ],
+    "answer_index": [
+      83
+    ],
+    "question_type": "EM"
+  },
+  {
+    "question_id": "Question_G142_Q1",
+    "db_id": "food_inspection",
+    "highlighted_table": [
+      "inspections_T0"
+    ],
+    "all_tables_in_group": [
+      "inspections_T0",
+      "inspections_T1",
+      "inspections_T2",
+      "inspections_T3",
+      "inspections_T4",
+      "inspections_T5"
+    ],
+    "question": "As a data analyst, I'm trying to identify the business identifiers for records dated May 27 2016 that have a score of 68.0 and are classified as “Routine – Unscheduled.” Could you help me find those business IDs?",
+    "answer": [
+      78425
+    ],
+    "answer_index": [
+      39
+    ],
+    "question_type": "EM"
+  },
+  {
+    "question_id": "Question_G142_Q2",
+    "db_id": "food_inspection",
+    "highlighted_table": [
+      "inspections_T1"
+    ],
+    "all_tables_in_group": [
+      "inspections_T0",
+      "inspections_T1",
+      "inspections_T2",
+      "inspections_T3",
+      "inspections_T4",
+      "inspections_T5"
+    ],
+    "question": "As an analyst, could you calculate the highest score for all records where the business ID is 7745?",
+    "answer": [
+      92.0
+    ],
+    "answer_index": [
+      159
+    ],
+    "question_type": "SA"
+  },
+  {
+    "question_id": "Question_G142_Q3",
+    "db_id": "food_inspection",
+    "highlighted_table": [
+      "inspections_T3"
+    ],
+    "all_tables_in_group": [
+      "inspections_T0",
+      "inspections_T1",
+      "inspections_T2",
+      "inspections_T3",
+      "inspections_T4",
+      "inspections_T5"
+    ],
+    "question": "As a data analyst, could you help me identify the dates that are linked to the business ID 335?",
+    "answer": [
+      "2014-03-06",
+      "2014-05-07"
+    ],
+    "answer_index": [
+      9,
+      110
+    ],
+    "question_type": "EM"
+  },
+  {
+    "question_id": "Question_G143_Q0",
+    "db_id": "ice_hockey_draft",
+    "highlighted_table": [
+      "PlayerInfo_T1"
+    ],
+    "all_tables_in_group": [
+      "PlayerInfo_T0",
+      "PlayerInfo_T1",
+      "PlayerInfo_T2",
+      "PlayerInfo_T3",
+      "PlayerInfo_T4",
+      "PlayerInfo_T5"
+    ],
+    "question": "As a data analyst, could you help me calculate the total 7‑year TOI for all rows where the birth date is April 28, 1979?",
+    "answer": [
+      0
+    ],
+    "answer_index": [
+      32
+    ],
+    "question_type": "EM"
+  },
+  {
+    "question_id": "Question_G143_Q1",
+    "db_id": "ice_hockey_draft",
+    "highlighted_table": [
+      "PlayerInfo_T2"
+    ],
+    "all_tables_in_group": [
+      "PlayerInfo_T0",
+      "PlayerInfo_T1",
+      "PlayerInfo_T2",
+      "PlayerInfo_T3",
+      "PlayerInfo_T4",
+      "PlayerInfo_T5"
+    ],
+    "question": "As a researcher, could you help me find the birthplace for records where the birth month is January and the elite ID number is 11112?",
+    "answer": [
+      "Maribor, SLO"
+    ],
+    "answer_index": [
+      24
+    ],
+    "question_type": "EM"
+  },
+  {
+    "question_id": "Question_G143_Q2",
+    "db_id": "ice_hockey_draft",
+    "highlighted_table": [
+      "PlayerInfo_T0"
+    ],
+    "all_tables_in_group": [
+      "PlayerInfo_T0",
+      "PlayerInfo_T1",
+      "PlayerInfo_T2",
+      "PlayerInfo_T3",
+      "PlayerInfo_T4",
+      "PlayerInfo_T5"
+    ],
+    "question": "As a sports analyst, could you tell me the birth dates of players whose draft round was nine or higher and who were born in July?",
+    "answer": [
+      1
+    ],
+    "answer_index": [
+      32
+    ],
+    "question_type": "SF"
+  },
+  {
+    "question_id": "Question_G143_Q3",
+    "db_id": "ice_hockey_draft",
+    "highlighted_table": [
+      "PlayerInfo_T4"
+    ],
+    "all_tables_in_group": [
+      "PlayerInfo_T0",
+      "PlayerInfo_T1",
+      "PlayerInfo_T2",
+      "PlayerInfo_T3",
+      "PlayerInfo_T4",
+      "PlayerInfo_T5"
+    ],
+    "question": "As a data analyst, could you let me know which position information values are associated with the elite ID 8597?",
+    "answer": [
+      "D"
+    ],
+    "answer_index": [
+      23
+    ],
+    "question_type": "EM"
+  },
+  {
+    "question_id": "Question_G144_Q0",
+    "db_id": "chinook_1",
+    "highlighted_table": [
+      "InvoiceLine_T1"
+    ],
+    "all_tables_in_group": [
+      "InvoiceLine_T0",
+      "InvoiceLine_T1",
+      "InvoiceLine_T2",
+      "InvoiceLine_T3",
+      "InvoiceLine_T4"
+    ],
+    "question": "As a sales analyst, could you help me retrieve the unit price for the invoice line whose ID is 1871 and where the quantity ordered is exactly 1?",
+    "answer": [
+      0.99
+    ],
+    "answer_index": [
+      133
+    ],
+    "question_type": "EM"
+  },
+  {
+    "question_id": "Question_G144_Q1",
+    "db_id": "chinook_1",
+    "highlighted_table": [
+      "InvoiceLine_T2"
+    ],
+    "all_tables_in_group": [
+      "InvoiceLine_T0",
+      "InvoiceLine_T1",
+      "InvoiceLine_T2",
+      "InvoiceLine_T3",
+      "InvoiceLine_T4"
+    ],
+    "question": "As a sales analyst, could you tell me the average quantity sold for invoice number 267 where each item's unit price is at least $0.99?",
+    "answer": [
+      1.0
+    ],
+    "answer_index": [
+      134
+    ],
+    "question_type": "SA"
+  },
+  {
+    "question_id": "Question_G144_Q2",
+    "db_id": "chinook_1",
+    "highlighted_table": [
+      "InvoiceLine_T3"
+    ],
+    "all_tables_in_group": [
+      "InvoiceLine_T0",
+      "InvoiceLine_T1",
+      "InvoiceLine_T2",
+      "InvoiceLine_T3",
+      "InvoiceLine_T4"
+    ],
+    "question": "As a finance analyst, could you help me find the invoice ID for the row where the invoice line ID is 1604.0 and the unit price is $0.99?",
+    "answer": [
+      297
+    ],
+    "answer_index": [
+      72
+    ],
+    "question_type": "EM"
+  },
+  {
+    "question_id": "Question_G144_Q3",
+    "db_id": "chinook_1",
+    "highlighted_table": [
+      "InvoiceLine_T0"
+    ],
+    "all_tables_in_group": [
+      "InvoiceLine_T0",
+      "InvoiceLine_T1",
+      "InvoiceLine_T2",
+      "InvoiceLine_T3",
+      "InvoiceLine_T4"
+    ],
+    "question": "As a music‑store analyst, could you help me pull the invoice line IDs for all records where the track identifier is 1133.0?",
+    "answer": [
+      1913
+    ],
+    "answer_index": [
+      104
+    ],
+    "question_type": "EM"
+  },
+  {
+    "question_id": "Question_G145_Q0",
+    "db_id": "public_review_platform",
+    "highlighted_table": [
+      "Checkins_T1"
+    ],
+    "all_tables_in_group": [
+      "Checkins_T0",
+      "Checkins_T1",
+      "Checkins_T2",
+      "Checkins_T3",
+      "Checkins_T4",
+      "Checkins_T5",
+      "Checkins_T6",
+      "Checkins_T7"
+    ],
+    "question": "As a data analyst, could you tell me what the highest day identifier is for the business whose ID is 3586?",
+    "answer": [
+      1
+    ],
+    "answer_index": [
+      4
+    ],
+    "question_type": "SA"
+  },
+  {
+    "question_id": "Question_G145_Q1",
+    "db_id": "public_review_platform",
+    "highlighted_table": [
+      "Checkins_T4"
+    ],
+    "all_tables_in_group": [
+      "Checkins_T0",
+      "Checkins_T1",
+      "Checkins_T2",
+      "Checkins_T3",
+      "Checkins_T4",
+      "Checkins_T5",
+      "Checkins_T6",
+      "Checkins_T7"
+    ],
+    "question": "As a data analyst putting together a report, could you help me find the minimum day ID for all records where the business ID is 2377?",
+    "answer": [
+      6
+    ],
+    "answer_index": [
+      15
+    ],
+    "question_type": "SA"
+  }
+]

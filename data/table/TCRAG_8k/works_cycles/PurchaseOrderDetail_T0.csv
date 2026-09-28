@@ -1,0 +1,52 @@
+PurchaseOrderID,PurchaseOrderDetailID,ExpectedDate,QtyOrdered,ItemCode,PricePerUnit,AggregateAmount,QtyReceived,QtyRejected,QtyStocked,LastUpdate
+343,782,MMXIII-V-XXIII 00:00:00.0,3,343,43.0,130.0,3.00×10^+00,0.0,three point zero,two thousand and thirteen.five.sixteen 00:00:00.0
+577,1286,MMXIII-VIII-XXIX 00:00:00.0,550,948,83.0,45559.0,5.50×10^+02,0.0,five hundred and fifty point zero,two thousand and thirteen.eight.twenty-two 00:00:00.0
+3011,6651,MMXIV-VI-IV 00:00:00.0,3,383,48.0,143.0,3.00×10^+00,0.0,three point zero,two thousand and fourteen.five.twenty-eight 00:00:00.0
+1492,3369,MMXIV-I-III 00:00:00.0,3,444,37.0,111.0,3.00×10^+00,0.0,three point zero,two thousand and thirteen.twelve.twenty-seven 00:00:00.0
+1077,2424,MMXIII-XI-III 00:00:00.0,550,509,36.0,19953.0,5.50×10^+02,0.0,five hundred and fifty point zero,two thousand and thirteen.ten.twenty-seven 00:00:00.0
+436,960,MMXIII-VIII-XIX 00:00:00.0,3,439,45.0,136.0,3.00×10^+00,0.0,three point zero,two thousand and thirteen.eight.twelve 00:00:00.0
+9,19,MMXI-XII-XXVIII 00:00:00.0,3,425,45.0,136.0,3.00×10^+00,0.0,three point zero,two thousand and eleven.twelve.twenty-one 00:00:00.0
+345,788,MMXIII-V-XXVIII 00:00:00.0,3,396,43.0,130.0,3.00×10^+00,0.0,three point zero,two thousand and thirteen.five.twenty-one 00:00:00.0
+2307,5111,MMXIV-III-XXVIII 00:00:00.0,550,908,21.0,11602.0,5.50×10^+02,0.0,five hundred and fifty point zero,two thousand and fourteen.three.twenty-one 00:00:00.0
+1197,2706,MMXIII-XII-II 00:00:00.0,550,510,23.0,12693.0,5.50×10^+02,0.0,five hundred and fifty point zero,two thousand and thirteen.eleven.twenty-five 00:00:00.0
+768,1713,MMXIII-IX-XV 00:00:00.0,3,440,41.0,124.0,3.00×10^+00,0.0,three point zero,two thousand and thirteen.nine.eight 00:00:00.0
+4004,8796,MMXIII-XII-III 00:00:00.0,350,714,38.0,13472.0,3.50×10^+02,0.0,three hundred and fifty point zero,two thousand and fifteen.eight.twelve 12:25:46.0
+1593,3581,MMXIV-I-XV 00:00:00.0,3,407,48.0,143.0,3.00×10^+00,0.0,three point zero,two thousand and fourteen.one.eight 00:00:00.0
+2868,6356,MMXIV-V-XXII 00:00:00.0,3,462,48.0,143.0,3.00×10^+00,0.0,three point zero,two thousand and fourteen.five.fifteen 00:00:00.0
+286,652,MMXIII-II-XXII 00:00:00.0,550,523,10.0,5711.0,4.68×10^+02,0.0,four hundred and sixty-eight point zero,two thousand and thirteen.two.fifteen 00:00:00.0
+3647,8048,MMXIV-VII-XXIV 00:00:00.0,3,403,45.0,136.0,3.00×10^+00,0.0,three point zero,two thousand and fourteen.seven.seventeen 00:00:00.0
+1402,3182,MMXIII-XII-XXVI 00:00:00.0,3,2,42.0,126.0,3.00×10^+00,0.0,three point zero,two thousand and thirteen.twelve.nineteen 00:00:00.0
+1380,3126,MMXIII-XII-XXIII 00:00:00.0,60,356,3.0,203.0,6.00×10^+01,0.0,sixty point zero,two thousand and thirteen.twelve.sixteen 00:00:00.0
+830,1857,MMXIII-IX-XIX 00:00:00.0,60,952,16.0,944.0,6.00×10^+01,0.0,sixty point zero,two thousand and thirteen.nine.twelve 00:00:00.0
+1325,3008,MMXIII-XII-XVIII 00:00:00.0,3,363,43.0,130.0,3.00×10^+00,0.0,three point zero,two thousand and thirteen.twelve.eleven 00:00:00.0
+2722,6044,MMXIV-V-VIII 00:00:00.0,3,381,39.0,117.0,3.00×10^+00,0.0,three point zero,two thousand and fourteen.five.one 00:00:00.0
+3125,6888,MMXIV-VI-XIII 00:00:00.0,3,347,43.0,130.0,3.00×10^+00,0.0,three point zero,two thousand and fourteen.six.six 00:00:00.0
+2913,6442,MMXIV-V-XXVII 00:00:00.0,60,322,25.0,1525.0,6.00×10^+01,0.0,sixty point zero,two thousand and fourteen.five.twenty 00:00:00.0
+527,1184,MMXIII-VIII-XXVI 00:00:00.0,550,535,3.0,1917.0,5.50×10^+02,0.0,five hundred and fifty point zero,two thousand and thirteen.eight.nineteen 00:00:00.0
+1940,4350,MMXIV-II-XXIV 00:00:00.0,3,343,50.0,149.0,3.00×10^+00,0.0,three point zero,two thousand and fourteen.two.seventeen 00:00:00.0
+1110,2503,MMXIII-XI-XXI 00:00:00.0,550,351,6.0,3407.0,5.50×10^+02,0.0,five hundred and fifty point zero,two thousand and thirteen.eleven.fourteen 00:00:00.0
+311,708,MMXIII-V-VIII 00:00:00.0,550,923,6.0,3401.0,5.50×10^+02,0.0,five hundred and fifty point zero,two thousand and thirteen.five.one 00:00:00.0
+2849,6317,MMXIV-V-XX 00:00:00.0,550,507,22.0,12191.0,5.50×10^+02,0.0,five hundred and fifty point zero,two thousand and fourteen.five.thirteen 00:00:00.0
+930,2087,MMXIII-X-II 00:00:00.0,550,318,34.0,18468.0,5.50×10^+02,55.0,four hundred and ninety-five point zero,two thousand and thirteen.nine.twenty-five 00:00:00.0
+828,1853,MMXIII-IX-XIX 00:00:00.0,3,321,44.0,133.0,3.00×10^+00,0.0,three point zero,two thousand and thirteen.nine.twelve 00:00:00.0
+1940,4348,MMXIV-II-XXIV 00:00:00.0,3,341,48.0,143.0,3.00×10^+00,0.0,three point zero,two thousand and fourteen.two.seventeen 00:00:00.0
+249,590,MMXII-X-V 00:00:00.0,550,941,63.0,34644.0,5.50×10^+02,0.0,five hundred and fifty point zero,two thousand and twelve.nine.twenty-eight 00:00:00.0
+1121,2545,MMXIII-XI-XXII 00:00:00.0,550,526,4.0,2004.0,5.50×10^+02,0.0,five hundred and fifty point zero,two thousand and thirteen.eleven.fifteen 00:00:00.0
+1978,4424,MMXIV-II-XXVII 00:00:00.0,550,535,3.0,1917.0,5.50×10^+02,0.0,five hundred and fifty point zero,two thousand and fourteen.two.twenty 00:00:00.0
+3875,8520,MMXIV-VIII-X 00:00:00.0,550,352,1.0,808.0,5.23×10^+02,0.0,five hundred and twenty-three point zero,two thousand and fourteen.eight.three 00:00:00.0
+1836,4110,MMXIV-II-XI 00:00:00.0,550,524,13.0,7132.0,4.68×10^+02,0.0,four hundred and sixty-eight point zero,two thousand and fourteen.two.four 00:00:00.0
+2169,4817,MMXIV-III-XVII 00:00:00.0,3,447,41.0,124.0,3.00×10^+00,0.0,three point zero,two thousand and fourteen.three.ten 00:00:00.0
+925,2075,MMXIII-X-I 00:00:00.0,3,368,41.0,124.0,3.00×10^+00,0.0,three point zero,two thousand and thirteen.nine.twenty-four 00:00:00.0
+781,1743,MMXIII-IX-XVI 00:00:00.0,550,679,6.0,3407.0,5.50×10^+02,27.0,five hundred and twenty-three point zero,two thousand and thirteen.nine.nine 00:00:00.0
+3701,8154,MMXIV-VII-XXIX 00:00:00.0,3,413,39.0,117.0,3.00×10^+00,0.0,three point zero,two thousand and fourteen.seven.twenty-two 00:00:00.0
+835,1877,MMXIII-IX-XIX 00:00:00.0,3,369,39.0,117.0,3.00×10^+00,0.0,three point zero,two thousand and thirteen.nine.twelve 00:00:00.0
+870,1960,MMXIII-IX-XXIII 00:00:00.0,550,484,7.0,3783.0,5.50×10^+02,0.0,five hundred and fifty point zero,two thousand and thirteen.nine.sixteen 00:00:00.0
+2385,5284,MMXIV-IV-VII 00:00:00.0,550,526,4.0,2004.0,5.50×10^+02,0.0,five hundred and fifty point zero,two thousand and fourteen.three.thirty-one 00:00:00.0
+931,2089,MMXIII-X-II 00:00:00.0,3,408,48.0,143.0,3.00×10^+00,0.0,three point zero,two thousand and thirteen.nine.twenty-five 00:00:00.0
+1108,2499,MMXIII-XI-XXI 00:00:00.0,550,508,28.0,15206.0,5.50×10^+02,0.0,five hundred and fifty point zero,two thousand and thirteen.eleven.fourteen 00:00:00.0
+1438,3258,MMXIII-XII-XXXI 00:00:00.0,550,909,30.0,16742.0,5.50×10^+02,0.0,five hundred and fifty point zero,two thousand and thirteen.twelve.twenty-four 00:00:00.0
+906,2033,MMXIII-IX-XXVI 00:00:00.0,3,472,41.0,124.0,3.00×10^+00,0.0,three point zero,two thousand and thirteen.nine.nineteen 00:00:00.0
+1332,3032,MMXIII-XII-XVIII 00:00:00.0,3,428,43.0,130.0,3.00×10^+00,0.0,three point zero,two thousand and thirteen.twelve.eleven 00:00:00.0
+2178,4845,MMXIV-III-XVII 00:00:00.0,550,932,39.0,21581.0,5.50×10^+02,0.0,five hundred and fifty point zero,two thousand and fourteen.three.ten 00:00:00.0
+664,1487,MMXIII-IX-V 00:00:00.0,550,907,83.0,45559.0,5.50×10^+02,550.0,zero point zero,two thousand and thirteen.eight.twenty-nine 00:00:00.0
+2714,6030,MMXIV-V-VII 00:00:00.0,60,493,58.0,3496.0,6.00×10^+01,0.0,sixty point zero,two thousand and fourteen.four.thirty 00:00:00.0
